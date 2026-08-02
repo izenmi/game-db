@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
-import { getGenres, getGames } from "../../data/manifest";
+import { getGenres, getGames, getCompanies } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCard, PLATFORM_LABEL } from "../common/GameCard";
@@ -91,11 +91,18 @@ export function GameListPage() {
   const q = params.get("q") ?? "";
   const genreId = params.get("genre") ?? "";
   const platform = params.get("platform") ?? "";
+  const companyId = params.get("company") ?? "";
   const sort = params.get("sort") ?? "release-desc";
   const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
 
   const gamesState = useAsyncData(getGames, []);
   const genresState = useAsyncData(getGenres, []);
+  const companiesState = useAsyncData(getCompanies, []);
+
+  const sortedCompanies = useMemo(() => {
+    if (companiesState.status !== "ready") return [];
+    return [...companiesState.data].sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
+  }, [companiesState]);
 
   useSeo({
     title: "ゲーム一覧",
@@ -115,9 +122,10 @@ export function GameListPage() {
       }
       if (genreId && !g.genreIds.includes(genreId)) return false;
       if (platform && !g.platforms.includes(platform as GamePlatform)) return false;
+      if (companyId && !g.developerIds.includes(companyId) && g.publisherId !== companyId) return false;
       return true;
     });
-  }, [gamesState, q, genreId, platform]);
+  }, [gamesState, q, genreId, platform, companyId]);
 
   const sorted = useMemo(() => {
     if (sort === "release-asc") return [...filtered].sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));
@@ -148,13 +156,13 @@ export function GameListPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["q", "genre", "platform", "page"]) {
+    for (const key of ["q", "genre", "platform", "company", "page"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || genreId || platform);
+  const hasActiveFilters = Boolean(q || genreId || platform || companyId);
 
   return (
     <div className="page">
@@ -181,6 +189,16 @@ export function GameListPage() {
             {genresState.data.map((g) => (
               <option value={g.id} key={g.id}>
                 {g.name}
+              </option>
+            ))}
+          </select>
+        )}
+        {companiesState.status === "ready" && (
+          <select value={companyId} onChange={(e) => updateParam("company", e.target.value)}>
+            <option value="">会社で絞り込み</option>
+            {sortedCompanies.map((c) => (
+              <option value={c.id} key={c.id}>
+                {c.name}
               </option>
             ))}
           </select>
