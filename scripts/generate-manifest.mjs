@@ -1,7 +1,7 @@
 // Reads public/data/source/*.json (hand-authored) and writes public/data/generated/*.json:
 // denormalized, name-resolved data ready for direct rendering, plus reference-integrity
 // checks so a typo'd id fails the build instead of silently rendering blank names.
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -17,6 +17,13 @@ const games = readSource("games");
 const companies = readSource("companies");
 const genres = readSource("genres");
 const awards = readSource("awards");
+
+// Optional: built by `npm run fetch-covers` (scripts/fetch-covers.mjs), which resolves a
+// package-art image URL per game via the Rakuten Ichiba item search API, then commits the
+// result here so builds stay offline/deterministic. Absent entries just mean "no cover resolved
+// yet" — coverUrl stays undefined and callers fall back to the placeholder.
+const coversCachePath = path.join(sourceDir, "covers-cache.json");
+const coversCache = existsSync(coversCachePath) ? JSON.parse(readFileSync(coversCachePath, "utf-8")) : {};
 
 const PLATFORMS = new Set(["ps5", "switch", "switch2"]);
 
@@ -66,8 +73,6 @@ if (errors.length > 0) {
 }
 
 // ---- generated/games.json ----
-// coverUrl is always undefined for now — no cover-fetch pipeline exists yet (see
-// CLAUDE.md「既知の未着手事項」), the field is reserved for when one is added.
 const gamesGenerated = games.map((g) => ({
   ...g,
   developerNames: g.developerIds.map((id) => companiesById.get(id).name),
@@ -79,7 +84,7 @@ const gamesGenerated = games.map((g) => ({
     year: r.year,
     result: r.result,
   })),
-  coverUrl: undefined,
+  coverUrl: coversCache[g.id]?.coverUrl ?? undefined,
 }));
 
 // Cross-reference lists (company/genre/award pages) embed the full denormalized game — same

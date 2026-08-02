@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "generate-manifest": "node scripts/generate-manifest.mjs",
+    "fetch-covers": "node scripts/fetch-covers.mjs",
     "prebuild": "npm run generate-manifest",
     "predev": "npm run generate-manifest",
     "dev": "vite",

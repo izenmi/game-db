@@ -10,7 +10,7 @@ https://izenmi.github.io/game-db/
 
 `public/data/generated/*.json` はビルド時に `scripts/generate-manifest.mjs` が `source/*.json` から自動生成する非正規化データです(`.gitignore`対象、手で編集しないでください)。
 
-パッケージ画像は現時点では未実装のため、プレースホルダー表示になっています。
+パッケージ画像は楽天市場の商品検索APIで取得しています(`npm run fetch-covers`、要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数)。未解決のタイトルはプレースホルダー表示になります。
 
 ## 開発
 

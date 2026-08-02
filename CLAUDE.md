@@ -65,10 +65,17 @@ PS5・Nintendo Switch・Nintendo Switch 2向けのゲームソフトを対応機
 - `src/theme/theme.css`・`src/ui/common/common.css`はranobe-dbからほぼ無変更でコピーしている(アクセントカラーと対応機種バッジ以外)
 - ゲームカード(`GameCard.tsx`)はカード全体をクリックすると詳細ページへ遷移する(ranobe-db/manga-dbの`WorkCard`と同じパターン)。内部のジャンルチップだけは`stopPropagation`でジャンルページへの遷移を維持
 
-## 購入リンク・パッケージ画像(初期スコープでの意図的な未実装)
+## 購入リンク・パッケージ画像
 
 - **購入リンクはAmazon検索URLのみ**実装(`amazonSearchUrl(title, platform?)`、`src/ui/common/GameCover.tsx`)。アフィリエイトタグ`izenmi-22`(ranobe-db/manga-dbと共通)付きの検索URLを生成し、対応機種ごとに「PS5版をAmazonで探す」等のリンクをゲーム詳細ページに表示する。PlayStation Store・Nintendo公式サイト内のソフト検索へのリンクは、manga-dbの`WebComicPlatform`ルール(実装前に必ずブラウザで実際に検索してURLパターンを目視確認する、憶測でURLを書かない)を踏襲し、**今回は未実装**(2026-08-02時点で未検証)
-- **パッケージ画像は未実装**。`GameGenerated.coverUrl`は型として用意しているが、`scripts/generate-manifest.mjs`は常に`undefined`を書き出すため、全ゲームがプレースホルダー表示になる。楽天ブックスAPI(`BooksTotal/Search`)は書籍(ISBN)ベースのAPIでゲームソフトには使えない可能性が高く、別API(楽天市場ジェネラル`IchibaItem/Search`のゲームジャンル指定等)の調査が必要。詳細は「既知の未着手事項」を参照
+- **パッケージ画像は`scripts/fetch-covers.mjs`(2026-08-02実装)で取得済み**。ranobe-db/manga-dbの楽天ブックスAPI(書籍・ISBNベース、ゲームソフトには使えない)とは別に、**楽天市場の商品検索API(`IchibaItem/Search`、ジャンルID`101205`=テレビゲーム)**を使う。`npm run fetch-covers`(要`RAKUTEN_APP_ID`/`RAKUTEN_ACCESS_KEY`環境変数)でタイトル名から代表商品を検索し、`public/data/source/covers-cache.json`に保存する(コミット対象、ビルド時には叩かない)。
+  - **エンドポイントは新gateway**: `https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260701`(ranobe-db/manga-dbが使う`app.rakuten.co.jp/services/api/BooksTotal/Search/...`とは別ドメイン・別世代のAPI)。認証情報の形式も異なり、`applicationId`はUUID形式、`accessKey`は`pk_`プレフィックス付き文字列(旧世代の数字のみのアプリIDとは別物、2026-08-02にユーザー提供の実キーで実証済み)。`Referer`/`Origin`ヘッダー必須(未設定だと`REQUEST_CONTEXT_BODY_HTTP_REFERRER_MISSING`)。`formatVersion=2`でもレスポンスの配列キーは`Items`(大文字I、ドキュメント記載の小文字`items`とは異なる)で、各要素はフラットなオブジェクト(`.Item`ラッパーなし、`mediumImageUrls`は文字列配列)。
+  - **既知の落とし穴: 半角スペース区切りの1文字トークンがあるとキーワード全体が`{"error":"wrong_parameter","error_description":"keyword is not valid"}`で拒否される**(2026-08-02に実証: 単独の「ザ」や「A」、"Spider-Man **2**"の末尾「2」、「...オブ **ザ** キングダム」の「ザ」等)。`fetch-covers.mjs`の`toSearchKeyword()`が1文字トークンを検索キーワードから除外して回避している。
+  - **楽天市場は本・ゲームソフト専業カタログ(楽天ブックス)と違い一般小売の全出品を横断検索するため、書籍APIよりファジーマッチの取りこぼし・誤マッチのリスクが高い**。`EXCLUDE_KEYWORDS`(攻略本・グッズ・フィギュア等)で某かは弾けるが、以下は自動フィルタで検知できず**2026-08-02の初回投入時に手動で発見・修正が必要だった**:
+    - **未収録の他機種版がヒットする**(ELDEN RINGでSwitch2版「Tarnished Edition」がヒットしたが、本サイトはSwitch2版を対応機種に含めていない → PS5指定で再検索し手動修正)
+    - **別プラットフォーム版がヒットする**(グランツーリスモ7・ペルソナ5 ザ・ロイヤルはいずれもPS4版の中古品がヒットしたが、本サイトはPS5版のみ収録 → `<タイトル> PS5`で再検索し手動修正)
+    - **無関係な同シリーズ商品がヒットする**(ポケットモンスター スカーレット・バイオレットは「ゼロの秘宝」DLCのダウンロード版アイコン画像がヒット → 単体版タイトル「ポケットモンスター スカーレット」で再検索しパッケージ写真に修正)
+  - これらの理由により、**新規タイトル追加時は`fetch-covers.mjs`実行後に必ず`matchedTitle`と実際の画像を目視確認すること**(ranobe-dbのhonto.jpフォールバック運用と同じ原則)。中古品のパッケージ写真自体は(ウォーターマークが入っていても)正しい商品であれば採用してよい — 実際にFF7リバースの初回マッチは中古品の写真だったが、公式パッケージそのものだったため問題なかった
 
 ## コマンド
 
@@ -94,7 +101,6 @@ node scripts/generate-ogp.mjs   # public/og-image.png の再生成(手動実行�
 
 ## 既知の未着手事項
 
-- **パッケージ画像は完全未実装**(全ゲームがプレースホルダー表示)。楽天の適切なAPI(ゲームソフト向けカテゴリの有無)を調査してから`fetch-covers.mjs`相当を新規実装する必要がある
 - **ストアリンク(PlayStation Store・Nintendo公式ソフト検索)は未実装**。追加する場合は必ず実装前にブラウザで実際に検索してURLパターンを確認すること(manga-dbの`WebComicPlatform`ルールを参照)
 - **Google Analytics(gtag.js)は未設定**。`index.html`からranobe-db用のGA計測IDを含むタグを削除済み(別サイトの計測データに混入するため使い回し不可)。計測する場合はgame-db用に新規のGA4プロパティをユーザー自身が発行する必要がある
 - **`og-image.png`は`scripts/generate-ogp.mjs`で生成済み**(2026-08-02、game-db用に新規作成)だが、データ規模が変わったら再実行が必要(自動化されていない)
