@@ -1,0 +1,14 @@
+[
+  { "id": "action-rpg", "name": "アクションRPG", "description": "リアルタイム戦闘とロールプレイング要素を組み合わせたジャンル。" },
+  { "id": "open-world", "name": "オープンワールド", "description": "広大なフィールドを自由に探索できることを主眼としたゲームデザイン。" },
+  { "id": "action-adventure", "name": "アクションアドベンチャー", "description": "ストーリー進行を軸に、探索・戦闘・謎解きなど複数要素を組み合わせたジャンル。" },
+  { "id": "rpg", "name": "RPG", "description": "キャラクターを育成しながら物語を進めるロールプレイングゲーム。" },
+  { "id": "racing", "name": "レーシング", "description": "車両等での速さを競うジャンル。" },
+  { "id": "simulation", "name": "シミュレーション", "description": "現実や架空の物事の運営・生活等を模した体験を提供するジャンル。" },
+  { "id": "versus-action", "name": "対戦アクション", "description": "プレイヤー同士が直接対決するアクションゲーム。格闘・乱闘アクション等を含む。" },
+  { "id": "shooter", "name": "シューター", "description": "射撃を主体としたアクションジャンル。" },
+  { "id": "survival-horror", "name": "サバイバルホラー", "description": "限られたリソースの中で恐怖演出・敵から生き延びることを主眼としたジャンル。" },
+  { "id": "life-simulation", "name": "ライフシミュレーション", "description": "日常生活や町作り・交流など、生活そのものを模したシミュレーションジャンル。" },
+  { "id": "tactical-rpg", "name": "戦術RPG", "description": "マップ上での部隊運用・戦略とロールプレイング要素を組み合わせたジャンル。" },
+  { "id": "soulslike", "name": "ソウルライク", "description": "高難度な戦闘とダークな世界観を特徴とする、フロム・ソフトウェア作品に代表されるサブジャンル。" }
+]

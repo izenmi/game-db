@@ -1,0 +1,218 @@
+// Reads public/data/source/*.json (hand-authored) and writes public/data/generated/*.json:
+// denormalized, name-resolved data ready for direct rendering, plus reference-integrity
+// checks so a typo'd id fails the build instead of silently rendering blank names.
+import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { fileURLToPath } from "node:url";
+import path from "node:path";
+
+const rootDir = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
+const sourceDir = path.join(rootDir, "public", "data", "source");
+const outDir = path.join(rootDir, "public", "data", "generated");
+
+function readSource(name) {
+  return JSON.parse(readFileSync(path.join(sourceDir, `${name}.json`), "utf-8"));
+}
+
+const games = readSource("games");
+const companies = readSource("companies");
+const genres = readSource("genres");
+const awards = readSource("awards");
+
+const PLATFORMS = new Set(["ps5", "switch", "switch2"]);
+
+const companiesById = new Map(companies.map((c) => [c.id, c]));
+const genresById = new Map(genres.map((g) => [g.id, g]));
+const awardsById = new Map(awards.map((a) => [a.id, a]));
+
+const errors = [];
+
+function checkRef(map, id, kind, gameId) {
+  if (!map.has(id)) errors.push(`game "${gameId}": unknown ${kind} id "${id}"`);
+}
+
+for (const g of games) {
+  if (g.developerIds.length === 0) errors.push(`game "${g.id}": developerIds must have at least one entry`);
+  if (g.platforms.length === 0) errors.push(`game "${g.id}": platforms must have at least one entry`);
+  g.platforms.forEach((p) => {
+    if (!PLATFORMS.has(p)) errors.push(`game "${g.id}": unknown platform "${p}"`);
+  });
+  g.developerIds.forEach((id) => checkRef(companiesById, id, "developer(company)", g.id));
+  checkRef(companiesById, g.publisherId, "publisher(company)", g.id);
+  g.genreIds.forEach((id) => checkRef(genresById, id, "genre", g.id));
+  (g.awardResults ?? []).forEach((r) => checkRef(awardsById, r.awardId, "award", g.id));
+}
+
+const gameIds = new Set();
+for (const g of games) {
+  if (gameIds.has(g.id)) errors.push(`duplicate game id "${g.id}"`);
+  gameIds.add(g.id);
+}
+for (const [label, list] of [
+  ["company", companies],
+  ["genre", genres],
+  ["award", awards],
+]) {
+  const seen = new Set();
+  for (const item of list) {
+    if (seen.has(item.id)) errors.push(`duplicate ${label} id "${item.id}"`);
+    seen.add(item.id);
+  }
+}
+
+if (errors.length > 0) {
+  console.error("generate-manifest: reference integrity errors:");
+  for (const e of errors) console.error(`  - ${e}`);
+  process.exit(1);
+}
+
+// ---- generated/games.json ----
+// coverUrl is always undefined for now — no cover-fetch pipeline exists yet (see
+// CLAUDE.md「既知の未着手事項」), the field is reserved for when one is added.
+const gamesGenerated = games.map((g) => ({
+  ...g,
+  developerNames: g.developerIds.map((id) => companiesById.get(id).name),
+  publisherName: companiesById.get(g.publisherId).name,
+  genreNames: g.genreIds.map((id) => genresById.get(id).name),
+  awardSummaries: (g.awardResults ?? []).map((r) => ({
+    awardId: r.awardId,
+    awardName: awardsById.get(r.awardId).name,
+    year: r.year,
+    result: r.result,
+  })),
+  coverUrl: undefined,
+}));
+
+// Cross-reference lists (company/genre/award pages) embed the full denormalized game — same
+// shape as generated/games.json — so those pages can render a full GameCard.
+const gamesGeneratedById = new Map(gamesGenerated.map((g) => [g.id, g]));
+
+function fullGame(g) {
+  return gamesGeneratedById.get(g.id);
+}
+
+// ---- generated/companies.json ----
+// A company can be both developer and publisher of the same game (common for first-party
+// Nintendo titles), so this can't use a simple groupBy-per-role — each company's game list
+// tags every game with the role(s) that company played on it.
+function buildCompanyList(companyList, gameList) {
+  const entriesByCompanyId = new Map();
+  function addRole(companyId, game, role) {
+    if (!entriesByCompanyId.has(companyId)) entriesByCompanyId.set(companyId, new Map());
+    const gameMap = entriesByCompanyId.get(companyId);
+    if (!gameMap.has(game.id)) gameMap.set(game.id, { game, roles: [] });
+    gameMap.get(game.id).roles.push(role);
+  }
+  for (const g of gameList) {
+    g.developerIds.forEach((id) => addRole(id, g, "developer"));
+    addRole(g.publisherId, g, "publisher");
+  }
+  return companyList
+    .map((c) => {
+      const gameMap = entriesByCompanyId.get(c.id) ?? new Map();
+      const games = [...gameMap.values()]
+        .map((e) => ({ game: fullGame(e.game), roles: e.roles }))
+        .sort((a, b) => a.game.releaseDate.localeCompare(b.game.releaseDate));
+      return {
+        id: c.id,
+        name: c.name,
+        nameKana: c.nameKana,
+        parentCompany: c.parentCompany,
+        description: c.description,
+        foundedYear: c.foundedYear,
+        externalLinks: c.externalLinks,
+        sourceNote: c.sourceNote,
+        updatedAt: c.updatedAt,
+        gameCount: games.length,
+        games,
+      };
+    })
+    .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
+}
+
+const companiesGenerated = buildCompanyList(companies, games);
+
+function groupGamesBy(idsOf) {
+  const map = new Map();
+  for (const g of games) {
+    for (const id of idsOf(g)) {
+      if (!map.has(id)) map.set(id, []);
+      map.get(id).push(g);
+    }
+  }
+  return map;
+}
+
+// ---- generated/genres.json ----
+const gamesByGenre = groupGamesBy((g) => g.genreIds);
+const genresGenerated = genres
+  .map((genre) => {
+    const theirGames = gamesByGenre.get(genre.id) ?? [];
+    return {
+      ...genre,
+      gameCount: theirGames.length,
+      games: theirGames.map(fullGame).sort((a, b) => a.releaseDate.localeCompare(b.releaseDate)),
+    };
+  })
+  .sort((a, b) => b.gameCount - a.gameCount || a.name.localeCompare(b.name, "ja"));
+
+// ---- generated/awards.json ----
+const winnersByAward = new Map();
+for (const g of games) {
+  for (const r of g.awardResults ?? []) {
+    if (!winnersByAward.has(r.awardId)) winnersByAward.set(r.awardId, []);
+    winnersByAward.get(r.awardId).push({ gameId: g.id, gameTitle: g.title, year: r.year, result: r.result });
+  }
+}
+const awardsGenerated = awards
+  .map((a) => {
+    const winners = (winnersByAward.get(a.id) ?? []).sort((x, y) => y.year - x.year);
+    return { ...a, gameCount: winners.length, winners };
+  })
+  .sort((a, b) => a.name.localeCompare(b.name, "ja"));
+
+// ---- generated/counts.json ----
+const counts = {
+  games: games.length,
+  companies: companies.length,
+  genres: genres.length,
+  awards: awards.length,
+};
+
+mkdirSync(outDir, { recursive: true });
+writeFileSync(path.join(outDir, "games.json"), JSON.stringify(gamesGenerated), "utf-8");
+writeFileSync(path.join(outDir, "companies.json"), JSON.stringify(companiesGenerated), "utf-8");
+writeFileSync(path.join(outDir, "genres.json"), JSON.stringify(genresGenerated), "utf-8");
+writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
+
+console.log(`generate-manifest: wrote ${games.length} games, ${companies.length} companies, ${genres.length} genres, ${awards.length} awards`);
+
+// ---- sitemap.xml ----
+// Lives at the site root (not data/generated/) so it's served at /game-db/sitemap.xml, but is
+// just as deterministically derived from public/data/source/*.json — see the .gitignore note.
+const SITE_URL = "https://izenmi.github.io/game-db";
+const today = new Date().toISOString().slice(0, 10);
+
+function urlEntry(loc, lastmod) {
+  return `  <url>\n    <loc>${SITE_URL}${loc}</loc>\n    <lastmod>${lastmod ?? today}</lastmod>\n  </url>`;
+}
+
+const sitemapEntries = [
+  urlEntry("/"),
+  urlEntry("/games"),
+  ...games.map((g) => urlEntry(`/games/${g.id}`, g.updatedAt?.slice(0, 10))),
+  urlEntry("/genres"),
+  ...genres.map((genre) => urlEntry(`/genres/${genre.id}`)),
+  urlEntry("/companies"),
+  ...companies.map((c) => urlEntry(`/companies/${c.id}`, c.updatedAt?.slice(0, 10))),
+  urlEntry("/awards"),
+  ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
+  urlEntry("/about"),
+];
+
+const sitemapXml =
+  `<?xml version="1.0" encoding="UTF-8"?>\n` +
+  `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.join("\n")}\n</urlset>\n`;
+
+writeFileSync(path.join(rootDir, "public", "sitemap.xml"), sitemapXml, "utf-8");
+console.log(`generate-manifest: wrote sitemap.xml with ${sitemapEntries.length} URLs`);
