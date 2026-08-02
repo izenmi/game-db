@@ -45,6 +45,9 @@ export function HomePage() {
       <div className="home-hero">
         <h1 className="font-display">ゲームDB</h1>
         <p className="page-subtitle">PS5/Switch/Switch2向けゲームを対応機種・開発元/発売元・受賞歴・ジャンルから探せるデータベース</p>
+        <p className="home-intro">
+          このページは次に遊ぶ作品を選ぶために作成しました。次に遊びたいジャンルなどで検索してお使いください。
+        </p>
       </div>
 
       <form onSubmit={handleSearch}>

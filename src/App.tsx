@@ -1,5 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { TopNav } from "./ui/common/TopNav";
+import { SiteFooter } from "./ui/common/SiteFooter";
 import { HomePage } from "./ui/home/HomePage";
 import { GameListPage } from "./ui/games/GameListPage";
 import { GameDetailPage } from "./ui/games/GameDetailPage";
@@ -29,6 +30,7 @@ export function App() {
         <Route path="/about" element={<AboutPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
+      <SiteFooter />
     </BrowserRouter>
   );
 }
