@@ -2006,5 +2006,364 @@
     },
     "sourceNote": "PS5版発売日(2021-03-26)をPlayStation Blog記事で確認。Switch版は2022-11-05(DL版)/2022-12-08(パッケージ版)発売のネイティブ移植(GAME Watch・denfaminicogamer記事で確認、クラウド版ではない)のため対応機種に追加。受賞歴はThe Game Awards 2021でGame of the Year/Best Family/Best Multiplayerの3冠受賞を複数の英語記事(GameSpot, Kotaku, PC Gamer等)で確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "metroid-dread",
+    "title": "メトロイド ドレッド",
+    "titleKana": "めとろいど どれっど",
+    "developerIds": [
+      "mercurysteam",
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "metroidvania"
+    ],
+    "releaseDate": "2021-10-08",
+    "synopsis": "銀河最強の賞金稼ぎサムス・アランが、謎の惑星ZDRで人型ロボット群“E.M.M.I.”に追われながら真相を探る2Dアクション。隠れて追跡をかわしつつ新たな能力を得て行動範囲を広げていく探索性と、見つかれば即座に窮地へ陥る緊張感あるステルス要素が高い次元で融合しており、長らく途絶えていた正統派2Dシリーズの復活作として発売当時から大きな話題を呼んだ。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Action/Adventure Game 受賞"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2021,
+        "result": "Nintendo Game of the Year 受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%82%A4%E3%83%89_%E3%83%89%E3%83%AC%E3%83%83%E3%83%89"
+    },
+    "sourceNote": "日本語版Wikipedia、AUTOMATON記事で発売日(2021-10-08)・開発体制(MercurySteamと任天堂の共同開発)を確認。The Game Awards 2021のBest Action/Adventure Game受賞、Golden Joystick Awards 2021のNintendo Game of the Year受賞を英語圏記事で確認。DICE Awards・BAFTA 2022はノミネートのみで受賞なしのため未掲載。Switch2向け専用エディションは確認されず(通常のSwitch2後方互換のみと推定)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kirby-discovery",
+    "title": "星のカービィ ディスカバリー",
+    "titleKana": "ほしのかーびぃ でぃすかばりー",
+    "developerIds": [
+      "hal-laboratory"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2022-03-25",
+    "synopsis": "人間文明の痕跡が残る“新世界”に迷い込んだカービィが、謎の軍団にさらわれた仲間のワドルディたちを救うため冒険する、シリーズ本編としては初の3Dアクション。おなじみの吸い込みやコピー能力が奥行きのある広大なステージで存分に活かされるほか、身近な建造物や生き物を丸ごと頬張って一時的に変身する新アクションも大きな見どころとなっている。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "年間作品部門 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3_%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC"
+    },
+    "sourceNote": "日本語版Wikipedia、4Gamer記事で発売日(2022-03-25)・開発元(ハル研究所)を確認。日本ゲーム大賞2022優秀賞を公式サイト(awards.cesa.or.jp/2022/prize/year/08.html)で確認。Switch2版は「星のカービィ ディスカバリー Nintendo Switch 2 Edition + スターリーワールド」として2025-08-28に発売済みであることをNintendo公式サイト・GAME Watchで確認し、専用強化版としてplatformsにswitch2を追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "xenoblade-3",
+    "title": "ゼノブレイド3",
+    "titleKana": "ぜのぶれいど3",
+    "developerIds": [
+      "monolith-soft"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2022-07-29",
+    "synopsis": "互いに争う二つの国家、ケヴェスとアグヌスに所属する若き兵士たちが出会い、あらかじめ寿命を運命づけられた世界の謎に挑んでいく広大なオープンワールドRPG。前2作それぞれの要素を融合させたキャラクター同士の絆を描く物語と、仲間との連携が鍵となるシームレスなバトルシステムが特徴で、シリーズの集大成的な位置づけの作品となっている。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "年間作品部門 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%83%893"
+    },
+    "sourceNote": "日本語版Wikipediaで発売日(2022-07-29)・開発元(モノリスソフト)を確認。The Game Awards 2022でGOTY含む複数部門にノミネートされたが受賞はなし(受賞は未掲載)。日本ゲーム大賞2023の年間作品部門優秀賞を複数のゲームメディア記事で確認。「ゼノブレイド3 Nintendo Switch 2 Edition」は2026-12-03発売予定でまだ発売されていない(switchsoku.com等で確認、本稿執筆時点2026-08-03では未発売)ため、platformsにswitch2は含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "xenoblade-2",
+    "title": "ゼノブレイド2",
+    "titleKana": "ぜのぶれいど2",
+    "developerIds": [
+      "monolith-soft"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2017-12-01",
+    "synopsis": "雲海の上に浮かぶ巨大生物“神獣”の背に築かれた世界を舞台に、貧しい暮らしを送る青年レックスが伝説の楽園を求めて旅立つRPG。武器として意思を持つパートナーキャラクター“ブレイド”を仲間に加えながら戦う独自のバトルシステムと、切なくも壮大な物語、個性豊かなキャラクターの魅力によって高い人気を博した作品。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2018,
+        "result": "年間作品部門 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%83%892"
+    },
+    "sourceNote": "日本語版Wikipediaで発売日(2017-12-01)・開発元(モノリスソフト)を確認。日本ゲーム大賞2018年間作品部門優秀賞を複数記事(togetter、heityou-game.com等)で確認。「ゼノブレイド2 Nintendo Switch 2 Edition」はダウンロード版・アップグレードパスが2026-07-30、パッケージ版が2026-10-01発売と任天堂公式サイト・ファミ通記事(2026-07-30付)で確認。本稿執筆時点(2026-08-03)でダウンロード版が既に発売済みのため、専用強化版としてplatformsにswitch2を追加した。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fire-emblem-engage",
+    "title": "ファイアーエムブレム エンゲージ",
+    "titleKana": "ふぁいあーえむぶれむ えんげーじ",
+    "developerIds": [
+      "intelligent-systems"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg"
+    ],
+    "releaseDate": "2023-01-20",
+    "synopsis": "永きにわたる眠りから目覚めた主人公が、大陸各地に散らばる歴代シリーズの英雄の力を宿す“紋章の指輪”を集め、世界を脅かす闇の存在に立ち向かうシミュレーションRPG。指輪を介して過去作の人気キャラクターと“エンゲージ”して戦う新システムにより、マス目を移動して進める伝統のバトルに新たな戦略性が加わっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%A8%E3%83%A0%E3%83%96%E3%83%AC%E3%83%A0_%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%BC%E3%82%B8"
+    },
+    "sourceNote": "日本語版Wikipedia、任天堂公式サイトで発売日(2023-01-20)・開発元(インテリジェントシステムズ)を確認。日本ゲーム大賞・The Game Awards等での受賞は検索した範囲では確認できず、awardResultsは記載していない(未確認)。Switch2専用エディションの情報は見当たらず、通常のSwitch2後方互換のみと判断。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pikmin-4",
+    "title": "ピクミン4",
+    "titleKana": "ぴくみん4",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "strategy"
+    ],
+    "releaseDate": "2023-07-21",
+    "synopsis": "謎の惑星に不時着した仲間たちを救助するために結成された隊の一員となり、ピクミンと呼ばれる不思議な生物を率いて未知のフィールドを探索するシリーズ最新作。犬型の相棒と共に行動できるほか、昼とは異なる姿を見せる夜のフィールドを攻略する新モードも加わり、複数の部隊を同時に指揮する探索など遊びの幅がシリーズ過去最大に広がった。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Sim/Strategy Game 受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%83%9F%E3%83%B34",
+      "officialUrl": "https://www.nintendo.co.jp/switch/ampya/"
+    },
+    "sourceNote": "日本語版Wikipediaで発売日(2023-07-21)を確認。開発元は任天堂(社内スタジオ)として既存companies.jsonのnintendoを再利用。The Game Awards 2023のBest Sim/Strategy Game受賞をX(旧Twitter)投稿および複数ゲームメディアで確認。日本ゲーム大賞2023での優秀賞受賞は検索範囲では確認できず未掲載。犬型相棒の名称等ゲーム内の細かな固有名詞は一般的な紹介記事レベルの確認に留まる。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-party-superstars",
+    "title": "マリオパーティ スーパースターズ",
+    "titleKana": "まりおぱーてぃ すーぱーすたーず",
+    "developerIds": [
+      "ndcube"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game"
+    ],
+    "releaseDate": "2021-10-29",
+    "synopsis": "歴代『マリオパーティ』シリーズの中から選び抜かれた人気のボードマップと定番ミニゲームを数多く集めて一本にまとめたパーティゲーム。往年の名作が持つ雰囲気を丁寧に再現しつつ、最大4人でのオンライン対戦や協力プレイにも対応しており、シリーズを知るファンにも初めて触れる新規プレイヤーにも懐かしさと遊びやすさを両立させた一本となっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA"
+    },
+    "sourceNote": "日本語版Wikipedia、game8.jp記事で発売日(2021-10-29)と開発元(NDキューブ、シーエイプロダクション、ウィルの共同開発)を確認。データベース設計上、開発主体としてNDキューブのみをdeveloperIdsに採用(既存企業リストに他2社なし)。受賞歴は検索範囲では確認できず未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-kart-8-deluxe",
+    "title": "マリオカート8 デラックス",
+    "titleKana": "まりおかーと8 でらっくす",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "racing"
+    ],
+    "releaseDate": "2017-04-28",
+    "synopsis": "コースに設置された特殊な道を走ることで重力を無視して壁や天井を走行できる、反重力走行やアイテムを駆使して競うシリーズ定番のレーシングゲーム。Wii U版『マリオカート8』の全コンテンツに加え、新規参戦キャラクターやアイテムを2つ同時に持てるバトルモードなどを追加した完全版で、携帯機でも気軽に遊べる手軽さも相まって世界的な大ヒット作となった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%82%AB%E3%83%BC%E3%83%888",
+      "officialUrl": "https://www.nintendo.com/jp/switch/aabpa/index.html"
+    },
+    "sourceNote": "日本語版Wikipediaで発売日(2017-04-28)を確認。開発元は任天堂として既存companies.jsonのnintendoを再利用。The Game Awardsでの受賞情報は出典が不明瞭な記述しか見つからず確度が低いため未掲載。Switch2向け専用パッケージ版は見当たらず(後発の『マリオカート ワールド』はSwitch2向け別作品のため対象外)、platformsはswitchのみとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-mario-maker-2",
+    "title": "スーパーマリオメーカー2",
+    "titleKana": "すーぱーまりおめーかー2",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2019-06-28",
+    "synopsis": "自分だけのマリオコースを自由に作成し、世界中のプレイヤーと共有・攻略しあえるコース作成アクションのシリーズ2作目。新たに夜のステージ見た目や坂道といったパーツが追加されたほか、1人用の“ストーリーモード”やオンラインで複数人が同時にコース制作を進められる新機能も加わり、前作から表現の幅と遊び方が大きく広がっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC2"
+    },
+    "sourceNote": "日本語版Wikipediaで発売日(2019-06-28)を確認。開発元は任天堂として既存companies.jsonのnintendoを再利用。受賞歴は検索範囲では確認できず未掲載。Switch2向け専用エディションの情報は見当たらず、通常のSwitch2後方互換のみと判断。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "luigis-mansion-3",
+    "title": "ルイージマンション3",
+    "titleKana": "るいーじまんしょん3",
+    "developerIds": [
+      "next-level-games"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2019-10-31",
+    "synopsis": "謎のホテルに招待されたルイージたちが、お化けにさらわれた仲間を救うため各フロアを探索するアクションアドベンチャー。掃除機型のお化け捕獲装置で敵を吸い込み攻撃する定番アクションに加え、分身キャラクターを操作して2人同時に謎解きを進めるギミックが加わり、ホラー要素とコミカルな演出のバランスが好評を博した。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2019,
+        "result": "Best Family Game 受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B33",
+      "officialUrl": "https://www.nintendo.com/jp/switch/ag3ja/index.html"
+    },
+    "sourceNote": "日本語版Wikipediaで発売日(2019-10-31)・開発元(Next Level Games)を確認。The Game Awards 2019のBest Family Game受賞をファミ通・GameSpark記事で確認。Switch2向け専用エディションの情報は見当たらず、通常のSwitch2後方互換のみと判断。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bayonetta-3",
+    "title": "ベヨネッタ3",
+    "titleKana": "べよねった3",
+    "developerIds": [
+      "platinumgames"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2022-10-28",
+    "synopsis": "魔女ベヨネッタが、並行世界の消滅という形で迫りくる新たな脅威に立ち向かうスタイリッシュアクション最新作。巨大な魔獣を召喚して自在に操る新アクションが加わったほか、複数の主人公による視点の異なるストーリーパートも用意されるなど、過去2作を踏まえた壮大なスケールの物語と派手なアクション演出が持ち味となっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A8%E3%83%8D%E3%83%83%E3%82%BF3"
+    },
+    "sourceNote": "日本語版Wikipedia、denfaminicogamer記事で発売日(2022-10-28)・開発元(プラチナゲームズ)を確認。日本ゲーム大賞・ファミ通アワード・The Game Awards等での受賞は検索範囲では確認できず未掲載。Switch2向け専用エディションの情報は見当たらず、通常のSwitch2後方互換のみと判断。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "splatoon-2",
+    "title": "スプラトゥーン2",
+    "titleKana": "すぷらとぅーん2",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter"
+    ],
+    "releaseDate": "2017-07-21",
+    "synopsis": "インクを撃ち合いながらナワバリを塗り広げて競う対戦型アクションシューティングの2作目。Nintendo Switchへの移行にあわせて新武器や新ステージが一新されたほか、1人用のヒーローモードや、仲間と協力して襲い来る敵を迎え撃つ新モード“サーモンラン”も追加された。前作の人気を受け継ぎつつ、携帯機での気軽な対戦プレイを確立した作品。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2018,
+        "result": "年間作品部門 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B32",
+      "officialUrl": "https://www.nintendo.com/jp/switch/aab6a/index.html"
+    },
+    "sourceNote": "日本語版Wikipediaで発売日(2017-07-21)を確認。開発元は任天堂として既存companies.jsonのnintendoを再利用。日本ゲーム大賞2018年間作品部門優秀賞をawards.cesa.or.jp/2018/prize/year/06.html他で確認。Switch2向けの新作『スプラトゥーン レイダース』(2026-07-23発売)は本作とは別タイトルであり、スプラトゥーン2自体のSwitch2専用エディションではないためplatformsに含めていない(通常のSwitch2後方互換のみ)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pokemon-legends-arceus",
+    "title": "Pokémon LEGENDS アルセウス",
+    "titleKana": "ぽけもんれじぇんずあるせうす",
+    "developerIds": [
+      "game-freak"
+    ],
+    "publisherId": "pokemon-company",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2022-01-28",
+    "synopsis": "シリーズ伝統の“捕まえる・育てる・戦う”という遊び方を一新し、広大なフィールドを自由に探索できるアクション性の高いオープンワールドRPG。まだポケモンとの関わりが浅い神話の時代を舞台に、図鑑作りに挑む物語が描かれ、物陰に隠れて接近したり道具を投げたりして捕獲を試みる新しい探索スタイルが導入されている。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "年間作品部門 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Pok%C3%A9mon_LEGENDS_%E3%82%A2%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9",
+      "officialUrl": "https://www.pokemon.co.jp/ex/legends_arceus/ja/"
+    },
+    "sourceNote": "日本語版Wikipedia、ファミ通記事で発売日(2022-01-28)を確認。開発元・発売元は既存companies.jsonのgame-freak/pokemon-companyを再利用。日本ゲーム大賞2022年間作品部門優秀賞を確認(CEDEC AWARDS 2022の受賞情報もあったが、既存9アワードの対象外のため未掲載)。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -543,5 +543,65 @@
     },
     "sourceNote": "日本語版Wikipedia「スパイク・チュンソフト」で合併年・資本関係を確認。『バルダーズ・ゲート3』日本語PS5版の発売元であることをスパイク・チュンソフト公式サイト等の複数記事で確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hal-laboratory",
+    "name": "ハル研究所",
+    "nameKana": "はるけんきゅうじょ",
+    "description": "『星のカービィ』シリーズや初期『大乱闘スマッシュブラザーズ』シリーズなどを手がける、任天堂と関係の深い開発会社。",
+    "foundedYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E7%A0%94%E7%A9%B6%E6%89%80"
+    },
+    "sourceNote": "日本語版Wikipediaで設立日(1980年2月21日)と『星のカービィ』シリーズ開発元であることを確認。任天堂との資本関係の詳細な出資比率までは未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ndcube",
+    "name": "NDキューブ",
+    "nameKana": "えぬでぃーきゅーぶ",
+    "description": "『マリオパーティ』シリーズなどパーティゲームを多く手がける任天堂の連結子会社。2024年に「ニンテンドーキューブ」へ社名変更した。",
+    "foundedYear": 2008,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96"
+    },
+    "sourceNote": "日本語版WikipediaおよびAUTOMATON記事で設立経緯(2008年、旧ハドソン出身スタッフ中心に札幌で設立)と2024年9月の社名変更(NDキューブ→ニンテンドーキューブ)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "next-level-games",
+    "name": "Next Level Games",
+    "nameKana": "ねくすとれべるげーむず",
+    "description": "『ルイージマンション』シリーズなどを手がけるカナダ・バンクーバーの開発会社。2021年に任天堂の完全子会社となった。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Next_Level_Games"
+    },
+    "sourceNote": "英語版Wikipediaで設立年(2002年8月)と2021年1月の任天堂による完全子会社化を確認。日本語版Wikipedia記事は未確認(存在しない可能性あり)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "platinumgames",
+    "name": "プラチナゲームズ",
+    "nameKana": "ぷらちなげーむず",
+    "description": "『ベヨネッタ』シリーズや『ニーア オートマタ』などを手がける大阪のアクションゲーム開発会社。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BA"
+    },
+    "sourceNote": "日本語版Wikipediaおよび公式サイト会社概要で設立経緯(2006年2月に前身の有限会社ODD設立、2007年10月に現社名へ変更)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mercurysteam",
+    "name": "MercurySteam",
+    "nameKana": "まーきゅりーすちーむ",
+    "description": "『Castlevania: Lords of Shadow』シリーズや『メトロイド サムスリターンズ』『メトロイド ドレッド』などを手がける、スペイン・マドリード近郊の開発会社。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MercurySteam"
+    },
+    "sourceNote": "英語版Wikipediaで設立(2002年5月、Rebel Act Studios出身メンバーが設立)と代表作を確認。日本語版Wikipedia記事は未確認(存在しない可能性あり、Weblio辞書に簡易記載のみ)。",
+    "updatedAt": "2026-08-03"
   }
 ]
