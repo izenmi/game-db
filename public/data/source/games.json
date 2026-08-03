@@ -9148,5 +9148,387 @@
     },
     "sourceNote": "英語版Wikipedia『The Casting of Frank Stone』(2026-08-03 WebFetch)で開発元Supermassive Games・発売元Behaviour Interactive(『Dead by Daylight』世界観の関連作)、発売日(2024-09-03、PS5/Xbox Series/PC)を確認。国内向け日本語ローカライズの有無は未確認のため世界配信日をreleaseDateとして採用。Nintendo Switch版・PS4版は存在しないため対応機種に含めていない。受賞歴は確認できず。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sonic-racing-crossworlds",
+    "title": "ソニックレーシング クロスワールド",
+    "titleKana": "そにっくれーしんぐくろすわーるど",
+    "developerIds": [
+      "sonic-team"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "racing",
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2025-09-25",
+    "synopsis": "ソニックチームが手掛けるカート型レーシングの新作。走行中にコースそのものが別世界へ切り替わる「クロスワールド」ギミックが最大の特徴で、地形やルートが刻々と変化する中でのタイム短縮を狙える。ソニックシリーズの仲間だけでなく他社ゲストキャラクターも参戦し、最大12人でのオンライン対戦やドリフト主体の爽快な走行感覚を楽しめる、シリーズ屈指の意欲作として登場した。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソニックレーシング_クロスワールド"
+    },
+    "sourceNote": "日本語版Wikipedia『ソニックレーシング クロスワールド』(2026-08-03、WebFetchで確認)で開発元(ソニックチーム)・発売元(セガ)・対応機種・発売日を確認。PS5/Switch版は2025-09-25発売、Switch2版はデジタル版2025-12-04・パッケージ版2026-04-10発売とやや遅れて展開されたため、releaseDateは最速のPS5/Switch版発売日を採用。The Game Awards 2025でBest Sports/Racing Game・Best Family Gameにノミネートされたが、いずれも受賞は逃した(公式発表ページで確認)ためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chocobo-gp",
+    "title": "チョコボGP",
+    "titleKana": "ちょこぼじーぴー",
+    "developerIds": [
+      "arika"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "racing",
+      "versus-action"
+    ],
+    "releaseDate": "2022-03-10",
+    "synopsis": "1999年の『チョコボレーシング』以来23年ぶりとなるスクウェア・エニックスのカート型レースゲーム。チョコボやファイナルファンタジーシリーズの人気キャラクターを操作し、最大8人でのオンライン対戦が楽しめる。コースごとのギミックやアイテムを駆使する対戦要素に加え、育成要素を備えたストーリーモードも搭載する。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チョコボGP"
+    },
+    "sourceNote": "日本語版Wikipedia『チョコボGP』(2026-08-03、WebFetchで確認)で開発元(アリカ)・発売元(スクウェア・エニックス)・対応機種(Switchのみ)・発売日を確認。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "f-zero-99",
+    "title": "F-ZERO 99",
+    "titleKana": "えふぜろきゅうじゅうきゅう",
+    "developerIds": [
+      "nintendo-software-technology"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "racing",
+      "versus-action"
+    ],
+    "releaseDate": "2023-09-15",
+    "synopsis": "Nintendo Switch Online加入者向けに無料配信されたバトルロイヤル型レースゲーム。『F-ZERO』のマシンと操作感を踏襲しつつ、最大99人が同一コースを同時に走るオンライン専用対戦へ再構成した。他プレイヤーへの体当たりやスカイウェイの活用などの駆け引きが評価され、シリーズ復活の足がかりとなった一作。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『F-Zero 99』(2026-08-03、WebFetchで確認)で開発元(Nintendo Software Technology)・発売元(任天堂)・配信日・Switch Online加入者向け無料配信であることを確認。日本語版Wikipediaは今回未参照。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "art-of-rally",
+    "title": "Art of Rally",
+    "titleKana": "あーとおぶらりー",
+    "developerIds": [
+      "funselektor-labs"
+    ],
+    "publisherId": "funselektor-labs",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "racing",
+      "simulation"
+    ],
+    "releaseDate": "2021-08-12",
+    "synopsis": "1960〜80年代のラリーシーンを題材にした、ミニマルな見た目が特徴の個人開発インディーレーシングゲーム。俯瞰視点でグラベルや雪道などのステージを攻略し、コースアウトや車体の傷みも丁寧に再現する。派手さを抑えたビジュアルと骨太なドライビング感覚を両立させ、天候やタイムアタックなどやり込み要素も豊富に用意された一作として評価された。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Art of Rally』(2026-08-03、WebFetchで確認)で開発元・発売元(いずれもFunselektor Labs)・プラットフォーム別発売日を確認。PS5版2021-10-06、Switch版2021-08-12、PC版2020-09-23と時期がずれているため、releaseDateは収録機種内で最速のSwitch版発売日を採用。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hot-wheels-unleashed-2-turbocharged",
+    "title": "Hot Wheels Unleashed 2: Turbocharged",
+    "titleKana": "ほっとうぃーるずあんりーしゅどつーたーぼちゃーじど",
+    "developerIds": [
+      "milestone"
+    ],
+    "publisherId": "milestone",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "racing",
+      "versus-action"
+    ],
+    "releaseDate": "2023-10-19",
+    "synopsis": "ミニカーブランド「ホットウィールズ」を題材にしたアーケードレーシングの第2弾。前作から収録車種・コースが大幅に増加し、キッチンや工場、遊園地などミニチュアサイズの日常風景をコースに見立てて疾走する。ジャンプ台やループを組み合わせた専用エディタで自分だけのコースを作成・共有できる要素も引き続き搭載している。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Hot Wheels Unleashed 2: Turbocharged』(2026-08-03、WebFetchで確認)で開発・発売元(いずれもMilestone)・対応機種・発売日を確認。日本語版Wikipediaは今回未参照。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "f1-24",
+    "title": "F1 24",
+    "titleKana": "えふわんにじゅうよん",
+    "developerIds": [
+      "codemasters"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "simulation"
+    ],
+    "releaseDate": "2024-05-31",
+    "synopsis": "コードマスターズが開発するF1公式ライセンスレーシングゲームの2024年シーズン版。実在の全チーム・ドライバーで現行シーズンを走行できるほか、キャリアモードではオーナー兼任ドライバーとしてチーム運営や契約交渉にも携われる。緻密な物理演算による走行フィーリングが持ち味のシリーズ最新作で、eスポーツ大会でも採用されている。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『F1 24』(2026-08-03、WebFetchで確認)で開発元(Codemasters)・発売元(EA Sports、社名としては既存id「electronic-arts」を採用)・対応機種(Switch版なし)・発売日を確認。The Game Awards 2024でBest Sports/Racing Game候補に挙がったが受賞は逃した(公式ノミネート一覧で確認)ためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rocket-league",
+    "title": "Rocket League",
+    "titleKana": "ろけっとりーぐ",
+    "developerIds": [
+      "psyonix"
+    ],
+    "publisherId": "psyonix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "sports",
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2017-11-14",
+    "synopsis": "ロケット推進の車でサッカーを行うという奇抜な着想のスポーツゲーム。2015年の発売後に基本無料化を経て世界的な人気タイトルへ成長し、世界大会が開催される主要eスポーツ種目としても定着した。空中でのボールコントロールやチームプレイの奥深さが高く評価され、発売直後から数々のゲームアワードで受賞を重ねた実績を持つ。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2015,
+        "result": "Best Sports/Racing Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2016,
+        "result": "Sports Game of the Year"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2016,
+        "result": "Sports"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2016,
+        "result": "Best Design"
+      },
+      {
+        "awardId": "sxsw-gaming-awards",
+        "year": 2016,
+        "result": "Excellence in Multiplayer"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Rocket League』(2026-08-03、WebFetchで確認)で開発・発売元(いずれもPsyonix)・受賞歴を確認。受賞歴はいずれも2015年のPC/PS4/Xbox One版発売時のもの(同一エンティティの受賞として記載)。PS5版については記事内に専用パッケージ・ネイティブパッチの明記がなくPS4版の後方互換提供の域を出るか確認できなかったため、platformsにはSwitch版(2017-11-14発売、確認済み)のみを含めた。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tony-hawk-pro-skater-1-2",
+    "title": "Tony Hawk's Pro Skater 1 + 2",
+    "titleKana": "とにーほーくぷろすけーたーわんあんどつー",
+    "developerIds": [
+      "vicarious-visions"
+    ],
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "sports",
+      "co-op"
+    ],
+    "releaseDate": "2021-03-26",
+    "synopsis": "1999年・2000年発売のスケートボードアクション2作をフルリメイクしたコンピレーション。トリックを繋いでスコアを稼ぐ爽快な操作感を最新グラフィックで再現し、収録ステージやパンクロックを中心としたサウンドトラックも一新した。発売時には複数のゲームアワードでスポーツ部門を受賞するなど高い評価を獲得している。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2020,
+        "result": "Best Sports/Racing Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2021,
+        "result": "Sports Game of the Year"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Tony Hawk's Pro Skater 1 + 2』(2026-08-03、WebFetchで確認)で開発元(Vicarious Visions)・発売元(Activision、既存id「activision-blizzard」を採用)・プラットフォーム別発売日・受賞歴を確認。受賞はいずれも2020年のPS4/PC版発売時のもの。releaseDateはPS5版(2021-03-26)とSwitch版(2021-06-25)のうち早い方を採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "wwe-2k24",
+    "title": "WWE 2K24",
+    "titleKana": "だぶりゅーだぶりゅーいーつーけーにじゅうよん",
+    "developerIds": [
+      "visual-concepts"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "sports",
+      "versus-action"
+    ],
+    "releaseDate": "2024-03-08",
+    "synopsis": "プロレス団体WWEを題材にした対戦アクション『2K』シリーズの最新作。歴代スーパースターが集うドリームマッチや伝説の試合を再現するモードを収録し、ケージマッチなど多彩なギミックマッチや選手・大会をまるごと作れるクリエイト機能にも対応する。派手な演出とリアルな挙動を両立させたエンジンにより、シリーズでも屈指の完成度と評された一本。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『WWE 2K24』(2026-08-03、WebFetchで確認)で開発元(Visual Concepts)・発売元(2K、既存id「2k」を採用)・対応機種(Switch版なし)・発売日を確認。The Game Awards 2024でBest Sports/Racing Game候補に挙がったが受賞は逃した(公式ノミネート一覧で確認)ためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "efootball",
+    "title": "eFootball",
+    "titleKana": "いーふっとぼーる",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "sports",
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2021-09-30",
+    "synopsis": "コナミが展開する基本プレイ無料のサッカーゲーム。実在クラブ・選手のライセンスを収録し、シーズンごとの更新やイベント施策を通じてチーム編成やクラブ運営を楽しめる。かつての『ウイニングイレブン』シリーズの操作性を継承しつつ、選手強化にアイテム課金を取り入れた、継続的にアップデートされるスポーツタイトルである。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『eFootball』(2026-08-03、WebFetchで確認)で開発・発売元(いずれもコナミ)・サービス開始日・料金体系を確認。同記事によれば2026年08月時点でSwitch版は未対応(Switch2向けは2026年配信予定と記載)のため、platformsはPS5のみとした。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mlb-the-show-24",
+    "title": "MLB The Show 24",
+    "titleKana": "えむえるびーざしょーにじゅうよん",
+    "developerIds": [
+      "sie-san-diego-studio"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "sports",
+      "simulation"
+    ],
+    "releaseDate": "2024-03-19",
+    "synopsis": "メジャーリーグ野球を題材にしたSIEサンディエゴスタジオ開発の野球ゲーム最新作。実在選手のプレイスタイルを再現する精緻なモーションキャプチャーと、無名選手を育成しながらキャリアを歩む「ロード・トゥ・ザ・ショー」モードが人気。2024年版からはNintendo Switch版でもクロスプレイに対応した。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『MLB The Show 24』(2026-08-03、WebFetchで確認)で開発元(San Diego Studio、既存の「santa-monica-studio」とは別のSIE傘下スタジオのため新規id化)・発売元(SIE)・対応機種・発売日を確認。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "powerwash-simulator",
+    "title": "PowerWash Simulator",
+    "titleKana": "ぱわーうぉっしゅしみゅれーたー",
+    "developerIds": [
+      "futurlab"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "co-op"
+    ],
+    "releaseDate": "2023-01-31",
+    "synopsis": "高圧洗浄機で汚れた建物や乗り物をひたすら洗浄していく、癒し系の一人称シミュレーションゲーム。落書きや泥、錆などが少しずつ落ちていく視覚的な快感が特徴で、実在ブランドとのコラボステージも展開する。ストーリー性を抑え作業そのものを楽しませる構成により、独自のリラックス系ジャンルを切り開いた一本となった。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『PowerWash Simulator』(2026-08-03、WebFetchで確認)で開発元(FuturLab)・発売元・対応機種(PS5/Switchとも2023-01-31発売)を確認。発売元はインディー専門レーベル「Square Enix Collective」名義だが、同一企業の重複登録を避けるため既存id「square-enix」を採用。Switch2版は続編『PowerWash Simulator 2』のみで本作には存在しないため含めていない。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "house-flipper-2",
+    "title": "House Flipper 2",
+    "titleKana": "はうすふりっぱーつー",
+    "developerIds": [
+      "frozen-district"
+    ],
+    "publisherId": "playway",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation"
+    ],
+    "releaseDate": "2024-04-10",
+    "synopsis": "荒れ果てた住宅を購入し、清掃・修繕・リフォームを経て売却する不動産シミュレーションの続編。前作から建築要素が強化され、壁や床の張り替えから家具の配置、庭のデザインまで自由度の高い改装が可能になった。物件を掃除するミニゲーム感覚の作業と、資金を増やしていくやりこみ要素のあるサンドボックスモードを両立させている一作。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『House Flipper 2』(2026-08-03、WebFetchで確認)で開発元(Frozen District、共同開発のEmpyreanは省略)・発売元(PlayWay)・対応機種(Switch版の記載なし、PS5のみ)・発売日を確認。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "two-point-museum",
+    "title": "Two Point Museum",
+    "titleKana": "つーぽいんとみゅーじあむ",
+    "developerIds": [
+      "two-point-studios"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2025-03-04",
+    "synopsis": "経営シミュレーション『Two Point』シリーズの博物館運営作品。恐竜の化石や宇宙、水族館など多彩な展示テーマを扱い、発掘隊の派遣や展示レイアウトの工夫、スタッフの配置を通じて来館者数と評判を高めていく。シリーズ特有のブラックユーモアあふれる演出も健在で、経営とギャグの両面を同時に楽しめる一本となっている。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Two Point Museum』(2026-08-03、WebFetchで確認)で開発元(Two Point Studios)・発売元(Sega)・対応機種・発売日を確認。PS5/PC版は2025-03-04、Switch2版は2025-10-28発売とやや遅れているため、releaseDateは最速のPS5版発売日を採用。無印Switch版は存在せずSwitch2版のみのためplatformsにswitchは含めていない。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "farming-simulator-25",
+    "title": "Farming Simulator 25",
+    "titleKana": "ふぁーみんぐしみゅれーたーにじゅうご",
+    "developerIds": [
+      "giants-software"
+    ],
+    "publisherId": "giants-software",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "life-simulation",
+      "co-op"
+    ],
+    "releaseDate": "2024-11-12",
+    "synopsis": "実在の農業機械メーカーと多数ライセンス提携した本格農業シミュレーションの最新作。耕作・畜産・林業に加え、新たに養蜂や果樹栽培、新規収録マップなどの要素が追加され、季節の移り変わりに合わせた作業計画の重要性がより増した。オンライン協力プレイで大規模な農場を仲間と一緒に経営することもできる意欲作となっている。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Farming Simulator』シリーズ記事(2026-08-03、WebFetchで確認)でFarming Simulator 25の開発・発売元(いずれもGIANTS Software)・発売日(2024-11-12)・対応機種(Windows/macOS/PS5/Xbox)を確認。Switch向けには2026-05-19に別途モバイル版が配信されたとの記載があるが、本体2024年版とは異なるエディションと判断し、platformsにはPS5のみを含めた。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
+    "updatedAt": "2026-08-03"
   }
 ]

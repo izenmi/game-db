@@ -2931,5 +2931,149 @@
     },
     "sourceNote": "英語版Wikipedia『Behaviour Interactive』記事(2026-08-03 WebFetch閲覧)で設立年・概要・発売元としての役割を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "funselektor-labs",
+    "name": "Funselektor Labs",
+    "nameKana": "ふんせれくたーらぼ",
+    "description": "Dune Casuが主宰する小規模インディーゲームスタジオ。ドライビングゲーム『Art of Rally』の開発元として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Art_of_Rally"
+    },
+    "sourceNote": "英語版Wikipedia『Art of Rally』記事(2026-08-03 WebFetch閲覧)でDune Casuが中心の開発体制であることを確認。設立年・拠点都市は一次情報源で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "milestone",
+    "name": "Milestone",
+    "nameKana": "まいるすとーん",
+    "description": "MotoGPシリーズ等のバイク・レーシングゲームを専門とするイタリア最大手のゲーム開発会社。",
+    "foundedYear": 1994,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milestone_S.r.l."
+    },
+    "sourceNote": "英語版Wikipedia『Milestone S.r.l.』(2026-08-03 WebFetch閲覧)で設立年(1994年)・拠点(ミラノ)・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "codemasters",
+    "name": "Codemasters",
+    "nameKana": "こーどますたーず",
+    "description": "F1シリーズ・DiRTシリーズ等のレーシングゲームで知られるイギリスのゲーム開発会社。現在はエレクトロニック・アーツ傘下でEA SPORTS部門として運営されている。",
+    "foundedYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Codemasters"
+    },
+    "sourceNote": "英語版Wikipedia『Codemasters』(2026-08-03 WebFetch閲覧)で設立年(1986年10月)・拠点(イングランド)・EA傘下である旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "psyonix",
+    "name": "Psyonix",
+    "nameKana": "さいおにくす",
+    "description": "『Rocket League』の開発元として知られる米国サンディエゴ拠点のゲーム開発会社。2019年にEpic Gamesに買収された。",
+    "foundedYear": 2000,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Psyonix"
+    },
+    "sourceNote": "英語版Wikipedia『Psyonix』(2026-08-03 WebFetch閲覧)で設立年(2000年)・拠点(当初フロリダ、現サンディエゴ)・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "vicarious-visions",
+    "name": "Vicarious Visions",
+    "nameKana": "ヴィケイリアス・ヴィジョンズ",
+    "parentCompany": "Blizzard Entertainment",
+    "description": "『Tony Hawk's Pro Skater 1+2』『Crash Bandicoot N. Sane Trilogy』等を手掛けた米国ニューヨーク州アルバニー拠点の開発会社。2022年にBlizzard Albanyへ改組・統合された。",
+    "foundedYear": 1991,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vicarious_Visions"
+    },
+    "sourceNote": "英語版Wikipedia『Vicarious Visions』(2026-08-03 WebFetch閲覧、現Blizzard Albany記事)で設立年(1991年)・拠点・Activision Blizzardによる統合経緯を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "visual-concepts",
+    "name": "Visual Concepts",
+    "nameKana": "ヴィジュアルコンセプツ",
+    "parentCompany": "2K",
+    "description": "『NBA 2K』『WWE 2K』シリーズを中心に手掛ける米国カリフォルニア州ノバト拠点のスポーツゲーム開発会社。",
+    "foundedYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Visual_Concepts"
+    },
+    "sourceNote": "英語版Wikipedia『Visual Concepts』(2026-08-03 WebFetch閲覧)で設立年(1988年)・拠点・2Kブランドでのスポーツゲーム開発実績を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sie-san-diego-studio",
+    "name": "SIEサンディエゴスタジオ",
+    "nameKana": "えすあいいーさんでぃえごすたじお",
+    "parentCompany": "ソニー・インタラクティブエンタテインメント",
+    "description": "『MLB The Show』シリーズを開発する米国カリフォルニア州サンディエゴ拠点のソニー・インタラクティブエンタテインメント第一者スタジオ。",
+    "foundedYear": 2001,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/SIE_San_Diego_Studio"
+    },
+    "sourceNote": "英語版Wikipedia『San Diego Studio』(2026-08-03 WebFetch閲覧)で989 SportsとRed Zone Interactiveの合併により2001年設立、拠点(サンディエゴ)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "futurlab",
+    "name": "FuturLab",
+    "nameKana": "ふゅーちゃーらぼ",
+    "description": "『PowerWash Simulator』を手掛けたイギリスのゲーム開発スタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/PowerWash_Simulator"
+    },
+    "sourceNote": "英語版Wikipedia『PowerWash Simulator』記事(2026-08-03 WebFetch閲覧)でイギリスのスタジオであることを確認。設立年・拠点都市の詳細は一次情報源で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "frozen-district",
+    "name": "Frozen District",
+    "nameKana": "ふろーずんでぃすとりくと",
+    "description": "『House Flipper』シリーズを手掛けるポーランドのゲーム開発会社。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/House_Flipper"
+    },
+    "sourceNote": "英語版Wikipedia『House Flipper』記事(2026-08-03 WebFetch閲覧)で開発元Frozen District・発売元PlayWayであることを確認。設立年・拠点都市の詳細は一次情報源で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "playway",
+    "name": "PlayWay",
+    "nameKana": "ぷれいうぇい",
+    "description": "『House Flipper』シリーズ等のシミュレーションゲームを多数発売するポーランド・ワルシャワ拠点のゲームパブリッシャー。",
+    "foundedYear": 2011,
+    "externalLinks": {
+      "wikipediaUrl": "https://playway.com/"
+    },
+    "sourceNote": "PlayWay公式サイト(2026-08-03 WebFetch閲覧)で設立年(2011年)・拠点(ワルシャワ)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "two-point-studios",
+    "name": "Two Point Studios",
+    "nameKana": "つーぽいんとすたじおず",
+    "parentCompany": "セガ",
+    "description": "『Two Point Hospital』『Two Point Museum』等を手掛けるイギリス・サリー州ファーナム拠点の経営シミュレーション専門スタジオ。2019年にセガに買収された。",
+    "foundedYear": 2016,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Two_Point_Studios"
+    },
+    "sourceNote": "英語版Wikipedia『Two Point Studios』(2026-08-03 WebFetch閲覧)で設立年(2016年7月)・拠点(ファーナム)・セガによる買収を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "giants-software",
+    "name": "GIANTS Software",
+    "nameKana": "じゃいあんつそふとうぇあ",
+    "description": "『Farming Simulator』シリーズを開発するスイスのゲーム開発会社。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Farming_Simulator"
+    },
+    "sourceNote": "英語版Wikipedia『Farming Simulator』記事(2026-08-03 WebFetch閲覧)で2008年以降シリーズの開発元であることを確認。設立年・拠点都市の詳細は一次情報源で確認できず未記載。",
+    "updatedAt": "2026-08-03"
   }
 ]
