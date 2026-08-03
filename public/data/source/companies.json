@@ -1323,5 +1323,114 @@
     },
     "sourceNote": "英語版Wikipedia「Lucas Pope」(2026-08-03閲覧)で2010年に日本(埼玉)へ移住し独立系ゲーム開発を始めた経緯・主要作品(Papers, Please、Return of the Obra Dinn)を確認。スタジオ名「3909 LLC」は日本語版Wikipedia「Return of the Obra Dinn」記事の発売元表記(3909)から確認。法人としての正式な設立年の明記は見当たらず未記載。公式サイトURLも確認できず未記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tantalus-media",
+    "name": "Tantalus Media",
+    "nameKana": "たんたらすめでぃあ",
+    "description": "オーストラリア・メルボルン拠点の開発会社。1994年設立。『ゼルダの伝説 トワイライトプリンセスHD』『ゼルダの伝説 スカイウォードソードHD』『ルイージマンション2 HD』など、任天堂タイトルのHDリマスター・移植を数多く手掛ける。",
+    "foundedYear": 1994,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tantalus_Media",
+      "officialUrl": "https://tantalus.com.au/"
+    },
+    "sourceNote": "英語版Wikipedia『Tantalus Media』(2026-08-03閲覧)で設立年(1994年)・拠点(メルボルン)・代表作(ゼルダ関連HDリマスター等)を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "good-feel",
+    "name": "グッド・フィール",
+    "nameKana": "ぐっどふぃーる",
+    "description": "2005年設立、コナミ出身スタッフが中心の開発会社。『ワリオランド シェイキング』『毛糸のカービィ』『ヨッシー ウールワールド』『ヨッシー クラフトワールド』など、任天堂と協業した個性的なアクションゲームを手掛ける。",
+    "foundedYear": 2005,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Good-Feel",
+      "officialUrl": "https://www.good-feel.co.jp/"
+    },
+    "sourceNote": "英語版Wikipedia『Good-Feel』(2026-08-03閲覧)で設立年(2005年10月3日)・創業者(梅崎茂樹氏、海老沼豊信氏)・代表作(ヨッシー クラフトワールド等)を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "claytechworks",
+    "name": "クレイテックワークス",
+    "nameKana": "くれいてっくわーくす",
+    "description": "シリコンスタジオのゲーム開発部門が独立する形で2018年に設立された開発会社。『ブレイブリーデフォルトII』を開発した。",
+    "foundedYear": 2018,
+    "externalLinks": {
+      "officialUrl": "https://claytechworks.co.jp/"
+    },
+    "sourceNote": "Web検索(2026-08-03、公式サイトおよび複数のゲームメディア記事)で設立年(2018年7月4日、シリコンスタジオのゲーム開発部門からの独立)・『ブレイブリーデフォルトII』開発元であることを確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "historia",
+    "name": "ヒストリア",
+    "nameKana": "ひすとりあ",
+    "description": "2013年設立、Unreal Engine技術を活用したゲーム企画・開発を手掛ける会社。スクウェア・エニックス『Team Asano』と共同で『ライブ・ア・ライブ』(2022年リメイク版)を開発した。",
+    "foundedYear": 2013,
+    "externalLinks": {
+      "officialUrl": "https://historia.co.jp/"
+    },
+    "sourceNote": "Web検索(2026-08-03、公式サイトおよび複数のゲームメディア記事)で設立年(2013年10月31日)・『ライブ・ア・ライブ』(2022年リメイク版)のスクウェア・エニックスとの共同開発(監督が同社の佐々木駿氏)を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gemdrops",
+    "name": "ジェムドロップ",
+    "nameKana": "じぇむどろっぷ",
+    "description": "2013年設立、元tri-Aceの北尾雄一郎氏が代表を務める開発会社。『スターオーシャン セカンドストーリーR』を開発した。",
+    "foundedYear": 2013,
+    "externalLinks": {
+      "officialUrl": "https://www.gemdrops.co.jp"
+    },
+    "sourceNote": "Web検索(2026-08-03、公式サイトおよび複数のゲームメディア記事)で設立年(2013年5月)・代表者(北尾雄一郎氏、元tri-Ace所属)・『スターオーシャン セカンドストーリーR』開発元であることを確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sabotage-studio",
+    "name": "Sabotage Studio",
+    "nameKana": "さぼたーじゅすたじお",
+    "description": "カナダ・ケベックシティ拠点のインディーゲーム開発会社。ティエリー・ブーランジェ氏とマルタン・ブルアール氏らが設立。『The Messenger』『Sea of Stars』を開発・自社パブリッシングしている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabotage_Studio",
+      "officialUrl": "https://www.sabotagestudio.com/"
+    },
+    "sourceNote": "英語版Wikipedia『Sabotage Studio』(2026-08-03閲覧)で拠点(ケベックシティ)・創業者・代表作(The Messenger、Sea of Stars)を確認。正確な法人設立年の明記は確認できず未記載とした。日本語版Wikipediaは単独記事なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "finji",
+    "name": "Finji",
+    "nameKana": "ふぃんじ",
+    "description": "米ミシガン州グランドラピッズ拠点のインディーゲームパブリッシャー。『Night in the Woods』『Chicory: A Colorful Tale』『TUNIC』などを手掛ける。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Finji",
+      "officialUrl": "https://finji.co/"
+    },
+    "sourceNote": "英語版Wikipedia『Finji』(2026-08-03閲覧)で設立年(2006年、2014年に再始動)・拠点(グランドラピッズ)・『TUNIC』の発売元であることを確認。日本語版Wikipediaは単独記事なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "isometricorp-games",
+    "name": "Isometricorp Games",
+    "nameKana": "あいそめとりこーぷげーむず",
+    "description": "カナダ出身の独立開発者アンドリュー・シュールディス氏の個人スタジオ。『TUNIC』のデザイン・プログラミング・アート・アニメーションを一貫して手掛けた。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、英語版Wikipedia『Tunic (video game)』等)でAndrew Shouldice氏の個人スタジオであること・『TUNIC』の開発元(発売元はFinji)であることを確認。設立年の明確な記載・公式サイトURLは確認できず未記載。日本語版Wikipediaは単独記事なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nintendo-software-technology",
+    "name": "任天堂ソフトウェア技術",
+    "nameKana": "にんてんどうそふとうぇあぎじゅつ",
+    "parentCompany": "任天堂",
+    "description": "米ワシントン州レドモンド拠点の任天堂子会社。1998年設立。北米市場向けタイトル開発を目的に設立され、『マリオvs.ドンキーコング』シリーズ(2024年リメイク含む)、『メトロイドプライム ハンターズ』などを手掛ける。",
+    "foundedYear": 1998,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nintendo_Software_Technology"
+    },
+    "sourceNote": "英語版Wikipedia『Nintendo Software Technology』(2026-08-03閲覧)で設立年(1998年)・拠点(レドモンド)・任天堂子会社であること・代表作(マリオvs.ドンキーコング2024年版含む)を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

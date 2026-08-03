@@ -4528,5 +4528,339 @@
     },
     "sourceNote": "日本語版Wikipedia「ソウルハッカーズ2」(2026-08-03閲覧)で開発元(アトラス、Xbox One/Steam版はアートディンクが担当)・発売元(セガ、本サイトはアトラス表記で統一)・発売日(PS5/PS4/Xbox版2022-08-25、Steam版2022-08-26)・ジャンル(コンピュータRPG)・あらすじを確認。Nintendo Switch版は発売されていないため対応機種はps5のみとした。受賞歴の明記は見当たらず未記載。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "zelda-skyward-sword-hd",
+    "title": "ゼルダの伝説 スカイウォードソードHD",
+    "titleKana": "ぜるだのでんせつ すかいうぉーどそーどえいちでぃー",
+    "developerIds": [
+      "nintendo",
+      "tantalus-media"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2021-07-16",
+    "synopsis": "空に浮かぶ島国スカイロフトの少年リンクは、竜巻に飲まれ地上へ消えた幼馴染ゼルダを追い、女神の剣を手に大地へ降り立つ。時系列上シリーズ最古とされる物語で、地上に点在する神殿を巡り試練を越えながら、女神ハイリアから託された使命の真実に迫っていく。2011年のWii版をSwitch向けにHD化し、ボタン操作にも対応したリメイク版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼルダの伝説_スカイウォードソード_HD"
+    },
+    "sourceNote": "日本語版Wikipedia『ゼルダの伝説 スカイウォードソード HD』(2026-08-03閲覧)で開発元(任天堂、Tantalus Media)・発売元(任天堂)・発売日(2021-07-16)を確認。Tantalus MediaのSwitch版開発への関与は英語版Wikipedia『The Legend of Zelda: Skyward Sword HD』(co-developed by Tantalus Media)でも確認し新規company追加。Switch2版・専用パッチは2026-08-03時点で確認できず、対応機種に含めていない。受賞歴の記載(本サイト対象9アワード内)は確認できず未掲載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pokemon-lets-go-pikachu",
+    "title": "ポケットモンスター Let's Go! ピカチュウ",
+    "titleKana": "ぽけっともんすたー れっつごー ぴかちゅう",
+    "developerIds": [
+      "game-freak"
+    ],
+    "publisherId": "pokemon-company",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2018-11-16",
+    "synopsis": "1998年発売のゲームボーイ版『ポケットモンスター ピカチュウ』をベースに、Nintendo Switch向けへ作り直したカントー地方の冒険。相棒ポケモンを常に画面上に表示させながら旅をし、野生ポケモンとのバトルを廃してモーション操作による捕獲アクションに一本化した点が特徴。『Pokémon GO』との連携要素も搭載する。",
+    "awardResults": [
+      {
+        "awardId": "famitsu-awards",
+        "year": 2019,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポケットモンスター_Let's_Go!_ピカチュウ・Let's_Go!_イーブイ"
+    },
+    "sourceNote": "日本語版Wikipedia『ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ』(2026-08-03閲覧)で開発元(ゲームフリーク)・発売元(株式会社ポケモン)・発売日(2018-11-16)・ファミ通アワード2019優秀賞受賞を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-mario-3d-world-fury-world",
+    "title": "スーパーマリオ 3Dワールド + フューリーワールド",
+    "titleKana": "すーぱーまりお すりーでぃーわーるど ぷらす ふゅりーわーるど",
+    "developerIds": [
+      "nintendo",
+      "one-up-studio"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2021-02-12",
+    "synopsis": "2013年のWii U版『スーパーマリオ 3Dワールド』をSwitch向けに移植し、猫マリオとなってキノコ王国を巡る協力プレイ対応の3Dプラットフォーマー本編に加え、新規オープンエリア『フューリーワールド』を同梱。荒れ狂う巨大クッパが徘徊する島を、猫マリオが新能力『ジャイアントベル』を駆使して攻略する新規ボリュームを収録している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーマリオ_3Dワールド_+_フューリーワールド"
+    },
+    "sourceNote": "日本語版Wikipedia『スーパーマリオ 3Dワールド + フューリーワールド』(2026-08-03閲覧)で開発元(任天堂情報開発本部、1-UPスタジオ)・発売元(任天堂)・Switch版発売日(2021-02-12)を確認。Wii U版(2013年)当時の海外メディアGOTY選出等は本サイト対象9アワード外のため掲載を見送った。Switch2専用版・パッチは2026-08-03時点で確認できず、対応機種に含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-vs-donkey-kong-2024",
+    "title": "マリオvs.ドンキーコング",
+    "titleKana": "まりお ぶいえす どんきーこんぐ",
+    "developerIds": [
+      "nintendo-software-technology"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "puzzle"
+    ],
+    "releaseDate": "2024-02-16",
+    "synopsis": "2004年のゲームボーイアドバンス版をNintendo Switch向けにフルリメイク。ミニマリオを奪ったドンキーコングを追いかけ、各ステージに配置された仕掛けを解きながらゴールのプレゼント箱を目指すアクションパズル。新たに2人協力プレイに対応したほか、難易度を抑えたイージーモードや新規ワールドも追加されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオvs.ドンキーコング"
+    },
+    "sourceNote": "日本語版Wikipedia『マリオvs.ドンキーコング』(2026-08-03閲覧)で2024年Switch版の開発元(Nintendo Software Technology Corporation)・発売元(任天堂)・発売日(2024-02-16)・2人協力プレイ等の新要素を確認。英語版Wikipedia『Nintendo Software Technology』で同社が任天堂子会社(1998年設立、レドモンド拠点)であることを確認し新規company追加。受賞歴の記載は確認できず(週間販売ランキング1位は受賞歴に該当しないため未掲載)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yoshis-crafted-world",
+    "title": "ヨッシー クラフトワールド",
+    "titleKana": "よっしー くらふとわーるど",
+    "developerIds": [
+      "nintendo",
+      "good-feel"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2019-03-29",
+    "synopsis": "空き箱や紙コップなど身近な工作物で作られた世界を、ヨッシーが仲間と共に冒険する横スクロールアクション。『ヨッシー ウールワールド』の系譜を継ぎつつ、進行方向の裏側が見える仕掛けなど立体的なギミックを多数搭載。敵に触れても落下しなくなる『フレンドリーモード』も選べ、幅広いプレイヤーが楽しめる作りになっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヨッシークラフトワールド"
+    },
+    "sourceNote": "日本語版Wikipedia『ヨッシークラフトワールド』(2026-08-03閲覧)で開発元(任天堂、グッド・フィール)・発売元(任天堂)・発売日(2019-03-29)を確認。グッド・フィールは英語版Wikipediaで設立年(2005年)・代表作を確認し新規company追加。ファミ通クロスレビュープラチナ殿堂入りはスコア基準の認定であり本サイト対象9アワード外のため未掲載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nintendo-switch-sports",
+    "title": "Nintendo Switch Sports",
+    "titleKana": "にんてんどうすいっちすぽーつ",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "sports"
+    ],
+    "releaseDate": "2022-04-29",
+    "synopsis": "Joy-Conを使ったモーション操作で気軽に楽しめるスポーツゲーム集。『Wii Sports』シリーズの系譜を継ぐ第4弾で、バレーボールやバドミントン、剣術など発売時点で6種目を収録し、後にゴルフとバスケットボールを無料追加。オンライン対戦のランクマッチや、脚に装着するレッグバンドを使うサッカーモードなど新要素も盛り込まれている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Nintendo_Switch_Sports"
+    },
+    "sourceNote": "日本語版Wikipedia『Nintendo Switch Sports』(2026-08-03閲覧)で開発・発売元(任天堂)・発売日(2022-04-29)・収録種目の追加経緯を確認。受賞歴の記載は確認できず未掲載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sekai-no-asobi-daizen-51",
+    "title": "世界のアソビ大全51",
+    "titleKana": "せかいのあそびだいぜんごじゅういち",
+    "developerIds": [
+      "ndcube"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game"
+    ],
+    "releaseDate": "2020-06-05",
+    "synopsis": "マンカラや将棋、麻雀、ダーツ、ビリヤードなど世界中の定番ゲーム51種類をひとつに収録したパーティーゲーム集。ボードゲーム・カードゲーム・スポーツ・バラエティの4カテゴリーに分類されており、1人でのCPU対戦から最大4人までのオフライン対戦、さらにオンライン対戦まで、家族や友人と幅広い遊び方に対応している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/世界のアソビ大全51"
+    },
+    "sourceNote": "日本語版Wikipedia『世界のアソビ大全51』(2026-08-03閲覧)で開発元(NDキューブ)・発売元(任天堂)・発売日(2020-06-05)・収録ゲーム構成を確認。受賞歴の記載は確認できず未掲載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "warioware-get-it-together",
+    "title": "おすそわける メイド イン ワリオ",
+    "titleKana": "おすそわける めいど いん わりお",
+    "developerIds": [
+      "nintendo",
+      "intelligent-systems"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game"
+    ],
+    "releaseDate": "2021-09-10",
+    "synopsis": "ゲームの世界に吸い込まれたワリオたちが、元の世界に戻るため次々とプチゲームをクリアしていく1秒アクション。今作ではキャラクターを『くるくるボビン』で直接操作してあらゆるプチゲームを攻略する形式となり、キャラクターごとに異なる移動・攻撃方法を持つ。2人同時プレイやオンライン対戦などシリーズ初の要素も追加された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/おすそわける_メイド_イン_ワリオ"
+    },
+    "sourceNote": "日本語版Wikipedia『おすそわける メイド イン ワリオ』(2026-08-03閲覧)で海外名(WarioWare: Get It Together!)・開発元(任天堂、インテリジェントシステムズ)・発売元(任天堂)・発売日(2021-09-10)を確認。既存収録作『超おどる メイド イン ワリオ』(id: warioware-move-it、海外名Move It!、2023年)とは別作品。The Game Awards 2021『Best Family Game』・D.I.C.E. Awards『Family Game of the Year』はいずれもノミネートに留まり受賞はなし(英語版Wikipedia『WarioWare: Get It Together!』で確認)のため掲載を見送った。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bravely-default-2",
+    "title": "ブレイブリーデフォルトII",
+    "titleKana": "ぶれいぶりーでふぉるとつー",
+    "developerIds": [
+      "claytechworks"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2021-02-26",
+    "synopsis": "難破した船乗りの青年セスが、滅びた王国の王女グローリア、書物を愛する学者エルヴィス、寡黙な傭兵アデルと出会い、失われた4つのクリスタルを取り戻す旅に出る。前2作の流れを汲む『ジョブ』システムと、リスクを負って行動回数を増減できる『デフォルト/ブレイブ』コマンドが戦略の核となる、シリーズ新章のRPG。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブレイブリーデフォルトII"
+    },
+    "sourceNote": "日本語版Wikipedia『ブレイブリーデフォルトII』(2026-08-03閲覧)で開発元(クレイテックワークス)・発売元(スクウェア・エニックス)・Switch版発売日(2021-02-26)を確認。クレイテックワークスは設立年(2018年、シリコンスタジオのゲーム開発部門からの独立)をWeb検索で確認し新規company追加。受賞歴(日本ゲーム大賞・The Game Awards等)の記載はWeb検索でも確認できず未掲載。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "live-a-live-2022",
+    "title": "ライブ・ア・ライブ",
+    "titleKana": "らいぶ あ らいぶ",
+    "developerIds": [
+      "square-enix",
+      "historia"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2022-07-22",
+    "synopsis": "1994年発売のスーパーファミコン作品を『HD-2D』表現でフルリメイク。原始時代・幕末・SF未来など時代も舞台も異なる7つのシナリオを、それぞれ別の主人公を操作して独立に進め、全てをクリアすると隠された最終章へ到達するオムニバス構成のRPG。下村陽子による既存楽曲の再編曲や新規収録楽曲も本作ならではの魅力となっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライブアライブ"
+    },
+    "sourceNote": "日本語版Wikipedia『ライブアライブ』(2026-08-03閲覧)で2022年リメイク版の開発元(スクウェア・エニックスTeam Asano、ヒストリアの共同開発、監督は佐々木駿氏)・Switch版発売日(2022-07-22)・2023年4月27日にPS4/PS5/Steam版が追加発売されたことを確認。英語版Wikipedia『Live A Live (2022 video game)』でPS5版がPS4版と同時にネイティブ発売された(バックワードコンパチのみではない)ことを確認しPS5をplatformsに追加。ヒストリアは設立年(2013年10月)をWeb検索で確認し新規company追加。受賞歴の記載は確認できず未掲載。releaseDateは収録機種内最速のSwitch版発売日を採用、PS5版は2023-04-27発売である旨をここに明記。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "star-ocean-second-story-r",
+    "title": "スターオーシャン セカンドストーリーR",
+    "titleKana": "すたーおーしゃん せかんどすとーりーあーる",
+    "developerIds": [
+      "gemdrops"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2023-11-02",
+    "synopsis": "1998年発売のPlayStation作品『スターオーシャン セカンドストーリー』をドット絵と3D背景を融合した『HD-2D』風グラフィックでフルリメイク。宇宙船の事故で中世的な惑星エクスペルに取り残された青年クロードと、その地に住む少女レナが出会い、世界を滅ぼしかねない『魔導球』を巡る陰謀に立ち向かう。シームレスな実時間バトルが特徴のRPG。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story_R"
+    },
+    "sourceNote": "日本語版Wikipediaに独立記事なし(2026-08-03、検索で確認)。英語版Wikipedia『Star Ocean: The Second Story R』で開発元(tri-Ace出身の北尾雄一郎氏率いるジェムドロップ)・発売元(スクウェア・エニックス)・Switch/PS4/PS5/Windows版発売日(2023-11-02)を確認。Nintendo Switch 2版が2026-07-16に追加発売されたことをSquare Enix公式サイト・ファミ通・Game Watch等の複数記事(Web検索経由)で確認し、本サイト運用時点(2026-08-03)で既発売のためplatformsにswitch2を追加。ジェムドロップの設立年(2013年5月)・代表者は公式サイト等で確認し新規company追加。受賞歴の記載は確認できず未掲載。releaseDateは収録機種内最速のSwitch/PS5版発売日を採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sea-of-stars",
+    "title": "Sea of Stars",
+    "titleKana": "しー おぶ すたーず",
+    "developerIds": [
+      "sabotage-studio"
+    ],
+    "publisherId": "sabotage-studio",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-08-29",
+    "synopsis": "『ソルスティスウォリアー』である2人の主人公ヴァレールとゼイルが、日食の魔力を宿す力で怪物『ドウェラー』やその創造主に立ち向かう、往年のドット絵RPGを彷彿とさせるターン制RPG。前作『The Messenger』の世界観を継ぐ前日譚にあたり、タイミング入力を絡めた攻防や仲間との連携技が戦闘の特徴となっている。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2023,
+        "result": "Best Indie Game"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Independent Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sea_of_Stars_(video_game)"
+    },
+    "sourceNote": "日本語版Wikipediaに独立記事なし(2026-08-03、検索で確認)。英語版Wikipedia『Sea of Stars』で開発・発売元(Sabotage Studio、自社パブリッシング)・Switch/PS4/PS5等マルチ機種同時発売日(2023-08-29)・Golden Joystick Awards 2023「Best Indie Game」およびThe Game Awards 2023「Best Independent Game」受賞を確認。Sabotage Studioの正確な法人設立年の明記は確認できず未記載(拠点ケベックシティ、創業者ティエリー・ブーランジェ氏/マルタン・ブルアール氏のみ確認)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tunic",
+    "title": "TUNIC",
+    "titleKana": "ちゅにっく",
+    "developerIds": [
+      "isometricorp-games"
+    ],
+    "publisherId": "finji",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-09-27",
+    "synopsis": "見知らぬ浜辺で目覚めた小さな狐が、クリスタルに封じられた『後継者』を救うため、廃墟と化した島を冒険するアクションアドベンチャー。作中で拾い集める『取扱説明書』のページは架空の言語で書かれており、それを手掛かりに隠された仕掛けや道筋を発見していく謎解き要素が核となる。ゼルダ的な探索と歯応えのある戦闘を併せ持つインディー作品。",
+    "awardResults": [
+      {
+        "awardId": "dice-awards",
+        "year": 2023,
+        "result": "Outstanding Achievement for an Independent Game"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2023,
+        "result": "Artistic Achievement"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2023,
+        "result": "Debut Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tunic_(video_game)"
+    },
+    "sourceNote": "日本語版Wikipediaに独立記事なし(2026-08-03、検索で確認)。英語版Wikipedia『Tunic (video game)』で開発元(Andrew Shouldice氏の個人スタジオIsometricorp Games)・発売元(Finji)・当初PC/Xbox版(2022-03-16)に続きSwitch/PS4/PS5版が2022-09-27に発売されたこと・D.I.C.E. Awards『Outstanding Achievement for an Independent Game』・BAFTA Games Awards『Artistic Achievement』『Debut Game』の3部門受賞を確認。Isometricorp GamesはWeb検索でAndrew Shouldice氏の個人スタジオであることを確認し新規company追加(設立年・公式サイトURLは確認できず未記載)。releaseDateは対応機種(Switch/PS5)向けの発売日(2022-09-27)を採用し、より早いPC/Xbox版(2022-03-16、本サイト対象外機種)との違いをここに明記。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
   }
 ]
