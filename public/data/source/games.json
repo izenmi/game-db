@@ -3501,5 +3501,326 @@
     },
     "sourceNote": "日本語版Wikipedia「ペルソナ5 タクティカ」記事(2026-08-03閲覧)で発売日(2023-11-17、全対応機種同日)・対応機種(PS5/PS4/Xbox/Switch/PC、本DBではps5とswitchのみ採用)・開発元(アトラス)・あらすじを確認。発売元は国内では実質アトラスブランドのため、既存のpersona-5-royal等に倣いpublisherIdをatlusとした。既存のpersona-5-royal・persona-3-reloadとは別作品。受賞歴は確認できず未記載。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "slay-the-spire",
+    "title": "Slay the Spire",
+    "titleKana": "すれいざすぱいあ",
+    "developerIds": [
+      "megacrit"
+    ],
+    "publisherId": "flyhigh-works",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "roguelike",
+      "deck-building"
+    ],
+    "releaseDate": "2019-06-06",
+    "synopsis": "廃墟と化した尖塔スパイアの最上階を目指すローグライク・デッキ構築ゲーム。個性の異なるキャラクターを操作し、ランダム生成されるマップを進みながらカードを集めてデッキを強化し、道中の敵やエリート、強大なボスに立ち向かう。一戦ごとの選択が生死を分ける緊張感が魅力。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Slay_the_Spire",
+      "officialUrl": "https://www.megacrit.com/"
+    },
+    "sourceNote": "日本語版Wikipedia(Slay the Spire)でSwitch版のダウンロード版国内発売日(2019-06-06)・パッケージ版(2020-09-03、Flyhigh Works)を確認。PS5については、PlayStation Storeの記載が『PS4版をPS5の後方互換機能でプレイ可能』という趣旨のみで、専用PS5版のリリースは確認できなかったため対応機種から除外した。ジャンルタグ「deck-building」を新規追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "terraria",
+    "title": "テラリア",
+    "titleKana": "てらりあ",
+    "developerIds": [
+      "re-logic"
+    ],
+    "publisherId": "spike-chunsoft",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "sandbox"
+    ],
+    "releaseDate": "2019-12-19",
+    "synopsis": "2Dのブロック世界を自由に掘り進め、素材を集めて武器や拠点を作り上げるサンドボックス型アクションアドベンチャー。地下深くの洞窟や地獄、空に浮かぶ島々を探索しながら数多くのボスに挑み装備を強化していく。明確なゴールはなく、探索・戦闘・建築を好きな配分で楽しめる自由度の高さが特徴。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Terraria"
+    },
+    "sourceNote": "日本語版WikipediaでSwitch版の日本国内発売日(2019-12-19、スパイク・チュンソフト発売)を確認。PS5については、PlayStation Storeの記載がPS4版のPS5後方互換のみであることを確認したため対応機種から除外した。ジャンルタグ「sandbox」を新規追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "disco-elysium-final-cut",
+    "title": "Disco Elysium: The Final Cut",
+    "titleKana": "でぃすこえりじうむざふぁいなるかっと",
+    "developerIds": [
+      "za-um"
+    ],
+    "publisherId": "spike-chunsoft",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2022-08-25",
+    "synopsis": "記憶を失った刑事となり、港町レヴァショールで発生した殺人事件の謎を追う会話主体のRPG。戦闘はほとんどなく、24種のスキルが常に主人公の内面で囁きかけながら選択肢を提示する独特のシステムで、プレイヤーの言動次第で物語や刑事としての人格が大きく変化していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Disco_Elysium"
+    },
+    "sourceNote": "英語版Wikipediaで開発元ZA/UM、The Final Cutの北米PS4/PS5版(2021-03-30)・Switch版(2021-10-12)を確認。加えて検索で日本語対応版の国内発売日(2022-08-25、スパイク・チュンソフト発売、Switch/PS4/PS5)を確認し、こちらを採用。日本語版Wikipediaに単独記事が見当たらなかったため英語版と検索結果を併用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "human-fall-flat",
+    "title": "Human: Fall Flat",
+    "titleKana": "ひゅーまんふぉーるふらっと",
+    "developerIds": [
+      "no-brakes-games"
+    ],
+    "publisherId": "teyon-japan",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "co-op"
+    ],
+    "releaseDate": "2017-12-28",
+    "synopsis": "夢の中を漂う人形のような主人公ボブを操作し、ぐにゃぐにゃとした物理演算のキャラクターで足場や仕掛けをよじ登りながら進む協力プレイ向けパズルアクション。オンライン協力プレイに対応し、不安定な動きがもたらす失敗やハプニングそのものを笑いながら楽しめる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヒューマン_フォール_フラット"
+    },
+    "sourceNote": "日本語版WikipediaでSwitch版の国内配信日(2017-12-28、テヨンジャパン発売)を確認。PS5については、検索結果で『PS5ダウンロード版』が別売り(PS4版から100円でアップグレード可)として提供されていることを確認し、専用DL版が存在するため対応機種に含めた。ジャンルタグ「puzzle」を新規追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "vampire-survivors",
+    "title": "Vampire Survivors",
+    "titleKana": "ばんぱいあさばいばーず",
+    "developerIds": [
+      "poncle"
+    ],
+    "publisherId": "poncle",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "shooter"
+    ],
+    "releaseDate": "2023-08-17",
+    "synopsis": "生き残ることだけを目標に、押し寄せる大量のモンスターの群れを自動攻撃で薙ぎ払っていくローグライク・サバイバルアクション。プレイヤーは移動に専念し、レベルアップのたびに武器やアイテムを選んで組み合わせを構築、画面を埋め尽くす攻撃で快感を生み出す中毒性の高い一作。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2023,
+        "result": "Best Game(最優秀ゲーム賞)受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vampire_Survivors"
+    },
+    "sourceNote": "日本語版WikipediaでSwitch版発売日(2023-08-17)を確認。PS版については日本国内発売日(2024-08-29)を検索で確認、PS4/PS5それぞれ個別のトロフィーが用意されていることから専用PS5版ありと判断し対応機種に含めた。BAFTA Games Awards 2023でBest Game受賞を検索で確認(式典開催は2023年)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "unpacking",
+    "title": "Unpacking",
+    "titleKana": "あんぱっきんぐ",
+    "developerIds": [
+      "witch-beam"
+    ],
+    "publisherId": "humble-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "life-simulation"
+    ],
+    "releaseDate": "2021-11-02",
+    "synopsis": "引っ越し先で段ボール箱から荷物を取り出し部屋に配置していくだけの静かなパズルゲーム。セリフは一切なく、持ち物の変化や増減を通じて主人公の進学、独立、恋愛、キャリアなど10年以上にわたる人生の節目が語られていく物語性の高い作品。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2022,
+        "result": "Best Narrative・EE Game of the Year 受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Unpacking"
+    },
+    "sourceNote": "日本語版WikipediaでPC/Switch/Xbox One版の発売日(2021-11-02)、PS4/PS5版(2022-05-10)を確認。日本国内ではSUPERDELUXE GAMESによるSwitchパッケージ版(2022-12-15)も別途確認したが、本エントリの発売日はワールドワイド版元(Humble Games)基準の最速日を採用。BAFTA Games Awards 2022でBest Narrative・EE Game of the Year受賞を検索で確認。ジャンルタグ「puzzle」を新規追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cocoon",
+    "title": "Cocoon",
+    "titleKana": "こくーん",
+    "developerIds": [
+      "geometric-interactive"
+    ],
+    "publisherId": "annapurna-interactive",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-09-29",
+    "synopsis": "背中に世界そのものを収めた球体を背負う昆虫のような主人公を操作し、複数の異世界を行き来しながら謎を解いていくパズルアドベンチャー。球体に飛び込むことで別世界へ移動でき、入れ子状の世界構造を利用した仕掛けを解読していく独創的なゲームデザインが評価されている。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Debut Indie Game 受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "検索結果(Cocoon関連記事)で開発元Geometric Interactive、発売元Annapurna Interactive、Switch/PS4/PS5等の同時発売日(2023-09-29)を確認。The Game Awards 2023でBest Debut Indie受賞(2023年12月8日開催)を検索で確認。日本語版Wikipedia記事は見つからず英語圏の情報源・検索結果を使用。ジャンルタグ「puzzle」を新規追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kirby-air-riders",
+    "title": "カービィエアライダー",
+    "titleKana": "かーびぃえあらいだー",
+    "developerIds": [
+      "sora-ltd",
+      "bandai-namco-studios"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "racing",
+      "party-game"
+    ],
+    "releaseDate": "2025-11-20",
+    "synopsis": "エアライドマシンに乗ったカービィたちが、ポップスターの危機を救うために空を駆けるライドアクションレース。マシンごとに異なる操作感や必殺技を活かしながらコースを駆け抜けるレースモードに加え、広大なステージで戦う対戦モードなど多彩な遊び方が用意されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カービィのエアライダー"
+    },
+    "sourceNote": "日本語版Wikipediaおよび検索結果でNintendo Switch 2専用ソフトとして2025-11-20発売済みであることを確認(本サイト運用日2026-08-03時点で既発売)。開発はバンダイナムコスタジオが受託開発を担当し、桜井政博氏(ソラ)がディレクションで参加していることを複数の検索結果で確認した。依頼内で想定されていたHAL研究所の関与は検索結果に一切見当たらず、開発クレジットに含まれない可能性が高い点を明記しておく(要再確認)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fatal-frame-mask-of-the-lunar-eclipse",
+    "title": "零 〜月蝕の仮面〜",
+    "titleKana": "れいげっしょくのかめん",
+    "developerIds": [
+      "koei-tecmo"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "adventure"
+    ],
+    "releaseDate": "2023-03-09",
+    "synopsis": "10年に一度執り行われる神事の最中に神隠しに遭い記憶を失った5人の少女たちが、次々と死を迎える仲間の謎を追って封印された島へ再び足を踏み入れるホラーアドベンチャー。カメラを構えて怨霊を撮影し祓う独自の戦闘システムで、じわじわと迫る恐怖を体感できる。",
+    "externalLinks": {},
+    "sourceNote": "検索結果(Famitsu関連記事等)でSwitch/PS5/PS4/Xbox/Steam向けリマスター版の国内発売日(2023-03-09)、発売元コーエーテクモゲームスを確認。オリジナル版は2008年Wii用としてテクモ開発・任天堂発売・須田剛一氏(グラスホッパー・マニファクチュア)がディレクター参加という体制だったことも確認したが、2023年リマスター版の具体的な開発内製/外部委託の内訳は情報源から特定できなかったため developerId は自社発売元のkoei-tecmoを暫定採用(要再確認)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nier-automata-end-of-yorha-edition",
+    "title": "NieR:Automata The End of YoRHa Edition",
+    "titleKana": "にーあおーとまたじえんどおぶよるはえでぃしょん",
+    "developerIds": [
+      "platinumgames",
+      "virtuos"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2022-10-06",
+    "synopsis": "人類の代理として地球奪還を目指すアンドロイド部隊ヨルハの戦士たちが、機械生命体との終わりなき戦争の中で自らの存在意義を問う三人称視点のアクションRPG。剣戟とシューティングが融合した独自の戦闘に加え、視点の異なる複数周回で真相が明らかになる重層的な物語構成が特徴。",
+    "externalLinks": {},
+    "sourceNote": "検索結果でNintendo Switch版『The End of YoRHa Edition』の国内発売日(2022-10-06)、発売元スクウェア・エニックス、Switch版の移植をVirtuosが担当したことを確認。オリジナル開発はプラチナゲームズ(既存ID)のため両社をdeveloperIdsに記載。PS5版は情報源に一切言及がなく、PS4版のみと判断して対応機種から除外した。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "persona-4-golden",
+    "title": "ペルソナ4 ザ・ゴールデン",
+    "titleKana": "ぺるそなふぉーざごーるでん",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "life-simulation"
+    ],
+    "releaseDate": "2023-01-19",
+    "synopsis": "地方都市で連続する猟奇事件を追う高校生が、テレビの中の異世界に現れるペルソナを駆使して戦うRPG。学校生活を送りながら仲間との絆を深めることで力を得ていく育成要素と、ダンジョン探索・戦闘を組み合わせた構成に、追加エピソードや新キャラクターを加えた完全版。",
+    "externalLinks": {},
+    "sourceNote": "検索結果で、2023-01-19にPS4・Nintendo Switch・Xbox One向けにダウンロード版が配信されたことを確認。PS5については、PlayStation Storeの記載が『PS4版のPS5後方互換』のみである旨を複数の検索結果で確認し、専用PS5版は存在しないと判断して対応機種から除外した(依頼内の懸念事項どおり要確認の結果、PS5移植版は非実在と判断)。オリジナルはPS Vita版(2012-06-14)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "puyo-puyo-tetris-2",
+    "title": "ぷよぷよテトリス2",
+    "titleKana": "ぷよぷよてとりすつー",
+    "developerIds": [
+      "sega"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "versus-action"
+    ],
+    "releaseDate": "2020-12-10",
+    "synopsis": "「ぷよぷよ」と「テトリス」、二つの落ち物パズルが再びひとつの盤面で激突する対戦パズルゲーム。前作から対戦バランスやモードを一新し、ストーリーモードでは中学生りんごたちが異世界の危機に立ち向かう。ぷよ派・テトリス派どちらの操作にも対応する懐の深さが魅力。",
+    "externalLinks": {},
+    "sourceNote": "検索結果でPS4/Switch/Xbox One/PS5/Xbox Series X|S向けの国内発売日(2020-12-10)、開発・発売元セガを確認。セガ社内のどのスタジオ(ソニックチーム等)が直接開発を担当したかまでは情報源で特定できなかったため developerId は既存の sega を採用。Switch 2版(2025-06-05)の存在も確認したが、本エントリの platforms には既存機種のみ記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cult-of-the-lamb",
+    "title": "Cult of the Lamb",
+    "titleKana": "かるとおぶざらむ",
+    "developerIds": [
+      "massive-monster"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "simulation",
+      "roguelike"
+    ],
+    "releaseDate": "2022-08-12",
+    "synopsis": "偽りの神に生贄として捧げられた子羊が、謎の存在に助けられ自らの教団を興すアクションアドベンチャー。ローグライク形式のダンジョンで異端者を討伐する探索パートと、拠点に信者を増やし施設を整えて教団を運営するシミュレーションパートを行き来する、可愛さとダークさが同居する作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Cult_of_the_Lamb"
+    },
+    "sourceNote": "日本語版Wikipediaで開発元Massive Monster、発売元Devolver Digital、Windows/macOS/Switch/PS4/PS5/Xbox One/Xbox Series X|S同時発売(2022-08-11、日本時間では8/12)、日本語対応を確認。受賞歴については情報源に明記されたものが見当たらず未掲載。",
+    "updatedAt": "2026-08-03"
   }
 ]

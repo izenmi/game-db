@@ -868,5 +868,124 @@
     },
     "sourceNote": "日本語版Wikipedia「クリーチャーズ」記事(2026-08-03閲覧)で設立年・概要・ポケモン関連での役割を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "megacrit",
+    "name": "MegaCrit",
+    "nameKana": "めがくりっと",
+    "description": "「Slay the Spire」を開発した米国のインディーゲームスタジオ。",
+    "externalLinks": {
+      "officialUrl": "https://www.megacrit.com/"
+    },
+    "sourceNote": "英語版・日本語版WikipediaのSlay the Spireの項目でDeveloperとして確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "re-logic",
+    "name": "Re-Logic",
+    "nameKana": "りろじっく",
+    "description": "「Terraria」を開発・自社パブリッシュする米国のインディーゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版WikipediaのTerraria項目でDeveloperとして確認。設立年・公式URLは未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "za-um",
+    "name": "ZA/UM",
+    "nameKana": "ざうむ",
+    "description": "「Disco Elysium」を開発したエストニアのゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "英語版WikipediaのDisco Elysium項目でDeveloper/Publisherとして確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "no-brakes-games",
+    "name": "No Brakes Games",
+    "nameKana": "のーぶれいくすげーむず",
+    "description": "「Human: Fall Flat」を開発したリトアニア拠点のインディーゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版WikipediaのHuman: Fall Flat項目でDeveloperとして確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "teyon-japan",
+    "name": "Teyon Japan",
+    "nameKana": "てよんじゃぱん",
+    "description": "「Human: Fall Flat」などの日本国内でのローカライズ・販売を手掛ける企業。",
+    "externalLinks": {},
+    "sourceNote": "Human: Fall FlatのSwitch版(2017年12月28日)・PS5版に関する国内配信ニュース記事で発売元として確認。詳細な会社概要は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "poncle",
+    "name": "poncle",
+    "nameKana": "ぽんくる",
+    "description": "「Vampire Survivors」を開発・自社パブリッシュする英国の小規模インディースタジオ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版WikipediaのVampire Survivors項目でDeveloper/Publisherとして確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "witch-beam",
+    "name": "Witch Beam",
+    "nameKana": "うぃっちびーむ",
+    "description": "「Unpacking」を開発したオーストラリア・ブリスベン拠点のインディーゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版WikipediaのUnpacking項目でDeveloperとして確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "humble-games",
+    "name": "Humble Games",
+    "nameKana": "はんぶるげーむず",
+    "description": "Humble Bundleのゲームパブリッシングレーベル。「Unpacking」などインディータイトルを多数手掛ける。",
+    "externalLinks": {},
+    "sourceNote": "Unpackingの発売元情報(検索結果および日本語版Wikipedia)でPublisherとして確認。日本国内パッケージ版はSUPERDELUXE GAMESが担当したことも合わせて確認したが、本エントリではワールドワイド版元のHumble Gamesを採用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "geometric-interactive",
+    "name": "Geometric Interactive",
+    "nameKana": "じおめとりっくいんたらくてぃぶ",
+    "description": "「Cocoon」を開発した北欧拠点のインディーゲームスタジオ。「LIMBO」「INSIDE」の元リードデザイナーJeppe Carlsen氏が参加。",
+    "externalLinks": {},
+    "sourceNote": "検索結果(Cocoon関連記事)でDeveloperとして確認。設立年・所在国の詳細は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "annapurna-interactive",
+    "name": "Annapurna Interactive",
+    "nameKana": "あなぷるないんたらくてぃぶ",
+    "description": "Annapurna Picturesのゲームパブリッシングレーベル。インディー・アート系タイトルを数多く手掛ける米国の会社。",
+    "externalLinks": {},
+    "sourceNote": "Cocoon関連の検索結果でPublisherとして確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "massive-monster",
+    "name": "Massive Monster",
+    "nameKana": "まっしぶもんすたー",
+    "description": "「Cult of the Lamb」を開発したオーストラリアのインディーゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版WikipediaのCult of the Lamb項目でDeveloperとして確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "devolver-digital",
+    "name": "Devolver Digital",
+    "nameKana": "でぼるばーでじたる",
+    "description": "「Cult of the Lamb」など数多くのインディータイトルを手掛ける米国のパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "日本語版WikipediaのCult of the Lamb項目でPublisherとして確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "virtuos",
+    "name": "Virtuos",
+    "nameKana": "う゛ぁーちゅおす",
+    "description": "各社ゲームの移植・アウトソーシング開発を専門とするスタジオ。「NieR:Automata The End of YoRHa Edition」のSwitch版移植を担当。",
+    "externalLinks": {},
+    "sourceNote": "検索結果(NieR:Automata Switch版関連情報)でSwitch版移植の開発元として確認。設立年は未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
   }
 ]
