@@ -63,7 +63,7 @@ PS5・Nintendo Switch・Nintendo Switch 2向けのゲームソフトを対応機
 - ページ背景は黒一色固定、装飾(影・グラデーション・点線ボーダー等)は基本つけない
 - 見出しフォントは`M PLUS Rounded 1c`。favicon(`public/favicon.svg`、`#6bc34a`)は黒背景+「ゲ」の1文字ロゴ(ranobe-dbの「ら」・manga-dbの「ま」と同じ命名則)
 - `src/theme/theme.css`・`src/ui/common/common.css`はranobe-dbからほぼ無変更でコピーしている(アクセントカラーと対応機種バッジ以外)
-- ゲームカード(`GameCard.tsx`)はカード全体をクリックすると詳細ページへ遷移する(ranobe-db/manga-dbの`WorkCard`と同じパターン)。内部のジャンルチップだけは`stopPropagation`でジャンルページへの遷移を維持
+- ゲームカード(`GameCard.tsx`)はカード全体がクリック領域になっている(ranobe-db/manga-dbの`WorkCard`と同じパターン)。2026-08-03に「中クリックで新規タブが開かない」不具合を修正するため、`role="link"`付き`div`+`onClick`方式から「ストレッチリンク」方式(カード全体を覆う透明な`<Link>`を`position: absolute; inset: 0;`で重ね、内部のジャンルチップ`<Link>`だけ`position: relative`でその上に表示)に変更した。中クリック・Ctrl+クリック・右クリックメニュー・キーボード操作がすべてネイティブな`<a>`の挙動になった
 
 ## 購入リンク・パッケージ画像
 
@@ -108,7 +108,7 @@ node scripts/generate-ogp.mjs   # public/og-image.png の再生成(手動実行�
 - **ピックアップゲーム**: `getGames()`で全ゲームを取得し、`pickRandomGames()`(部分Fisher–Yates)で6件をランダム抽出して`GameCard`で表示。`useMemo`の依存が`gamesState`(オブジェクト全体)なので、ページ再マウント時(=遷移して戻ってきたとき)だけ再抽選され、検索ボックス入力等の再レンダーでは変わらない
 - **受賞作スポットライト**: 全ゲームの`awardSummaries`を`flattenRecentAwards()`でフラット化し年降順で上位6件を表示。`AwardDetailPage.tsx`の`winner-list`パターンを流用(賞名リンクを追加した点だけ拡張)
 - **人気ジャンル**: `getGenres()`を`gameCount`降順で上位12件、チップリンクで`/games?genre=<id>`へ
-- **姉妹サイト紹介カード**: 既存の`SiteFooter`の小さいテキストリンクとは別に、より目立つカード(残り2サイトへのリンク、各リンク先サイト自身のアクセントカラーで縁取り)を新設。データはHomePage内のローカル定数(SiteFooterとは共有しない)
+- **姉妹サイト紹介カード**: より目立つカード(残り2サイトへのリンク、各リンク先サイト自身のアクセントカラーで縁取り)を新設。データはHomePage内のローカル定数。**全ページ下部の`SiteFooter`(姉妹サイトへの小さいテキストリンク)は2026-08-03にユーザー指示で削除済み**(`App.tsx`からの呼び出し・コンポーネント本体・`common.css`の`.site-footer*`ルールを削除)。姉妹サイトへの導線はこのホームページのカードのみに一本化されている
 
 `colorForYear`/`YEAR_COLORS`は従来`AwardDetailPage.tsx`にprivateで定義されていたが、受賞作スポットライトからも使うため`src/ui/common/yearColor.ts`に抽出した。姉妹サイト(ranobe-db/manga-db)にも同一パターンで実装済み(エンティティ名・ルート名・アクセントカラーのみ置き換え)。
 
