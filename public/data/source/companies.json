@@ -420,5 +420,128 @@
     },
     "sourceNote": "Gematsu、GamesRadar等の英語メディア報道で設立年(2019年)・創業メンバー・2025年の清算(liquidation)を確認。日本語版Wikipediaの独立記事は未確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ryu-ga-gotoku-studio",
+    "name": "龍が如くスタジオ",
+    "nameKana": "りゅうがごとくすたじお",
+    "parentCompany": "セガ",
+    "description": "「龍が如く」シリーズを中心に開発するセガの社内スタジオ。2011年に名越稔洋氏を中心に発足し、前身はセガAM11（のちのR&D4）にさかのぼる。",
+    "foundedYear": 2011,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍が如くスタジオ",
+      "officialUrl": "https://ryu-ga-gotoku.com/"
+    },
+    "sourceNote": "日本語版Wikipedia「龍が如くスタジオ」および複数の日本語ニュース記事(4Gamer等)で設立年(2011年8月31日)・前身組織を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sega",
+    "name": "セガ",
+    "nameKana": "せが",
+    "parentCompany": "セガサミーホールディングス",
+    "description": "家庭用ゲーム機・PC・モバイル向けゲームソフトの企画・開発・販売を手がける日本の大手ゲーム会社。「龍が如く」「ペルソナ」シリーズ等を擁するほか、海外タイトルの日本国内販売も手掛ける。",
+    "foundedYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/セガ",
+      "officialUrl": "https://www.sega.co.jp/"
+    },
+    "sourceNote": "日本語版Wikipedia「セガ」で沿革を確認。設立年は前身企業(日本娯楽物産/日本機械製造)の1960年分社時点を採用。厳密な法人設立年は複数の変遷があるため一部未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "avalanche-software",
+    "name": "アバランチ・ソフトウェア",
+    "nameKana": "あばらんちそふとうぇあ",
+    "parentCompany": "ワーナー・ブラザース・ゲームズ",
+    "description": "米ユタ州ソルトレイクシティ拠点のゲーム開発会社。1995年設立。ディズニー傘下を経て2017年よりワーナー・ブラザース・ゲームズ傘下となり、『ホグワーツ・レガシー』を開発した。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avalanche_Software",
+      "officialUrl": "https://www.avalanchesoftware.com/en/"
+    },
+    "sourceNote": "英語版Wikipedia「Avalanche Software」およびゲームメーカーズ記事(gamemakers.jp)でホグワーツ・レガシー開発元であることと沿革を確認。日本語版Wikipedia記事は未確認(存在しない可能性)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "blizzard-entertainment",
+    "name": "ブリザード・エンターテイメント",
+    "nameKana": "ぶりざーどえんたーていめんと",
+    "parentCompany": "マイクロソフト",
+    "description": "『ウォークラフト』『ディアブロ』『オーバーウォッチ』シリーズなどで知られる米カリフォルニア州アーバイン拠点の大手ゲーム開発会社。1991年設立、2023年よりマイクロソフト傘下(旧アクティビジョン・ブリザード)。",
+    "foundedYear": 1991,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブリザード・エンターテイメント",
+      "officialUrl": "https://www.blizzard.com/ja-jp/"
+    },
+    "sourceNote": "日本語版Wikipedia「ブリザード・エンターテイメント」で設立年・沿革を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cd-projekt-red",
+    "name": "CD PROJEKT RED",
+    "nameKana": "しーでぃーぷろじぇくとれっど",
+    "parentCompany": "CD PROJEKT",
+    "description": "『ウィッチャー』シリーズおよび『サイバーパンク2077』を手掛けるポーランド・ワルシャワ拠点のゲーム開発会社。ゲーム流通企業CD PROJEKTの開発部門として2002年に設立された。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/CD_Projekt",
+      "officialUrl": "https://www.cdprojektred.com/ja/"
+    },
+    "sourceNote": "日本語版Wikipedia「CD Projekt」および関連ニコニコ大百科記事で設立年・沿革(CD Projekt本体1994年、開発部門CDPR2002年)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "larian-studios",
+    "name": "ラリアン・スタジオ",
+    "nameKana": "らりあんすたじお",
+    "description": "『ディヴィニティ』シリーズおよび『バルダーズ・ゲート3』を手掛けるベルギー・ゲント拠点の独立系ゲーム開発会社。1996年、スウェン・ヴィンケ氏により設立。",
+    "foundedYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Larian_Studios",
+      "officialUrl": "https://larian.com/"
+    },
+    "sourceNote": "英語版Wikipedia「Larian Studios」で設立年・創業者・本拠地を確認。日本語版Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hazelight-studios",
+    "name": "ヘイズライト・スタジオ",
+    "nameKana": "へいずらいとすたじお",
+    "description": "映画監督出身のヨセフ・ファレス氏が2014年に設立したスウェーデン・ストックホルム拠点のゲーム開発会社。『A Way Out』『It Takes Two』など協力プレイに特化した作品で知られる。",
+    "foundedYear": 2014,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hazelight_Studios",
+      "officialUrl": "https://www.hazelight.se/"
+    },
+    "sourceNote": "英語版Wikipedia「Hazelight Studios」で設立年・創業者ヨセフ・ファレス氏の経歴を確認。日本語版Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "electronic-arts",
+    "name": "エレクトロニック・アーツ",
+    "nameKana": "えれくとろにっくあーつ",
+    "description": "『FIFA』『バトルフィールド』シリーズなどを手掛ける米カリフォルニア州レッドウッドシティ拠点の大手ゲームパブリッシャー。1982年設立。",
+    "foundedYear": 1982,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エレクトロニック・アーツ",
+      "officialUrl": "https://www.ea.com/ja-jp"
+    },
+    "sourceNote": "日本語版Wikipedia「エレクトロニック・アーツ」で設立年・沿革を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "spike-chunsoft",
+    "name": "スパイク・チュンソフト",
+    "nameKana": "すぱいくちゅんそふと",
+    "parentCompany": "KADOKAWA",
+    "description": "『ダンガンロンパ』シリーズ開発のほか、海外タイトルの日本国内パブリッシングも手掛ける日本のゲーム会社。2012年、チュンソフトとスパイクの合併により発足。ドワンゴの完全子会社でKADOKAWAグループ。",
+    "foundedYear": 2012,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スパイク・チュンソフト",
+      "officialUrl": "https://www.spike-chunsoft.co.jp/"
+    },
+    "sourceNote": "日本語版Wikipedia「スパイク・チュンソフト」で合併年・資本関係を確認。『バルダーズ・ゲート3』日本語PS5版の発売元であることをスパイク・チュンソフト公式サイト等の複数記事で確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

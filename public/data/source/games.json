@@ -1590,5 +1590,421 @@
     },
     "sourceNote": "日本語版Wikipedia「アンティル・ドーン 惨劇の山荘」およびマイナビニュース、4Gamer記事で開発元(Ballistic Moon)・発売元(SIE)・発売日(2024年10月4日、PS5。PC版は10月5日)・Unreal Engine 5への刷新を確認。The Horror Game Awards等へのノミネート情報はあるが、本サイトの既存9アワードでの受賞は確認できなかったためawardResultsは未記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "like-a-dragon-infinite-wealth",
+    "title": "龍が如く8",
+    "titleKana": "りゅうがごとくえいと",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "crime-action"
+    ],
+    "releaseDate": "2024-01-26",
+    "synopsis": "桐生一馬と春日一番の二人の主人公が織りなす「龍が如く」ナンバリング最新作。舞台は神室町に加えて南国ハワイへと広がり、コマンドバトルにアクション性を融合した「ライブコマンドRPG」がさらに進化。人生の再出発や絆をめぐる骨太な人間ドラマと、島全体を舞台にした自由度の高いやり込み要素が魅力の集大成的な一本。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2024,
+        "result": "年間作品部門 優秀賞"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2024,
+        "result": "PlayStation Partner Awards ユーザーズチョイス賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍が如く8",
+      "officialUrl": "https://www.sega.jp/game/detail/ryu-ga-gotoku-eight/"
+    },
+    "sourceNote": "対応機種・発売日(2024-01-26、PS5/PS4/Xbox/PC、Switch版なし)をセガ公式サイト・4Gamer記事で確認。開発元はRyu Ga Gotoku Studio、パブリッシャーはSEGA。受賞歴は日本ゲーム大賞公式サイト(awards.cesa.or.jp)で年間作品部門優秀賞(2024)、PlayStation Partner Awards 2024でのユーザーズチョイス賞受賞をニュース記事で確認。The Game Awards 2024 Best RPGはノミネートのみで受賞は逃した(Metaphorが受賞)ため不採用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "like-a-dragon-gaiden",
+    "title": "龍が如く7外伝 名を消した男",
+    "titleKana": "りゅうがごとくなながいでん なをけしたおとこ",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "crime-action"
+    ],
+    "releaseDate": "2023-11-09",
+    "synopsis": "「龍が如く6」以降、行方をくらましていた桐生一馬の空白期間を描く完全新作の外伝作品。名を捨て裏社会に身を置いた桐生が、かつての仲間や新たな脅威と対峙していく。従来のコマンドバトルから生身のアクションバトルへ回帰し、隠密行動を取り入れた新機動アクション「エージェント・スタイル」も搭載したスピンオフ。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍が如く7外伝_名を消した男",
+      "officialUrl": "https://ryu-ga-gotoku.com/gaiden/"
+    },
+    "sourceNote": "正式タイトルは「龍が如く7外伝 名を消した男」(依頼文の「龍が如く外伝」は略称と判断)。発売日(2023-11-09)・対応機種(PS5/PS4/Xbox/PC、Switch版なし)をセガ公式サイト・4Gamer記事で確認。既存9アワードの範囲内での明確な受賞情報は検索で見つからなかったためawardResultsは空とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "lost-judgment",
+    "title": "LOST JUDGMENT：裁かれざる記憶",
+    "titleKana": "ろすとじゃっじめんと さばかれざるきおく",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "crime-action"
+    ],
+    "releaseDate": "2021-09-24",
+    "synopsis": "弁護士資格を失った元弁護士探偵・八神隆之が、学校でのいじめ問題を発端とする連続殺人事件の真相を追うリーガルサスペンスアクション。前作『JUDGE EYES』の正統続編にあたり、格闘スタイルの追加やスケートボード移動、部活動といった新要素で探偵活動の幅が広がり、正義の在り方を問いかける重厚な物語が展開する。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "年間作品部門 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/LOST_JUDGMENT_裁かれざる記憶",
+      "officialUrl": "https://judgment.sega.com/"
+    },
+    "sourceNote": "発売日(2021-09-24)・対応機種(PS5/PS4/Xbox/PC)をセガ公式サイト・GAME Watch記事で確認。Switch版は各種記事・セール告知を確認したが発売の事実は見当たらず、対応機種に含めていない。受賞歴は日本ゲーム大賞公式サイト(awards.cesa.or.jp/2022/prize/year/11.html)で年間作品部門優秀賞(日本ゲーム大賞2022)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "metaphor-refantazio",
+    "title": "メタファー：リファンタジオ",
+    "titleKana": "めたふぁー りふぁんたじお",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "life-simulation"
+    ],
+    "releaseDate": "2024-10-11",
+    "synopsis": "ペルソナシリーズを手掛けたクリエイター陣による完全新作ファンタジーRPG。暗殺された国王の座を巡る王位争奪選挙が始まった幻想世界を舞台に、差別や偏見が渦巻く社会の中で主人公が仲間との絆を深めながら理想の国のあり方を模索していく。生活シミュレーション的な人間関係要素と本格的なターン制バトルを融合させた社会派RPG。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best RPG"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best Narrative"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best Art Direction"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2025,
+        "result": "年間作品部門 大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メタファー:リファンタジオ",
+      "officialUrl": "https://rpg.jp/"
+    },
+    "sourceNote": "開発元スタジオゼロ(アトラス社内スタジオ)は既存企業idのatlusに統合して登録。発売日(2024-10-11、PS5/PS4/Xbox/PC)をWikipedia・セガ公式で確認。Nintendo Switch 2版は2026年11月12日発売予定と公式発表されているが本サイト運用時点(2026-08-03)では未発売のため対応機種には含めていない。受賞歴はThe Game Awards 2024公式発表(セガ公式リリース)でBest RPG/Best Narrative/Best Art Direction受賞、日本ゲーム大賞公式サイトで日本ゲーム大賞2025 大賞受賞を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "persona-3-reload",
+    "title": "ペルソナ３ リロード",
+    "titleKana": "ぺるそなすりー りろーど",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg",
+      "life-simulation"
+    ],
+    "releaseDate": "2024-02-02",
+    "synopsis": "2006年発売のPS2用RPG『ペルソナ3』を現行機向けに全面リメイクした作品。夜になると現れる「シャドウ」と戦う特別課外活動部の高校生たちが、死や運命と向き合いながら仲間との絆を深めていく青春群像劇はそのままに、戦闘システムや探索パート、コミュニティ要素を最新シリーズの水準に合わせて刷新している。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2024,
+        "result": "年間作品部門 優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ3",
+      "officialUrl": "https://p3re.jp/"
+    },
+    "sourceNote": "発売日(PS5/PS4/Xbox/PC版2024-02-02)をアトラス公式・famitsu記事で確認。Nintendo Switch2版は2025-10-23に発売済み(famitsu記事・アトラス公式サイトp3re.jp/switch2で確認)のため対応機種に含めた。無印Switch版は非対応。受賞歴は日本ゲーム大賞公式サイト(awards.cesa.or.jp/2024/year/prize/10.html)で年間作品部門優秀賞を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ff7-remake-intergrade",
+    "title": "ファイナルファンタジーVII リメイク インターグレード",
+    "titleKana": "ふぁいなるふぁんたじーせぶん りめいく いんたーぐれーど",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2021-06-10",
+    "synopsis": "PS4用『ファイナルファンタジーVII リメイク』のグラフィックや演出を大幅に強化したPS5版。ミッドガル脱出までの物語を描いたナンバリング最新作のリメイクで、忍者ユフィを主人公とした完全新規エピソード「INTERmission」を同梱する。既存の『FF7リバース』とは別作品で、その前日譚にあたる内容。",
+    "awardResults": [
+      {
+        "awardId": "playstation-awards",
+        "year": 2021,
+        "result": "PlayStation Awards パートナーアワード"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リメイク",
+      "officialUrl": "https://www.jp.square-enix.com/ff7r/"
+    },
+    "sourceNote": "既存登録済みの「ff7-rebirth」(FF7リバース)とは別作品と明確に区別するため、id/titleに「インターグレード」を明記。PS5版発売日(2021-06-10)をPlayStation Blog記事で確認。Switch2/Xbox Series X|S版は2026-01-22に発売済み(GAME Watch・電撃オンライン記事で確認、30fps動作・ゲームブースト機能付きのネイティブ移植)のためswitch2を対応機種に追加。受賞歴はPlayStation Awards 2021のパートナーアワード受賞をニュース記事(i-mezzo.net)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "death-stranding-2-on-the-beach",
+    "title": "DEATH STRANDING 2: ON THE BEACH",
+    "titleKana": "です すとらんでぃんぐつー おん・ざ・びーち",
+    "developerIds": [
+      "kojima-productions"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure"
+    ],
+    "releaseDate": "2025-06-26",
+    "synopsis": "小島秀夫監督による『DEATH STRANDING』の正統続編。分断されたアメリカ大陸をつなぎ直した配達人サム・ポーター・ブリッジズが、メキシコやオーストラリアを舞台にさらなる接続網の構築へと挑む。荷物輸送とアクションを融合させた独自のゲームシステムを継承しつつ、新武器や新たな移動手段で進化を遂げた壮大な物語作品。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Death_Stranding_2:On_the_Beach",
+      "officialUrl": "https://www.kojimaproductions.jp/"
+    },
+    "sourceNote": "発売日(2025-06-26)・対応機種(PS5独占、Xbox/PC版はこの時点で未発売)を4Gamer・PlayStation Blog記事で確認。The Game Awards 2025で7部門ノミネートされたが受賞は0件だった(gamerant等の記事で確認)ため、awardResultsは空とした。PC版が2026年3月19日に発売予定との情報があるが、本サイト運用時点(2026-08-03)ではまだ未発売のためps5のみ登録。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ghost-of-yotei",
+    "title": "Ghost of Yōtei",
+    "titleKana": "ごーすと・おぶ・ようてい",
+    "developerIds": [
+      "sucker-punch-productions"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure"
+    ],
+    "releaseDate": "2025-10-02",
+    "synopsis": "『Ghost of Tsushima』から約300年後、蝦夷地(現在の北海道)を舞台にしたオープンワールド時代劇アクション。幼少期に一族を殺された女武者・篤(あつ)が、羊蹄山を望む大地で仇である「羊蹄六人衆」への復讐を誓う。刀による一騎討ちや多彩な武器、探索要素を組み合わせた硬派なチャンバラアクションが持ち味の作品。",
+    "awardResults": [],
+    "externalLinks": {
+      "officialUrl": "https://www.playstation.com/ja-jp/games/ghost-of-yotei/"
+    },
+    "sourceNote": "発売日(2025-10-02、PS5独占)を神ゲー攻略・ASCII記事等で確認。日本語版Wikipedia記事は検索時点で見当たらなかったためwikipediaUrlは省略。The Game Awards 2025で7部門ノミネートされたが受賞なし(gamerant記事で確認)のためawardResultsは空。「Ghost of Yōtei」は英語表記が公式タイトルで、カタカナ表記(ゴースト・オブ・ヨウテイ)は攻略サイト等の慣用表記。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hogwarts-legacy",
+    "title": "ホグワーツ・レガシー",
+    "titleKana": "ほぐわーつ・れがしー",
+    "developerIds": [
+      "avalanche-software"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-rpg"
+    ],
+    "releaseDate": "2023-02-10",
+    "synopsis": "『ハリー・ポッター』シリーズより約100年前、1800年代の魔法界を舞台にしたオープンワールドアクションRPG。ホグワーツ魔法魔術学校に編入した主人公が、呪文や魔法薬、幻獣の飼育などを駆使しながら学校生活を送りつつ、古代魔法をめぐる陰謀に巻き込まれていく。原作ファンにも馴染み深い世界を自由に冒険できる一作。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ホグワーツ・レガシー",
+      "officialUrl": "https://www.hogwartslegacy.com/ja-jp"
+    },
+    "sourceNote": "PS5版発売日(2023-02-10)をPlayStation Blog・セガ公式サイトで確認。Switch版(通常パッケージ、2023-11-14発売)およびSwitch2版(本体と同日、2025-06-05発売)も確認しており、いずれもネイティブ移植として対応機種に含めた。日本国内はワーナー・ブラザース・ゲームズとセガの共同パブリッシングで、publisherIdはJP窓口となるsegaを採用。BAFTA Games Awards・Golden Joystick Awards 2023ではノミネートに留まり(受賞なし)、既存9アワード範囲での明確な受賞情報は確認できなかったためawardResultsは空とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "diablo-4",
+    "title": "ディアブロ IV",
+    "titleKana": "でぃあぶろふぉー",
+    "developerIds": [
+      "blizzard-entertainment"
+    ],
+    "publisherId": "blizzard-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2023-06-06",
+    "synopsis": "終末的な暗黒世界を舞台にしたハック＆スラッシュ型アクションRPGシリーズの最新作。悪魔リリスの復活をめぐる物語の中、プレイヤーは複数のクラスから一人を選び、地続きのオープンワールドを探索しながら装備を集めてキャラクターを育成していく。シームレスなマルチプレイに対応し、シーズン制で継続的に遊べる設計が特徴。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ディアブロIV",
+      "officialUrl": "https://diablo4.blizzard.com/ja-jp/"
+    },
+    "sourceNote": "発売日(2023-06-06、PS5/PS4/Xbox/PC)をPlayStation Blog・famitsu記事で確認。Nintendo Switch版は存在しない(対応機種に含めない)。日本国内発売元はブリザード・エンターテイメント。The Game Awards 2023・Golden Joystick Awards 2023ではノミネートに留まり受賞なしのため、既存9アワード範囲でのawardResultsは空とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cyberpunk-2077-ultimate-edition",
+    "title": "サイバーパンク2077 アルティメットエディション",
+    "titleKana": "さいばーぱんくにーぜろなななな あるてぃめっとえでぃしょん",
+    "developerIds": [
+      "cd-projekt-red"
+    ],
+    "publisherId": "cd-projekt-red",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-rpg"
+    ],
+    "releaseDate": "2023-12-05",
+    "synopsis": "高度なサイバネティクス技術が浸透した近未来都市ナイトシティを舞台にしたオープンワールドRPG。本編に加え、大型拡張パック「Phantom Liberty」やこれまでの大規模アップデートをすべて収録した集大成パッケージ。伝説を追い求める傭兵Vが、街の裏社会を渡り歩きながら自らの生き様を選び取っていく硬派な近未来群像劇。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サイバーパンク2077",
+      "officialUrl": "https://www.cyberpunk.net/us/ja/"
+    },
+    "sourceNote": "PS5版アルティメットエディションはDL版2023-12-05、パッケージ版2024-02-15に発売(4Gamer記事で確認)、releaseDateは最速のDL版日付を採用。Nintendo Switch2版は2025-06-05にSwitch2本体と同時発売のネイティブ移植(CD PROJEKT公式・famitsu記事で確認)のため対応機種に追加。日本国内のパッケージ版はスパイク・チュンソフトが窓口を担うが、Switch2版はCD PROJEKT自身が発表しており実態が入り組むため、publisherIdは開発元と同じcd-projekt-redを暫定採用(要再確認)。拡張版Phantom Liberty単体はGolden Joystick Awards 2023でBest Game Expansion等を受賞しているが、Ultimate Edition自体への帰属が明確でないためawardResultsには含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "バルダーズ・ゲート3",
+    "titleKana": "ばるだーずげーとすりー",
+    "developerIds": [
+      "larian-studios"
+    ],
+    "publisherId": "spike-chunsoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "tactical-rpg"
+    ],
+    "releaseDate": "2023-12-21",
+    "synopsis": "テーブルトークRPG「ダンジョンズ＆ドラゴンズ」の世界を舞台にした本格ターン制RPG。寄生生物に脳を侵された主人公が、個性豊かな仲間たちとパーティを組み、運命に抗いながら剣と魔法の大陸を旅する。膨大な分岐とロールプレイの自由度の高さが世界的に評価され、多数の主要ゲーム賞を席巻した一本。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2024,
+        "result": "Best Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2024,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2023,
+        "result": "Ultimate Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バルダーズ・ゲート3",
+      "officialUrl": "https://larian.com/games/baldurs-gate-3"
+    },
+    "sourceNote": "日本語PS5版発売日(2023-12-21)をスパイク・チュンソフト公式・4Gamer記事で確認。Switch/Switch2版は本サイト運用時点(2026-08-03)で正式発表・発売の事実が確認できず(2025年後半に一部リーク・噂記事があるのみで公式発表なし)、対応機種には含めていない。受賞歴はThe Game Awards 2023 GOTY、BAFTA Games Awards 2024 Best Game、D.I.C.E. Awards Game of the Year、Golden Joystick Awards 2023 Ultimate Game of the Yearの4冠をそれぞれ複数の英語ニュース記事(Deadline, Forbes, PC Gamer等)で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "it-takes-two",
+    "title": "It Takes Two",
+    "titleKana": "いっとていくすつー",
+    "developerIds": [
+      "hazelight-studios"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2021-03-26",
+    "synopsis": "『A Way Out』の開発陣が手掛ける、二人協力プレイ専用のアクションアドベンチャー。離婚寸前の夫婦が魔法によって人形の姿に変えられてしまい、元の姿に戻る方法を探して不思議な庭を旅する。ステージごとに一新されるユニークなギミックとアクションが特徴で、一人ではクリアできない設計が協力プレイならではの楽しさを引き立てる。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Family"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Multiplayer"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/It_Takes_Two_(ゲーム)",
+      "officialUrl": "https://www.ea.com/ja-jp/games/it-takes-two"
+    },
+    "sourceNote": "PS5版発売日(2021-03-26)をPlayStation Blog記事で確認。Switch版は2022-11-05(DL版)/2022-12-08(パッケージ版)発売のネイティブ移植(GAME Watch・denfaminicogamer記事で確認、クラウド版ではない)のため対応機種に追加。受賞歴はThe Game Awards 2021でGame of the Year/Best Family/Best Multiplayerの3冠受賞を複数の英語記事(GameSpot, Kotaku, PC Gamer等)で確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
