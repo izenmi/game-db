@@ -5531,5 +5531,310 @@
     },
     "sourceNote": "英語版Wikipedia『Ori and the Will of the Wisps』記事(2026-08-03閲覧)で開発(Moon Studios)・Switch版発売元(iam8bit)・発売日(2020-09-18)・受賞歴を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。PS5版は記事中に記載がなく確認できなかったため対応機種に含めていない(Windows/Xbox/Switchのみ)。The Game Awards 2020は複数部門ノミネートのみで受賞は確認できなかったため未記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chrono-cross-radical-dreamers-edition",
+    "title": "クロノ・クロス ラジカルドリーマーズエディション",
+    "titleKana": "くろのくろす らじかるどりーまーずえでぃしょん",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2022-04-07",
+    "synopsis": "1999年発売のPS版『クロノ・クロス』を基にした2022年リマスター版。並行世界を巡る少年サージの冒険はそのままに、キャラクターや背景を高解像度化し、日本語含む多言語対応、エンカウント回避やオートバトルなど遊びやすさを高める新機能を搭載。前日譚『ラジカル・ドリーマーズ』の完全新規移植版も同梱する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クロノ・クロス"
+    },
+    "sourceNote": "日本語版Wikipedia『クロノ・クロス』記事(2026-08-03閲覧)でリマスター版の発売日(2022-04-07)・対応機種(Switch/PS4/Xbox One/Steam)・追加要素を確認。英語版Wikipediaで本作がPlayStation 5には対応していないことを確認したため、対応機種はswitchのみとした(PS4/Xbox One/Steamは本サイトの対象外機種)。受賞歴はオリジナル版(1999年)のものが中心で、本リマスター版自体の受賞は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "atelier-ryza-3",
+    "title": "ライザのアトリエ3 ~終わりの錬金術士と秘密の鍵~",
+    "titleKana": "らいざのあとりえすりー おわりのれんきんじゅつしとひみつのかぎ",
+    "developerIds": [
+      "gust"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-03-23",
+    "synopsis": "『ライザのアトリエ』秘密シリーズの完結編。21歳になった主人公ライザは、謎の存在「万象の大典」からの接触をきっかけに、故郷クーケン島周辺から未知の地クレリア、ネメド、そして異界オーリムへと調査の旅に出る。仲間たちと再会しながら大陸を巡り、錬金術によるアイテム作成と探索・戦闘を組み合わせて謎を解き明かしていく、シリーズ24作目のRPG。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライザのアトリエ3_〜終わりの錬金術士と秘密の鍵〜"
+    },
+    "sourceNote": "日本語版Wikipedia『ライザのアトリエ3』記事(2026-08-03閲覧)で発売日(Switch/PS5/PS4は2023-03-23、Steamは3-24)・対応機種・開発元(ガスト)・発売元(コーエーテクモゲームス)・あらすじを確認。本サイトはPS4/Steamを対象外機種とするためswitch/ps5のみ記載。受賞歴の明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dragon-quest-iii-hd-2d-remake",
+    "title": "ドラゴンクエストIII そして伝説へ…",
+    "titleKana": "どらごんくえすとすりー そしてでんせつへ",
+    "developerIds": [
+      "artdink",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2024-11-14",
+    "synopsis": "1988年発売の名作RPGをHD-2Dグラフィックで蘇らせたリメイク版。勇者オルテガの子である主人公は16歳の誕生日に父の遺志を継いで旅立ち、世界各地で起きる事件を解決しながら6つのオーブを集めて不死鳥ラーミアを復活させる。その先で待ち受ける大魔王ゾーマの野望を打ち砕く、シリーズの原点を成す王道ファンタジーRPG。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンクエストIII_そして伝説へ…"
+    },
+    "sourceNote": "日本語版Wikipedia『ドラゴンクエストIII そして伝説へ…』記事(2026-08-03閲覧)で発売日(2024-11-14)・対応機種(Switch/Switch2/PS5/Xbox Series/Steam等)・開発元(アートディンク、スクウェア・エニックス浅野チーム)・発売元・売上実績(発売1週間でSwitch版64万本超、世界累計200万本)を確認。Xbox/Steamは本サイト対象外機種のため未記載。個別の賞の受賞明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saga-frontier-2-remastered",
+    "title": "サガ フロンティア2 リマスター",
+    "titleKana": "さがふろんてぃあつー りますたー",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2025-03-28",
+    "synopsis": "1999年発売のRPGを基にしたリマスター版。術の力が浸透した架空世界サンダイルを舞台に、術を持たない王ギュスターヴ13世の波乱の生涯と、その死後何世代にもわたる歴史に隠された真実を追うナイツ家の物語を描く。新規シナリオや新規プレイアブルキャラクター「フリン」、キャラクター間で成長能力を引き継げる継承システムなどが追加されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サガフロンティア2"
+    },
+    "sourceNote": "日本語版Wikipedia『サガフロンティア2』記事(2026-08-03閲覧)で発売日(2025-03-28、前日のNintendo Direct発表後に即発売)・対応機種(PS5/PS4/Switch/Steam/iOS/Android)・開発発売元(スクウェア・エニックス)・追加要素を確認。PS4/Steam/モバイルは本サイト対象外機種のためps5/switchのみ記載。受賞歴の明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "romancing-saga-2-revenge-of-the-seven",
+    "title": "ロマンシング サガ2 リベンジ オブ ザ セブン",
+    "titleKana": "ろまんしんぐさがつー りべんじおぶざせぶん",
+    "developerIds": [
+      "xeen"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2024-10-24",
+    "synopsis": "1993年発売の名作RPGをフルリメイク。かつて世界を救った七英雄が闇の力に蝕まれ復活したことを受け、代々のアバロン皇帝を次々に操作しながら領土を広げ、各地に現れる七英雄一人ひとりを打ち倒していく。3Dグラフィックとフルボイス化、細やかな難易度調整機能を新たに搭載し、往年のファンにもシリーズ初心者にも遊びやすい作りとなっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロマンシングサガ2"
+    },
+    "sourceNote": "日本語版Wikipedia『ロマンシングサガ2』記事(2026-08-03閲覧)で発売日(Switch/PS4/PS5は2024-10-24、Steamは10-25、Switch2は2025-07-31)・開発元(Xeen、日本語表記「ジーン」)・発売元(スクウェア・エニックス)を確認。Switch2版は2025-07-31に発売済み(本日2026-08-03時点)のため対応機種に含めた。英語版WikipediaでMetacriticスコア等は確認したが、既存9アワードの受賞明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "unicorn-overlord",
+    "title": "ユニコーンオーバーロード",
+    "titleKana": "ゆにこーんおーばーろーど",
+    "developerIds": [
+      "vanillaware"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "tactical-rpg"
+    ],
+    "releaseDate": "2024-03-08",
+    "synopsis": "架空の大陸フェブリスを舞台にしたシミュレーションRPG。10年前のクーデターで母を失った亡国の王子アレインが、各地で仲間を集めながらコルニア解放軍を率いて、圧政を敷く新生ゼノイラ帝国に立ち向かう。複数キャラクターで編成した部隊を大陸各地の戦場へ同時展開し、隊列や配置を工夫しながら攻略していくリアルタイム寄りの戦略性が特徴。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ユニコーンオーバーロード"
+    },
+    "sourceNote": "日本語版Wikipedia『ユニコーンオーバーロード』記事(2026-08-03閲覧)で発売日(2024-03-08)・対応機種(Switch/PS4/PS5/Xbox Series)・開発元(ヴァニラウェア)・発売元(アトラス)・あらすじ・販売実績(世界累計100万本超)を確認。PS4/Xboxは本サイト対象外機種のためswitch/ps5のみ記載。既存9アワードでの受賞明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "prince-of-persia-the-lost-crown",
+    "title": "Prince of Persia: The Lost Crown",
+    "titleKana": "ぷりんすおぶぺるしあ ざろすとくらうん",
+    "developerIds": [
+      "ubisoft-montpellier"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania"
+    ],
+    "releaseDate": "2024-01-18",
+    "synopsis": "時間操作能力を駆使する横スクロール2Dアクションアドベンチャー。イモータル一族の若き戦士サルゴンは、呪われた山カフに囚われた王子を救出するため仲間と共に山へ向かう。格闘ゲームさながらの手応えある戦闘と、探索を通じて新たな能力を獲得し行動範囲を広げていくメトロイドヴァニア的な構造の完成度の高さが評価された。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Innovation in Accessibility 受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Lost_Crown"
+    },
+    "sourceNote": "日本語版Wikipediaに本作の独立記事が見当たらなかったため英語版Wikipedia『Prince of Persia: The Lost Crown』(2026-08-03閲覧)で発売日(2024-01-18)・対応機種(Switch/PS4/PS5/Xbox/PC等)・開発元(Ubisoft Montpellier)・発売元(Ubisoft)を確認。The Game Awards 2024の受賞部門一覧を別途確認し、「Innovation in Accessibility」を受賞した一方、Golden Joystick AwardsとDICE Awardsではノミネートに留まり受賞していないことを確認したため、それらは未記載。PS4/Xbox/PCは本サイト対象外機種のためps5/switchのみ記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "etrian-odyssey-origins-collection",
+    "title": "世界樹の迷宮 Origins Collection",
+    "titleKana": "せかいじゅのめいきゅう おりじんずこれくしょん",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-06-01",
+    "synopsis": "『世界樹の迷宮』シリーズ最初の3作(I・II・III)をまとめたリマスターコレクション。自らマッピングしながら未知の迷宮に挑む一人称ダンジョン探索RPGで、グラフィックと楽曲を刷新し、難易度選択や複数セーブ枠などの快適機能を追加。ストーリー面で改変が加えられた『Untold』版とは異なり、オリジナル版の内容を踏襲している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Etrian_Odyssey_Origins_Collection"
+    },
+    "sourceNote": "日本語版Wikipedia『世界樹の迷宮シリーズ』記事では言及がなかったため英語版Wikipedia『Etrian Odyssey Origins Collection』(2026-08-03閲覧)で確認(日本国内名称は『世界樹の迷宮 I・II・III HD REMASTER』)。発売日(2023-06-01)・対応機種がNintendo SwitchとSteamのみでPS5版は存在しないことを確認したため、対応機種はswitchのみとした(依頼にあった「Switch専売か」の確認結果: PS5非対応、本サイト対象機種内ではSwitch専売)。開発元・発売元ともにアトラス。既存9アワードでの受賞明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bravely-default-hd-2d-remaster",
+    "title": "ブレイブリーデフォルト HD-2Dリマスター",
+    "titleKana": "ぶれいぶりーでふぉると えいちでぃーつーでぃーりますたー",
+    "developerIds": [
+      "cattle-call"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2025-06-05",
+    "synopsis": "2012年発売のRPG『ブレイブリーデフォルト フライングフェアリー』をHD-2Dグラフィックで蘇らせたリマスター版。豊富なジョブでのチェンジと、行動を貯めて連続で繰り出す「ブレイブ&デフォルト」システムを軸にした王道ターン制バトルはそのままに、グラフィックとインターフェースを刷新し、新規ミニゲームなどの追加要素も収録されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブレイブリーデフォルト_フライングフェアリー"
+    },
+    "sourceNote": "日本語版Wikipedia『ブレイブリーデフォルト フライングフェアリー』記事(2026-08-03閲覧)でNintendo Switch2版の発売日(2025-06-05)・Xbox Series/Steam版(2026-03-13発売予定、本日2026-08-03時点で未発売)・発売元(スクウェア・エニックス)を確認。開発元(Cattle Call)は日本語版記事に明記がなかったため英語版Wikipedia『Cattle Call』で確認。Switch2のみ発売済みのため対応機種はswitch2のみ。既存9アワードでの受賞明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "granblue-fantasy-versus-rising",
+    "title": "グランブルーファンタジー ヴァーサス: ライジング",
+    "titleKana": "ぐらんぶるーふぁんたじーばーさす らいじんぐ",
+    "developerIds": [
+      "arc-system-works"
+    ],
+    "publisherId": "cygames",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "versus-action"
+    ],
+    "releaseDate": "2023-12-14",
+    "synopsis": "『グランブルーファンタジー ヴァーサス』の続編にあたる対戦アクション。前作のストーリーモードを収録しつつ新規エピソードを追加し、大人数が同時参加できるミニゲーム「ぐらぶるレジェンドばとるっ！」も新設された。ダウンロード専売でクロスプレイにも対応し、原作の人気キャラクターたちが本格的な2D対戦格闘の舞台で激突する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グランブルーファンタジーヴァーサス"
+    },
+    "sourceNote": "日本語版Wikipedia『グランブルーファンタジーヴァーサス』記事(2026-08-03閲覧)で発売日(PS5/PS4/Steamは2023-12-14)・開発元(アークシステムワークス)・発売元(Cygames)・あらすじを確認。Nintendo Switch2版は2026-09-17発売予定と記載されているが、本日(2026-08-03)時点でまだ発売されていないため、本サイトの収録基準(未発売タイトルは対応機種に含めない)に従いplatformsから除外した。PS4/Steamは本サイト対象外機種のためps5のみ記載。既存9アワードでの受賞明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-king-of-fighters-xv",
+    "title": "THE KING OF FIGHTERS XV",
+    "titleKana": "ざきんぐおぶふぁいたーずふぃふてぃーん",
+    "developerIds": [
+      "snk"
+    ],
+    "publisherId": "snk",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2022-02-17",
+    "synopsis": "『KOF』シリーズ第15作となる3対3のチーム制格闘ゲーム。オロチ編・ネスツ編・アッシュ編それぞれの歴代主人公キャラクターと、シリーズ初登場となる新主人公シュンエイが初めて顔をそろえるストーリーが展開される。シリーズで初めてUnreal Engine 4を採用し、グラフィックと演出面が大きくブラッシュアップされている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/THE_KING_OF_FIGHTERS_XV"
+    },
+    "sourceNote": "日本語版Wikipedia『THE KING OF FIGHTERS XV』記事(2026-08-03閲覧)で発売日(2022-02-17)・対応機種(PS4/PS5/Xbox Series/Windows)・開発発売元(SNK)・あらすじ・Unreal Engine 4採用を確認。PS4/Xbox/Windowsは本サイト対象外機種のためps5のみ記載。既存9アワードでの受賞明記は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "call-of-duty-black-ops-6",
+    "title": "コール オブ デューティ ブラックオプス6",
+    "titleKana": "こーるおぶでゅーてぃー ぶらっくおぷすしっくす",
+    "developerIds": [
+      "treyarch",
+      "raven-software"
+    ],
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter"
+    ],
+    "releaseDate": "2024-10-25",
+    "synopsis": "冷戦終結直後の1991年を舞台にしたスパイアクションFPS。CIA工作員ケースらは、正体不明の諜報組織パンテオン内部に潜む内通者の正体を追いながら、国際的な陰謀の解明に挑む。単独行動を許さない緊迫したストーリーキャンペーンに加え、シリーズ恒例の対戦マルチプレイやゾンビモードも搭載する看板シリーズ最新作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス6"
+    },
+    "sourceNote": "日本語版Wikipedia『コール オブ デューティ ブラックオプス6』記事(2026-08-03閲覧)で発売日(2024-10-25)・開発元(Treyarch、Raven Software)・発売元(アクティビジョン)・あらすじを確認。**Switch/Switch2版は存在しないことを明記のうえ確認**(同記事・複数報道でPS4/5、Xbox One/Series、Windowsのみと確認、CoDシリーズは近年Switch非対応が続いている)。The Game Awards 2024でBest Multiplayer Game等にノミネートされたが、英語版Wikipedia『The Game Awards 2024』で受賞したのはHelldivers IIであり本作は受賞していないことを確認したため、awardResultsは記載しない。PS4/Xbox/Windowsは本サイト対象外機種のためps5のみ記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "thirteen-sentinels-aegis-rim",
+    "title": "十三機兵防衛圏",
+    "titleKana": "じゅうさんきへいぼうえいけん",
+    "developerIds": [
+      "vanillaware"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "tactical-rpg"
+    ],
+    "releaseDate": "2022-04-14",
+    "synopsis": "1980年代の架空の日本を舞台に、滅びゆく運命に抗う13人の少年少女それぞれの視点を行き来しながら断片的な記憶と謎を繋ぎ合わせ、隠された真相に迫るドラマチックアドベンチャー。個々の物語パートと、巨大兵器「機兵」に搭乗して襲来する未知の敵性生命体と戦うシミュレーションバトルパートを組み合わせた二部構成が特徴となっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十三機兵防衛圏"
+    },
+    "sourceNote": "日本語版Wikipedia『十三機兵防衛圏』記事(2026-08-03閲覧)で発売日(PS4版2019-11-28、Switch版2022-04-14)・開発元(ヴァニラウェア)・発売元(アトラス)・あらすじ・評価(ファミ通38/40点、IGN JAPAN 9.5/10点)を確認。PS5/Switch2版は記事に記載がなく、本サイト対象機種はSwitch版のみのため、releaseDateはSwitch版の発売日(2022-04-14、本サイト収録基準の「収録機種内で最速の発売日」に該当)を採用。『日本オタク大賞2019』『ファミ通・電撃ゲームアワード2019』の受賞は確認したが、既存9アワード(ファミ通アワード等)とは別の賞と考えられ対応関係を確認できなかったため、awardResultsには含めず未記載とした。",
+    "updatedAt": "2026-08-03"
   }
 ]

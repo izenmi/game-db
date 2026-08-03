@@ -1756,5 +1756,106 @@
     },
     "sourceNote": "日本語版Wikipedia『シーエイプロダクション』記事(2026-08-03閲覧)で設立年・代表者・代表作を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gust",
+    "name": "ガスト",
+    "nameKana": "がすと",
+    "parentCompany": "コーエーテクモゲームス",
+    "description": "『アトリエ』シリーズを展開するコーエーテクモゲームス傘下のRPGブランド。1993年設立、2011年にコーエーテクモグループ入り、2014年にコーエーテクモゲームスへ吸収合併されブランドとして存続している。",
+    "foundedYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガスト_(ゲームブランド)"
+    },
+    "sourceNote": "日本語版Wikipedia『ガスト (ゲームブランド)』記事(2026-08-03閲覧)で設立年(1993年10月)・コーエーテクモグループ傘下入り(2011年子会社化、2014年吸収合併)・代表作(アトリエシリーズ)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "vanillaware",
+    "name": "ヴァニラウェア",
+    "nameKana": "ばにらうぇあ",
+    "description": "『オーディンスフィア』『ドラゴンズクラウン』『十三機兵防衛圏』『ユニコーンオーバーロード』などを手がける大阪拠点のゲーム開発会社。在籍者の多くがアーティストで、緻密な2Dグラフィックとドット絵アニメーションを特徴とする。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴァニラウェア"
+    },
+    "sourceNote": "日本語版Wikipedia『ヴァニラウェア』記事(2026-08-03閲覧)で設立年(2002年2月)・拠点(大阪市)・代表作(オーディンスフィア、ドラゴンズクラウン、十三機兵防衛圏、ユニコーンオーバーロード等)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "snk",
+    "name": "SNK",
+    "nameKana": "えすえぬけー",
+    "description": "『ザ・キング・オブ・ファイターズ』『餓狼伝説』『メタルスラッグ』シリーズなどで知られる格闘・アクションゲームメーカー。2001年設立で旧SNK(1978年設立、2001年倒産)の知的財産を継承。現在はサウジアラビアの投資会社Electronic Gaming Development Company傘下。",
+    "foundedYear": 2001,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SNK_(2001年設立の企業)"
+    },
+    "sourceNote": "日本語版Wikipedia『SNK (2001年設立の企業)』記事(2026-08-03閲覧)で設立年(2001年8月、当初は株式会社プレイモア)・旧SNK倒産時の知財継承・サウジアラビア資本(EGDC)傘下である旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "treyarch",
+    "name": "トレイアーチ",
+    "nameKana": "とれいあーち",
+    "parentCompany": "アクティビジョン",
+    "description": "『コール オブ デューティ ブラックオプス』シリーズを中心に手がける米ロサンゼルス拠点の開発スタジオ。1996年設立、2001年よりアクティビジョン傘下。",
+    "foundedYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Treyarch"
+    },
+    "sourceNote": "英語版Wikipedia『Treyarch』(2026-08-03閲覧)で設立年(1996年)・拠点(ロサンゼルス)・2001年のアクティビジョン買収・Black Opsシリーズでの役割を確認。日本語版Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "raven-software",
+    "name": "レイヴンソフトウェア",
+    "nameKana": "れいぶんそふとうぇあ",
+    "parentCompany": "アクティビジョン",
+    "description": "『コール オブ デューティ』シリーズの共同開発を担う米ウィスコンシン州マディソン拠点のスタジオ。1990年設立、1997年よりアクティビジョン傘下。2011年以降はコール オブ デューティシリーズの中心的な開発元の一つとなっている。",
+    "foundedYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raven_Software"
+    },
+    "sourceNote": "英語版Wikipedia『Raven Software』(2026-08-03閲覧)で設立年(1990年)・1997年のアクティビジョン買収・Call of Dutyシリーズ(Black Ops Cold War、Black Ops 6等)での共同開発実績を確認。日本語版Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "activision-blizzard",
+    "name": "アクティビジョン・ブリザード",
+    "nameKana": "あくてぃびじょんぶりざーど",
+    "parentCompany": "マイクロソフト",
+    "description": "『コール オブ デューティ』『ワールド オブ ウォークラフト』シリーズなどを擁する米大手パブリッシャー。2008年、アクティビジョンとヴィヴェンディ・ゲームズ(ブリザード・エンターテイメント含む)の合併により設立。2023年10月にマイクロソフトが買収を完了した。",
+    "foundedYear": 2008,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アクティビジョン・ブリザード"
+    },
+    "sourceNote": "日本語版Wikipedia『アクティビジョン・ブリザード』記事(2026-08-03閲覧)で設立経緯(2008年7月、アクティビジョンとヴィヴェンディ・ゲームズの合併)・マイクロソフトによる買収完了(2023年10月)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ubisoft-montpellier",
+    "name": "ユービーアイソフト・モンペリエ",
+    "nameKana": "ゆーびーあいそふともんぺりえ",
+    "parentCompany": "ユービーアイソフト",
+    "description": "『レイマン』シリーズや『Prince of Persia: The Lost Crown』(2024年)を手掛けるユービーアイソフト傘下のフランス・モンペリエ拠点スタジオ。1994年に「Ubi Pictures」として設立された。",
+    "foundedYear": 1994,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montpellier"
+    },
+    "sourceNote": "英語版Wikipedia『Ubisoft Montpellier』(2026-08-03閲覧)で設立年(1994年、Ubi Picturesとして)・代表作(レイマンシリーズ、Prince of Persia: The Lost Crown)を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cattle-call",
+    "name": "Cattle Call",
+    "nameKana": "きゃとるこーる",
+    "description": "『メタルマックス』シリーズや『Dungeon Encounters』などで知られる東京都中野区拠点のゲーム開発会社。1998年設立(旧データイースト出身メンバーが中心)。スクウェア・エニックスとの協業作品を多く手掛け、『ブレイブリーデフォルト HD-2Dリマスター』(2025年)を開発した。",
+    "foundedYear": 1998,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cattle_Call_(company)"
+    },
+    "sourceNote": "英語版Wikipedia『Cattle Call』(2026-08-03閲覧)で設立年(1998年3月)・拠点(東京都中野区)・スクウェア・エニックスとの協業歴・ブレイブリーデフォルトHD-2Dリマスターの開発元であることを確認。日本語版Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
