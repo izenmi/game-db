@@ -3075,5 +3075,141 @@
     },
     "sourceNote": "英語版Wikipedia『Farming Simulator』記事(2026-08-03 WebFetch閲覧)で2008年以降シリーズの開発元であることを確認。設立年・拠点都市の詳細は一次情報源で確認できず未記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "storm-trident",
+    "name": "Storm Trident",
+    "nameKana": "すとーむとらいでんと",
+    "description": "「FRONT MISSION 2: Remake」等を手掛けるゲーム開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Front Mission 2』(2026-08-03、WebFetch)でFRONT MISSION 2: Remakeの開発元として確認。詳細な沿革・所在地は一次資料に乏しく未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "forever-entertainment",
+    "name": "Forever Entertainment",
+    "nameKana": "ふぉーえばーえんたーていんめんと",
+    "description": "クラシックタイトルのリメイク作品を多数手掛けるポーランドのゲームパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Front Mission 2』(2026-08-03、WebFetch)でFRONT MISSION 2: Remakeの発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "media-vision",
+    "name": "メディア・ビジョン",
+    "nameKana": "めでぃあびじょん",
+    "description": "「戦場のヴァルキュリア」シリーズ等を手掛ける日本のゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『戦場のヴァルキュリア4』(2026-08-03、WebFetch)で開発元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "matrix-software",
+    "name": "マトリックスソフト",
+    "nameKana": "まとりっくすそふと",
+    "description": "「ブリガンダイン」シリーズ等を手掛ける日本のゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Brigandine: The Legend of Runersia』(2026-08-03、WebFetch)で開発元(Matrix Software)として確認。日本語表記は一般的な表記に基づく。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "happinet",
+    "name": "ハピネット",
+    "nameKana": "はぴねっと",
+    "description": "映像・ゲームソフト等を扱う日本の総合エンタテインメント企業。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Brigandine: The Legend of Runersia』(2026-08-03、WebFetch)で発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "aspyr-media",
+    "name": "Aspyr Media",
+    "nameKana": "あすぱいあめでぃあ",
+    "description": "PC/Mac/家庭用機への移植作業を専門とする米国のゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Civilization VI』『Aspyr』(2026-08-03、WebFetch)でNintendo Switch版の移植を担当したことを確認。パブリッシャーとしての関与か開発のみかは一次資料で明確化できず未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shiro-games",
+    "name": "Shiro Games",
+    "nameKana": "しろげーむす",
+    "description": "「Wartales」等を手掛けるフランスのインディーゲーム開発会社。自社レーベル「Shiro Unlimited」名義で発売も行う。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Wartales』(2026-08-03、WebFetch)で開発元(Shiro Games)・発売元(Shiro Unlimited)として確認。両者は同一グループのため単一idで登録。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "triumph-studios",
+    "name": "Triumph Studios",
+    "nameKana": "とらいあんふすたじおず",
+    "description": "「Age of Wonders」シリーズを手掛けるオランダのゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Age of Wonders 4』(2026-08-03、WebFetch)で開発元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "paradox-interactive",
+    "name": "Paradox Interactive",
+    "nameKana": "ぱらどっくすいんたらくてぃぶ",
+    "description": "戦略シミュレーションゲームを中心に扱うスウェーデンのゲームパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Age of Wonders 4』(2026-08-03、WebFetch)で発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "subset-games",
+    "name": "Subset Games",
+    "nameKana": "さぶせっとげーむず",
+    "description": "「FTL: Faster Than Light」「Into the Breach」等を手掛ける米国の小規模インディーゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Into the Breach』(2026-08-03、WebFetch)で開発元・発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "6-eyes-studio",
+    "name": "6 Eyes Studio",
+    "nameKana": "しっくすあいずすたじお",
+    "description": "「Fell Seal: Arbiter's Mark」を手掛けるカナダのインディーゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Fell Seal: Arbiter's Mark』(2026-08-03、WebFetch)で開発元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "1c-entertainment",
+    "name": "1C Entertainment",
+    "nameKana": "わんしーえんたーていんめんと",
+    "description": "「Fell Seal: Arbiter's Mark」等を扱うゲームパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Fell Seal: Arbiter's Mark』(2026-08-03、WebFetch)で発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "stoic",
+    "name": "Stoic",
+    "nameKana": "すといっく",
+    "description": "「The Banner Saga」シリーズを手掛ける米国のインディーゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『The Banner Saga』(2026-08-03、WebFetch)で開発元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "versus-evil",
+    "name": "Versus Evil",
+    "nameKana": "ばーさすいーびる",
+    "description": "インディーゲームを中心に扱う米国のゲームパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『The Banner Saga』(2026-08-03、WebFetch)で発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bb-studio",
+    "name": "B.B.スタジオ",
+    "nameKana": "びーびーすたじお",
+    "parentCompany": "バンダイナムコエンターテインメント",
+    "description": "「スーパーロボット大戦」シリーズ等を手掛ける、バンダイナムコグループの日本のゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『スーパーロボット大戦30』(2026-08-03、WebFetch)で開発元として確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

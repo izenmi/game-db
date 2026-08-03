@@ -9530,5 +9530,357 @@
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia『Farming Simulator』シリーズ記事(2026-08-03、WebFetchで確認)でFarming Simulator 25の開発・発売元(いずれもGIANTS Software)・発売日(2024-11-12)・対応機種(Windows/macOS/PS5/Xbox)を確認。Switch向けには2026-05-19に別途モバイル版が配信されたとの記載があるが、本体2024年版とは異なるエディションと判断し、platformsにはPS5のみを含めた。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-rabbids-kingdom-battle",
+    "title": "マリオ+ラビッツ キングダムバトル",
+    "titleKana": "まりおぷらすらびっつきんぐだむばとる",
+    "developerIds": [
+      "ubisoft"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy",
+      "shooter"
+    ],
+    "releaseDate": "2018-01-18",
+    "synopsis": "きのこ王国に謎の融合装置が墜落し、マリオたちの世界とラビッツたちが入り乱れる。銀河のならず者集団に立ち向かうため、マリオ・ルイージ・ピーチとラビッツの混成チームを操作し、遮蔽物を活かしたカバー越しの銃撃と移動を組み合わせるターン制の戦術バトルを繰り広げる。任天堂とユービーアイソフトの異色コラボによるシミュレーションRPGの第1作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオ+ラビッツ_キングダムバトル"
+    },
+    "sourceNote": "日本語版Wikipedia『マリオ+ラビッツ キングダムバトル』(2026-08-03、WebFetch)で国内発売日(2018-01-18、日本・韓国・台湾・香港向け)・対応機種(Switch)・開発元(ユービーアイソフト)・発売元(東アジアは任天堂)を確認。続編『ギャラクシーバトル』が既収録のため、本作は未収録の第1作として追加。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tactics-ogre-reborn",
+    "title": "タクティクスオウガ リボーン",
+    "titleKana": "たくてぃくすおうがりぼーん",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "rpg"
+    ],
+    "releaseDate": "2022-11-11",
+    "synopsis": "ヴァレリア諸島を舞台に、民族対立と権力争いに翻弄される主人公デニムの運命を描く、1995年発売の名作シミュレーションRPGのリメイク版。原作の重厚な群像劇とマルチストーリー・マルチエンディング構成はそのままに、戦闘バランスの再調整、フルボイス化、新規シナリオの追加、UIの刷新などが行われ、現代のハードで改めて遊びやすく作り直されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tactics_Ogre:_Reborn"
+    },
+    "sourceNote": "英語版Wikipedia『Tactics Ogre: Reborn』(2026-08-03、WebFetch)で発売日(2022-11-11)・対応機種(PS4/PS5/Switch/PC)・開発元/発売元(スクウェア・エニックス)を確認。日本語版Wikipediaは旧作『タクティクスオウガ』記事に統合されているため一次確認は英語版に拠った。本サイトはPS5/Switchのみ収録(PS4/PCは対応機種の対象外)。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "front-mission-2-remake",
+    "title": "FRONT MISSION 2: Remake",
+    "titleKana": "ふろんとみっしょんつーりめいく",
+    "developerIds": [
+      "storm-trident"
+    ],
+    "publisherId": "forever-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy"
+    ],
+    "releaseDate": "2023-10-05",
+    "synopsis": "架空の島国ジーンで勃発した内戦を舞台に、ウォンザーと呼ばれる人型兵器の部隊を指揮する戦略シミュレーションRPG。マス目状の戦場で敵味方が部位ごとに攻撃・破壊を狙い合う駆け引きが特徴で、1997年発売の原作をグラフィック・戦闘バランス両面で刷新し、当時オミットされた要素の復活も図ったリメイク版として展開されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Front_Mission_2"
+    },
+    "sourceNote": "英語版Wikipedia『Front Mission 2』(2026-08-03、WebFetch)でFRONT MISSION 2: Remakeの開発元(Storm Trident)・発売元(Forever Entertainment)・対応機種・発売日を確認。Switch版はダウンロード版が2023-10-05、パッケージ版が2024-02-15、PS4/PS5パッケージ版が2024-08-29発売(releaseDateは収録機種内最速のSwitch版digital日を採用)。日本語ローカライズの有無・日本語版Wikipedia記事の存在は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "disgaea-6",
+    "title": "魔界戦記ディスガイア6",
+    "titleKana": "まかいせんきでぃすがいあしっくす",
+    "developerIds": [
+      "nippon-ichi-software"
+    ],
+    "publisherId": "nippon-ichi-software",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "rpg"
+    ],
+    "releaseDate": "2021-01-28",
+    "synopsis": "魔界を舞台に、不死身の主人公ゼッドが最強の存在を目指してひたすら戦い続けるダークファンタジーシミュレーションRPGのシリーズ第6作。シリーズ初の3Dグラフィックを採用し、キャラクターのレベル上限やダメージ上限が大幅に引き上げられたほか、自動で戦闘を繰り返せる「オートバトル」機能を新搭載し、周回のやり込みをより手軽に楽しめるようになった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔界戦記ディスガイア6"
+    },
+    "sourceNote": "日本語版Wikipedia『魔界戦記ディスガイア6』(2026-08-03、WebFetch)で開発元・発売元(日本一ソフトウェア)・対応機種(Switch/PS4/PS5/Steam)・発売日(Switch/PS4版2021-01-28、PS5版2022-06-16)を確認。releaseDateは収録機種(Switch/PS5)内最速のSwitch版日付を採用。PS4は対応機種の対象外。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "valkyria-chronicles-4",
+    "title": "戦場のヴァルキュリア4",
+    "titleKana": "せんじょうのばるきゅりあふぉー",
+    "developerIds": [
+      "media-vision"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy",
+      "shooter"
+    ],
+    "releaseDate": "2018-09-27",
+    "synopsis": "第二次ヨーロッパ大戦を舞台にしたシリーズ第4弾。連邦軍の一兵士クロードの手記を通じて、これまでのシリーズで描かれてこなかった北部戦線「ノーザンクロス作戦」の顛末と、そこに集う個性的な仲間たちの人間ドラマが語られる。マップ上での部隊配置とユニットを直接操作して狙い撃つリアルタイム要素を組み合わせた戦闘システム「BLiTZ」が特徴。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦場のヴァルキュリア4"
+    },
+    "sourceNote": "日本語版Wikipedia『戦場のヴァルキュリア4』(2026-08-03、WebFetch)で開発元(メディア・ビジョン)・発売元(セガゲームス、現・セガとして登録)・対応機種(PS4/Steam/Switch)・発売日(PS4版2018-03-21、Switch版2018-09-27)を確認。本サイトはPS5/Switch2非対応のためSwitch版のみ収録し、releaseDateはSwitch版発売日を採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "brigandine-legend-of-runersia",
+    "title": "ブリガンダイン ルーナジア戦記",
+    "titleKana": "ぶりがんだいんるーなじあせんき",
+    "developerIds": [
+      "matrix-software"
+    ],
+    "publisherId": "happinet",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy"
+    ],
+    "releaseDate": "2020-06-25",
+    "synopsis": "大陸ルーナジアの覇権を巡り、6つの国家のいずれかを選んで争う戦略シミュレーション。ルーンナイトと契約召喚モンスターからなる部隊を編成し、各拠点で繰り広げるターン制バトルと、複数拠点を同時並行で奪い合う広域の陣取り要素を両立させている。国家ごとに異なる指導者と歴史が用意されており、選ぶ勢力によって物語の視点が大きく変わる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigandine:_The_Legend_of_Runersia"
+    },
+    "sourceNote": "英語版Wikipedia『Brigandine: The Legend of Runersia』(2026-08-03、WebFetch)で開発元(Matrix Software)・発売元(Happinet)・対応機種(Switch/PS4/Steam)・発売日(Switch版2020-06-25、PS4版2020-12-10)を確認。本サイトはPS4非対応のためSwitch版のみ収録。国内正式タイトル表記は既知の一般表記に基づく(日本語版Wikipedia記事は本セッションでは到達できず未確認)。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "civilization-6",
+    "title": "シヴィライゼーションVI",
+    "titleKana": "しびらいぜーしょんしっくす",
+    "developerIds": [
+      "firaxis-games",
+      "aspyr-media"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "strategy"
+    ],
+    "releaseDate": "2018-11-16",
+    "synopsis": "石器時代から未来まで、一つの文明を導いて発展させていくターン制4X戦略ゲーム。都市の発展を複数マスに分散させる「区域」システムや、条件達成で研究を加速させる「ユーレカ」等の新要素が特徴で、軍事・文化・科学・宗教など複数の勝利条件を通じて他文明との覇権争いを繰り広げる。Nintendo Switch版は携帯モードでの操作にも対応し、外出先でも文明を育てる楽しみを味わえる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Civilization_VI"
+    },
+    "sourceNote": "英語版Wikipedia『Civilization VI』(2026-08-03、WebFetch)で開発元(Firaxis Games)・Switch版の発売日(2018-11-16)・Switch版の移植をAspyr Mediaが担当したことを確認。publisherIdは既存の2K Games(id: 2k)を採用したが、Switch版が実際に2Kブランドで発売されたか、Aspyr独自パブリッシュだったかは一次資料で確定できず未確認(sourceNoteに明記)。日本語版Wikipediaのページ名特定に失敗したため英語版のみで裏取り。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nobunaga-ambition-shinsei",
+    "title": "信長の野望・新生",
+    "titleKana": "のぶながのやぼうしんせい",
+    "developerIds": [
+      "koei-tecmo"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch",
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2022-07-21",
+    "synopsis": "シブサワ・コウ40周年記念作として制作された、シリーズ第16作にあたる歴史シミュレーション。郡や代官を任命して地方統治を委任できるようになるなど内政の裁量が広がり、より緻密で骨太な国盗りが楽しめる。発売後にはシステムを大幅に拡張するパワーアップキットが追加され、さらに新規武将やシナリオを盛り込んだコンプリート版がPlayStation 5・Nintendo Switch 2向けにも展開されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/信長の野望・新生"
+    },
+    "sourceNote": "日本語版Wikipedia『信長の野望・新生』(2026-08-03、WebFetch)で開発元・発売元(コーエーテクモゲームス)・初版発売日(2022-07-21、Windows/Switch/PS4)・パワーアップキット版(2023-07-20)・コンプリートエディション版のPS5/Switch2対応(2025-06-05)を確認。同一タイトルの機種拡張と判断し1エントリで収録、releaseDateは収録機種内最速の初版発売日を採用。PS4は対応機種の対象外。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "xcom-2-collection",
+    "title": "XCOM 2 コレクション",
+    "titleKana": "えっくすこむつーこれくしょん",
+    "developerIds": [
+      "firaxis-games"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy"
+    ],
+    "releaseDate": "2020-05-29",
+    "synopsis": "地球を征服した謎の勢力「アドヴェント」に対し、地下に潜伏する残存レジスタンス部隊を率いて反攻するターン制ストラテジー。移動要塞となる母艦を運営して兵士を育成・強化しながら、各地に散らばる戦闘任務やゲリラ作戦をこなしていく。Nintendo Switch版はDLCや拡張パックを一通り含む「コレクション」としてまとめて収録されている点が特徴。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/XCOM_2"
+    },
+    "sourceNote": "日本語版Wikipedia『XCOM 2』(2026-08-03、WebFetch)で、DLC・拡張パックを含むNintendo Switch版が『XCOM 2 コレクション』のタイトルで2020-05-29に発売されたこと、開発元(Firaxis Games)・発売元(2K Games)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "wartales",
+    "title": "Wartales",
+    "titleKana": "うぉーているず",
+    "developerIds": [
+      "shiro-games"
+    ],
+    "publisherId": "shiro-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy",
+      "sandbox"
+    ],
+    "releaseDate": "2023-09-14",
+    "synopsis": "疫病の惨禍から立ち直りつつある低ファンタジー世界を舞台に、傭兵団を率いて生き延びていくサンドボックス型の戦略RPG。決まった主人公や一本道の筋書きは存在せず、資源集めや依頼、他勢力との交渉、密輸などをこなしながらターン制の戦闘を繰り返し、団員の増減や装備の充実を通じて自分たちだけの傭兵団の物語を紡いでいく自由度の高さが持ち味。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wartales"
+    },
+    "sourceNote": "英語版Wikipedia『Wartales』(2026-08-03、WebFetch)で開発元(Shiro Games)・発売元(Shiro Unlimited、同一グループのためshiro-gamesのidで登録)・対応機種(Windows/Switch/Xbox Series)・発売日(Windows版2023-04-12、Switch版2023-09-14)を確認。本サイトはSwitch版のみ収録(PS5版は現時点で未確認)。日本語ローカライズの有無は未確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "age-of-wonders-4",
+    "title": "Age of Wonders 4",
+    "titleKana": "えいじおぶわんだーずふぉー",
+    "developerIds": [
+      "triumph-studios"
+    ],
+    "publisherId": "paradox-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "strategy"
+    ],
+    "releaseDate": "2023-05-02",
+    "synopsis": "魔力が長い沈黙を経て復活した世界アスラを舞台に、人間の英雄または蘇った魔王のいずれかとして独自の勢力を築くファンタジー4Xストラテジー。多彩な種族・形態・特性を自由に組み合わせて自分だけの勢力を作れるカスタマイズ性が特徴で、軍事征服だけでなく領土拡大や魔法の探求など複数の方針から覇権を目指せる懐の深さを持つ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Age_of_Wonders_4"
+    },
+    "sourceNote": "英語版Wikipedia『Age of Wonders 4』(2026-08-03、WebFetch)で開発元(Triumph Studios)・発売元(Paradox Interactive)・対応機種(Windows/PS5/Xbox Series)・発売日(2023-05-02)を確認。Switch版は非対応のためPS5のみ収録。日本語ローカライズの有無・日本語版Wikipedia記事の存在は未確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "into-the-breach",
+    "title": "Into the Breach",
+    "titleKana": "いんとうざぶりーち",
+    "developerIds": [
+      "subset-games"
+    ],
+    "publisherId": "subset-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "strategy",
+      "roguelike"
+    ],
+    "releaseDate": "2018-08-28",
+    "synopsis": "巨大な怪物「ヴェク」の侵攻から民間施設を守るため、時を超えてやってきたパイロットが3体のメカを操作する8×8マスの戦術パズル的ストラテジー。敵ユニットの次の攻撃対象と方向があらかじめ示されるため、被害を最小限に抑える先読みの駆け引きが核となる。一区切りごとにパイロットの経験だけを引き継いで時間を遡れる独特の周回構造も特徴。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Into_the_Breach"
+    },
+    "sourceNote": "英語版Wikipedia『Into the Breach』(2026-08-03、WebFetch)で開発元・発売元(Subset Games)・Switch版発売日(2018-08-28)・対応機種(Windows/macOS/Switch/Linux等、PS系は非対応)を確認。日本語版Wikipedia記事・日本語ローカライズの有無は未確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fell-seal-arbiters-mark",
+    "title": "Fell Seal: Arbiter's Mark",
+    "titleKana": "ふぇるしーるあーびたーずまーく",
+    "developerIds": [
+      "6-eyes-studio"
+    ],
+    "publisherId": "1c-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "rpg"
+    ],
+    "releaseDate": "2019-08-13",
+    "synopsis": "法と秩序を守る執行官「アービター」たちを操作するクラシックスタイルの戦略RPG。とある貴族を殺人容疑で拘束したことをきっかけに、報復として巻き起こる大きな陰謀に主人公たちが巻き込まれていく。多彩なクラスチェンジと役職の自由な組み合わせによる部隊編成、敗北即終了の「根絶モード」を含む複数の難易度設定が用意されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fell_Seal:_Arbiter%27s_Mark"
+    },
+    "sourceNote": "英語版Wikipedia『Fell Seal: Arbiter's Mark』(2026-08-03、WebFetch)で開発元(6 Eyes Studio)・発売元(1C Entertainment)・Switch版発売日(2019-08-13)・対応機種(Windows/PS4/Xbox One/Switch)を確認。本サイトはSwitch版のみ収録(PS4非対応)。日本語版Wikipedia記事・日本語ローカライズの有無は未確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "banner-saga",
+    "title": "The Banner Saga",
+    "titleKana": "ざばなーさーが",
+    "developerIds": [
+      "stoic"
+    ],
+    "publisherId": "versus-evil",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2018-05-17",
+    "synopsis": "北欧神話を思わせる世界を旅する隊商を率い、争いの絶えない大地を渡り歩く物語重視の戦略RPG。旅の途中で立場の異なる二人の主人公の視点が徐々に交錯していく構成で、道中の選択によって仲間の生死や隊商の行く末が変化する。マス目上でユニットを配置して戦うターン制バトルと、食料や仲間の管理といった隊商運営の要素を組み合わせている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Banner_Saga"
+    },
+    "sourceNote": "英語版Wikipedia『The Banner Saga』(2026-08-03、WebFetch)で開発元(Stoic)・発売元(Versus Evil)・対応機種(Windows/OS X/Linux/iOS/Android/PS4/Xbox One/Switch)・発売日(PS4版2016-01-12、Switch版2018-05-17)を確認。本サイトはPS4非対応のためSwitch版のみ収録、releaseDateはSwitch版日付を採用。日本語版Wikipedia記事・日本語ローカライズの有無は未確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-robot-wars-30",
+    "title": "スーパーロボット大戦30",
+    "titleKana": "すーぱーろぼっとたいせんさーてぃ",
+    "developerIds": [
+      "bb-studio"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy"
+    ],
+    "releaseDate": "2021-10-28",
+    "synopsis": "シリーズ30周年を記念して制作された、多数のロボットアニメ作品がクロスオーバーするシミュレーションRPG。複数の戦域から任意のポイントを選んで攻略順を決められる「タクティカル・エリア・セレクト」を新搭載し、どの順番で挑むかによって入手できる機体やキャラクター、明かされるストーリー展開が変化するため、周回プレイのしがいがある一作となっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーロボット大戦30"
+    },
+    "sourceNote": "日本語版Wikipedia『スーパーロボット大戦30』(2026-08-03、WebFetch)で開発元(B.B.スタジオ)・発売元(バンダイナムコエンターテインメント)・対応機種(Switch/PS4/Steam)・発売日(2021-10-28)を確認。本サイトはPS4非対応のためSwitch版のみ収録。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]
