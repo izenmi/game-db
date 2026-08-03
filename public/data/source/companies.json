@@ -1548,5 +1548,213 @@
     },
     "sourceNote": "英語版Wikipedia「Team17」で設立年・概要・公式サイトを確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "obsidian-entertainment",
+    "name": "オブシディアン・エンターテインメント",
+    "nameKana": "おぶしでぃあん・えんたーていんめんと",
+    "parentCompany": "Xbox Game Studios (Microsoft)",
+    "description": "『Fallout: New Vegas』『The Outer Worlds』『Grounded』等で知られるアメリカのRPG開発会社。2003年設立、2018年にマイクロソフトに買収されXbox Game Studios傘下となった。",
+    "foundedYear": 2003,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Obsidian_Entertainment"
+    },
+    "sourceNote": "英語版Wikipedia『Obsidian Entertainment』記事(2026-08-03閲覧)で設立年・所在地・マイクロソフト買収経緯を確認。日本語版記事は見つからなかったため英語版を使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "xbox-game-studios",
+    "name": "Xbox Game Studios",
+    "nameKana": "えっくすぼっくすげーむすたじおず",
+    "parentCompany": "Microsoft",
+    "description": "マイクロソフトのゲームパブリッシング部門。2000年に「Microsoft Games」として設立され、複数回の改称を経て2019年に現名称となった。Xboxおよび他プラットフォーム向けタイトルを展開する。",
+    "foundedYear": 2000,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Xbox_Game_Studios"
+    },
+    "sourceNote": "日本語版Wikipedia『Xbox Game Studios』記事(2026-08-03閲覧)で設立経緯・沿革を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tour-de-pizza",
+    "name": "Tour De Pizza",
+    "nameKana": "つあーでゅぴざ",
+    "description": "『ピザタワー』の開発を手掛けたインディー開発ユニット。デザイナー「McPig」を中心に2018年頃から約5年をかけて同作を制作し、プログラマー「Sertif」らが開発に加わった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pizza_Tower"
+    },
+    "sourceNote": "英語版Wikipedia『Pizza Tower』記事(2026-08-03閲覧)内の開発者情報を確認。Tour De Pizza単独の記事は見つからず、設立年・法人所在地は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fangamer",
+    "name": "Fangamer",
+    "nameKana": "ふぁんげーまー",
+    "description": "『Undertale』『Hollow Knight』『ピザタワー』等インディーゲームのパッケージ版制作・物販を手掛けるアメリカの出版・マーチャンダイズ企業。ファンサイト「Starmen.net」から派生し2007年設立。",
+    "foundedYear": 2007,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fangamer"
+    },
+    "sourceNote": "英語版Wikipedia『Fangamer』記事(2026-08-03閲覧)で設立経緯・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bytten-studio",
+    "name": "Bytten Studio",
+    "nameKana": "びってんすたじお",
+    "description": "『カセットビースト』を開発したイギリスのインディーゲームスタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cassette_Beasts"
+    },
+    "sourceNote": "英語版Wikipedia『Cassette Beasts』記事(2026-08-03閲覧)で開発元表記を確認。Bytten Studio単独の詳細記事(設立年・所在地の一次情報)は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "raw-fury",
+    "name": "Raw Fury",
+    "nameKana": "ろうふゅーりー",
+    "description": "『カセットビースト』『Kingdom』『Sable』等を手掛けるスウェーデン・ストックホルム拠点のインディーゲームパブリッシャー。2015年設立。",
+    "foundedYear": 2015,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raw_Fury"
+    },
+    "sourceNote": "英語版Wikipedia『Raw Fury』記事(2026-08-03閲覧)で設立年・所在地・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "matthias-linda",
+    "name": "マティアス・リンダ",
+    "nameKana": "まてぃあすりんだ",
+    "description": "『チェインドエコーズ』を一人で開発したインディーゲームクリエイター。開発会社名は確認できず、個人開発者としてクレジットされている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chained_Echoes"
+    },
+    "sourceNote": "英語版Wikipedia『Chained Echoes』記事(2026-08-03閲覧)で個人開発者名を確認。スタジオ名の有無は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "deck13-spotlight",
+    "name": "Deck13 Spotlight",
+    "nameKana": "でっきさーてぃーんすぽっとらいと",
+    "parentCompany": "Focus Entertainment",
+    "description": "ドイツのゲーム会社Deck13が展開するインディーゲーム出版レーベル。『チェインドエコーズ』等を発売。Deck13自体は2001年設立、2020年にFocus Entertainment傘下となった。",
+    "foundedYear": 2001,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Deck13"
+    },
+    "sourceNote": "英語版Wikipedia『Deck13』記事(2026-08-03閲覧)で親会社・設立年を確認。「Deck13 Spotlight」という出版レーベル自体の独立記事は見つからず、Chained Echoes等の発売元表記から存在を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "playdead",
+    "name": "Playdead",
+    "nameKana": "ぷれいでっど",
+    "description": "『LIMBO』『INSIDE』で知られるデンマーク・コペンハーゲンのインディーゲーム開発会社。2006年、Arnt JensenとDino Pattiにより設立。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Playdead"
+    },
+    "sourceNote": "日本語版Wikipedia『Playdead』記事(2026-08-03閲覧)で設立年・所在地・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "house-house",
+    "name": "House House",
+    "nameKana": "はうすはうす",
+    "description": "『Untitled Goose Game』を開発したオーストラリア・メルボルンの4人組インディースタジオ。2014年設立。",
+    "foundedYear": 2014,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/House_House"
+    },
+    "sourceNote": "英語版Wikipedia『House House』記事(2026-08-03閲覧)で設立年・所在地・メンバー構成を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "panic",
+    "name": "Panic",
+    "nameKana": "ぱにっく",
+    "description": "macOS/iOS向けソフトウェアで知られるアメリカ・ポートランドの企業。『Firewatch』『Untitled Goose Game』の発売や携帯ゲーム機Playdateの開発も手掛ける。1997年設立。",
+    "foundedYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Panic_Inc."
+    },
+    "sourceNote": "英語版Wikipedia『Panic Inc.』記事(2026-08-03閲覧)で設立年・事業内容を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ghost-town-games",
+    "name": "Ghost Town Games",
+    "nameKana": "ごーすとたうんげーむす",
+    "description": "『Overcooked』シリーズを開発したイギリス・ケンブリッジのインディースタジオ。Phil DuncanとOli De-Vineの2人により設立。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Overcooked_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Overcooked (video game)』記事(2026-08-03閲覧)で開発者名・所在地を確認。設立年の明記はなし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "moon-studios",
+    "name": "Moon Studios",
+    "nameKana": "むーんすたじおず",
+    "description": "『Ori and the Blind Forest』『Ori and the Will of the Wisps』を手掛けたオーストリア・ウィーン拠点の開発会社。2010年、Thomas MahlerとGennadiy Korolにより設立。世界各国から集まったリモートチーム体制で知られる。",
+    "foundedYear": 2010,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moon_Studios"
+    },
+    "sourceNote": "英語版Wikipedia『Moon Studios』記事(2026-08-03閲覧)で設立年・所在地・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "iam8bit",
+    "name": "iam8bit",
+    "nameKana": "あいあむえいとびっと",
+    "description": "レコードやグッズ販売、ゲーム発売を手掛けるアメリカ・ロサンゼルスの企業。『Ori and the Will of the Wisps』Nintendo Switch版の発売元を務めた。2005年設立。",
+    "foundedYear": 2005,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iam8bit"
+    },
+    "sourceNote": "英語版Wikipedia『iam8bit』記事(2026-08-03閲覧)で設立年・事業内容・Switch版発売元としての役割を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "localthunk",
+    "name": "LocalThunk",
+    "nameKana": "ろーかるさんく",
+    "description": "『Balatro』を開発したカナダ・サスカチュワン州拠点の個人インディーゲーム開発者(ペンネーム)。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Balatro"
+    },
+    "sourceNote": "日本語版Wikipedia『Balatro』記事(2026-08-03閲覧)で開発者名(ペンネーム)・拠点を確認。本名は非公開のため未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "playstack",
+    "name": "Playstack",
+    "nameKana": "ぷれいすたっく",
+    "description": "『Balatro』を発売したパブリッシャー。設立年・所在地の詳細は情報源からは確認できなかった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia『Balatro』記事でPlaystackが発売元と記載されていることを確認。ただしPlaystack自体の独立記事は日英いずれのWikipediaでも見つからず、設立年・所在地等は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "will",
+    "name": "ウィル",
+    "nameKana": "うぃる",
+    "description": "マリオパーティシリーズの開発協力等で知られる日本のゲーム開発会社。",
+    "externalLinks": {},
+    "sourceNote": "『スーパーマリオパーティ ジャンボリー』の開発クレジットにウィルの名が含まれることを日本語版Wikipedia記事(2026-08-03閲覧)経由で確認。ウィル単独のWikipedia記事は見つからず、設立年等の詳細は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ca-production",
+    "name": "シーエイプロダクション",
+    "nameKana": "しーえいぷろだくしょん",
+    "description": "マリオパーティシリーズの開発協力や『世界のアソビ大全51』等で知られる長崎県大村市のゲーム開発会社。1993年設立、代表は辻川治。",
+    "foundedYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シーエイプロダクション"
+    },
+    "sourceNote": "日本語版Wikipedia『シーエイプロダクション』記事(2026-08-03閲覧)で設立年・代表者・代表作を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -5141,5 +5141,395 @@
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia「Blasphemous 2」で開発元(The Game Kitchen)・発売元(Team17)・各プラットフォーム発売日・概要を確認。Switch/PS5/Xbox/PC同時発売(2023-08-24)、PS4/Xbox One版は同年11月2日追加。日本語版Wikipedia記事は未発見のため英語版を採用。受賞歴の記載なし。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "grounded",
+    "title": "Grounded",
+    "titleKana": "ぐらうんでっど",
+    "developerIds": [
+      "obsidian-entertainment"
+    ],
+    "publisherId": "xbox-game-studios",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "sandbox",
+      "co-op"
+    ],
+    "releaseDate": "2024-04-16",
+    "synopsis": "庭に仕掛けられた謎の装置により昆虫サイズまで縮小してしまった4人のティーンエイジャーが、巨大化した庭の世界でサバイバルを繰り広げるオープンワールド協力アクション。素材を集めて拠点を築き、アリやクモなどの脅威と戦いながら、失われた記憶と縮小の謎、そしてOminent社の陰謀を追う。最大4人までの協力プレイに対応。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2022,
+        "result": "Xbox Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grounded_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Grounded (video game)』記事(2026-08-03閲覧)で開発・発売元・PS5/Switch版発売日(2024-04-16)・受賞歴を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。Golden Joystick Awards受賞の正確な開催年は記事中に明記がなく、文脈(同時期の26th DICE Awardsノミネート等)から2022年と推定した点は要注意(未確認)。Switch2版は確認できず対応機種に含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pizza-tower",
+    "title": "ピザタワー",
+    "titleKana": "ぴざたわー",
+    "developerIds": [
+      "tour-de-pizza"
+    ],
+    "publisherId": "fangamer",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2024-08-27",
+    "synopsis": "ピザ職人ペピーノが、経営難のピザ店を守るため、頂上に潜む宿敵ピザフェイスの阻止を目指しタワーを駆け上がる高速横スクロールアクション。制限時間内にステージ入口まで戻らなければならない「脱出パート」など独特のギミックを持つ5つのフロア・20ステージを、勢いを止めずに駆け抜けるスピード感あふれるプレイが持ち味の、5年の歳月をかけて作られたインディー作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pizza_Tower"
+    },
+    "sourceNote": "英語版Wikipedia『Pizza Tower』記事(2026-08-03閲覧)で開発・発売元・プラットフォーム別発売日を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。PS5版は記事中に記載がなく確認できなかったため対応機種に含めていない(PC・Switchのみ)。受賞歴はThe Game Awards 2023やGDC Awards 2024等でのノミネートのみで受賞は確認できなかったため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cassette-beasts",
+    "title": "カセットビースト",
+    "titleKana": "かせっとびーすと",
+    "developerIds": [
+      "bytten-studio"
+    ],
+    "publisherId": "raw-fury",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-05-25",
+    "synopsis": "見知らぬ島「ニューワイラル」に迷い込んだ主人公が、カセットテープの力で自らモンスターに変身して戦う一人称視点のモンスター収集RPG。仲間と組み合わさって新たな姿に融合変身する独自のシステムを備え、島を支配する「レンジャー」たちや謎の教団と対峙しながら、元いた世界への帰還方法と島に隠された秘密を探っていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cassette_Beasts"
+    },
+    "sourceNote": "英語版Wikipedia『Cassette Beasts』記事(2026-08-03閲覧)で開発・発売元・Switch版発売日(2023-05-25)を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。PS5版は記事中で明確に確認できず(2026年発表の続編がPS5対応という記載のみ)、本作の対応機種には含めていない。BAFTA 2024はノミネートのみで受賞は確認できなかったため受賞歴は未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chained-echoes",
+    "title": "チェインドエコーズ",
+    "titleKana": "ちぇいんどえこーず",
+    "developerIds": [
+      "matthias-linda"
+    ],
+    "publisherId": "deck13-spotlight",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2022-12-08",
+    "synopsis": "三国が長年争い続けた大陸ヴァランディスを舞台に、休戦協定から一年後に再燃しかける戦火を止めるため義勇軍「クリムゾンウイングス」を結成した主人公たちの旅を描く、90年代風ドット絵グラフィックのJRPG。乗り物「メック」を用いた探索や、攻守のバランスを崩さず戦うよう促す独自のオーバードライブ戦闘システムが特徴。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chained_Echoes"
+    },
+    "sourceNote": "英語版Wikipedia『Chained Echoes』記事(2026-08-03閲覧)でPS5版・Switch版の存在および発売元(Deck13)を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。記事内ではPC版と同じ2022-12-08のみが発売日として記載されており、PS5/Switch版が同日発売か後日発売かの内訳は確認できなかった(未確認、暫定的にPC版と同日として記載)。受賞歴は記事中に記載がなく確認できなかったため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "inside",
+    "title": "INSIDE",
+    "titleKana": "いんさいど",
+    "developerIds": [
+      "playdead"
+    ],
+    "publisherId": "playdead",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "horror"
+    ],
+    "releaseDate": "2018-06-28",
+    "synopsis": "名前のない少年が、監視と人体実験が横行する不穏な施設をたった一人で潜り抜けていく横スクロールのパズルプラットフォーム。会話や説明をほとんど排したまま追っ手をかわしつつ農場・都市・地下施設を進み、人体が絡み合ったような異形の存在と対峙していく。プレイヤーの解釈に委ねられた衝撃的な結末でも知られる、『LIMBO』の精神的続編。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2016,
+        "result": "Best Art Direction"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2016,
+        "result": "Best Independent Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2017,
+        "result": "Outstanding Achievement in Art Direction"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2017,
+        "result": "Artistic Achievement"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Inside_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Inside (video game)』記事(2026-08-03閲覧)で開発・発売元・Switch版発売日(2018-06-28)・受賞歴を確認。日本語版は曖昧さ回避ページのみで詳細記事が確認できず英語版を使用。あらすじは独自要約(コピペなし)。PS4版(2016年)はあるがPS5専用版は記事中に確認できず、対応機種はSwitchのみとした。受賞歴はThe Game Awards/DICE/BAFTAでの多数の受賞のうち代表的なものを抜粋(他にもDICE Sprite Award、BAFTA Game Design/Narrative等の受賞あり)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "limbo",
+    "title": "LIMBO",
+    "titleKana": "りんぼ",
+    "developerIds": [
+      "playdead"
+    ],
+    "publisherId": "playdead",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "horror"
+    ],
+    "releaseDate": "2018-06-28",
+    "synopsis": "白黒のシルエット表現の世界で目覚めた少年が、行方不明になった妹を捜して森や打ち捨てられた工場地帯を進んでいく、暗く不気味な雰囲気のパズルプラットフォーム。トゲや罠、巨大なクモといった数々の即死トラップを試行錯誤で突破しながら進む、台詞や説明的な要素を一切排したミニマルな作りが特徴で、Playdeadのデビュー作にあたる。",
+    "awardResults": [
+      {
+        "awardId": "gdc-awards",
+        "year": 2011,
+        "result": "Best Visual Art"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2011,
+        "result": "Adventure Game of the Year"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2011,
+        "result": "Outstanding Achievement in Sound Design"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Limbo_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Limbo (video game)』記事(2026-08-03閲覧)で開発・発売元・Switch版発売日(2018-06-28)・受賞歴を確認。日本語版は曖昧さ回避ページのみで詳細記事が確認できず英語版を使用。あらすじは独自要約(コピペなし)。PS4版(2015年)はあるがPS5専用版は記事中に確認できず、対応機種はSwitchのみとした。BAFTA 2011はノミネートのみで受賞は確認できなかったため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "untitled-goose-game",
+    "title": "Untitled Goose Game",
+    "titleKana": "あんたいとるどぐーすげーむ",
+    "developerIds": [
+      "house-house"
+    ],
+    "publisherId": "panic",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2019-09-20",
+    "synopsis": "のどかな英国風の村を舞台に、一羽の意地悪なガチョウを操作して住人たちにいたずらを仕掛けていくステルスパズル。庭師の道具を盗む、店主を困らせるといった「やることリスト」を一つずつこなしながら、鳴き声と体当たりだけを武器に村中を大混乱に陥れていく、ユーモラスな脱力系アドベンチャー。オーストラリアの4人組スタジオHouse Houseのデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "dice-awards",
+        "year": 2020,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2020,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2019,
+        "result": "Breakthrough Award"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2020,
+        "result": "Family"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Untitled_Goose_Game"
+    },
+    "sourceNote": "日本語版Wikipedia『Untitled Goose Game』記事(2026-08-03閲覧)で開発・発売元・Switch版発売日(2019-09-20)・受賞歴を確認。あらすじは独自要約(コピペなし)。PS4版(2019年12月)はあるがPS5専用版は確認できず、対応機種はSwitchのみとした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "overcooked-all-you-can-eat",
+    "title": "Overcooked! All You Can Eat",
+    "titleKana": "おーばーくっくど おーるゆーきゃんいーと",
+    "developerIds": [
+      "ghost-town-games"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "co-op",
+      "party-game"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "『Overcooked』1作目と2作目を『2』のエンジンで高解像度にリマスターし、両作の全DLCとオンライン協力プレイを収録した完全版コンピレーション。仲間と息を合わせて食材の切り分け・調理・配膳をこなしていく協力パズルアクションを、動く床や真っ二つに分裂するステージなど個性的な厨房で、最大4人までの協力プレイで楽しめる決定版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Overcooked!"
+    },
+    "sourceNote": "英語版Wikipedia『Overcooked!』記事(2026-08-03閲覧)で開発・発売元・プラットフォーム別発売日を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。PS5/Xbox Series版は2020-11-12、Switch/PS4版は2021-03-23と発売日が異なるため、本サイトの発売日は先行するPS5版の日付を採用した。受賞歴について、記事では初代『Overcooked』(本リマスター版ではない)がBAFTA Best British Game/Best Family Gameを受賞したと記載されており、本作『All You Can Eat』自体の受賞は確認できなかったため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-party-jamboree",
+    "title": "マリオパーティ ジャンボリー",
+    "titleKana": "まりおぱーてぃ じゃんぼりー",
+    "developerIds": [
+      "ndcube",
+      "will",
+      "ca-production"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "party-game"
+    ],
+    "releaseDate": "2024-10-17",
+    "synopsis": "据置機向けシリーズ13作目となる最新マリオパーティ。過去作を含む7つのボードと110種類を超えるミニゲームを収録し、モーション操作専用モードや最大20人が参加できるオンラインマルチプレイなど、歴代シリーズでも最大級のボリュームを誇る。2025年にはSwitch2版として追加コンテンツ「ジャンボリーTV」を収録した拡張版も発売された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーマリオパーティ_ジャンボリー",
+      "officialUrl": "https://www.nintendo.com/jp/switch/awvpa/index.html"
+    },
+    "sourceNote": "日本語版Wikipedia『スーパーマリオパーティ ジャンボリー』記事(2026-08-03閲覧)で開発(ニンテンドーキューブ・ウィル・シーエイプロダクション)・Switch版発売日(2024-10-17)・Switch2版(2025-07-24、ジャンボリーTV同梱の拡張版)・ノミネート歴を確認。あらすじは独自要約(コピペなし)。The Game Awards 2024やDICE Awards 2025はノミネートのみで受賞は確認できなかったため受賞歴は未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "endless-ocean-luminous",
+    "title": "エンドレスオーシャン Luminous",
+    "titleKana": "えんどれすおーしゃん るみなす",
+    "developerIds": [
+      "arika"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "adventure"
+    ],
+    "releaseDate": "2024-05-02",
+    "synopsis": "未知の海域「ヴェールの海」を舞台に、スキューバダイバーとなって500種以上の様々な海洋生物を観察・記録していく海洋探索シミュレーション。絶滅したとされる古代生物や伝説の生物も登場し、プロシージャル生成によって潜るたびに姿を変える海を、最大30人のプレイヤーとオンラインで一緒に探索しながら発見を共有できる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Endless_Ocean_Luminous"
+    },
+    "sourceNote": "英語版Wikipedia『Endless Ocean Luminous』記事(2026-08-03閲覧)で開発(アリカ)・発売元・発売日(2024-05-02)を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。受賞歴の記載はなく未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pikmin-1-2",
+    "title": "ピクミン1+2",
+    "titleKana": "ぴくみんいちたすに",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "strategy"
+    ],
+    "releaseDate": "2023-06-22",
+    "synopsis": "ニンテンドーゲームキューブで発売された『ピクミン』『ピクミン2』をNintendo Switch向けに移植し、2作をまとめて収録したパッケージ。不時着した宇宙船の部品や財宝を集めるため、様々な能力を持つ植物生命体「ピクミン」を指揮して未知の惑星を探索・攻略していく、リアルタイム戦略の原点2作を楽しめる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピクミン"
+    },
+    "sourceNote": "日本語版Wikipedia『ピクミン』『ピクミン2』記事(2026-08-03閲覧)で両作のSwitch版発売日(いずれも2023-06-22)、および単品販売と『ピクミン1+2』としてのカップリング販売が存在することを確認。ただし『ピクミン1+2』単独の独立記事は見つからず、パッケージ版の詳細(物理版の有無等)は未確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "balatro",
+    "title": "Balatro",
+    "titleKana": "ばらとろ",
+    "developerIds": [
+      "localthunk"
+    ],
+    "publisherId": "playstack",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "deck-building",
+      "roguelike"
+    ],
+    "releaseDate": "2024-02-20",
+    "synopsis": "トランプのポーカー役を軸にしたローグライク・デッキ構築ゲーム。配られたカードからポーカー役を作って目標点数を稼ぎ、ラウンドクリア後に開くショップで得点を大きく強化する「ジョーカー」カード等を購入しながら、限られたハンド数と捨て札数の中でデッキを育てていく。シンプルなルールと中毒性の高い得点稼ぎの快感で、カナダの個人開発者が手掛けたにもかかわらず世界的ヒットとなった。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best Debut Indie Game"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best Mobile Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Balatro"
+    },
+    "sourceNote": "日本語版Wikipedia『Balatro』記事(2026-08-03閲覧)で開発者(LocalThunk)・発売元(Playstack)・PS5/Switch版発売日(2024-02-20)・Switch2版発売日(2026-02-25)を確認。あらすじは独自要約(コピペなし)。The Game Awards 2024での受賞2件は英語版Wikipedia『The Game Awards 2024』記事で個別に裏取り。DICE Awards 2025・BAFTA 2025・Golden Joystick Awards 2024での追加受賞報道もあるが、Wikipedia記事上で受賞/ノミネートの区別を確認できなかったため、確実に裏取りできたThe Game Awardsの2件のみ記載した(未確認分は保守的に除外)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ori-and-the-will-of-the-wisps",
+    "title": "Ori and the Will of the Wisps",
+    "titleKana": "おり あんど ざ うぃる おぶ ざ うぃすぷす",
+    "developerIds": [
+      "moon-studios"
+    ],
+    "publisherId": "iam8bit",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "metroidvania"
+    ],
+    "releaseDate": "2020-09-18",
+    "synopsis": "『Ori and the Blind Forest』の続編となるメトロイドヴァニア型アクション。行方不明になった梟の子クを探す精霊オリが、ニウェンの森で新たな仲間や強大な敵と出会いながら、森を守護していた5体の精霊「ウィスプ」を巡る冒険に挑む。手描き風の美麗なグラフィックと、成長していく親子の絆を描く感動的な物語で高く評価された作品。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2020,
+        "result": "Xbox Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps"
+    },
+    "sourceNote": "英語版Wikipedia『Ori and the Will of the Wisps』記事(2026-08-03閲覧)で開発(Moon Studios)・Switch版発売元(iam8bit)・発売日(2020-09-18)・受賞歴を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。PS5版は記事中に記載がなく確認できなかったため対応機種に含めていない(Windows/Xbox/Switchのみ)。The Game Awards 2020は複数部門ノミネートのみで受賞は確認できなかったため未記載。",
+    "updatedAt": "2026-08-03"
   }
 ]
