@@ -303,5 +303,122 @@
     },
     "sourceNote": "Web検索(2026-08-03)で設立年(2008年)・スウェーデン拠点・SIEの資本傘下ではなく独立系スタジオである旨を確認。日本語版Wikipediaに単独記事は見当たらず、英語版Wikipediaを参照。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sloclap",
+    "name": "Sloclap",
+    "nameKana": "すろくらっぷ",
+    "description": "フランス・パリを拠点とするインディーゲームスタジオ。元Ubisoft Paris出身のメンバーが中心となり2015年に設立。近接格闘アクションを軸とした『Absolver』『Sifu』などを開発し、Kepler Interactiveグループの一員として展開している。",
+    "foundedYear": 2015,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sloclap",
+      "officialUrl": "https://sloclap.com/"
+    },
+    "sourceNote": "英語版Wikipedia「Sloclap」および公式サイトで設立年(2015年)・所在地(パリ)・代表作を確認。日本語版Wikipedia記事は未確認(存在しない可能性が高い)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "arika",
+    "name": "アリカ",
+    "nameKana": "ありか",
+    "description": "西谷亮が代表を務める日本のゲーム開発会社。1995年に「株式会社アームテック」として設立され、1996年に現社名へ変更。『鉄拳』シリーズの開発協力や『チョコボGP』『PAC-MAN 99』などの受託開発で知られる。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%AB",
+      "officialUrl": "https://www.arika.co.jp/"
+    },
+    "sourceNote": "日本語版Wikipedia「アリカ」およびニコニコ大百科の記事で設立年・沿革・代表者を確認。『鉄拳8』の開発協力についてはバンダイナムコスタジオ公式サイトの表記を参照。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bandai-namco-entertainment",
+    "name": "バンダイナムコエンターテインメント",
+    "nameKana": "ばんだいなむこえんたーていんめんと",
+    "parentCompany": "バンダイナムコホールディングス",
+    "description": "バンダイナムコホールディングス傘下でゲーム・映像コンテンツの発売元を担う中核事業会社。旧バンダイナムコゲームスが2015年4月に現社名へ変更して発足。『鉄拳』『アーマード・コア』など数多くのタイトルを国内外で発売している。既存の開発会社「バンダイナムコスタジオ」とは別法人。",
+    "foundedYear": 2015,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88",
+      "officialUrl": "https://www.bandainamcoent.co.jp/"
+    },
+    "sourceNote": "日本語版Wikipediaおよびバンダイナムコエンターテインメント公式サイトの沿革ページで、2015年4月の社名変更(現体制発足)を確認。前身のナムコ/バンダイナムコゲームスとしての歴史はより古いが、法人としての現名称は2015年からとして記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cygames",
+    "name": "Cygames",
+    "nameKana": "さいげーむす",
+    "parentCompany": "サイバーエージェント",
+    "description": "サイバーエージェントの完全子会社として2011年5月に設立されたゲーム制作会社。『グランブルーファンタジー』シリーズを中心にモバイル・コンシューマー双方でタイトルを展開し、大阪Cygamesなど国内外に開発拠点を持つ。",
+    "foundedYear": 2011,
+    "externalLinks": {
+      "officialUrl": "https://www.cygames.co.jp/"
+    },
+    "sourceNote": "Cygames公式サイトの「会社概要」「沿革」ページで設立年月(2011年5月)・親会社(サイバーエージェント)を確認。日本語版Wikipediaの独立記事の有無は未確認のためwikipediaUrlは省略。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "remedy-entertainment",
+    "name": "レメディー・エンターテインメント",
+    "nameKana": "れめでぃーえんたーていんめんと",
+    "description": "フィンランド・エスポーを拠点とするゲーム開発会社。デモシーングループ「Future Crew」のメンバーにより1995年設立。『Max Payne』『Alan Wake』『Control』シリーズなど、映像的な演出に強みを持つ作品を多数手掛ける。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A1%E3%83%87%E3%82%A3%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88",
+      "officialUrl": "https://www.remedygames.com/"
+    },
+    "sourceNote": "日本語版Wikipedia「レメディー・エンターテインメント」で設立年(1995年)・拠点・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "epic-games-publishing",
+    "name": "Epic Games Publishing",
+    "nameKana": "えぴっくげーむずぱぶりっしんぐ",
+    "parentCompany": "Epic Games",
+    "description": "Epic Gamesが2020年に開始した外部スタジオ向けパブリッシングレーベル。開発資金や制作支援を提供する一方、知的財産権は開発元に残す「開発者第一」の契約方針を特徴とし、レメディー・エンターテインメントの『Alan Wake 2』などを手掛けた。",
+    "foundedYear": 2020,
+    "externalLinks": {
+      "officialUrl": "https://store.epicgames.com/en-US/news/epic-games-publishing-announcement"
+    },
+    "sourceNote": "Epic Games Store公式ニュースページおよび複数の英語メディア報道(Forbes等)で2020年3月のレーベル開始とRemedy Entertainmentとの提携を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bloober-team",
+    "name": "Bloober Team",
+    "nameKana": "ぶるーばーちーむ",
+    "description": "ポーランド・クラクフを拠点とするホラーゲーム専門の開発会社。2008年設立で、ワルシャワ証券取引所に上場。『Layers of Fear』シリーズや『The Medium』、KONAMIとの提携による『SILENT HILL 2』リメイクなどを手掛ける。",
+    "foundedYear": 2008,
+    "externalLinks": {
+      "officialUrl": "https://www.blooberteam.com/"
+    },
+    "sourceNote": "Bloober Team公式サイト「About Us」および複数の日本語ゲームメディア(4Gamer等)の記事で設立年・所在地・代表作を確認。日本語版Wikipediaの独立記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "konami",
+    "name": "コナミデジタルエンタテインメント",
+    "nameKana": "こなみでじたるえんたていんめんと",
+    "parentCompany": "コナミグループ",
+    "description": "コナミグループの家庭用ゲーム・音楽ゲーム・玩具・出版事業を担う中核子会社。持株会社体制への移行に伴い2006年3月に設立。『メタルギア』『パワプロ』シリーズなどを展開するほか、Bloober Teamとの提携で『SILENT HILL』シリーズの新作・リメイクを発売している。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8A%E3%83%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88",
+      "officialUrl": "https://www.konami.com/games/corporate/ja/"
+    },
+    "sourceNote": "日本語版Wikipedia「コナミデジタルエンタテインメント」で設立日(2006年3月31日)・親会社・事業内容を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ballistic-moon",
+    "name": "Ballistic Moon",
+    "nameKana": "ばりすてぃっくむーん",
+    "description": "英国サリー州を拠点としたゲーム開発会社。Supermassive Games出身のDuncan Kershaw氏らが2019年に設立し、『Until Dawn -惨劇の山荘-』(2024年リメイク版)を開発した。2025年に事実上の閉業・清算に至っている。",
+    "foundedYear": 2019,
+    "externalLinks": {
+      "officialUrl": "https://www.ballisticmoon.com"
+    },
+    "sourceNote": "Gematsu、GamesRadar等の英語メディア報道で設立年(2019年)・創業メンバー・2025年の清算(liquidation)を確認。日本語版Wikipediaの独立記事は未確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -1192,5 +1192,403 @@
     },
     "sourceNote": "4Gamer・Famitsu・GAME Watch・PlayStation Blog JPの各記事(2026-08-03閲覧)で開発元(Naughty Dog、リマスター作業はIron Galaxy Studiosが担当)・発売元(SIE)・日本発売日(2022-01-28)・収録タイトル(『アンチャーテッド4 海賊王と最後の秘宝』『アンチャーテッド 古代神の秘宝』のリマスター版)を確認。日本語版Wikipediaには本コレクション単独の記事が見当たらず(『アンチャーテッド コレクション』は別物のPS4版ナサン・ドレイク・コレクションの記事)、報道記事で代替した。あらすじは独自要約(コピペなし)。収録元の各作品はUncharted 4等で独自の受賞歴(BAFTA、DICE等)を持つが、これは2016年当時のオリジナル版が受賞したものであり、2022年のPS5コレクション自体が新たに獲得した受賞は確認できなかったためawardResultsは未掲載。PC版(2022年10月)は本サイト対象外。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "horizon-zero-dawn-remastered",
+    "title": "Horizon Zero Dawn Remastered",
+    "titleKana": "ほらいずんぜろどーんりますたーど",
+    "developerIds": [
+      "guerrilla-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2024-10-31",
+    "synopsis": "機械生物が支配する滅びた文明後の世界を舞台に、狩人アロイが自らの出生の謎と人類滅亡の真相を追う壮大なオープンワールドアクションRPG。弓や罠、様々な武器を駆使して恐竜のような姿の巨大な機械獣を狩りながら大陸を旅する2017年作を、現行機向けに描画やロード時間、操作性を大幅に強化し、新規のクエストや装備も加えて作り直したリマスター版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Horizon_Zero_Dawn",
+      "officialUrl": "https://www.playstation.com/ja-jp/games/horizon-zero-dawn-remastered/"
+    },
+    "sourceNote": "日本語版Wikipedia「Horizon Zero Dawn」、PlayStation.Blog公式記事(2024/9/25, 2024/11/2)、4Gamer記事で発売日(2024年10月31日、PS5/PC)・開発元(Guerrilla)・発売元(SIE)を確認。受賞歴は確認できず未記載。あらすじは既存のオリジナル版の物語に基づき独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sifu",
+    "title": "Sifu",
+    "titleKana": "しふー",
+    "developerIds": [
+      "sloclap"
+    ],
+    "publisherId": "sloclap",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2022-02-08",
+    "synopsis": "武術の師父だった父を目の前で殺害された若き主人公が、下手人である5人の幹部を擁する組織を追って一夜のうちに復讐を果たそうとするカンフーアクション。倒れるたびに護符の力で老いを重ねて蘇るという特殊な仕組みが特徴で、加齢による力とスピードの変化に向き合いながら己の武術を極めていく硬派な三人称格闘アクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sifu_(video_game)",
+      "officialUrl": "https://sifu.sloclap.com/"
+    },
+    "sourceNote": "英語版Wikipedia「Sifu (video game)」およびGematsu、Nintendo Life記事で開発元(Sloclap)・発売元(Sloclap/Kepler Interactive)・PS版発売日(2022年2月8日)・Switch版発売日(2022年11月8日)を確認。日本語版はKepler Interactive名義でSteam等配信(directg.jp記事で確認)。The Game Awards 2022で3部門ノミネートされたが受賞はなし(該当賞なしのため未記載)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "resident-evil-re4",
+    "title": "バイオハザード RE:4",
+    "titleKana": "ばいおはざーどあーるいーふぉー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "action-adventure"
+    ],
+    "releaseDate": "2023-03-24",
+    "synopsis": "大統領の娘アシュリーが謎の宗教組織に誘拐され、政府エージェントのレオンが単身、欧州の山間の寒村へ潜入する。住人たちを操る寄生生物プラーガの脅威と、教団による罠が張り巡らされた村・湖・古城・孤島を巡る2005年作のリメイクで、限られた弾薬をやり繰りしながら近接格闘や環境を活かした立ち回りが求められる高難度アクションホラーに再構築されている。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89_RE:4",
+      "officialUrl": "https://www.residentevil.com/4/jp/"
+    },
+    "sourceNote": "日本語版Wikipedia「バイオハザード RE:4」で開発・発売元(カプコン)・発売日(2023年3月24日、PS5/PS4/Xbox/Steam/Apple)・あらすじを確認。日本ゲーム大賞2023優秀賞受賞をawards.cesa.or.jp公式受賞ページで確認。Switch版(パッケージ・クラウド共)は複数の攻略サイト(game8, アルテマ等)で2026年8月時点でも未発売・未発表と確認したため対応機種に含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "resident-evil-re2",
+    "title": "バイオハザード RE:2",
+    "titleKana": "ばいおはざーどあーるいーつー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror"
+    ],
+    "releaseDate": "2022-06-14",
+    "synopsis": "謎の生物兵器事件で崩壊したラクーンシティを舞台に、着任初日の新人警官レオンと兄を探しにきた女子大生クレアが、それぞれ別の視点でゾンビ化した市民の群れをかいくぐりながら警察署からの脱出を目指す。行方不明の少女シェリー捜索や不死身の追跡者との攻防を描く1998年作のリメイクで、限られた弾薬とアイテム管理が緊張感を高めるサバイバルホラー。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2019,
+        "result": "Ultimate Game of the Year"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2019,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89_RE:2",
+      "officialUrl": "https://www.residentevil.com/2/jp/"
+    },
+    "sourceNote": "日本語版Wikipedia「バイオハザード RE:2」でPS4/Xbox One/PC原版発売日(2019年1月25日)、および4Gamer/PlayStation Blog記事でPS5専用版(BIOHAZARD RE:2 Z Version相当、レイトレーシング・アダプティブトリガー対応)の発売日(2022年6月14日)を確認。Switch版は2022年11月11日発売の「バイオハザード RE:2 クラウド」のみで、ネイティブ移植ではなくクラウドストリーミング専用のためサイトの判定基準により対応機種から除外。releaseDateは対応機種として採用したPS5版の発売日を採用。受賞歴はGolden Joystick Awards 2019・日本ゲーム大賞2019をWikipedia記載内容で確認(部門詳細までは未確認)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "street-fighter-6",
+    "title": "ストリートファイター6",
+    "titleKana": "すとりーとふぁいたーしっくす",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2023-06-02",
+    "synopsis": "シリーズで最も未来の時代を舞台に、世界各地の格闘家たちが己の流儀をかけてぶつかり合う対戦格闘ゲーム最新作。新システム「ドライブシステム」の駆け引きにより初心者から上級者まで奥深い読み合いを楽しめるほか、主人公ルークらとともに街を巡り修行を積んでいくオープンワールド風のストーリーモード「ワールドツアー」も収録している。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Fighting Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2024,
+        "result": "Fighting Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC6",
+      "officialUrl": "https://www.streetfighter.com/6/ja-jp"
+    },
+    "sourceNote": "日本語版Wikipediaで開発・発売元(カプコン)・発売日(2023年6月2日、PS4/PS5/Xbox Series/Steam)を確認。Switch2版は2025年6月5日発売とゲームエイト記事で確認(専用パッケージ版として発売済みのため対応機種に含めた)。受賞歴はThe Game Awards 2023「Best Fighting Game」受賞、D.I.C.E. Awards(2024年2月授賞式)「Fighting Game of the Year」受賞をカプコン公式プレスリリースで確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tekken-8",
+    "title": "鉄拳8",
+    "titleKana": "てっけんえいと",
+    "developerIds": [
+      "bandai-namco-studios",
+      "arika"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2024-01-26",
+    "synopsis": "世界征服を目論む三島一八と、彼を止めるべく立ち上がった息子・風間仁による因縁の親子喧嘩に決着をつける3D対戦格闘ゲーム最新作。新システム「熱(ヒート)」の導入で攻めの選択肢が広がり、前作から続く三島財閥の後継争いと世界を揺るがす陰謀劇の中で、個性豊かな参戦キャラクターたちがそれぞれの信念をかけて激突する。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best Fighting Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B38",
+      "officialUrl": "https://tk8.tekken-official.jp/"
+    },
+    "sourceNote": "日本語版Wikipediaで開発元(バンダイナムコスタジオ、アリカ)・発売元(バンダイナムコエンターテインメント)・発売日(2024年1月26日、PS5/Xbox Series/Steam)・あらすじを確認。Switch/Switch2版は発売されていないことをバンダイナムコスタジオ公式サイト製品ページで確認。The Game Awards 2024「Best Fighting Game」受賞をバンダイナムコエンターテインメント公式プレスリリースで確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "granblue-fantasy-relink",
+    "title": "グランブルーファンタジー: リリンク",
+    "titleKana": "ぐらんぶるーふぁんたじーりりんく",
+    "developerIds": [
+      "cygames"
+    ],
+    "publisherId": "cygames",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2024-02-01",
+    "synopsis": "人気ブラウザ・スマホRPG『グランブルーファンタジー』の世界観を受け継ぐ完全新作アクションRPG。空を渡り歩く主人公グラン(またはジータ)たちが、ナルメアやカリオストロら仲間キャラクターと連携しながら、星の民の少女リリスが禁忌の大星晶獣「アンラ・マンユ」を復活させて空の世界を滅ぼそうとする陰謀に立ち向かう。爽快な連携バトルとテンポの良いアクションが持ち味の作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_%E3%83%AA%E3%83%AA%E3%83%B3%E3%82%AF",
+      "officialUrl": "https://granbluefantasy.jp/relink/"
+    },
+    "sourceNote": "日本語版Wikipediaで開発(大阪Cygames)・発売元(Cygames)・発売日(2024年2月1日、PS4/PS5/Windows)・あらすじ概要を確認。PlayStation Game Music大賞2024ファンタジーサウンド賞受賞の記載はあるが、本サイトの既存9アワードに該当する賞ではないためawardResultsは未記載。2026年に追加要素版『エンドレスラグナロク』が発売されているが、本エントリは無印版の情報として記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dragons-dogma-2",
+    "title": "ドラゴンズドグマ2",
+    "titleKana": "どらごんずどぐまつー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2024-03-22",
+    "synopsis": "巨大な竜に心臓を奪われ、その代償として不思議な力を得た「覚者」となった主人公が、失われた記憶と心臓を取り戻すため広大なオープンワールドを旅するアクションRPG。人間中心の王国ヴェルムントと獣人の国バタルという対照的な二つの地域を巡りながら、忠実な仲間「ポーン」と共に巨大なモンスターの弱点を突く迫力の戦闘に挑む硬派な冒険を描く。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "フューチャー部門選出"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2024,
+        "result": "年間作品部門優秀賞"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2024,
+        "result": "PARTNER AWARD"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA%E3%83%89%E3%82%B0%E3%83%9E2",
+      "officialUrl": "https://www.dragonsdogma.com/2/jp/"
+    },
+    "sourceNote": "日本語版Wikipediaで開発・発売元(カプコン)・発売日(2024年3月22日、PS5/Xbox Series/Steam)・あらすじ・受賞歴(日本ゲーム大賞2023フューチャー部門、2024年間作品部門優秀賞、PlayStation Partner Awards 2024)を確認。拡張版『ドラゴンズドグマ2: ダークアリズン』(Switch2初対応)は2026年10月9日発売予定でgamebiz/ファミ通記事により確認したが、2026年8月3日時点で未発売のため対応機種には含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "armored-core-6-fires-of-rubicon",
+    "title": "アーマード・コアVI ファイアーズ オブ ルビコン",
+    "titleKana": "あーまーどこあしっくすふぁいあーずおぶるびこん",
+    "developerIds": [
+      "fromsoftware"
+    ],
+    "publisherId": "fromsoftware",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter"
+    ],
+    "releaseDate": "2023-08-25",
+    "synopsis": "未知のエネルギー資源「コーラル」をめぐる争いが絶えない辺境の惑星ルビコン3を舞台に、記憶を失った強化人間の傭兵パイロットが「アーマード・コア」と呼ばれる有人兵器に乗り込み戦いに身を投じるメカアクション。プレイヤーは機体を自在にカスタマイズしながら、複数の企業・勢力が入り乱れる紛争の中で己の生き様を選び取っていく重量感あるロボットアクション。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Action Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B3%E3%82%A2VI_%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%96%E3%83%AB%E3%83%93%E3%82%B3%E3%83%B3",
+      "officialUrl": "https://www.armoredcore.net/"
+    },
+    "sourceNote": "日本語版Wikipediaで開発元がフロム・ソフトウェアであることを確認(モンスターハンター等カプコン作品とは無関係)。発売元はバンダイナムコエンターテインメント(グローバル)とフロム・ソフトウェア(日本国内)の二本立てだが、本サイトが日本市場基準のため国内発売元のフロム・ソフトウェアをpublisherIdに採用。発売日(2023年8月25日、PS5/PS4/Xbox/Steam)、The Game Awards 2023「Best Action Game」受賞をあわせて確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "silent-hill-2-remake",
+    "title": "サイレントヒル2",
+    "titleKana": "さいれんとひるつー",
+    "developerIds": [
+      "bloober-team"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror"
+    ],
+    "releaseDate": "2024-10-08",
+    "synopsis": "3年前に病で亡くなったはずの妻から届いた手紙に導かれ、霧に包まれた廃墟の街サイレントヒルを訪れた主人公ジェームズが、街に潜む異形の怪物や自らの心の奥底に眠る罪の記憶と向き合う心理サスペンスホラーのリメイク版。三人称視点への刷新と最新グラフィックスにより、原作の孤独感と息詰まる恐怖演出がより深く描き直されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB2",
+      "officialUrl": "https://www.konami.com/games/silenthill2/jp/"
+    },
+    "sourceNote": "日本語版Wikipediaおよび英語版Wikipedia「Silent Hill 2 (2024 video game)」で開発元(Bloober Team)・発売元(コナミ)・発売日(2024年10月8日、PS5/Windows。Xbox Series X/S版は2025年11月21日追加)を確認。The Game Awards 2024・BAFTA Games Awards 2025はいずれもノミネートに留まり受賞なし(既存9アワードの受賞条件を満たさないため)、Steam Awards等本サイト対象外の賞のみ受賞のためawardResultsは未記載とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "titleKana": "あらんうぇいくつー",
+    "developerIds": [
+      "remedy-entertainment"
+    ],
+    "publisherId": "epic-games-publishing",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "action-adventure"
+    ],
+    "releaseDate": "2023-10-27",
+    "synopsis": "米国北西部の町で相次ぐ猟奇殺人事件を追うFBI捜査官サーガと、13年間行方不明のまま闇の異界に囚われ続けていた作家アラン・ウェイク自身、二人の視点が交錯するサバイバルホラー。現実と虚構が入り混じる不穏な物語を、光を武器に闇の存在と戦う独自の戦闘システムと、実写映像を交えた演出で描く前作からの正統続編。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Narrative"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Art Direction"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Game Direction"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Alan_Wake_2",
+      "officialUrl": "https://www.alanwake.com/ja/"
+    },
+    "sourceNote": "英語版Wikipedia「Alan Wake 2」および複数の日本語メディア(Game*Spark、4Gamer)で開発元(Remedy Entertainment)・発売元(Epic Games Publishing)・発売日(2023年10月27日、PS5/Xbox Series/PC)・日本語音声対応を確認。The Game Awards 2023でBest Narrative・Best Art Direction・Best Game Directionの3部門受賞をgamerant等の英語メディアで確認。Nintendo Switch版は存在せず(前作リマスター版とは別作品)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rise-of-the-ronin",
+    "title": "Rise of the Ronin",
+    "titleKana": "らいずおぶざろーにん",
+    "developerIds": [
+      "koei-tecmo"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2024-03-22",
+    "synopsis": "黒船来航によって激動を迎えた幕末の日本を舞台に、暗殺任務に失敗し名も無き浪人となった主人公が、横浜・江戸・京都を渡り歩きながら攘夷派・佐幕派それぞれの立場で歴史の転換点に関わっていくオープンワールドアクションRPG。坂本龍馬ら実在の志士たちとの交流や、グラップリングフックを使った立体的な移動アクションが特徴のTeam NINJA最新作。",
+    "awardResults": [
+      {
+        "awardId": "playstation-awards",
+        "year": 2024,
+        "result": "SPECIAL AWARD"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2024,
+        "result": "USERS' CHOICE AWARD"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Rise_of_the_Ronin",
+      "officialUrl": "https://www.riseofthronin.com/"
+    },
+    "sourceNote": "日本語版Wikipediaで開発元(コーエーテクモゲームス Team NINJA)・発売元(PS5版はソニー・インタラクティブエンタテインメント、PC版はコーエーテクモゲームス)・発売日(PS5版2024年3月22日)・あらすじを確認。受賞歴はPlayStation Partner Awards 2024 Japan Asiaで「SPECIAL AWARD」「USERS' CHOICE AWARD」を受賞したことを確認、既存の「playstation-awards」IDに対応するものとして記載。ファミ通・電撃ゲームアワード2024アクションアドベンチャー部門受賞の情報もあるが、本サイトの既存「famitsu-awards」との名称対応が確認しきれなかったため見送った。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "until-dawn-remake",
+    "title": "Until Dawn",
+    "titleKana": "あんてぃるどーん",
+    "developerIds": [
+      "ballistic-moon"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror"
+    ],
+    "releaseDate": "2024-10-04",
+    "synopsis": "1年前に山荘で消息を絶った姉妹の追悼のため、8人の男女が再びブラックウッド山荘に集まる一夜から始まるインタラクティブホラー。雪山に取り残された仲間たちが謎の怪物に追われる中、プレイヤーの選択次第で誰が生き残り誰が命を落とすかという展開が分岐していく没入型ドラマを、最新のUnreal Engine 5による一新された映像表現で描き直したリメイク版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%89%E3%83%BC%E3%83%B3_%E6%83%A8%E5%8A%87%E3%81%AE%E5%B1%B1%E8%8D%98",
+      "officialUrl": "https://www.playstation.com/ja-jp/games/until-dawn/"
+    },
+    "sourceNote": "日本語版Wikipedia「アンティル・ドーン 惨劇の山荘」およびマイナビニュース、4Gamer記事で開発元(Ballistic Moon)・発売元(SIE)・発売日(2024年10月4日、PS5。PC版は10月5日)・Unreal Engine 5への刷新を確認。The Horror Game Awards等へのノミネート情報はあるが、本サイトの既存9アワードでの受賞は確認できなかったためawardResultsは未記載。",
+    "updatedAt": "2026-08-03"
   }
 ]
