@@ -1,4 +1,9 @@
 {
+  "2xko": {
+    "title": "2XKO",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:35.764Z"
+  },
   "a-plague-tale-requiem": {
     "title": "A Plague Tale: Requiem",
     "matchedTitle": "A Plague Tale: Requiem (PS5) 北米版 PS5 プレイステーション5 海外版ソフト",
@@ -15,6 +20,16 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:43.654Z"
   },
+  "age-of-wonders-4": {
+    "title": "Age of Wonders 4",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:24.497Z"
+  },
+  "amanda-the-adventurer": {
+    "title": "Amanda the Adventurer",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:45.193Z"
+  },
   "animal-crossing-new-horizons": {
     "title": "あつまれ どうぶつの森",
     "matchedTitle": "あつまれ　どうぶつの森 Nintendo Switch 2 Edition",
@@ -23,6 +38,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-02T23:22:14.191Z"
   },
+  "animal-well": {
+    "title": "ANIMAL WELL",
+    "matchedTitle": "ANIMAL WELL 【Switch】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000501/2820906012.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/yamada-denki/2820906012/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:42.961Z"
+  },
   "armored-core-6-fires-of-rubicon": {
     "title": "アーマード・コアVI ファイアーズ オブ ルビコン",
     "matchedTitle": "【中古】ARMORED CORE VI FIRES OF RUBICON(アーマード・コア VI ファイアーズ オブ ルビコン) PS5",
@@ -30,6 +53,22 @@
     "itemUrl": "https://item.rakuten.co.jp/home-carpentry/1350011980/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:49.655Z"
+  },
+  "arms": {
+    "title": "ARMS",
+    "matchedTitle": "【中古】Switch ARMS (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/item_photo/001256/4/0012564940.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet20/r0012564940/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:26.195Z"
+  },
+  "art-of-rally": {
+    "title": "Art of Rally",
+    "matchedTitle": "art of rally Collector's Edition Switch 輸入版 北米版 スイッチ ソフト ラリー レース ゲーム コレクターズエディション 限定版 パッケージ版 海外版 運転 ドライビング シミュレーション",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/happysss/cabinet/img_20260709_2018/p-b09ymgzc96-01.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/happysss/hpp-1y9i4eq0ybby6mko/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:58.239Z"
   },
   "assassins-creed-mirage": {
     "title": "アサシン クリード ミラージュ",
@@ -46,6 +85,14 @@
     "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480628001/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:55:56.659Z"
+  },
+  "assassins-creed-valhalla": {
+    "title": "アサシン クリード ヴァルハラ",
+    "matchedTitle": "【中古】 アサシン　クリード　ヴァルハラ／PS5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/881/0019542075l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019542075/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:07.023Z"
   },
   "astral-chain": {
     "title": "アストラルチェイン",
@@ -76,6 +123,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:16.623Z"
   },
+  "atelier-yumia": {
+    "title": "ユミアのアトリエ 〜追憶の錬金術士と幻創の地〜",
+    "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[Switch] ユミアのアトリエ 〜追憶の錬金術士と幻創の地〜 通常版 コーエーテクモゲームス(20250321)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediaworldkaitoriworld/cabinet/1046/3/cg10463480.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10463480001/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:16.178Z"
+  },
+  "atomic-heart": {
+    "title": "Atomic Heart",
+    "matchedTitle": "Atomic Heart: Ultimate Edition 【PS5】 ELJM-30919",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000579/2821498011.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/yamada-denki/2821498011/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:13.033Z"
+  },
   "balatro": {
     "title": "Balatro",
     "matchedTitle": "Game Source Entertainment 【Switch】Balatro [HAC-P-BEYKA NSW バラトロ]",
@@ -92,6 +155,16 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:09.830Z"
   },
+  "banner-saga": {
+    "title": "The Banner Saga",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:28.000Z"
+  },
+  "baten-kaitos-1-2-hd-remaster": {
+    "title": "バテン・カイトスI&II HDリマスター",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:57.879Z"
+  },
   "bayonetta-3": {
     "title": "ベヨネッタ3",
     "matchedTitle": "【中古】 ベヨネッタ3／NintendoSwitch",
@@ -100,10 +173,58 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:24.429Z"
   },
+  "bayonetta-origins": {
+    "title": "ベヨネッタ オリジンズ：セレッサと迷子の悪魔",
+    "matchedTitle": "【中古】Switch ベヨネッタ　オリジンズ：　セレッサと迷子の悪魔 (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/cccb166/0013673618.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet20/r0013673618/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:41.758Z"
+  },
+  "bayonetta-switch": {
+    "title": "ベヨネッタ",
+    "matchedTitle": "ベヨネッタ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0467/4902370550467.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/17222414/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:05:01.466Z"
+  },
+  "black-myth-wukong": {
+    "title": "黒神話:悟空",
+    "matchedTitle": "セガ 【PS5】黒神話：悟空 [ELJM-30616 PS5 クロシンワ ウーコン]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0436/4580695760930.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4580695760930-54-71482-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:30.384Z"
+  },
   "blasphemous-2": {
     "title": "ブラスフェマス2",
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:56:58.264Z"
+  },
+  "bleach-rebirth-of-souls": {
+    "title": "BLEACH Rebirth of Souls",
+    "matchedTitle": "BLEACH Rebirth of Souls PS5版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8496/4582747938496.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/18087539/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:26.342Z"
+  },
+  "bomb-rush-cyberfunk": {
+    "title": "Bomb Rush Cyberfunk",
+    "matchedTitle": "[メール便OK]【新品】【PS5】Bomb Rush Cyberfunk ［PS5版］[在庫品]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/machida/cabinet/img10800000/10807067.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/machida/4573591750921/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:46.466Z"
+  },
+  "botany-manor": {
+    "title": "Botany Manor",
+    "matchedTitle": "SOFT SOURCE 【Switch】Botany Manor [HAC-P-A7GVC NSW ボタニ- マニ-]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0444/4573591750709.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4573591750709-54-40560-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:52.347Z"
   },
   "bravely-default-2": {
     "title": "ブレイブリーデフォルトII",
@@ -118,6 +239,19 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:57:24.944Z"
   },
+  "brawlhalla": {
+    "title": "Brawlhalla",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:29.900Z"
+  },
+  "brigandine-legend-of-runersia": {
+    "title": "ブリガンダイン ルーナジア戦記",
+    "matchedTitle": "ブリガンダイン ルーナジア戦記 - Switch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/trenditemshop/cabinet/skypiea/skypiea_0076/b07xg73hmm_1.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/trenditemshop/b07xg73hmm/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:08:58.002Z"
+  },
   "call-of-duty-black-ops-6": {
     "title": "コール オブ デューティ ブラックオプス6",
     "matchedTitle": "Call of Duty: Black Ops 6 PS5版（コール オブ デューティ ブラックオプス 6）",
@@ -125,6 +259,27 @@
     "itemUrl": "https://item.rakuten.co.jp/book/17903790/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:28.566Z"
+  },
+  "capcom-fighting-collection-2": {
+    "title": "カプコン ファイティング コレクション2",
+    "matchedTitle": "カプコン 【Switch】カプコン ファイティング コレクション2 [HAC-P-BEDTA NSW カプコン ファイティングコレクション2]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0466/4976219132695.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4976219132695-54-46582-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:08:51.245Z"
+  },
+  "captain-toad-treasure-tracker-switch": {
+    "title": "進め！キノピオ隊長",
+    "matchedTitle": "進め！キノピオ隊長 Nintendo Switch版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9806/4902370539806.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/15495286/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:34.593Z"
+  },
+  "card-shark": {
+    "title": "Card Shark",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:59.411Z"
   },
   "cassette-beasts": {
     "title": "カセットビースト",
@@ -144,10 +299,55 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:57:02.897Z"
   },
+  "chants-of-sennaar": {
+    "title": "Chants of Sennaar",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:45.277Z"
+  },
+  "chicory-a-colorful-tale": {
+    "title": "Chicory: A Colorful Tale",
+    "matchedTitle": "Chicory: A Colorful Tale Game - PS5 / PlayStation 5 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-7575.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-7575/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:58.231Z"
+  },
+  "chocobo-gp": {
+    "title": "チョコボGP",
+    "matchedTitle": "【中古】 チョコボGP／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/465/0019798110l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019798110/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:55.866Z"
+  },
+  "choo-choo-charles": {
+    "title": "Choo-Choo Charles",
+    "matchedTitle": "Choo-Choo Charles - PlayStation 5 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game6/game0725-6046.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6046/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:40.487Z"
+  },
   "chrono-cross-radical-dreamers-edition": {
     "title": "クロノ・クロス ラジカルドリーマーズエディション",
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:57:15.447Z"
+  },
+  "civilization-6": {
+    "title": "シヴィライゼーションVI",
+    "matchedTitle": "Nintendo Switch ソフト Civilization VI シヴィライゼーション6 北米版 海外版 シミュレーション ストラテジー ゲーム スイッチ スイッチソフト ターン制 戦略 帝国建設 拡張 資源管理 領土拡大 箱庭",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kbox/cabinet/12148040/p-b07hh8zsmm-01.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/kbox/kbx-0zf7v03hxdca5tg5/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:24.599Z"
+  },
+  "clair-obscur-expedition-33": {
+    "title": "Clair Obscur: Expedition 33",
+    "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[PS5] Clair Obscur: Expedition 33(クレール・オブスキュール:エクスペディション 33) Kepler Interactive(20250424)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediaworldkaitoriworld/cabinet/1048/0/cg10480809.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480809001/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:32.772Z"
   },
   "cocoon": {
     "title": "Cocoon",
@@ -156,6 +356,19 @@
     "itemUrl": "https://item.rakuten.co.jp/machida/4570101050885/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:22.236Z"
+  },
+  "crash-bandicoot-n-sane-trilogy": {
+    "title": "クラッシュ・バンディクー ブッとび3段もり！",
+    "matchedTitle": "【1日と5.0のつく日、18日はポイント3倍！】【中古】クラッシュ・バンディクー ブッとび3段もり！ ボーナスエディション Nintendo Switch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/excellar/cabinet/image0206/1350007856_1.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/excellar/1350007856/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:22.980Z"
+  },
+  "crow-country": {
+    "title": "Crow Country",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:38.102Z"
   },
   "cult-of-the-lamb": {
     "title": "Cult of the Lamb",
@@ -173,6 +386,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:49.691Z"
   },
+  "cyber-shadow": {
+    "title": "Cyber Shadow",
+    "matchedTitle": "Cyber Shadow (SRG #128) - For Nintendo Switch 北米版 Nintendo Switch ニンテンドースイッチ 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game9/game0725-10344.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-10344/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:54.717Z"
+  },
   "cyberpunk-2077-ultimate-edition": {
     "title": "サイバーパンク2077 アルティメットエディション",
     "matchedTitle": "【特典】サイバーパンク2077 アルティメットエディション　Switch2版(【永久封入特典】『サイバーパンク2077』ステッカーパック（2枚組）)",
@@ -189,6 +410,19 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:50.127Z"
   },
+  "daymare-1994-sandcastle": {
+    "title": "Daymare: 1994 Sandcastle",
+    "matchedTitle": "Beep Japan 【Switch】Daymare: 1994 Sandcastle 通常版 [HAC-P-BF2DB NSW デイメア 1994 サンドキャッスル ツウジョウ]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0371/4580695760831.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4580695760831-54-44309-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:46.395Z"
+  },
+  "days-gone-remastered": {
+    "title": "デイズ・ゴーン リマスター",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:48.057Z"
+  },
   "dead-cells": {
     "title": "Dead Cells",
     "matchedTitle": "[Switch] Dead Cells （ダウンロード版） ※2,000ポイントまでご利用可",
@@ -196,6 +430,14 @@
     "itemUrl": "https://item.rakuten.co.jp/rdownload/802586151/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:52.074Z"
+  },
+  "dead-island-2": {
+    "title": "Dead Island 2",
+    "matchedTitle": "日本語対応 PS5 プレイステーション5 Dead Island 2 (Day One Edition) デッドアイランド デイワンエディション プレイステーション5 EU輸入版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yms--online/cabinet/08189849/dead1.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/yms--online/ps5-82026/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:26.252Z"
   },
   "dead-space-2023": {
     "title": "Dead Space",
@@ -229,6 +471,11 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:10.264Z"
   },
+  "deaths-door": {
+    "title": "Death's Door",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:49.976Z"
+  },
   "demons-souls": {
     "title": "Demon's Souls",
     "matchedTitle": "Demon's Souls",
@@ -245,6 +492,19 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:02.944Z"
   },
+  "devil-may-cry-5-special-edition": {
+    "title": "デビル メイ クライ 5 スペシャルエディション",
+    "matchedTitle": "デビル メイ クライ 5 スペシャルエディション PS5 ゲームソフト SONY プレイステーション5 【中古】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/centerwave/cabinet/playstation/playstation_soft/14041.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/centerwave/14041/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:08.229Z"
+  },
+  "diablo-2-resurrected": {
+    "title": "ディアブロ II: リザレクテッド",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:05:06.259Z"
+  },
   "diablo-4": {
     "title": "ディアブロ IV",
     "matchedTitle": "Blizzard Entertainment｜ブリザードエンターテイメント ディアブロ IV",
@@ -252,6 +512,30 @@
     "itemUrl": "https://item.rakuten.co.jp/biccamera/5030917298486/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:07.414Z"
+  },
+  "diofield-chronicle": {
+    "title": "The DioField Chronicle",
+    "matchedTitle": "【中古】Switch The　DioField　Chronicle (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/zisyar1/0013561754.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet20/r0013561754/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:02.973Z"
+  },
+  "disgaea-6": {
+    "title": "魔界戦記ディスガイア6",
+    "matchedTitle": "[Switch] 魔界戦記ディスガイア6 （ダウンロード版） ※6,400ポイントまでご利用可",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rdownload/cabinet/thumbs/800000079/0/802226480_p.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/rdownload/803098213/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:16.179Z"
+  },
+  "disgaea-7": {
+    "title": "魔界戦記ディスガイア7",
+    "matchedTitle": "【中古】Switch 魔界戦記ディスガイア7 (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/zisyar1/0013638639.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet20/r0013638639/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:05.397Z"
   },
   "donkey-kong-bananza": {
     "title": "ドンキーコング バナンザ",
@@ -261,6 +545,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:59.305Z"
   },
+  "doom-the-dark-ages": {
+    "title": "DOOM: The Dark Ages",
+    "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[PS5] DOOM: The Dark Ages(ドゥーム: ザ ダーク エイジス)(オンライン専用) 日本マイクロソフト(20250515)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediaworldkaitoriworld/cabinet/1048/0/cg10480822.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480822001/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:35.143Z"
+  },
   "drag-x-drive": {
     "title": "Drag x Drive",
     "matchedTitle": "[Switch 2] Drag x Drive （ダウンロード版）※1,600ポイントまでご利用可",
@@ -269,6 +561,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:57.072Z"
   },
+  "dragon-age-the-veilguard": {
+    "title": "Dragon Age: The Veilguard",
+    "matchedTitle": "Electronic Arts Dragon Age: Veilguard PS5 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-6988.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6988/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:17.973Z"
+  },
   "dragon-ball-sparking-zero": {
     "title": "ドラゴンボール Sparking! ZERO",
     "matchedTitle": "ドラゴンボール Sparking! ZERO　switch2版",
@@ -276,6 +576,11 @@
     "itemUrl": "https://item.rakuten.co.jp/book/18328708/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:08.536Z"
+  },
+  "dragon-quest-1-2-hd-2d-remake": {
+    "title": "ドラゴンクエストI＆II HD-2D リメイク",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:00.583Z"
   },
   "dragon-quest-11-s-definitive-edition": {
     "title": "ドラゴンクエストXI S 過ぎ去りし時を求めて デフィニティブエディション",
@@ -330,6 +635,35 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:34.499Z"
   },
+  "dying-light-the-beast": {
+    "title": "Dying Light: The Beast",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:43.315Z"
+  },
+  "dynasty-warriors-origins": {
+    "title": "真・三國無双 ORIGINS",
+    "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[PS5] 真・三國無双 ORIGINS(オリジンズ) 通常版 コーエーテクモゲームス(20250117)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediaworldkaitoriworld/cabinet/1048/0/cg10480753.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480753001/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:19.020Z"
+  },
+  "ea-sports-fc-24": {
+    "title": "EA SPORTS FC 24",
+    "matchedTitle": "エレクトロニック・アーツ｜Electronic Arts EA SPORTS FC 24【PS5】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/8534/00000011779041_a01.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/biccamera/4938833024503/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:23.796Z"
+  },
+  "efootball": {
+    "title": "eFootball",
+    "matchedTitle": "eFootball Kick-Off!",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9910/4988602179910_1_2.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/18557553/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:05.457Z"
+  },
   "elden-ring": {
     "title": "ELDEN RING",
     "matchedTitle": "ELDEN RING SHADOW OF THE ERDTREE EDITION PS5版(初回自動取得は未収録のSwitch2版Tarnished Editionを誤マッチしたため、PS5版指定で再検索して手動修正)",
@@ -356,6 +690,35 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:57:23.785Z"
   },
+  "f-zero-99": {
+    "title": "F-ZERO 99",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:57.054Z"
+  },
+  "f1-24": {
+    "title": "F1 24",
+    "matchedTitle": "エレクトロニック・アーツ 【PS5】F1(R)24 [ELJM-30458 PS5 F1 24]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0329/4938833024626.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4938833024626-54-71487-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:00.648Z"
+  },
+  "faith-the-unholy-trinity": {
+    "title": "FAITH: The Unholy Trinity",
+    "matchedTitle": "FAITH: The Unholy Trinity",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4947/4907953564947.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/18192543/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:44.038Z"
+  },
+  "fantasian-neo-dimension": {
+    "title": "FANTASIAN Neo Dimension",
+    "matchedTitle": "スクウェア・エニックス 【Switch】FANTASIAN Neo Dimension（ファンタジアン ネオ ディメンジョン） [HAC-P-BHHHA NSW ファンタジアン ネオ ディメンジョン]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0420/4988601011884.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4988601011884-54-40561-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:07.809Z"
+  },
   "fantasy-life-i": {
     "title": "ファンタジーライフi グルグルの竜と時をぬすむ少女",
     "matchedTitle": "【中古】Switch ファンタジーライフi　グルグルの竜と時をぬすむ少女 (ニンテンドースイッチ)",
@@ -363,6 +726,14 @@
     "itemUrl": "https://item.rakuten.co.jp/renet20/r0014071539/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:48.912Z"
+  },
+  "farming-simulator-25": {
+    "title": "Farming Simulator 25",
+    "matchedTitle": "GIANTS Software 【PS5】Farming Simulator 25 [ELJM-30524 PS5 ファ-ミング シミュレ-タ- 25]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0403/4974365838355.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4974365838355-54-71489-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:11.379Z"
   },
   "fast-fusion": {
     "title": "FAST Fusion",
@@ -376,6 +747,27 @@
     "itemUrl": "https://item.rakuten.co.jp/home-carpentry/1350010196/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:24.632Z"
+  },
+  "fatal-fury-city-of-the-wolves": {
+    "title": "餓狼伝説 City of the Wolves",
+    "matchedTitle": "餓狼伝説 City of the Wolves SPECIAL EDITION PS5版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2704/4964808152704.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/18125100/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:18.589Z"
+  },
+  "fate-samurai-remnant": {
+    "title": "Fate/Samurai Remnant",
+    "matchedTitle": "[メール便OK]【新品】【NS】Fate/Samurai Remnant [Switch][在庫品]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/machida/cabinet/img10680000/10688939.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/machida/4988615183867/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:01.773Z"
+  },
+  "fell-seal-arbiters-mark": {
+    "title": "Fell Seal: Arbiter's Mark",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:26.842Z"
   },
   "ff7-rebirth": {
     "title": "ファイナルファンタジーVII リバース",
@@ -401,6 +793,11 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:33.946Z"
   },
+  "final-fantasy-tactics-ivalice-chronicles": {
+    "title": "ファイナルファンタジー タクティクス: ジ・アイヴァリス・クロニクルズ",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:42.146Z"
+  },
   "fire-emblem-engage": {
     "title": "ファイアーエムブレム エンゲージ",
     "matchedTitle": "任天堂 【Switch】Fire Emblem Engage（ファイアーエムブレム エンゲージ）　通常版 [HAC-P-AYFNA NSW ファイアーエムブレム エンゲージ ツウジョウ]",
@@ -417,6 +814,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-02T23:22:19.671Z"
   },
+  "fire-emblem-warriors": {
+    "title": "ファイアーエムブレム無双",
+    "matchedTitle": "【中古】 ファイアーエムブレム無双／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2329/0018919372l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0018919372/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:33.408Z"
+  },
   "fire-emblem-warriors-three-hopes": {
     "title": "ファイアーエムブレム無双 風花雪月",
     "matchedTitle": "【中古】 ファイアーエムブレム無双　風花雪月／NintendoSwitch",
@@ -425,6 +830,11 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:42.508Z"
   },
+  "foamstars": {
+    "title": "FOAMSTARS(フォームスターズ)",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:34.605Z"
+  },
   "forspoken": {
     "title": "FORSPOKEN",
     "matchedTitle": "【中古】PS5FORSPOKEN",
@@ -432,6 +842,32 @@
     "itemUrl": "https://item.rakuten.co.jp/renet20/r0013639182/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:15.884Z"
+  },
+  "front-mission-1st-remake": {
+    "title": "フロントミッション1st: Remake",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:59.061Z"
+  },
+  "front-mission-2-remake": {
+    "title": "FRONT MISSION 2: Remake",
+    "matchedTitle": "FRONT MISSION 2: Remake Limited Run Playstation 5 PS5 Video Game 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-6275.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6275/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:14.976Z"
+  },
+  "fuga-melodies-of-steel-2": {
+    "title": "Fuga: Melodies of Steel 2",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:12.561Z"
+  },
+  "game-builder-garage": {
+    "title": "ナビつき！ つくってわかる はじめてゲームプログラミング",
+    "matchedTitle": "任天堂 【Switch】ナビつき！ つくってわかる　はじめてゲームプログラミング [HAC-R-AWUXA NSW ナビツキ ツクッテワカル ハジメテノゲームプログラミング]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1587/4902370548174.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4902370548174-54-46586-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:40.558Z"
   },
   "ghost-of-tsushima-directors-cut": {
     "title": "Ghost of Tsushima Director's Cut",
@@ -486,6 +922,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:57:26.134Z"
   },
+  "grand-theft-auto-v": {
+    "title": "グランド・セフト・オートV",
+    "matchedTitle": "テイクツー・インタラクティブ・ジャパン 【PS5】グランド・セフト・オートV [ELJM-30138 PS5 グランドセフトオート5]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1753/4571304479077.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4571304479077-54-56703-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:49.940Z"
+  },
   "grounded": {
     "title": "Grounded",
     "matchedTitle": "Grounded Fully Yoked Edition Collector's Edition (Limited Run Games #231) - for Nintendo Switch 北米版 Nintendo Switch ニンテンドースイッチ 海外版ソフト",
@@ -510,6 +954,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:48.494Z"
   },
+  "hades-2": {
+    "title": "Hades II",
+    "matchedTitle": "HADES II Nintendo Switch 2 Edition",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0156/4589508180156.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/18379507/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:37.519Z"
+  },
   "harvestella": {
     "title": "ハーヴェステラ",
     "matchedTitle": "【中古】HARVESTELLA(ハーヴェステラ)ソフト:ニンテンドーSwitchソフト／シミュレーション・ゲーム",
@@ -517,6 +969,14 @@
     "itemUrl": "https://item.rakuten.co.jp/geoonline1/515269302/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:53.452Z"
+  },
+  "have-a-nice-death": {
+    "title": "Have a Nice Death",
+    "matchedTitle": "Have a Nice Death - Nintendo Switch 北米版 Nintendo Switch ニンテンドースイッチ 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game8/game0725-9018.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-9018/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:55.889Z"
   },
   "helldivers-2": {
     "title": "HELLDIVERS 2",
@@ -579,6 +1039,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:40.003Z"
   },
+  "hot-wheels-unleashed-2-turbocharged": {
+    "title": "Hot Wheels Unleashed 2: Turbocharged",
+    "matchedTitle": "Hot Wheels Unleashed 2: Turbocharged - PlayStation 5 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game6/game0725-5639.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-5639/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:59.436Z"
+  },
+  "house-flipper-2": {
+    "title": "House Flipper 2",
+    "matchedTitle": "House Flipper 2 PS5 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game6/game0725-6136.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6136/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:07.970Z"
+  },
   "human-fall-flat": {
     "title": "Human: Fall Flat",
     "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【新品】【お取り寄せ】[PS5] ヒューマン フォール フラット(Human: Fall Flat) Teyon Japan (20221020)",
@@ -587,6 +1063,19 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:18.667Z"
   },
+  "into-the-breach": {
+    "title": "Into the Breach",
+    "matchedTitle": "[Switch] Into the Breach （ダウンロード版） ※1,280ポイントまでご利用可",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rdownload/cabinet/thumbs/800000079/7/802250417_p.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/rdownload/803132898/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:25.659Z"
+  },
+  "islets": {
+    "title": "アイレッツ 漂流の天空島",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:57.061Z"
+  },
   "it-takes-two": {
     "title": "It Takes Two",
     "matchedTitle": "エレクトロニック・アーツ 【Switch】It Takes Two（2人協力プレイ専用） [HAC-P-A7GSA NSW イット テイクス ツ-]",
@@ -594,6 +1083,19 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4938833024404-54-46584-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:11.046Z"
+  },
+  "judge-eyes-remastered": {
+    "title": "JUDGE EYES：死神の遺言 Remastered",
+    "matchedTitle": "【新品】PS5 JUDGE EYES:死神の遺言 Remastered【メール便】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gamearc/cabinet/4974365837051.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/gamearc/4974365837051n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:22.586Z"
+  },
+  "jusant": {
+    "title": "Jusant",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:47.631Z"
   },
   "katamari-damacy-reroll": {
     "title": "塊魂 リローデッド",
@@ -629,6 +1131,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:13.454Z"
   },
+  "kirby-star-allies": {
+    "title": "星のカービィ スターアライズ",
+    "matchedTitle": "【中古】Switch 星のカービィ　スターアライズ (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/zisya24/0012726263.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet3/0012726263/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:24.985Z"
+  },
   "kirbys-return-to-dream-land-deluxe": {
     "title": "星のカービィ Wii デラックス",
     "matchedTitle": "任天堂 【Switch】星のカービィ Wii デラックス [HAC-P-A2JYA NSW ホシノカービィ Wii デラックス]",
@@ -641,6 +1151,27 @@
     "title": "クロノア Phantasy Reverie Series",
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:56:49.657Z"
+  },
+  "kunitsu-gami-path-of-the-goddess": {
+    "title": "Kunitsu-Gami: Path of the Goddess",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:39.849Z"
+  },
+  "kuro-no-kiseki": {
+    "title": "英雄伝説 黎の軌跡",
+    "matchedTitle": "日本ファルコム 【Switch】英雄伝説 黎の軌跡 for Nintendo Switch [HAC-P-BC2ZA NSW エイユウデンセツ クロノキセキ]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0132/4956027129445.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4956027129445-54-40561-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:21.398Z"
+  },
+  "kuro-no-kiseki-2-crimson-sin": {
+    "title": "英雄伝説 黎の軌跡II -CRIMSON SiN-",
+    "matchedTitle": "英雄伝説 黎の軌跡II -CRIMSON SiN-[PS5] [通常版] / ゲーム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/neowing-r/cabinet/item_img_2054/eljm-30192.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/neowing-r/eljm-30192/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:08:52.924Z"
   },
   "lies-of-p": {
     "title": "Lies of P",
@@ -674,6 +1205,11 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:55.700Z"
   },
+  "like-a-dragon-pirate-yakuza-in-hawaii": {
+    "title": "龍が如く 海賊たちのハワイ",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:38.687Z"
+  },
   "little-nightmares-3": {
     "title": "Little Nightmares III",
     "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[PS5] リトルナイトメア3(LITTLE NIGHTMARES III) バンダイナムコエンターテインメント(20251010)",
@@ -681,6 +1217,14 @@
     "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480963001/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:32.164Z"
+  },
+  "lords-of-the-fallen-2023": {
+    "title": "Lords of the Fallen",
+    "matchedTitle": "PS5用ソフト Lords of the Fallen Standard Edition -(輸入版:北米)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/romanyu/cabinet/mitsukura/12569765/imgrc0159395557.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/romanyu/b220436mm/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:09.624Z"
   },
   "lost-judgment": {
     "title": "LOST JUDGMENT：裁かれざる記憶",
@@ -690,6 +1234,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:58.129Z"
   },
+  "luigis-mansion-2-hd": {
+    "title": "ルイージマンション2 HD",
+    "matchedTitle": "ルイージマンション 2 HD Switch 【ネコポス便】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/lcs-live/cabinet/living/09818817/09818821/4902370551938.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/lcs-live/10015642/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:29.792Z"
+  },
   "luigis-mansion-3": {
     "title": "ルイージマンション3",
     "matchedTitle": "ルイージマンション3",
@@ -697,6 +1249,14 @@
     "itemUrl": "https://item.rakuten.co.jp/book/15990415/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:23.207Z"
+  },
+  "madison": {
+    "title": "MADiSON",
+    "matchedTitle": "Beep Japan 【PS5】MADiSON (マディソン)　通常版 [ELJM-30449 PS5 マディソン ツウジョウ]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0340/4580695760817.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4580695760817-54-71482-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:39.327Z"
   },
   "mario-golf-super-rush": {
     "title": "マリオゴルフ スーパーラッシュ",
@@ -722,6 +1282,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-02T23:22:20.874Z"
   },
+  "mario-luigi-brothership": {
+    "title": "マリオ&ルイージRPG ブラザーシップ!",
+    "matchedTitle": "マリオ&ルイージRPG ブラザーシップ！ [Nintendo Switch] [ラッピング不可] R-LOGI",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sokutei/cabinet/item08/4902370552461.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/sokutei/4902370552461/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:38.186Z"
+  },
   "mario-party-jamboree": {
     "title": "マリオパーティ ジャンボリー",
     "matchedTitle": "任天堂 スーパー マリオパーティ ジャンボリー【Switch】 HACPA7HLA [HACPA7HLA]",
@@ -746,6 +1314,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:46.095Z"
   },
+  "mario-rabbids-kingdom-battle": {
+    "title": "マリオ+ラビッツ キングダムバトル",
+    "matchedTitle": "マリオ+ラビッツ キングダムバトル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rugia/cabinet/onesell126/rgeb7efd2540.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/rugia/rgeb7efd2540/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:12.571Z"
+  },
   "mario-strikers-battle-league": {
     "title": "マリオストライカーズ バトルリーグ",
     "matchedTitle": "マリオストライカーズ　バトルリーグ",
@@ -753,6 +1329,14 @@
     "itemUrl": "https://item.rakuten.co.jp/book/17056016/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:56.887Z"
+  },
+  "mario-tennis-aces": {
+    "title": "マリオテニス エース",
+    "matchedTitle": "任天堂 【Switch】マリオテニス エース [HAC-P-ALERA マリオテニスエース]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0748/4902370539455.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4902370539455-54-40564-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:32.205Z"
   },
   "mario-vs-donkey-kong-2024": {
     "title": "マリオvs.ドンキーコング",
@@ -762,6 +1346,21 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:31.461Z"
   },
+  "marvel-rivals": {
+    "title": "Marvel Rivals",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:40.976Z"
+  },
+  "marvel-vs-capcom-fighting-collection-arcade-classics": {
+    "title": "マーベルVSカプコン ファイティングコレクション アーケードクラシックス",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:23.451Z"
+  },
+  "marvels-guardians-of-the-galaxy": {
+    "title": "Marvel's ガーディアンズ・オブ・ギャラクシー",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:10.641Z"
+  },
   "marvels-midnight-suns": {
     "title": "Marvel's Midnight Suns",
     "matchedTitle": "Marvel's Midnight Suns Enhanced Edition - PlayStation 5 北米版 PS5 プレイステーション5 海外版ソフト",
@@ -769,6 +1368,22 @@
     "itemUrl": "https://item.rakuten.co.jp/basque/game0725-5848/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:19.396Z"
+  },
+  "mega-man-battle-network-legacy-collection": {
+    "title": "ロックマンエグゼ アドバンスドコレクション",
+    "matchedTitle": "【中古】 ロックマンエグゼ　アドバンスドコレクション／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/775/0020017280l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0020017280/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:55.502Z"
+  },
+  "melty-blood-type-lumina": {
+    "title": "MELTY BLOOD: TYPE LUMINA",
+    "matchedTitle": "【1日と5.0のつく日、18日はポイント3倍！】【中古】MELTY BLOOD： TYPE LUMINA Nintendo Switch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/excellar/cabinet/image0338/1350008438_1.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/excellar/1350008438/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:08:56.314Z"
   },
   "metal-gear-solid-delta-snake-eater": {
     "title": "METAL GEAR SOLID Δ: SNAKE EATER",
@@ -782,6 +1397,14 @@
     "title": "Metal: Hellsinger",
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:57:40.445Z"
+  },
+  "metal-slug-tactics": {
+    "title": "Metal Slug Tactics",
+    "matchedTitle": "METAL SLUG TACTICS",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4968/4964808154968.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/18377215/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:44.542Z"
   },
   "metaphor-refantazio": {
     "title": "メタファー：リファンタジオ",
@@ -807,6 +1430,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:00.514Z"
   },
+  "miitopia-switch": {
+    "title": "ミートピア",
+    "matchedTitle": "任天堂 【Switch】ミートピア [HAC-P-AW8SA NSW ミートピア]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1545/4902370547924.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4902370547924-54-40561-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:30.990Z"
+  },
+  "mlb-the-show-24": {
+    "title": "MLB The Show 24",
+    "matchedTitle": "【中古】 MLB The Show 24（英語版）／PS5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1/r_noimg.gif",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0020251100/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:06.667Z"
+  },
   "monster-hunter-rise": {
     "title": "モンスターハンターライズ",
     "matchedTitle": "モンスターハンターライズ Best Price Nintendo Switch　HAC-3-AXSEA",
@@ -831,6 +1470,19 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:12.693Z"
   },
+  "naraka-bladepoint": {
+    "title": "NARAKA: BLADEPOINT",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:31.067Z"
+  },
+  "naruto-x-boruto-ultimate-ninja-storm-connections": {
+    "title": "NARUTO X BORUTO ナルティメットストームコネクションズ",
+    "matchedTitle": "【中古】NARUTO X BORUTO ナルティメットストームコネクションズ -Switch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/torimashouten/cabinet/skypiea/skypiea_0022/b0cl4vbc4s_1.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/torimashouten/b0cl4vbc4s/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:11.296Z"
+  },
   "need-for-speed-unbound": {
     "title": "Need for Speed Unbound",
     "matchedTitle": "【中古】 Need　for　Speed　Unbound／PS5",
@@ -847,6 +1499,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:42.853Z"
   },
+  "new-pokemon-snap": {
+    "title": "New ポケモンスナップ",
+    "matchedTitle": "New ポケモンスナップ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/at-field/cabinet/pokemonsnap.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/at-field/sw-spakemonsnap/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:35.794Z"
+  },
   "new-super-mario-bros-u-deluxe": {
     "title": "New スーパーマリオブラザーズ U デラックス",
     "matchedTitle": "New スーパーマリオブラザーズ U デラックス",
@@ -854,6 +1514,14 @@
     "itemUrl": "https://item.rakuten.co.jp/book/15637342/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:54.450Z"
+  },
+  "nickelodeon-all-star-brawl-2": {
+    "title": "Nickelodeon All-Star Brawl 2",
+    "matchedTitle": "Nickelodeon All-Star Brawl 2 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-7235.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-7235/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:28.731Z"
   },
   "nier-automata-end-of-yorha-edition": {
     "title": "NieR:Automata The End of YoRHa Edition",
@@ -863,6 +1531,11 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:25.798Z"
   },
+  "nine-sols": {
+    "title": "九日 ナインソール",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:44.124Z"
+  },
   "nintendo-switch-sports": {
     "title": "Nintendo Switch Sports",
     "matchedTitle": "Nintendo Switch Sports",
@@ -870,6 +1543,22 @@
     "itemUrl": "https://item.rakuten.co.jp/book/17056014/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:33.865Z"
+  },
+  "nioh": {
+    "title": "仁王",
+    "matchedTitle": "【中古】 仁王　Remastered　Complete　Edition／PS5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/408/0019577340l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019577340/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:10:53.341Z"
+  },
+  "nobunaga-ambition-shinsei": {
+    "title": "信長の野望・新生",
+    "matchedTitle": "コーエーテクモゲームス 【Switch】信長の野望・新生 with パワーアップキット 通常版 [HAC-P-AYYVE NSW ノブナガノヤボウ シンセイ PK ツウジョウ]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0031/4988615183812.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4988615183812-54-40562-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:20.954Z"
   },
   "octopath-traveler": {
     "title": "オクトパストラベラー",
@@ -886,6 +1575,27 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4988601011488-54-27073-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:35.306Z"
+  },
+  "okami-hd": {
+    "title": "大神 絶景版",
+    "matchedTitle": "大神 絶景版 通常版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4894/4976219094894.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/15497010/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:54.305Z"
+  },
+  "omega-strikers": {
+    "title": "Omega Strikers",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:33.414Z"
+  },
+  "onimusha-warlords": {
+    "title": "鬼武者",
+    "matchedTitle": "【中古】 鬼武者／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/521/0019164473l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019164473/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:10:55.044Z"
   },
   "ori-and-the-will-of-the-wisps": {
     "title": "Ori and the Will of the Wisps",
@@ -919,10 +1629,23 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:48.479Z"
   },
+  "paper-trail": {
+    "title": "ペーパートレイル",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:51.153Z"
+  },
   "path-of-exile-2": {
     "title": "Path of Exile 2",
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:56:09.676Z"
+  },
+  "persona-3-portable": {
+    "title": "ペルソナ3 ポータブル",
+    "matchedTitle": "[Switch] ペルソナ3 ポータブル （ダウンロード版）　※1,600ポイントまでご利用可",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rdownload/cabinet/thumbs/800000079/3/802251933_p.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/rdownload/803134414/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:12.922Z"
   },
   "persona-3-reload": {
     "title": "ペルソナ３ リロード",
@@ -957,6 +1680,14 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4902370551624-54-40560-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:11.909Z"
+  },
+  "pikmin-3-deluxe": {
+    "title": "ピクミン3 デラックス",
+    "matchedTitle": "ピクミン3 デラックス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6941/4902370546941.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/16417565/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:36.983Z"
   },
   "pikmin-4": {
     "title": "ピクミン4",
@@ -1016,6 +1747,19 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:28.035Z"
   },
+  "poppy-playtime": {
+    "title": "Poppy Playtime",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T00:00:00.000Z"
+  },
+  "powerwash-simulator": {
+    "title": "PowerWash Simulator",
+    "matchedTitle": "Square Enix Powerwash Simulator 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-6231.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6231/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:07.843Z"
+  },
   "prince-of-persia-the-lost-crown": {
     "title": "Prince of Persia: The Lost Crown",
     "matchedTitle": "Prince of Persia: The Lost Crown (Switch) 北米版 Nintendo Switch ニンテンドースイッチ 海外版ソフト",
@@ -1031,6 +1775,22 @@
     "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480047001/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:30.316Z"
+  },
+  "remnant-2": {
+    "title": "Remnant II",
+    "matchedTitle": "THQ Nordic 【PS5】Remnant II レムナント2 [ELJM-30353 PS5 レムナント2]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0088/4571574970243.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4571574970243-54-56703-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:14.220Z"
+  },
+  "resident-evil-7-biohazard": {
+    "title": "バイオハザード7 レジデント イービル",
+    "matchedTitle": "[メール便OK]【新品】【PS5】バイオハザード7 レジデント イービル ゴールド エディション グロテスクVer．［PS5版］[在庫品]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/machida/cabinet/img10810000/10816952.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/machida/4976219131834/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:06.316Z"
   },
   "resident-evil-re2": {
     "title": "バイオハザード RE:2",
@@ -1088,6 +1848,30 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:53.279Z"
   },
+  "rocket-league": {
+    "title": "Rocket League",
+    "matchedTitle": "【中古】 ロケットリーグ　コレクターズ・エディション／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2460/0019081615l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019081615/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:14.644Z"
+  },
+  "rogue-legacy-2": {
+    "title": "Rogue Legacy 2",
+    "matchedTitle": "Rogue Legacy 2 - Nintendo Switch - Limited Run #240 北米版 Nintendo Switch ニンテンドースイッチ 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game8/game0725-9930.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-9930/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:48.806Z"
+  },
+  "rogue-prince-of-persia": {
+    "title": "The Rogue Prince of Persia",
+    "matchedTitle": "The Rogue Prince of Persia Immortal Edition - Nintendo Switch 北米版 Nintendo Switch ニンテンドースイッチ 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game8/game0725-8324.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-8324/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:46.887Z"
+  },
   "romancing-saga-2-revenge-of-the-seven": {
     "title": "ロマンシング サガ2 リベンジ オブ ザ セブン",
     "matchedTitle": "【中古】Switch ロマンシング　サガ2　リベンジオブザセブン (ニンテンドースイッチ)",
@@ -1109,6 +1893,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:45.717Z"
   },
+  "rune-factory-guardians-of-azuma": {
+    "title": "龍の国 ルーンファクトリー",
+    "matchedTitle": "【中古】Switch 龍の国　ルーンファクトリー (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/zisya20/0014083700.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet3/0014083700/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:09.003Z"
+  },
   "sackboy-a-big-adventure": {
     "title": "Sackboy: A Big Adventure",
     "matchedTitle": "Sackboy: A Big Adventure PS5 (Brand New Factory Sealed US Version) PlayStation 5 北米版 PS5 プレイステーション5 海外版ソフト",
@@ -1117,10 +1909,26 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:06.101Z"
   },
+  "saga-emerald-beyond": {
+    "title": "サガ エメラルド ビヨンド",
+    "matchedTitle": "サガ エメラルド ビヨンド 【Switch】 HAC-P-BCUJA",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000345/2819513016.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/yamada-denki/2819513016/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:04.172Z"
+  },
   "saga-frontier-2-remastered": {
     "title": "サガ フロンティア2 リマスター",
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:57:19.043Z"
+  },
+  "sand-land": {
+    "title": "SAND LAND",
+    "matchedTitle": "【中古】PS5SAND　LAND",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/zisya12/0013918565.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet20/r0013918565/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:14.977Z"
   },
   "sekai-no-asobi-daizen-51": {
     "title": "世界のアソビ大全51",
@@ -1129,6 +1937,14 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4902370545784-54-46585-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:35.037Z"
+  },
+  "shin-megami-tensei-3-nocturne-hd-remaster": {
+    "title": "真・女神転生III NOCTURNE HD REMASTER",
+    "matchedTitle": "【中古】真・女神転生III NOCTURNE HD REMASTERソフト:ニンテンドーSwitchソフト／ロールプレイング・ゲーム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/geoonline1/cabinet/1252/5151252-01.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/geoonline1/515125202/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:56.705Z"
   },
   "shin-megami-tensei-5": {
     "title": "真・女神転生V",
@@ -1178,6 +1994,11 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:47.680Z"
   },
+  "skullgirls-2nd-encore": {
+    "title": "Skullgirls 2nd Encore",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T00:00:00.000Z"
+  },
   "slitterhead": {
     "title": "Slitterhead",
     "matchedTitle": "野狗子: Slitterhead 【PS5】 ELJM-30479",
@@ -1193,6 +2014,22 @@
     "itemUrl": "https://item.rakuten.co.jp/renet20/r0013600940/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:07.854Z"
+  },
+  "sonic-origins": {
+    "title": "ソニックオリジンズ",
+    "matchedTitle": "[Switch] ソニックオリジンズ （ダウンロード版） ※3,200ポイントまでご利用可",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rdownload/cabinet/thumbs/800000079/7/802251777_p.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/rdownload/803134258/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:05:05.086Z"
+  },
+  "sonic-racing-crossworlds": {
+    "title": "ソニックレーシング クロスワールド",
+    "matchedTitle": "ソニックレーシング クロスワールド Nintendo Switch2 Edition",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0928/4974365870928.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/18502785/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:54.654Z"
   },
   "sonic-x-shadow-generations": {
     "title": "ソニック×シャドウ ジェネレーションズ",
@@ -1255,6 +2092,11 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:01.718Z"
   },
+  "star-ocean-first-departure-r": {
+    "title": "スターオーシャン1 -First Departure R-",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:05:00.243Z"
+  },
   "star-ocean-second-story-r": {
     "title": "スターオーシャン セカンドストーリーR",
     "matchedTitle": "スクウェア・エニックス 【PS4】STAR OCEAN THE SECOND STORY R [PLJM-17278 PS4 スターオーシャン セカンドストーリーR]",
@@ -1262,6 +2104,14 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4988601011617-54-27073-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:39.757Z"
+  },
+  "star-ocean-the-divine-force": {
+    "title": "スターオーシャン6 THE DIVINE FORCE",
+    "matchedTitle": "【中古】PS5スターオーシャン6　THE　DIVINE　FORCE",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/zisyar1/0013579860.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet20/r0013579860/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:06.605Z"
   },
   "star-wars-jedi-survivor": {
     "title": "Star Wars Jedi: Survivor",
@@ -1303,6 +2153,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:52.202Z"
   },
+  "stray": {
+    "title": "Stray",
+    "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[PS5] Stray(ストレイ) スペシャルエディション(限定版) ハピネット (20231122)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediaworldkaitoriworld/cabinet/1048/0/cg10480417.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480417001/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:11.833Z"
+  },
   "street-fighter-6": {
     "title": "ストリートファイター6",
     "matchedTitle": "カプコン 【PS5】ストリートファイター6 Years 1-2 ファイターズエディション [ELJM-30678 PS5 ストリ-トファイタ-6 Year1-2 ファイタ-ズエディション]",
@@ -1318,6 +2176,11 @@
     "itemUrl": "https://item.rakuten.co.jp/kobaco-003/sb087x6ltsw/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:21.813Z"
+  },
+  "suikoden-1-2-hd-remaster": {
+    "title": "幻想水滸伝I・II HDリマスター",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:36.344Z"
   },
   "super-mario-3d-world-fury-world": {
     "title": "スーパーマリオ 3Dワールド + フューリーワールド",
@@ -1351,6 +2214,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-02T23:22:17.274Z"
   },
+  "super-mario-party": {
+    "title": "スーパー マリオパーティ",
+    "matchedTitle": "Nintendo Switch スーパーマリオパーティー 任天堂 ニンテンドースイッチ ソフト お祝い ギフト [ラッピング対応不可] R-LOGI",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sokutei/cabinet/05716971/4902370540437.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/sokutei/4902370540437/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:08:54.674Z"
+  },
   "super-mario-rpg": {
     "title": "スーパーマリオRPG",
     "matchedTitle": "【中古】Switch スーパーマリオRPG (ニンテンドースイッチ)",
@@ -1358,6 +2229,14 @@
     "itemUrl": "https://item.rakuten.co.jp/renet20/r0013819935/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:46.946Z"
+  },
+  "super-robot-wars-30": {
+    "title": "スーパーロボット大戦30",
+    "matchedTitle": "在庫あり☆[メール便OK]【新品】【NS】スーパーロボット大戦30★蔵出し★ご注文後のキャンセル不可★",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/machida/cabinet/img10540000/10545748.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/machida/4582528473611/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:29.200Z"
   },
   "super-smash-bros-ultimate": {
     "title": "大乱闘スマッシュブラザーズ SPECIAL",
@@ -1367,6 +2246,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-02T23:22:18.474Z"
   },
+  "tactics-ogre-reborn": {
+    "title": "タクティクスオウガ リボーン",
+    "matchedTitle": "スクウェア・エニックス 【PS5】タクティクスオウガ リボーン [ELJM-30197 PS5 タクティクスオウガ リボーン]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1831/4988601011457.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4988601011457-54-71484-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:13.764Z"
+  },
   "tales-of-arise": {
     "title": "テイルズ オブ アライズ",
     "matchedTitle": "バンダイナムコエンターテインメント 【Switch2】Tales of ARISE - Beyond the Dawn Edition （テイルズオブアライズ） [POT-P-ABLWA NSW2 テイルズ オブ アライズ ビヨンド ザ ドーン エディション]",
@@ -1374,6 +2261,22 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4573685176224-54-73630-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:07.317Z"
+  },
+  "tales-of-graces-f-remastered": {
+    "title": "テイルズ オブ グレイセス エフ リマスター",
+    "matchedTitle": "在庫あり[メール便OK]【新品】【NS】テイルズ オブ グレイセス エフ リマスター［Switch版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/machida/cabinet/img10800000/10803196.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/machida/4582747932555/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:13.773Z"
+  },
+  "tales-of-symphonia-remastered": {
+    "title": "テイルズ オブ シンフォニア リマスター",
+    "matchedTitle": "【中古】 テイルズ　オブ　シンフォニア　リマスター／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1/r_noimg.gif",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019939473/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:52.338Z"
   },
   "tekken-8": {
     "title": "鉄拳8",
@@ -1391,6 +2294,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:16.298Z"
   },
+  "tetris-99": {
+    "title": "TETRIS 99",
+    "matchedTitle": "【中古】【良い】TETRIS 99 -Switch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/skymarketplus/cabinet/20240321-1/b07t95qtcw.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/skymarketplus/yb07t95qtcw/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:27.404Z"
+  },
   "the-callisto-protocol": {
     "title": "The Callisto Protocol",
     "matchedTitle": "【中古】(未使用品)Krafton The Callisto Protocol Standard Edition - PS5",
@@ -1398,6 +2309,11 @@
     "itemUrl": "https://item.rakuten.co.jp/cocohouse/sb0blzqxxbx/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:14.674Z"
+  },
+  "the-casting-of-frank-stone": {
+    "title": "The Casting of Frank Stone",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:53.449Z"
   },
   "the-king-of-fighters-xv": {
     "title": "THE KING OF FIGHTERS XV",
@@ -1415,10 +2331,31 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:25.455Z"
   },
+  "the-mortuary-assistant": {
+    "title": "The Mortuary Assistant",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:42.846Z"
+  },
   "the-outlast-trials": {
     "title": "The Outlast Trials",
     "coverUrl": null,
     "resolvedAt": "2026-08-03T06:57:33.321Z"
+  },
+  "the-quarry": {
+    "title": "The Quarry",
+    "matchedTitle": "2K The Quarry 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-6923.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6923/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:08:59.643Z"
+  },
+  "thems-fightin-herds": {
+    "title": "Them's Fightin' Herds",
+    "matchedTitle": "Them's Fighting Herds: Deluxe Edition (PS5) 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game6/game0725-5841.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-5841/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:21.272Z"
   },
   "thirteen-sentinels-aegis-rim": {
     "title": "十三機兵防衛圏",
@@ -1427,6 +2364,35 @@
     "itemUrl": "https://item.rakuten.co.jp/renet20/r0013015826/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:29.799Z"
+  },
+  "toem": {
+    "title": "トーエム",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:02:53.522Z"
+  },
+  "tokyo-mirage-sessions-fe-encore": {
+    "title": "幻影異聞録♯FE Encore",
+    "matchedTitle": "[Switch] 幻影異聞録♯FE Encore （ダウンロード版） ※5,600ポイントまでご利用可",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rdownload/cabinet/thumbs/800000079/5/802014655_p.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/rdownload/802689006/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:17.393Z"
+  },
+  "tony-hawk-pro-skater-1-2": {
+    "title": "Tony Hawk's Pro Skater 1 + 2",
+    "matchedTitle": "Tony Hawk's Pro Skater 1+2 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-6630.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6630/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:01.302Z"
+  },
+  "tormented-souls": {
+    "title": "Tormented Souls",
+    "matchedTitle": "Tormented Souls - PlayStation 5 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-6198.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6198/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:10:51.636Z"
   },
   "trials-of-mana": {
     "title": "聖剣伝説3 トライアルズ オブ マナ",
@@ -1452,6 +2418,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:42.082Z"
   },
+  "two-point-museum": {
+    "title": "Two Point Museum",
+    "matchedTitle": "Two Point Museum: Explorer Edition - PlayStation 5 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game6/game0725-5913.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-5913/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:10.182Z"
+  },
   "uncharted-legacy-of-thieves-collection": {
     "title": "アンチャーテッド トレジャーハンターコレクション",
     "matchedTitle": "【中古】PS5アンチャーテッド　トレジャーハンターコレクション",
@@ -1459,6 +2433,14 @@
     "itemUrl": "https://item.rakuten.co.jp/renet20/r0013405789/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:38.790Z"
+  },
+  "under-night-in-birth-2-sys-celes": {
+    "title": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+    "matchedTitle": "UNDER NIGHT IN-BIRTH II Sys:Celes Switch版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0055/4510772240055.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/17644862/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:19.811Z"
   },
   "unicorn-overlord": {
     "title": "ユニコーンオーバーロード",
@@ -1492,6 +2474,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:07.152Z"
   },
+  "valkyria-chronicles-4": {
+    "title": "戦場のヴァルキュリア4",
+    "matchedTitle": "【新品】Switch 戦場のヴァルキュリア4〔新価格版〕【メール便】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gamearc/cabinet/4974365862077.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/gamearc/4974365862077n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:08:49.568Z"
+  },
   "vampire-survivors": {
     "title": "Vampire Survivors",
     "matchedTitle": "[Switch] Vampire Survivors （ダウンロード版）※400ポイントまでご利用可",
@@ -1499,6 +2489,19 @@
     "itemUrl": "https://item.rakuten.co.jp/rdownload/803134614/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:19.852Z"
+  },
+  "visage": {
+    "title": "Visage",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:03:49.931Z"
+  },
+  "warhammer-40k-space-marine-2": {
+    "title": "Warhammer 40,000: Space Marine 2",
+    "matchedTitle": "PS5 Warhammer 40,000: Space Marine 2 ELJM-30530 【CEROレーティング「Z」】 ※18才以上対象",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopypp/cabinet/amayahoo/12698233/3799-004749.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/shopypp/3799-004749/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:31.568Z"
   },
   "warioware-get-it-together": {
     "title": "おすそわける メイド イン ワリオ",
@@ -1515,6 +2518,51 @@
     "itemUrl": "https://item.rakuten.co.jp/edion/4902370551600/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:58.109Z"
+  },
+  "wartales": {
+    "title": "Wartales",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-03T12:04:23.285Z"
+  },
+  "withering-rooms": {
+    "title": "Withering Rooms",
+    "matchedTitle": "Withering Rooms 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game6/game0725-6147.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-6147/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:51.104Z"
+  },
+  "wo-long-fallen-dynasty": {
+    "title": "Wo Long: Fallen Dynasty",
+    "matchedTitle": "【中古】 Wo　Long：　Fallen　Dynasty／PS5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/747/0020005457l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0020005457/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:02.999Z"
+  },
+  "wuchang-fallen-feathers": {
+    "title": "Wuchang: Fallen Feathers",
+    "matchedTitle": "WUCHANG: Fallen Feathers Standard Edition - PS5 北米版 PS5 プレイステーション5 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game7/game0725-7205.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-7205/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:45.703Z"
+  },
+  "wwe-2k24": {
+    "title": "WWE 2K24",
+    "matchedTitle": "【送料無料】WWE 2K24 (輸入版:北米) - PS5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/scintitur/cabinet/rakus127_0002/b0csz6bb4200.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/scintitur/b0csz6bb42/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:09:16.324Z"
+  },
+  "xcom-2-collection": {
+    "title": "XCOM 2 コレクション",
+    "matchedTitle": "Switch ソフト XCOM 2 コレクション 輸入版 北米版 ターン制ストラテジー シミュレーション ゲーム 拡張パック同梱 宇宙人 侵略 SF 戦略 シミュレーションゲーム 任天堂 スイッチ 対応 ゲームソ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kbox/cabinet/12148041/p-b086bvmvyw-01.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/kbox/kbx-3hza5c5hsbdfsit1/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:22.131Z"
   },
   "xenoblade-2": {
     "title": "ゼノブレイド2",
@@ -1556,6 +2604,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:32.672Z"
   },
+  "ys-x-nordics": {
+    "title": "イースX -NORDICS-",
+    "matchedTitle": "日本ファルコム 【Switch】イースX -NORDICS-　通常版 [HAC-P-BBCEA NSW イース10 ノーディクス ツウジョウ]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0064/4956027129285.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4956027129285-54-40561-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:10.170Z"
+  },
+  "yuppie-psycho-executive-edition": {
+    "title": "Yuppie Psycho: Executive Edition",
+    "matchedTitle": "Yuppie Psycho: Executive Edition (Elite Edition) for Nintendo Switch 北米版 Nintendo Switch ニンテンドースイッチ 海外版ソフト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/game8/game0725-9308.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/basque/game0725-9308/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:03:47.572Z"
+  },
   "zelda-botw": {
     "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
     "matchedTitle": "ゼルダの伝説　ブレス オブ ザ ワイルド Nintendo Switch 2 Edition",
@@ -1563,6 +2627,22 @@
     "itemUrl": "https://item.rakuten.co.jp/book/18223360/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-02T23:24:52.534Z"
+  },
+  "zelda-echoes-of-wisdom": {
+    "title": "ゼルダの伝説 知恵のかりもの",
+    "matchedTitle": "【中古】Switch ゼルダの伝説　知恵のかりもの (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/zisya18/0013988382.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet3/0013988382/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:04:33.962Z"
+  },
+  "zelda-links-awakening": {
+    "title": "ゼルダの伝説 夢をみる島",
+    "matchedTitle": "ゼルダの伝説 夢をみる島",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3940/4902370543940.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/15949054/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-03T12:02:39.381Z"
   },
   "zelda-skyward-sword-hd": {
     "title": "ゼルダの伝説 スカイウォードソードHD",
