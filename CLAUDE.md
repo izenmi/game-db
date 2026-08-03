@@ -95,6 +95,8 @@ node scripts/generate-ogp.mjs   # public/og-image.png の再生成(手動実行�
 
 `useSeo.ts`(document.title/meta/canonical/OGP/JSON-LD設定)、`scripts/prerender.mjs`(`postbuild`フックでPlaywrightが全ルートをクロールし`dist/<route>/index.html`を書き出す、最後に`dist/index.html`を`dist/404.html`にコピー)、`scripts/generate-manifest.mjs`内のsitemap.xml生成の仕組みはranobe-db/manga-dbと同一パターン。canonical/og:urlは`window.location.origin`でなく`SITE_ORIGIN`定数から組み立てる(理由はranobe-dbのCLAUDE.md参照)。ゲーム詳細ページのJSON-LDは`VideoGame`型を使用(developer相当は`author`、`publisher`、`gamePlatform`、`genre`、`award`等)。scaffold時点で18ゲーム+一覧/詳細ページ計63ルートのプリレンダリングを確認済み。
 
+`index.html`の`<head>`にGoogle Analytics(gtag.js)タグを設置済み(2026-08-03、game-db専用のGA4計測ID `G-V6407CNZ8Y` をユーザーが発行)。`scripts/prerender.mjs`は`page.content()`でDOM全体をシリアライズするため、prerenderされた`dist/<route>/index.html`にもタグがそのまま含まれる。ranobe-db/manga-dbはそれぞれ別のGA4プロパティを使っており、計測IDの使い回しはしない。
+
 ## 一覧ページの件数表示(2026-08-03実装)
 
 `GameListPage`の件数表示(`page-subtitle`)は、絞り込み条件が1つでもある場合(`hasActiveFilters`)は「◯件 / 全□件」(絞り込み後件数 / 全体件数)、条件がない場合は「◯件」のみを表示する。全体件数は`gamesState.data.length`(絞り込み前の全件)を使う。姉妹サイトのranobe-db/manga-dbの`WorkListPage`にも同一パターンで実装済み。
@@ -123,7 +125,6 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
 ## 既知の未着手事項
 
 - **ストアリンク(PlayStation Store・Nintendo公式ソフト検索)は未実装**。追加する場合は必ず実装前にブラウザで実際に検索してURLパターンを確認すること(manga-dbの`WebComicPlatform`ルールを参照)
-- **Google Analytics(gtag.js)は未設定**。`index.html`からranobe-db用のGA計測IDを含むタグを削除済み(別サイトの計測データに混入するため使い回し不可)。計測する場合はgame-db用に新規のGA4プロパティをユーザー自身が発行する必要がある
 - **`og-image.png`は`scripts/generate-ogp.mjs`で生成済み**(2026-08-02、game-db用に新規作成)だが、データ規模が変わったら再実行が必要(自動化されていない)
 - **受賞歴のうち「未確認」表記のあるものは確度が低い**: 初回18本のデータ投入時、一部のタイトルでBAFTA Games Awardsの個別部門・D.I.C.E. Awardsの受賞可否など、調査時点で一次ソースに到達できず記載を見送った受賞歴がある(各ゲームの`sourceNote`に記載内容を明記)。正確性を重視する場合は個別に再確認を推奨
 - **新人賞/それ以外の賞でのフィルターは未実装**(ranobe-dbと同じく将来的な検討事項)
