@@ -122,6 +122,10 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
 
 18本(2026-08-02、scaffold。PS5中心7本・Switch中心8本・Switch2/マルチプラットフォーム3本のバランスで選定): エルデンリング(ELDEN RING)、ゴッド・オブ・ウォー ラグナロク、Marvel's Spider-Man 2、ファイナルファンタジーVII リバース、グランツーリスモ7、Horizon Forbidden West、バイオハザード ヴィレッジ、ゼルダの伝説 ティアーズ オブ ザ キングダム、ゼルダの伝説 ブレス オブ ザ ワイルド、スプラトゥーン3、あつまれ どうぶつの森、ポケットモンスター スカーレット・バイオレット、スーパーマリオ オデッセイ、大乱闘スマッシュブラザーズ SPECIAL、ファイアーエムブレム 風花雪月、マリオカート ワールド、モンスターハンターライズ、ペルソナ5 ザ・ロイヤル。18本時点で会社18社・ジャンル12・アワード9。
 
+**122本(2026-08-03、+104本の大型拡充)**: ユーザー依頼「100作品追加」に対し、PS5看板タイトル・PS5サードパーティ・PS5和ゲー/マルチ・Switch任天堂系×2・Switch任天堂系+インディー・Switch2/新作・インディー/リマスターの8バッチ(各13本、subagent調査→`apply_batch.py`反映→`npm run build`→`git commit`をバッチごとに逐次チェックポイント)で104本を追加(実在確認できず見送ったタイトルは0件、目標を上回ったが全て個別に実在確認済みで水増しではない)。会社84社(+66)・ジャンル28(+16: roguelike/platformer/fighting-game/horror/crime-action/co-op/metroidvania/strategy/party-game/fitness/musou-action/sports/adventure/deck-building/sandbox/puzzle)・アワード9(既存の範囲で対応、新規追加なし)。新規会社idはNaughty Dog・スクウェア・エニックス・カプコン・任天堂・アトラス・セガ等の既存id再利用を各subagentに徹底させ、バッチを並列実行せず逐次実行することでID衝突を回避した。
+
+パッケージ画像は`fetch-covers.mjs`で新規104本中100本を取得(4本は該当商品なし: persona-3-reload、dragon-quest-11-s-definitive-edition、pokemon-legends-za、kirby-air-riders)。`matchedTitle`をプラットフォーム表記(Xbox/Vita等の異機種、宣言済みplatformsと disjoint)で機械的にスクリーニングし、明確な誤マッチ6件(the-last-of-us-part-1がPart IIの画像を誤取得、alan-wake-2/disco-elysium-final-cutがXbox版、persona-4-goldenがVita版、slay-the-spireが北米輸入版、puyo-puyo-tetris-2がSwitch2限定版「2S」)をキャッシュから除去してプレースホルダー表示に戻した。合計10本がプレースホルダー。
+
 ## 既知の未着手事項
 
 - **ストアリンク(PlayStation Store・Nintendo公式ソフト検索)は未実装**。追加する場合は必ず実装前にブラウザで実際に検索してURLパターンを確認すること(manga-dbの`WebComicPlatform`ルールを参照)
