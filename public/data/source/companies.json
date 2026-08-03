@@ -3211,5 +3211,98 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia『スーパーロボット大戦30』(2026-08-03、WebFetch)で開発元として確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "game-science",
+    "name": "Game Science（ゲームサイエンス）",
+    "nameKana": "げーむさいえんす",
+    "description": "『黒神話:悟空』を開発した中国・深圳拠点のゲームスタジオ。2014年設立、杭州にも拠点を持つ。西遊記を題材にした高難度アクションRPGで世界的ヒットを記録した。",
+    "foundedYear": 2014,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Game_Science"
+    },
+    "sourceNote": "英語版Wikipedia『Game Science』記事(2026-08-03、WebFetchで確認)で設立年・拠点・代表作を確認。日本語版Wikipedia記事は未確認のため未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saber-interactive",
+    "name": "Saber Interactive",
+    "nameKana": "せいばー いんたらくてぃぶ",
+    "parentCompany": "Beacon Interactive",
+    "description": "『Warhammer 40,000: Space Marine 2』等を手掛ける米国フォートローダーデール拠点の開発会社。2001年設立。2020〜2024年はEmbracer Group傘下だった。",
+    "foundedYear": 2001,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saber_Interactive"
+    },
+    "sourceNote": "英語版Wikipedia『Saber Interactive』記事(2026-08-03、WebFetchで確認)で設立年・沿革・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sandfall-interactive",
+    "name": "Sandfall Interactive",
+    "nameKana": "さんどふぉーる いんたらくてぃぶ",
+    "description": "『Clair Obscur: Expedition 33』を手掛けたフランス・モンペリエ拠点のスタジオ。2020年、Ubisoft出身のメンバーにより設立された。",
+    "foundedYear": 2020,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandfall_Interactive"
+    },
+    "sourceNote": "英語版Wikipedia『Sandfall Interactive』記事(2026-08-03、WebFetchで確認)で設立年・拠点・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "id-software",
+    "name": "id Software",
+    "nameKana": "いど そふとうぇあ",
+    "parentCompany": "ZeniMax Media（マイクロソフト傘下）",
+    "description": "『DOOM』『Wolfenstein』『Quake』シリーズ等を手掛ける、FPSジャンルを確立した米国の老舗開発会社。1991年設立。",
+    "foundedYear": 1991,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Id_Software"
+    },
+    "sourceNote": "英語版Wikipedia『id Software』記事(2026-08-03、WebFetchで確認)で設立年・親会社・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "leenzee",
+    "name": "Leenzee",
+    "nameKana": "りーんじー",
+    "description": "『Wuchang: Fallen Feathers』を開発した中国のゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Wuchang: Fallen Feathers』記事および505 Games公式サイト内ゲームページ(2026-08-03、WebFetchで確認)で開発元表記を確認。スタジオ単体のWikipedia記事・公式サイトは未確認のため、設立年・拠点等は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "505-games",
+    "name": "505 Games",
+    "nameKana": "ごーまるごー げーむす",
+    "parentCompany": "Digital Bros",
+    "description": "『Control』『Dead by Daylight』『Terraria』等の海外パブリッシングで知られる、ミラノ拠点のイタリアのゲームパブリッシャー。2006年設立。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/505_Games",
+      "officialUrl": "https://505games.com/"
+    },
+    "sourceNote": "英語版Wikipedia『505 Games』記事および505 Games公式サイト内ゲームページ(2026-08-03、WebFetchで確認)で設立年・親会社・代表作・発売元表記を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "leikir-studio",
+    "name": "Leikir Studio",
+    "nameKana": "れいきーる すたじお",
+    "description": "『Metal Slug Tactics』を開発したフランスのゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Metal Slug Tactics』記事(2026-08-03、WebFetchで確認)で開発元表記を確認。スタジオ単体のWikipedia記事・公式サイトは未確認のため、設立年・拠点等は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "evil-empire",
+    "name": "Evil Empire",
+    "nameKana": "いびる えんぱいあ",
+    "description": "『Dead Cells』のDLC共同開発や『The Rogue Prince of Persia』の開発で知られる、フランス・ボルドー拠点のゲームスタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evil_Empire_(company)"
+    },
+    "sourceNote": "英語版Wikipedia『Evil Empire (company)』記事(2026-08-03、WebFetchで確認)で拠点・代表作を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

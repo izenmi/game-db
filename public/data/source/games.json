@@ -9882,5 +9882,420 @@
     },
     "sourceNote": "日本語版Wikipedia『スーパーロボット大戦30』(2026-08-03、WebFetch)で開発元(B.B.スタジオ)・発売元(バンダイナムコエンターテインメント)・対応機種(Switch/PS4/Steam)・発売日(2021-10-28)を確認。本サイトはPS4非対応のためSwitch版のみ収録。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "black-myth-wukong",
+    "title": "黒神話:悟空",
+    "titleKana": "こくしんわごくう",
+    "developerIds": [
+      "game-science"
+    ],
+    "publisherId": "game-science",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2024-08-20",
+    "synopsis": "「西遊記」以後の世界を舞台にしたアクションRPG。天に背き石と化した斉天大聖の力を求め、名もなき小猿「天命人」が五つの神器を求めて旅立つ。妖怪や神々の姿を借りる変化の術、棍を使った多彩な技を駆使し、中国神話の壮大な世界を舞台に神々や妖魔がひしめく強敵との死闘を繰り広げる、中国発の高難度アクションRPG。世界的な大ヒットを記録した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒神話:悟空"
+    },
+    "sourceNote": "日本語版Wikipedia『黒神話:悟空』記事(2026-08-03、WebFetchで確認)で開発・発売元(Game Science自社パブリッシング)・PS5デジタル版発売日(2024-08-20)を確認。PS5パッケージ版は2025-01-30発売(Beep Japan取扱い)。Switch版は無し。あらすじは独自要約(コピペなし)。ファミ通/電撃ゲームアワード2024で特別賞を受賞したとの情報があるが、賞の名称が本サイト追跡対象の「ファミ通アワード」と厳密に一致するか確認できなかったためawardResultsには含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "warhammer-40k-space-marine-2",
+    "title": "Warhammer 40,000: Space Marine 2",
+    "titleKana": "うぉーはんまーよんまんすぺーすまりーんつー",
+    "developerIds": [
+      "saber-interactive"
+    ],
+    "publisherId": "focus-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2024-09-09",
+    "synopsis": "惑星が異形の脅威に襲われる中、長い幽閉から帰還したウルトラマリーンの英雄タイタスが、旧友たちと共に極秘兵器計画を巡る陰謀に立ち向かう。ティラニッドの大群やケイオス勢力を相手に、パワードアーマーを纏った超人兵士としてチェーンソードと銃撃を使い分ける、最大3人協力プレイ対応の三人称視点シューター。前作の系譜を継ぐ重厚な戦争ドラマが持ち味。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Warhammer_40,000:_Space_Marine_2"
+    },
+    "sourceNote": "英語版Wikipedia『Warhammer 40,000: Space Marine 2』記事(2026-08-03、WebFetchで確認)で開発元(Saber Interactive)・発売元(Focus Entertainment)・発売日・協力プレイ仕様を確認。日本語版Wikipedia記事は確認できず英語版を使用。Nintendo Switch 2版が発表されているが具体的な発売日が確認できず本サイト運用時点(2026-08-03)で未発売と判断し対応機種には含めていない。The Game Awards 2024等でノミネートされたが、追跡対象9アワードでの受賞(勝利)は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "clair-obscur-expedition-33",
+    "title": "Clair Obscur: Expedition 33",
+    "titleKana": "くれあおぶすきゅーるえくすぺでぃしょんさんじゅうさん",
+    "developerIds": [
+      "sandfall-interactive"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2025-04-24",
+    "synopsis": "ベル・エポック期のフランスを思わせる幻想世界で、毎年壁に刻まれる数字が変わるたびに住民が命を落とし続ける「ゴマー」の呪いに立ち向かう遠征隊33番隊の物語。マス目上を進むターン制の駒運びに回避・パリィといったリアルタイム操作を組み合わせた戦闘が特徴で、フランスの新興スタジオが手掛けた叙情的な人間ドラマとして高く評価された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Clair_Obscur:_Expedition_33"
+    },
+    "sourceNote": "日本語版Wikipedia『Clair Obscur: Expedition 33』記事(2026-08-03、WebFetchで確認)で開発元(Sandfall Interactive)・国内発売元(セガが流通)・国内発売日(2025-04-24、PS5)を確認。Switch版は無し。あらすじは独自要約(コピペなし)。The Game Awards 2025でGame of the Yearを含む9部門受賞、Golden Joystick Awards 2025でUltimate Game of the Year受賞を確認したためawardResultsに記載。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Best Role Playing Game"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Best Narrative"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2025,
+        "result": "Ultimate Game of the Year"
+      }
+    ],
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "zelda-echoes-of-wisdom",
+    "title": "ゼルダの伝説 知恵のかりもの",
+    "titleKana": "ぜるだのでんせつちえのかりもの",
+    "developerIds": [
+      "grezzo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2024-09-26",
+    "synopsis": "ハイラル各地に謎の裂け目が広がりリンクが姿を消す中、囚われの身となったゼルダ姫が自ら王国を救う旅に出る、シリーズで初めてゼルダ姫自身が主人公を務める作品。妖精トリィから授かった杖の力で身の回りの物や倒した敵を複製・召喚する「かりる」能力を駆使し、直接戦うよりも知恵を絞った工夫で困難を乗り越えていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼルダの伝説_知恵のかりもの"
+    },
+    "sourceNote": "日本語版Wikipedia『ゼルダの伝説 知恵のかりもの』記事(2026-08-03、WebFetchで確認)で開発元(グレッゾ)・発売元(任天堂)・発売日(2024-09-26、Switch)を確認。あらすじは独自要約(コピペなし)。記事内に本サイト追跡対象アワードでの受賞歴の明記は見当たらずawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "doom-the-dark-ages",
+    "title": "DOOM: The Dark Ages",
+    "titleKana": "どぅーむざだーくえいじず",
+    "developerIds": [
+      "id-software"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter"
+    ],
+    "releaseDate": "2025-05-15",
+    "synopsis": "シリーズの過去を描くプリクエルとして、聖騎士がアージェント・ダヌアの地で悪魔の軍勢や裏切りの真実に立ち向かう。盾のこぎりによるガードやパリィ、機械竜やメックへの搭乗といった新要素を加えつつ、これまでよりも重厚で手応えのある近接戦闘を軸にした作り込みで、発売初週に3百万人が参加しシリーズ屈指の売上を記録した一作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Doom:_The_Dark_Ages"
+    },
+    "sourceNote": "英語版Wikipedia『Doom: The Dark Ages』記事(2026-08-03、WebFetchで確認)で開発元(id Software)・発売元(Bethesda Softworks)・発売日(2025-05-15、PS5)・受賞歴を確認。日本語版Wikipedia記事は確認できず英語版を使用。Switch版は無し。あらすじは独自要約(コピペなし)。The Game Awards 2025でInnovation in Accessibility部門を受賞したためawardResultsに記載。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Innovation in Accessibility"
+      }
+    ],
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "suikoden-1-2-hd-remaster",
+    "title": "幻想水滸伝I・II HDリマスター",
+    "titleKana": "げんそうすいこでんいちにえいちでぃーりますたー",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2025-03-06",
+    "synopsis": "108星の仲間集めと拠点となる本拠地の発展が魅力の名作RPG2作を、グラフィックや音響を刷新し1本にまとめたリマスター版。斜め移動やウィンドウ表示など快適性を高める調整に加え、戦闘の早送り機能や新しいワールドマップも追加。旧作の骨太な人間ドラマと戦略性はそのままに、初めて触れる世代にも遊びやすく生まれ変わった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suikoden_I_%26_II_HD_Remaster:_Gate_Rune_and_Dunan_Unification_Wars"
+    },
+    "sourceNote": "英語版Wikipedia『Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars』記事(2026-08-03、WebFetchで確認)で開発・発売元(コナミ)・発売日(PS5/Switch/Windows/Xbox: 2025-03-06)を確認。日本語版Wikipedia記事は確認できず英語版を使用。Nintendo Switch 2版は2025-06-05に追加発売されたグラフィック強化版で、既にSwitch/PS5版が発売済みのため、releaseDateはSwitch/PS5版の2025-03-06を採用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hades-2",
+    "title": "Hades II",
+    "titleKana": "はですつー",
+    "developerIds": [
+      "supergiant-games"
+    ],
+    "publisherId": "supergiant-games",
+    "platforms": [
+      "switch",
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "action-rpg"
+    ],
+    "releaseDate": "2025-09-25",
+    "synopsis": "前作の主人公ザグレウスの妹メリノエが主人公の続編ローグライクアクション。冥界を掌握した太古の魔神クロノスを打ち倒すべく、女神ヘカテーの下で研鑽を積み、幾度も命を落としながら地上と冥界を巡る周回に挑む。武器や呪文を自在に組み合わせる育成の自由度と、テンポの良い高速戦闘が持ち味の完成度の高い続編で、批評家からも絶賛された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hades_II"
+    },
+    "sourceNote": "英語版Wikipedia『Hades II』記事(2026-08-03、WebFetchで確認)で開発・発売元(Supergiant Games自社パブリッシング)・発売日を確認。日本語版Wikipedia記事は確認できず英語版を使用。PC/Switch/Switch2は2025-09-25、PS5/Xboxは2026-04-14発売のため、releaseDateは収録機種内で最速のSwitch/Switch2版の日付を採用した。あらすじは独自要約(コピペなし)。The Game Awards 2025でBest Action Game、D.I.C.E. Awards 2026でAction Game of the Yearを受賞したためawardResultsに記載。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Best Action Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2026,
+        "result": "Action Game of the Year"
+      }
+    ],
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "like-a-dragon-pirate-yakuza-in-hawaii",
+    "title": "龍が如く 海賊たちのハワイ",
+    "titleKana": "りゅうがごとくかいぞくたちのはわい",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "crime-action"
+    ],
+    "releaseDate": "2025-02-21",
+    "synopsis": "シリーズおなじみの真島吾朗が記憶の一部を失った状態でハワイの孤島に流れ着き、海賊団を率いて伝説の秘宝探しに乗り出す外伝的作品。素手による乱闘アクションに加え、自船を操って戦う洋上バトルや島々の探索を組み合わせた冒険が展開する。過去との決別と再生を描く、いつもとは一味違うコミカルかつ骨太な一本に仕上がっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Like_a_Dragon:_Pirate_Yakuza_in_Hawaii"
+    },
+    "sourceNote": "英語版Wikipedia『Like a Dragon: Pirate Yakuza in Hawaii』記事(2026-08-03、WebFetchで確認)で開発元(龍が如くスタジオ)・発売元(セガ)・発売日(2025-02-21)を確認。日本語版Wikipedia記事は確認できず英語版を使用。発売日は世界同時発売日として記載されていたものを採用しており、日本国内のみの個別発売日は未確認。Switch版は無し。あらすじは独自要約(コピペなし)。日本ゲーム大賞2025で優秀賞を受賞したためawardResultsに記載。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2025,
+        "result": "優秀賞"
+      }
+    ],
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kunitsu-gami-path-of-the-goddess",
+    "title": "Kunitsu-Gami: Path of the Goddess",
+    "titleKana": "くにつがみぱすおぶざごっです",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "strategy",
+      "action-adventure"
+    ],
+    "releaseDate": "2024-07-19",
+    "synopsis": "穢れに覆われた霊峰を舞台に、舞姫ヨシロを守る剣士ソウが集落を清めながら山頂を目指す和風アクション。昼は集落を探索して住民を救出し防衛拠点を築き、夜は集落を襲う穢者「シーゼ」の大群からヨシロを守り抜くタワーディフェンス的な攻防を繰り返す、日と夜で表情を変える一風変わったカプコン産アクションストラテジー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kunitsu-Gami:_Path_of_the_Goddess"
+    },
+    "sourceNote": "英語版Wikipedia『Kunitsu-Gami: Path of the Goddess』記事(2026-08-03、WebFetchで確認)で開発・発売元(カプコン)・発売日(PS5: 2024-07-19、Switch2: 2025-06-05)を確認。日本語版Wikipedia記事・国内向け個別タイトル表記は確認できず、英語版のタイトルをそのまま採用した。releaseDateは収録機種内で最速のPS5版の日付を採用。あらすじは独自要約(コピペなし)。The Game Awards 2024でBest Sim/Strategy Game部門にノミネートされたが受賞(勝利)には至らなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "marvel-rivals",
+    "title": "Marvel Rivals",
+    "titleKana": "まーべるらいばるず",
+    "developerIds": [
+      "netease-games"
+    ],
+    "publisherId": "netease-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "versus-action"
+    ],
+    "releaseDate": "2024-12-06",
+    "synopsis": "ドクター・ドゥームと2099年の自身が引き起こした時空の混線により、多元宇宙のヒーローとヴィランが入り乱れて戦うことになった世界を舞台にした基本無料の三人称視点対戦シューター。マーベルの人気キャラクターたちがヴァンガード・デュエリスト・ストラテジストの三役に分かれ、6対6のチーム戦で破壊可能な地形を活かした戦闘を繰り広げる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marvel_Rivals"
+    },
+    "sourceNote": "英語版Wikipedia『Marvel Rivals』記事(2026-08-03、WebFetchで確認)で開発・発売元(NetEase Games、Marvel Gamesと協業)・発売日(2024-12-06、PS5)を確認。日本語版Wikipedia記事は確認できず英語版を使用。Nintendo Switch 2版は開発中と記載されているが発売日未確定のため対応機種には含めていない。あらすじは独自要約(コピペなし)。PlayStation Partner Awards 2025でグランドアワードを受賞したため、本サイトのplaystation-awards(後継含む)としてawardResultsに記載。",
+    "awardResults": [
+      {
+        "awardId": "playstation-awards",
+        "year": 2025,
+        "result": "グランドアワード"
+      }
+    ],
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "final-fantasy-tactics-ivalice-chronicles",
+    "title": "ファイナルファンタジー タクティクス: ジ・アイヴァリス・クロニクルズ",
+    "titleKana": "ふぁいなるふぁんたじーたくてぃくすじあいゔぁりすくろにくるず",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "tactical-rpg"
+    ],
+    "releaseDate": "2025-09-30",
+    "synopsis": "1997年発売の名作戦術RPGを、グラフィックと音楽を一新して蘇らせたリマスター版。獅子戦争と呼ばれる王位継承の内乱に巻き込まれた青年ラムザが、教会の陰謀や隠された真実に迫っていく重厚な物語はそのままに、マス目の上でジョブを育成しながら戦う奥深い戦術システムを美麗な映像と音楽で楽しめる一本に仕上がっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_Ivalice_Chronicles"
+    },
+    "sourceNote": "英語版Wikipedia『Final Fantasy Tactics: The Ivalice Chronicles』記事(2026-08-03、WebFetchで確認)で開発・発売元(スクウェア・エニックス)・発売日(2025-09-30、PS5/Switch/Switch2同時)を確認。日本語版Wikipedia記事・国内向け正式タイトル表記は個別に確認できず、英題を仮カタカナ表記した。あらすじは独自要約(コピペなし、1997年版の物語紹介)。The Game Awards 2025でBest Sim/Strategy Gameを受賞したためawardResultsに記載。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Best Sim/Strategy Game"
+      }
+    ],
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dying-light-the-beast",
+    "title": "Dying Light: The Beast",
+    "titleKana": "だいいんぐらいとざびーすと",
+    "developerIds": [
+      "techland"
+    ],
+    "publisherId": "techland",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "survival-horror",
+      "co-op",
+      "open-world"
+    ],
+    "releaseDate": "2025-09-18",
+    "synopsis": "初代『Dying Light』の主人公カイル・クレインが、13年に及ぶ監禁と人体実験の果てに脱出し、自らを変質させた黒幕への復讐に向かう。パルクールで駆け回る探索と近接戦闘に加え、力を解放する「ビーストモード」を武器に、実験体の怪物や首謀者との対決に挑む、最大4人協力プレイ対応のオープンワールド作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dying_Light:_The_Beast"
+    },
+    "sourceNote": "英語版Wikipedia『Dying Light: The Beast』記事(2026-08-03、WebFetchで確認)で開発・発売元(Techland)・発売日(2025-09-18、PS5)を確認。日本語版Wikipedia記事は確認できず英語版を使用。Switch版は無し。あらすじは独自要約(コピペなし)。追跡対象9アワードでの受賞(勝利)は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "metal-slug-tactics",
+    "title": "Metal Slug Tactics",
+    "titleKana": "めたるすらぐたくてぃくす",
+    "developerIds": [
+      "leikir-studio"
+    ],
+    "publisherId": "dotemu",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "roguelike"
+    ],
+    "releaseDate": "2024-11-05",
+    "synopsis": "名作アーケードシューティング『メタルスラッグ』の世界観を、見下ろし型のマス目戦術ゲームとして再構築したスピンオフ。ペレグリンファルコン部隊の隊員を率いて地域ごとのミッションを攻略していき、全滅すると拠点からやり直すローグライク要素も内包する。スキル育成や武器改造、戦車の配備など部隊編成の自由度も高い一作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Metal_Slug_Tactics"
+    },
+    "sourceNote": "英語版Wikipedia『Metal Slug Tactics』記事(2026-08-03、WebFetchで確認)で開発元(Leikir Studio)・発売元(Dotemu)・発売日(2024-11-05、PS5/Switch)を確認。日本語版Wikipedia記事は確認できず英語版を使用。あらすじは独自要約(コピペなし)。追跡対象9アワードでの受賞歴は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "wuchang-fallen-feathers",
+    "title": "Wuchang: Fallen Feathers",
+    "titleKana": "うーちゃんふぉーれんふぇざーず",
+    "developerIds": [
+      "leenzee"
+    ],
+    "publisherId": "505-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "soulslike",
+      "action-rpg"
+    ],
+    "releaseDate": "2025-07-24",
+    "synopsis": "明朝末期、疫病の蔓延する蜀の地を舞台に、記憶の一部を失った女海賊バイ・ウーチャンが亡き妹を蘇らせる秘宝を求めて旅をする高難度アクションRPG。見切りの回避を起点に技や術を放つ力の蓄積と、人型の敵を倒すほど強まる「狂気」の駆け引きが特徴で、選択によって結末が変化する複数エンディングを備えた中国発の意欲作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wuchang:_Fallen_Feathers"
+    },
+    "sourceNote": "英語版Wikipedia『Wuchang: Fallen Feathers』記事および505 Games公式サイト内ゲームページ(2026-08-03、WebFetchで確認)で開発元(Leenzee)・発売元(505 Games)・発売日(2025-07-24、PS5)を確認。日本語版Wikipedia記事は確認できず英語版を使用。Switch版は無し。あらすじは独自要約(コピペなし)。中国のUCG Game Awardsでの受賞歴はあるが、追跡対象9アワードでの受賞は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rogue-prince-of-persia",
+    "title": "The Rogue Prince of Persia",
+    "titleKana": "ろーぐぷりんすおぶぺるしゃ",
+    "developerIds": [
+      "evil-empire"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "roguelike",
+      "platformer"
+    ],
+    "releaseDate": "2025-08-20",
+    "synopsis": "フン族に取り憑いた邪神の軍勢から都市クテシフォンを守るため、名もなき王子が時を操る秘宝の力で何度も命を落としながら戦いに挑むローグライク・プラットフォーマー。壁走りや棒を使った身のこなしといったパルクール的な移動と近接・遠隔攻撃を組み合わせ、拠点で武器や能力を強化しながら手続き生成されるステージを駆け抜ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Rogue_Prince_of_Persia"
+    },
+    "sourceNote": "英語版Wikipedia『The Rogue Prince of Persia』記事(2026-08-03、WebFetchで確認)で開発元(Evil Empire)・発売元(Ubisoft)・発売日(PS5: 2025-08-20、Switch/Switch2: 2025-12-16)を確認。日本語版Wikipedia記事は確認できず英語版を使用。releaseDateは収録機種内で最速のPS5版の日付を採用し、Switch/Switch2版が約4か月後の発売である旨をここに明記する。あらすじは独自要約(コピペなし)。追跡対象9アワードでの受賞歴は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
   }
 ]
