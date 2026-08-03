@@ -8011,5 +8011,360 @@
     },
     "sourceNote": "4Gamer記事、ninten-switch.com記事、英語版Wikipedia『Card Shark』(いずれも2026-08-03閲覧)でPC/Switch同時発売日(2022-06-02)、開発元Nerial、発売元Devolver Digital(既存id流用)を確認。PS5版は発売されていないため対応機種はSwitchのみ。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dragon-quest-1-2-hd-2d-remake",
+    "title": "ドラゴンクエストI＆II HD-2D リメイク",
+    "titleKana": "どらごんくえすと いちあんどつー えいちでぃーつーでぃー りめいく",
+    "developerIds": [
+      "artdink",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2025-10-30",
+    "synopsis": "初代『ドラゴンクエスト』とその続編『II』を、ドット絵と3DCGを融合させたHD-2Dビジュアルで一本にまとめたフルリメイク。竜王打倒を目指す勇者の旅と、ロトの血を引く3人の王子が力を合わせ世界を巡る物語を、快適な最新システムで遊べるよう作り直しており、シリーズ原点を現代の技術で蘇らせた一作となっている。",
+    "awardResults": [],
+    "externalLinks": {
+      "officialUrl": "https://www.dragonquest.jp/roto-trilogy/dq1and2/"
+    },
+    "sourceNote": "ファミ通.com記事(2025年10月30日付)・4Gamer記事(2025年10月)・スクウェア・エニックス公式サイトで発売日(2025-10-30、PC版Steamのみ10-31)・対応機種(Switch2/Switch/PS5/Xbox/PC)・開発体制(アートディンク&SQEX浅野チーム、企画制作スクウェア・エニックス)を確認。開発元は既存id「artdink」を再利用し、社内チームは「square-enix」に統合。日本ゲーム大賞等での受賞は2026-08-03時点で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fate-samurai-remnant",
+    "title": "Fate/Samurai Remnant",
+    "developerIds": [
+      "omega-force"
+    ],
+    "publisherId": "aniplex",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2023-09-28",
+    "synopsis": "『Fate』シリーズ初のコンシューマー完全新作アクションRPG。慶安四年の江戸を舞台に、七組のマスターとサーヴァントが聖杯を賭けて争う秘密の儀式「盈月の儀」に、浪人の宮本伊織と剣豪のサーヴァントが巻き込まれていく。フィールド探索と剣戟アクションを組み合わせ、江戸の街を舞台にした人間ドラマが展開する。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "フューチャー部門"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Fate/Samurai_Remnant"
+    },
+    "sourceNote": "日本語版Wikipedia『Fate/Samurai Remnant』記事(2026-08-03閲覧)で開発元(コーエーテクモゲームス オメガフォース)・発売元(アニプレックス、TYPE-MOON)・対応機種(PS5/PS4/Switch/PC)・発売日(2023-09-28)を確認。publisherIdは単数のため主要発売元のアニプレックスを採用し、共同発売元TYPE-MOONはここに記載。日本ゲーム大賞公式サイト(awards.cesa.or.jp/2023/prize/future/07.html)で2023年フューチャー部門受賞を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "diofield-chronicle",
+    "title": "The DioField Chronicle",
+    "titleKana": "でぃおふぃーるど くろにくる",
+    "developerIds": [
+      "lancarse"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy"
+    ],
+    "releaseDate": "2022-09-22",
+    "synopsis": "スクウェア・エニックスの完全新規IPによるシミュレーションRPG。ジオラマ風の美麗なビジュアルの中、傭兵団ブルーフォックスを率いる4人の若者が、島国ディオフィールドで勃発した独立紛争に身を投じていく。マップ上にユニットを配置しリアルタイムで進行する戦況を指揮する「リアルタイムタクティカルバトル」が特徴。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ディオフィールド_クロニクル"
+    },
+    "sourceNote": "日本語版Wikipedia『ディオフィールド クロニクル』記事(2026-08-03閲覧)で開発元(ランカース)・発売元(スクウェア・エニックス)・対応機種(Switch/PS5/PS4/Xbox/PC)・発売日(2022-09-22)・ジャンル(シミュレーションRPG)を確認。The Game Awards 2022 Best Sim/Strategy Game部門のノミネートは検索時点で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "saga-emerald-beyond",
+    "title": "サガ エメラルド ビヨンド",
+    "titleKana": "さが えめらるど びよんど",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2024-04-25",
+    "synopsis": "サガシリーズ最新作となるRPG。17もの世界が繋がった「連接世界」を舞台に、6人5組の主人公の中から選んだキャラクターの視点で物語が進行する。プレイヤーの行動次第で展開が大きく変化する自由度の高いシナリオと、シリーズ伝統の駆け引き性の高い戦闘システムを融合させており、一人の主人公をクリアした後も別の主人公で世界の見え方が変わる、周回プレイを前提とした構成になっている。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サガ_エメラルド_ビヨンド"
+    },
+    "sourceNote": "日本語版Wikipedia『サガ エメラルド ビヨンド』記事(2026-08-03閲覧)で開発元・発売元(スクウェア・エニックス)・対応機種(Switch/PS5/PS4/スマートデバイス/PC)・発売日(2024-04-25)を確認。日本ゲーム大賞・The Game Awards等での受賞は検索時点で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "disgaea-7",
+    "title": "魔界戦記ディスガイア7",
+    "titleKana": "まかいせんき でぃすがいあせぶん",
+    "developerIds": [
+      "nippon-ichi-software"
+    ],
+    "publisherId": "nippon-ichi-software",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg"
+    ],
+    "releaseDate": "2023-01-26",
+    "synopsis": "日本一ソフトウェアのシミュレーションRPG「魔界戦記ディスガイア」シリーズ第7作。武士道が廃れ幕府が腐敗した和風の魔界「日ノ本魔界群」を舞台に、はぐれ武士のフジと武士道に憧れるオタク少女ピリリカが出会い、伝説の武器を求めて旅をする。キャラクターの数値をほぼ無制限に育成できる、桁外れのやり込み要素を誇るシリーズ伝統のシステムを本作でも継承している。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔界戦記ディスガイア7"
+    },
+    "sourceNote": "日本語版Wikipedia『魔界戦記ディスガイア7』記事(2026-08-03閲覧)で開発元・発売元(日本一ソフトウェア、欧米/Steamは NIS America)・対応機種(Switch/PS4/PS5/Steam)・発売日(2023-01-26、Steam版は9-22)・あらすじを確認。日本ゲーム大賞フューチャー部門2022年受賞作一覧に本作の記載は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "star-ocean-the-divine-force",
+    "title": "スターオーシャン6 THE DIVINE FORCE",
+    "titleKana": "すたーおーしゃんしっくす ざ でぃばいんふぉーす",
+    "developerIds": [
+      "tri-ace"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2022-10-27",
+    "synopsis": "「スターオーシャン」シリーズ25周年記念作。輸送船の艦長レイモンドが宇宙戦艦の襲撃を受けて未開惑星に不時着し、内戦の渦中にある王国の王女レティシアと出会うところから物語が始まる。宇宙船クルーと惑星の住人、二つの視点を選んで進める新システムと、シームレスなアクション戦闘が特徴のSFファンタジーRPG。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スターオーシャン6_THE_DIVINE_FORCE"
+    },
+    "sourceNote": "日本語版Wikipedia『スターオーシャン6 THE DIVINE FORCE』記事(2026-08-03閲覧)で開発元(トライエース)・発売元(スクウェア・エニックス)・対応機種(PS4/PS5/Xbox/Steam、Switch版は無し)・発売日(2022-10-27)・あらすじ冒頭を確認。受賞歴は検索時点で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fantasian-neo-dimension",
+    "title": "FANTASIAN Neo Dimension",
+    "developerIds": [
+      "mistwalker",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2024-12-05",
+    "synopsis": "『ファイナルファンタジー』の生みの親・坂口博信率いるミストウォーカーが手掛けたRPG。職人の手でジオラマとして作り込まれた幻想的な背景と、戦闘に参加しないキャラクターを一時的に別次元へ退避させ後でまとめて回復できる独自システムが特徴。作曲家・植松伸夫の楽曲とともに、失われた記憶を辿る少年ヒューと仲間たちの旅を描く、じっくり遊べる正統派RPG。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語圏の複数のゲームメディア・公式ストア情報(2026-08-03検索時点、Square Enix公式サイト・GameFAQs等)で、2021年Apple Arcade独占配信版をベースにした移植版がミストウォーカー・スクウェア・エニックス共同開発で2024-12-05にSwitch/PS5/PS4/Xbox/PCへ展開されたことを確認。日本語版Wikipediaに独立記事が見当たらなかったため英語情報源で裏取り。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rune-factory-guardians-of-azuma",
+    "title": "龍の国 ルーンファクトリー",
+    "titleKana": "りゅうのくに るーんふぁくとりー",
+    "developerIds": [
+      "marvelous"
+    ],
+    "publisherId": "marvelous",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "rpg",
+      "action-rpg"
+    ],
+    "releaseDate": "2025-06-05",
+    "synopsis": "牧場・生活シミュレーションとRPGを融合させた「ルーンファクトリー」シリーズ第8作。和風の国アズマを舞台に、記憶を失った青年カムイが、荒廃した国を守る守護獣たちの力を取り戻すため、開拓や農業、戦闘をこなしながら村人たちとの絆を深めていく。武器を使った戦闘と鍬を使った農作業を同じ操作感で行き来できる、シリーズ初の和風世界観を採用した一作。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "国内ゲームメディア記事(2026-08-03検索時点、Gamingdeputy Japan等)で開発・発売元(マーベラス)・対応機種(Nintendo Switch/PC、当初2025-05-30発売予定から2025-06-05に延期)・ジャンル・あらすじ概要を確認。有償アップグレードの「Nintendo Switch 2 Edition」も存在するが、既存ソフトの性能強化版という位置付けのため対応機種にはswitch2を含めていない(CLAUDE.mdの動作最適化パッチの扱いに準拠)。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ys-x-nordics",
+    "title": "イースX -NORDICS-",
+    "titleKana": "いーすてん のーでぃっくす",
+    "developerIds": [
+      "nihon-falcom"
+    ],
+    "publisherId": "nihon-falcom",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2023-09-28",
+    "synopsis": "日本ファルコムのアクションRPG「イース」シリーズ第10作。冒険者アドルが、北の海に浮かぶ島々を巡る航海の途中で海賊の少女カルナと出会い、彼女と行動をともにすることになる。二人一組で瞬時に切り替えながら戦う新戦闘システム「デュアルクロス」を搭載し、テンポの良いアクションバトルと自船を操って大海原を渡る航海要素を組み合わせた王道アクションRPG。",
+    "awardResults": [],
+    "externalLinks": {
+      "officialUrl": "https://www.falcom.co.jp/ysx/"
+    },
+    "sourceNote": "日本ファルコム公式サイト・電撃オンライン等の記事(2026-08-03検索時点)で開発・発売元(日本ファルコム)・対応機種(Switch/PS4/PS5)・発売日(2023-09-28)・新システム(デュアルクロス)を確認。Nintendo Switch 2向け強化版「イースX -Proud NORDICS-」(2025-07-31)が別途発売されているが、既発売のオリジナル版の対応機種のみを採用しswitch2は含めていない。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kuro-no-kiseki-2-crimson-sin",
+    "title": "英雄伝説 黎の軌跡II -CRIMSON SiN-",
+    "titleKana": "えいゆうでんせつ くろのきせきつー くりむぞんしん",
+    "developerIds": [
+      "nihon-falcom"
+    ],
+    "publisherId": "nihon-falcom",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2022-09-29",
+    "synopsis": "日本ファルコム「軌跡」シリーズの一作『黎の軌跡』の直接的な続編。裏社会の便利屋『新八』ことヴァンが、前作の事件の後始末に追われる中、水面下で蠢く新たな陰謀に巻き込まれていく。ターン制と即時性を組み合わせたバトルシステムを継承しつつ、前作から張り巡らされた伏線を回収し、多くのキャラクターの決着を描く群像劇の完結編となっている。",
+    "awardResults": [],
+    "externalLinks": {
+      "officialUrl": "https://www.falcom.co.jp/games-data/kuro2"
+    },
+    "sourceNote": "日本ファルコム公式サイト・ファミ通/4Gamer記事(2026-08-03検索時点)で発売日(PS5/PS4版2022-09-29)・対応機種を確認。Switch版『黎の軌跡II for Nintendo Switch』は2024-07-25に別途発売されたためsourceNoteに明記した上でplatformsにswitchを含めている(releaseDateは最速のPS5/PS4版基準)。既存gameエントリ「kuro-no-kiseki」(黎の軌跡I、genreIds: rpg)と同じ命名・ジャンル方針に合わせた。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fuga-melodies-of-steel-2",
+    "title": "Fuga: Melodies of Steel 2",
+    "developerIds": [
+      "cyberconnect2"
+    ],
+    "publisherId": "cyberconnect2",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg"
+    ],
+    "releaseDate": "2023-05-11",
+    "synopsis": "戦車型移動要塞ターナー号に乗り込んだ子どもたちの戦争を描く「Fuga: Melodies of Steel」シリーズ続編。前作の主人公たちの縁者にあたる新たな子どもたちが、動物の仲間たちとともに帝国軍から逃れながら故郷を目指す。仲間との絆が戦闘力に直結するターン制タクティカルバトルが持ち味の、ダークな戦争RPG。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "英語圏メディア(2026-08-03検索時点、Wikipedia英語版・MobyGames等)で開発・発売元(サイバーコネクトツー)・対応機種(Switch/PS4/PS5/Xbox/PC)・発売日(2023-05-11)を確認。日本語版Wikipediaに独立記事が見当たらなかったため英語情報源で裏取り。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tales-of-graces-f-remastered",
+    "title": "テイルズ オブ グレイセス エフ リマスター",
+    "titleKana": "ているずおぶぐれいせすえふ りますたー",
+    "developerIds": [
+      "bandai-namco-studios"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "co-op",
+      "adventure"
+    ],
+    "releaseDate": "2025-01-16",
+    "synopsis": "2010年にPS3向けに発売された「テイルズ オブ」シリーズの一作『グレイセス エフ』の高画質リマスター版。幼なじみの青年アスベルが、故郷を襲った事件をきっかけに再会した親友リヒターや仲間たちとともに、世界の存亡に関わる真実へと迫っていく。シリーズ伝統のリニアモーションバトルを快適な操作性で楽しめる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "ファミ通.com記事(2025年1月16日付)・電撃オンライン記事(2026-08-03検索時点)で発売日(2025-01-16、Steam版は1-17)・対応機種(Switch/PS5/PS4/Xbox/Steam)・原作(2010年PS3版のリマスター)を確認。開発スタジオの詳細な単独クレジットは検索時点で確認できなかったため、既存id「bandai-namco-studios」(開発)・「bandai-namco-entertainment」(発売)を踏襲。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sand-land",
+    "title": "SAND LAND",
+    "developerIds": [
+      "ilca"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2024-04-25",
+    "synopsis": "漫画家・鳥山明が2000年に週刊少年ジャンプで連載した漫画『SAND LAND』のゲーム化作品。水不足に苦しむ砂漠の世界で、悪魔の王子ベルゼブブと保安官じいさん、目付け役の悪魔テーラーが、伝説の泉を求めて旅をする。徒歩での探索に加え、戦車やバギーなどの乗り物を組み替え・強化しながら乗りこなして進むアクションRPGとなっている。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "ファミ通.com記事・4Gamer記事(2026-08-03検索時点)で発売日(2024-04-25、Steam版は4-26)・対応機種(PS5/PS4/Xbox/Steam、Switch版は無し)・ジャンル(アクションRPG)・原作情報を確認。開発はILCA(既存id「ilca」を再利用)、発売はバンダイナムコエンターテインメントと確認。受賞歴は検索時点で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "atelier-yumia",
+    "title": "ユミアのアトリエ 〜追憶の錬金術士と幻創の地〜",
+    "titleKana": "ゆみあのあとりえ ついおくのれんきんじゅつしとげんそうのち",
+    "developerIds": [
+      "gust"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg",
+      "action-rpg",
+      "life-simulation"
+    ],
+    "releaseDate": "2025-03-21",
+    "synopsis": "「アトリエ」シリーズ最新作。かつて禁忌とされ錬金術がほぼ失われた世界で、孤独な錬金術士ユミアが、亡き師の教えを胸に封印された古の地を巡りながら、世界の成り立ちに関わる真実を探求していく。フィールドを自在に動き回りながら素材を集めてその場でアイテムを合成できる、探索と調合をシームレスに融合させた新システムを採用したRPG。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "ファミ通.com記事・4Gamer関連記事(2026-08-03検索時点)で開発(ガスト、既存id「gust」)・発売(コーエーテクモゲームス)・対応機種(PS5/Nintendo Switch 2/Xbox/Steam。Nintendo Switch[無印]版は無くSwitch2独占)・発売日(2025-03-21)を確認。日本ゲーム大賞フューチャー部門等での受賞は検索時点で確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tokyo-mirage-sessions-fe-encore",
+    "title": "幻影異聞録♯FE Encore",
+    "titleKana": "げんえいいぶんろくしゃーぷえふいー あんこーる",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2020-01-17",
+    "synopsis": "アトラスと任天堂が共同開発したRPG。『ファイアーエムブレム』のキャラクターが精霊「ミラージュ」として登場し、芸能界を目指す少女つばさたちに力を貸す。人々の想いや才能を吸い取る怪物と化したミラージュの脅威に、歌や舞台をモチーフにしたステージ演出とペルソナシリーズ譲りのコマンドバトルを組み合わせて立ち向かっていく、アイドル×RPGの一作。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "国内ゲームメディア記事(電撃オンライン・ファミ通、2026-08-03検索時点)で開発元(アトラス)・発売元(任天堂)・対応機種(Nintendo Switch)・発売日(2020-01-17)・原作(2015年Wii U版『幻影異聞録♯FE』のSwitch向け追加要素版)を確認。日本語版Wikipedia記事タイトルの表記ゆれによりWebFetchでの直接アクセスには失敗したため、WebSearchの複数記事で裏取りした。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
   }
 ]

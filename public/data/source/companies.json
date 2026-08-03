@@ -2473,5 +2473,78 @@
     },
     "sourceNote": "英語版Wikipedia『Card Shark』(2026-08-03閲覧)で開発元Nerial、発売元Devolver Digitalであることを確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "aniplex",
+    "name": "アニプレックス",
+    "nameKana": "あにぷれっくす",
+    "parentCompany": "ソニー・ミュージックエンタテインメント",
+    "description": "アニメ作品の企画・製作・販売等を主業とする総合エンタテインメント企業。TYPE-MOON原作ゲームの発売元としても知られる。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アニプレックス"
+    },
+    "sourceNote": "日本語版Wikipedia『アニプレックス』記事(2026-08-03閲覧)で設立年(1995年9月)・親会社(ソニー・ミュージックエンタテインメント)・事業内容を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "lancarse",
+    "name": "ランカース",
+    "nameKana": "らんかーす",
+    "description": "星野光弘が2004年に設立したゲームソフト開発会社。『THE DioField Chronicle』等のシミュレーションRPGを手掛ける。",
+    "foundedYear": 2004,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ランカース"
+    },
+    "sourceNote": "日本語版Wikipedia『ランカース』記事(2026-08-03閲覧)で設立年(2004年6月)・概要を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tri-ace",
+    "name": "トライエース",
+    "nameKana": "とらいえーす",
+    "description": "『スターオーシャン』シリーズ等を手掛けるRPG開発会社。前身はスーパーファミコン版『テイルズ オブ ファンタジア』を開発したウルフチーム。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トライエース"
+    },
+    "sourceNote": "日本語版Wikipedia『トライエース』記事(2026-08-03閲覧)で設立年(1995年3月)・前身(ウルフチーム)・代表作(スターオーシャンシリーズ)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mistwalker",
+    "name": "ミストウォーカー",
+    "nameKana": "みすとうぉーかー",
+    "description": "『ファイナルファンタジー』の生みの親・坂口博信が2004年に設立したゲーム開発会社。『ブルードラゴン』『ロストオデッセイ』『FANTASIAN』シリーズ等を手掛ける。",
+    "foundedYear": 2004,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミストウォーカー"
+    },
+    "sourceNote": "日本語版Wikipedia『ミストウォーカー』記事(2026-08-03閲覧)で設立年(2004年)・創業者(坂口博信)・概要を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nippon-ichi-software",
+    "name": "日本一ソフトウェア",
+    "nameKana": "にっぽんいちそふとうぇあ",
+    "description": "『魔界戦記ディスガイア』シリーズ等のシミュレーションRPGを多数手掛ける岐阜県のゲーム会社。",
+    "foundedYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本一ソフトウェア"
+    },
+    "sourceNote": "日本語版Wikipedia『日本一ソフトウェア』記事(2026-08-03閲覧)で設立年(1993年7月)・所在地・代表作(ディスガイアシリーズ)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cyberconnect2",
+    "name": "サイバーコネクトツー",
+    "nameKana": "さいばーこねくとつー",
+    "description": "松山洋が1996年に設立したゲーム開発会社。『.hack』シリーズ、『NARUTO』シリーズ、『Fuga: Melodies of Steel』シリーズ等を手掛ける。",
+    "foundedYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サイバーコネクトツー"
+    },
+    "sourceNote": "日本語版Wikipedia『サイバーコネクトツー』記事(2026-08-03閲覧)で設立年(1996年2月)・創業者(松山洋)・概要を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
