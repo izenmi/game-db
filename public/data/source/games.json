@@ -6938,5 +6938,365 @@
     },
     "sourceNote": "日本語版Wikipedia『Astro's Playroom』(2026-08-03閲覧)でPS5専用であること・発売日(2020年11月12日)・開発元(Team Asobi/旧SIEジャパンスタジオ)・発売元(SIE)を確認。2024年発売の既存登録『アストロボット』(astro-bot)とは別作品であり、本作はPS5同梱のDualSense技術デモ(約4時間)、アストロボットは独立した本格3Dプラットフォーマーである点を確認した上で、id重複を避けるためastros-playroomとして新規登録した。受賞歴の明記は記事内に確認できず未記載。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "assassins-creed-valhalla",
+    "title": "アサシン クリード ヴァルハラ",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "ubisoft-montreal"
+    ],
+    "publisherId": "ubisoft",
+    "genreIds": [
+      "open-world",
+      "action-rpg",
+      "stealth"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "9世紀のヴァイキング時代を舞台に、故郷ノルウェーを追われた戦士エイヴォルが一族を率いてイングランドへ移住し、新たな定住地を築こうとする物語。各地の王国と同盟や抗争を重ねながら勢力を広げる一方、古き結社と呼ばれる謎の組織の影が忍び寄り、やがて陰謀の中心に巻き込まれていく。広大な北欧世界を自由に探索できるオープンワールド作品。",
+    "awardResults": [],
+    "sourceNote": "日本語版Wikipedia『アサシン クリード ヴァルハラ』(2026-08-03閲覧、WebFetch)で開発元(ユービーアイソフト モントリオール主導)・ジャンル・あらすじを確認。PS5版発売日は日本で2020-11-12(PS5本体発売日、他機種版は2020-11-10)。ファミ通クロスレビューでプラチナ殿堂入りとの記載はあったが、本サイトの既存9賞のいずれにも該当しないためawardResultsは空とした。BAFTA Games Awards等での個別受賞の有無は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "devil-may-cry-5-special-edition",
+    "title": "デビル メイ クライ 5 スペシャルエディション",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "悪魔の血を引く狩人ネロとダンテ、そして因縁の兄弟ヴァージルが入り乱れる激しい戦いを描くスタイリッシュアクション第5弾の完全版。義手デビルブレイカーを駆使するネロ、複数の戦闘スタイルを操るダンテに加え、本作からプレイアブル化されたヴァージルの三者三様のアクションを、次世代機の性能を活かした滑らかな映像で楽しめる。",
+    "awardResults": [],
+    "sourceNote": "Web検索(2026-08-03、ファミ通・GAME Watch記事)でPS5版がPS5本体発売日と同じ2020-11-12に発売されたこと、ヴァージルの追加操作キャラクター化・レイトレーシング対応・DualSenseのアダプティブトリガー対応等の新要素を確認。無印『デビルメイクライ5』(2019年PS4版)は本サイト既収録の225本に含まれておらず、スペシャルエディションのみを新規収録した。受賞歴は確認できず空欄。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dead-island-2",
+    "title": "Dead Island 2",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "dambuster-studios"
+    ],
+    "publisherId": "deep-silver",
+    "genreIds": [
+      "survival-horror",
+      "co-op"
+    ],
+    "releaseDate": "2023-04-21",
+    "synopsis": "ゾンビの蔓延により封鎖されたロサンゼルスを舞台に、感染しても発症しない特異体質を持つ6人の生存者たちが、廃墟と化した街から脱出しようとする物語。近接武器を主体に、敵の部位を生々しく破壊しながら進める派手な戦闘が持ち味で、武器のカスタマイズ要素やブラックユーモアを交えた会話劇も魅力。最大3人での協力プレイにも対応するオープンワールド系サバイバルアクション。",
+    "awardResults": [],
+    "sourceNote": "英語版Wikipedia『Dead Island 2』(2026-08-03閲覧、WebFetch)で開発元(Dambuster Studios)・発売元(Deep Silver)・発売日(2023-04-21、PS4/PS5/Xbox/PC/Amazon Luna)・ジャンル・あらすじを確認。日本国内向けにはPS/Xbox版の正式なローカライズ販売が行われず、後年の検索でも日本語音声・字幕対応の輸入版が中心である点をGame*Spark記事(2023-04-19)で確認したが、PS5向けソフト自体は世界で発売されているため対応機種に含めた。The Game Awards 2023・BAFTA Games Awardsではノミネートのみで受賞はなし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "marvels-guardians-of-the-galaxy",
+    "title": "Marvel's ガーディアンズ・オブ・ギャラクシー",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "eidos-montreal"
+    ],
+    "publisherId": "square-enix",
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2021-10-26",
+    "synopsis": "賞金稼ぎとして活動する寄せ集めのヒーローチーム、ガーディアンズ・オブ・ギャラクシーが、ある依頼の失敗をきっかけに銀河全体を揺るがす脅威を引き起こしてしまう。リーダーのスターロードを操作し、個性豊かな仲間たちとの掛け合いを楽しみながら、仲間の能力を組み合わせた連携攻撃で敵に立ち向かい、宇宙を巻き込む騒動の収拾に奔走していく単独主人公操作型のアクションアドベンチャー。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Narrative受賞"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2022,
+        "result": "Adventure Game of the Year・Outstanding Achievement in Story受賞"
+      }
+    ],
+    "sourceNote": "英語版Wikipedia『Marvel's Guardians of the Galaxy (video game)』(2026-08-03閲覧、WebFetch)およびファミ通記事で開発元(Eidos-Montréal、発売当時スクウェア・エニックス傘下)・発売日(2021-10-26)・The Game Awards 2021 Best Narrative・D.I.C.E. Awards 2022 Adventure Game of the Year等の受賞を確認。PlayStation Awards等その他の賞での受賞有無は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "stray",
+    "title": "Stray",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "bluetwelve-studio"
+    ],
+    "publisherId": "annapurna-interactive",
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-07-19",
+    "synopsis": "家族とはぐれた一匹の野良猫が、人間が姿を消して久しいロボットたちの地下都市に迷い込んでしまう。相棒となるドローンB-12と協力しながら、猫ならではの身軽な身のこなしで街を探索し、住人のロボットたちと交流しつつ仕掛けを解いて障害を乗り越えていく。閉ざされた地上への出口を目指す旅路を描く、猫の視点で進める短編アドベンチャーゲーム。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Best Independent Game・Best Debut Indie Game受賞"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2022,
+        "result": "PlayStation Game of the Year受賞"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2023,
+        "result": "Best Debut受賞"
+      }
+    ],
+    "sourceNote": "英語版Wikipedia『Stray (video game)』(2026-08-03閲覧、WebFetch)で開発元(BlueTwelve Studio)・発売元(Annapurna Interactive)・発売日(2022-07-19、PC/PS4/PS5)・The Game Awards 2022/Golden Joystick Awards/GDC Awardsでの受賞を確認。BAFTA・D.I.C.E.ではノミネートのみで受賞はなし。日本国内はハピネットが発売。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "atomic-heart",
+    "title": "Atomic Heart",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "mundfish"
+    ],
+    "publisherId": "focus-entertainment",
+    "genreIds": [
+      "action-rpg",
+      "shooter"
+    ],
+    "releaseDate": "2023-04-13",
+    "synopsis": "架空の技術大国として発展を遂げた1950年代のソ連を舞台に、政府のエリート捜査官セルゲイが、ロボットたちが突如反乱を起こした謎の研究施設へと派遣される。銃撃と近接攻撃、手から放つ特殊能力を織り交ぜた戦闘で敵を排除しながら施設内を探索し、反乱の裏に隠された巨大な陰謀の真相に迫っていく、レトロフューチャーな世界観のアクションRPG。",
+    "awardResults": [],
+    "sourceNote": "日本語版Wikipedia『Atomic Heart (コンピュータゲーム)』およびファミ通記事(2022-12-23)で開発元(Mundfish)・ジャンル(アクションRPG)・世界発売日(2023-02-21、PC/Xbox/PS4/PS5同時と報じる英語版Wikipediaの記述もあり)を確認する一方、日本国内向けPS4/PS5版はファミ通記事で2023-04-13発売と案内されておりJP版日付を採用した。日本国内発売元はBeep Japan、世界販売はFocus Entertainment(2021年にFocus Home Interactiveから改称)。CIS地域はVK Play、アジア地域は4Divinityが担当するなど地域ごとに発売元が分かれる点に留意。確認できた受賞はSteam Awards等本サイトの既存9賞に該当せずawardResultsは空欄とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "remnant-2",
+    "title": "Remnant II",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "gunfire-games"
+    ],
+    "publisherId": "thq-nordic",
+    "genreIds": [
+      "soulslike",
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2023-07-25",
+    "synopsis": "文明が崩壊した後の世界で、行方不明になった仲間を捜すため「トラベラー」と呼ばれる生存者が、異なる次元をつなぐ石を通じて複数の世界を渡り歩いていく。銃器を主体としたソウルライク風の高難度戦闘に加え、訪れるたびに地形や敵配置が変化する手続き生成マップが特徴で、最大3人までの協力プレイで探索と戦闘を楽しめる三人称シューティングRPG。",
+    "awardResults": [],
+    "sourceNote": "英語版Wikipedia『Remnant II』(2026-08-03閲覧、WebFetch)およびファミ通記事(2023-09-26)で開発元(Gunfire Games)・発売元(THQ Nordicブランドで展開するGearbox Publishing)・ジャンル・あらすじを確認。世界同時デジタル配信は2023-07-25、日本国内のPS5パッケージ版発売は2023-09-26のため、最速のデジタル配信日をreleaseDateに採用した。The Game Awards 2023・Golden Joystick Awards 2023・D.I.C.E. Awards 2024でノミネートされたが受賞はなし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "lords-of-the-fallen-2023",
+    "title": "Lords of the Fallen",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "hexworks"
+    ],
+    "publisherId": "ci-games",
+    "genreIds": [
+      "soulslike",
+      "action-rpg"
+    ],
+    "releaseDate": "2023-10-13",
+    "synopsis": "かつて封印された邪神アディアの復活が近づく中、封印を維持していた守護者たちの力も衰えつつあった。「灯火の担い手」と呼ばれる主人公が、生者の世界とその裏側に広がる死者の世界を行き来できるランプを手に各地を巡り、荒廃した王国に潜む怪物や堕落した聖職者たちと戦っていく。二つの世界を行き来する探索が特徴のダークファンタジー・ソウルライク作品。",
+    "awardResults": [],
+    "sourceNote": "英語版Wikipedia『Lords of the Fallen (2023 video game)』(2026-08-03閲覧、WebFetch)で開発元(Hexworks、CI Games傘下)・発売元(CI Games)・発売日(2023-10-13、PS5/Windows/Xbox Series)・あらすじを確認。2014年の同名作のリブート作で、本サイトには旧作・本作とも未収録だったため新規追加した。受賞歴の記載はWikipedia記事に見当たらず未確認、空欄とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nioh",
+    "title": "仁王",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "team-ninja"
+    ],
+    "publisherId": "koei-tecmo",
+    "genreIds": [
+      "soulslike",
+      "action-rpg"
+    ],
+    "releaseDate": "2021-02-04",
+    "synopsis": "16世紀末、ロンドン塔から脱獄した金髪の侍ウィリアムが、自らの守護霊シアーシャを奪った錬金術師を追って戦国時代の日本へ渡る。伊賀忍者の服部半蔵らと協力しながら、各地に潜む妖怪や名だたる武将と刃を交え、武器種ごとの構えを使い分ける高難度の剣戟アクションで、怪異渦巻く戦乱の日本を渡り歩いていくダーク戦国アクションRPG。",
+    "awardResults": [
+      {
+        "awardId": "playstation-awards",
+        "year": 2017,
+        "result": "Gold Prize・ユーザーズチョイス賞受賞(オリジナルPS4版での受賞)"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2017,
+        "result": "年間作品部門優秀賞受賞(オリジナルPS4版での受賞)"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『仁王 (ゲーム)』(2026-08-03閲覧、WebFetch)で開発元(コーエーテクモゲームス/Team NINJA)・ジャンル・あらすじ・PlayStation Awards 2017 Gold Prize/ユーザーズチョイス賞・日本ゲーム大賞2017優秀賞の受賞(いずれもオリジナルPS4版、2017-02-23発売、に対するもの)を確認。本サイトはPS5版「Remastered Complete Edition」(2021-02-04発売)のみを対応機種として収録しているためreleaseDateは同日付を採用し、受賞歴はresultにオリジナル版での受賞である旨を明記した。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "wo-long-fallen-dynasty",
+    "title": "Wo Long: Fallen Dynasty",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "team-ninja"
+    ],
+    "publisherId": "koei-tecmo",
+    "genreIds": [
+      "soulslike",
+      "action-rpg"
+    ],
+    "releaseDate": "2023-03-03",
+    "synopsis": "後漢末期、黄巾の乱に揺れる中国大陸を舞台に、名も無き義勇兵が妖魔と化した英雄たちや群雄と渡り合っていく。敵の攻撃を受け流す「弾き」を軸にした高難度の剣戟に、五行の力を宿す武器や仲間との連携攻撃を組み合わせたシステムが特徴で、三国志の英雄たちが怪異と化した世界を描くダークファンタジー時代劇アクション。",
+    "awardResults": [],
+    "sourceNote": "英語版Wikipedia『Wo Long: Fallen Dynasty』(2026-08-03閲覧、WebFetch)で開発元(Team NINJA)・発売元(コーエーテクモゲームス)・発売日(2023-03-03、PS4/PS5/Xbox/PC)・ジャンル・あらすじを確認。Nintendo Switch 2版が2026-09-03に発売予定との記載があったが、本サイト運用時点(2026-08-03)で未発売のため対応機種には含めていない。受賞歴の記載はWikipedia記事に見当たらず未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dynasty-warriors-origins",
+    "title": "真・三國無双 ORIGINS",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "developerIds": [
+      "omega-force"
+    ],
+    "publisherId": "koei-tecmo",
+    "genreIds": [
+      "musou-action"
+    ],
+    "releaseDate": "2025-01-17",
+    "synopsis": "記憶を失った一人の武芸者が主人公となり、黄巾の乱から赤壁の戦いに至る後漢末期の動乱を渡り歩いていく。曹操・孫堅・劉備のいずれかの陣営に身を寄せながら物語を進める、シリーズの原点回帰を掲げた新章立ての作品で、大軍勢をなぎ倒す一騎当千の爽快感に加え、単独主人公による濃密な人間ドラマが描かれる無双アクション。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2025,
+        "result": "年間作品部門優秀賞受賞"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2025,
+        "result": "PlayStation Partner Awards 2025 Japan Asia USERS' CHOICE AWARD受賞"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『真・三國無双 ORIGINS』(2026-08-03閲覧、WebFetch)で開発元(オメガフォース)・発売元(コーエーテクモゲームス)・発売日(PS5/Xbox/Steam: 2025-01-17、Switch2: 2026-01-22)・受賞歴を確認。Switch2版は本サイト運用時点(2026-08-03)で発売済みのため対応機種に含めた。日本ゲーム大賞2024のフューチャー部門(発売前の展示選出であり競技的な受賞ではないと判断)はawardResultsに含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dragon-age-the-veilguard",
+    "title": "Dragon Age: The Veilguard",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "bioware"
+    ],
+    "publisherId": "electronic-arts",
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2024-10-31",
+    "synopsis": "世界と精霊界を隔てる「ヴェール」の消滅を目論むエルフの神ソラスの儀式を、主人公ルークが偶然阻止したことで、封じられていた二柱の古き神々が解き放たれてしまう。北方セダスの各地を巡り、個性豊かな仲間たちを集めながら、世界征服を目論む神々の野望を打ち砕くために立ち上がっていく、リアルタイム戦闘主体のアクションRPG。",
+    "awardResults": [],
+    "sourceNote": "英語版Wikipedia『Dragon Age: The Veilguard』(2026-08-03閲覧、WebFetch)で開発元(BioWare)・発売元(Electronic Arts)・発売日(2024-10-31、PS5/Windows/Xbox Series)・あらすじを確認。GLAAD Media Awards・Gayming Awards・Canadian Game Awards等の受賞歴は確認できたが、いずれも本サイトの既存9賞には該当しないためawardResultsは空欄とした。BAFTA・The Game Awards等での受賞有無は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kuro-no-kiseki",
+    "title": "英雄伝説 黎の軌跡",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "developerIds": [
+      "nihon-falcom"
+    ],
+    "publisherId": "nihon-falcom",
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2022-07-28",
+    "synopsis": "戦争賠償金による好景気に沸くカルバード共和国を舞台に、裏社会の揉め事を非公式に解決する「よろず屋」の青年ヴァン・アークライドが主人公。ある少女から持ち込まれた依頼をきっかけに、共和国を揺るがす政治的陰謀や犯罪組織の暗躍に巻き込まれていく、軌跡シリーズ第3期(カルバード編)の幕開けとなるストーリーRPG。",
+    "awardResults": [],
+    "sourceNote": "Web検索・日本語版Wikipedia『英雄伝説 黎の軌跡』(2026-08-03閲覧)で開発元・発売元(いずれも日本ファルコム)・発売日(PS4: 2021-09-30、PS5/Steam: 2022-07-28、Switch: 2024-02-15)・ジャンル(ストーリーRPG)・あらすじを確認。本サイトはPS5とSwitchを対応機種として収録し、releaseDateは含めた機種の中で最速のPS5版日付を採用した。ファミ通クロスレビューでゴールド殿堂入りとの記載はあったが本サイトの既存9賞には該当せず、awardResultsは空欄とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "judge-eyes-remastered",
+    "title": "JUDGE EYES：死神の遺言 Remastered",
+    "platforms": [
+      "ps5"
+    ],
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "genreIds": [
+      "action-adventure",
+      "crime-action",
+      "stealth"
+    ],
+    "releaseDate": "2021-04-23",
+    "synopsis": "弁護士資格を剥奪され探偵となった八神隆之が、神室町で発生した猟奇殺人事件の真相を追う。かつて弁護士として無罪を勝ち取った依頼人が、実は真犯人だったのではという過去の後悔を抱えながら、聞き込みや尾行、時に体術を駆使して調査を進め、事件の裏に潜む先端医療をめぐる巨大な陰謀へと迫っていくリーガルサスペンスアクション。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2019,
+        "result": "年間作品部門優秀賞受賞(2018年のオリジナル版「JUDGE EYES：死神の遺言」としての受賞)"
+      },
+      {
+        "awardId": "famitsu-awards",
+        "year": 2018,
+        "result": "優秀賞受賞(2018年のオリジナル版「JUDGE EYES：死神の遺言」としての受賞)"
+      }
+    ],
+    "sourceNote": "日本語版Wikipedia『JUDGE EYES:死神の遺言』(2026-08-03閲覧、WebFetch)およびインサイド記事(2019-09-12)で開発元(龍が如くスタジオ)・発売元(セガ)・オリジナルPS4版発売日(2018-12-13)・PS5版Remastered発売日(2021-04-23)・日本ゲーム大賞2019年間作品部門優秀賞・ファミ通アワード2018優秀賞の受賞を確認。本サイトは続編『LOST JUDGMENT：裁かれざる記憶』を既収録済みのため、本作(第1作のPS5版)を新規追加した。releaseDateは本サイトが対応機種とするPS5版の発売日を採用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ea-sports-fc-24",
+    "title": "EA SPORTS FC 24",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "developerIds": [
+      "ea-vancouver"
+    ],
+    "publisherId": "electronic-arts",
+    "genreIds": [
+      "sports"
+    ],
+    "releaseDate": "2023-09-29",
+    "synopsis": "長年「FIFA」の名を冠してきたEAのサッカーゲームシリーズが、国際サッカー連盟とのライセンス契約終了に伴い、新たに「EA SPORTS FC」として生まれ変わった記念すべき第1作。実在の選手やクラブ、リーグを多数収録し、選手の実際の動きをモーションキャプチャーで取り込む技術により、これまで以上にリアルな試合展開を再現している。",
+    "awardResults": [],
+    "sourceNote": "英語版Wikipedia『EA Sports FC 24』(2026-08-03閲覧、WebFetch)で開発元(EA Vancouver、EA Romaniaと共同開発)・発売元(Electronic Arts)・発売日(2023-09-29、PS5/PS4/Switch/Xbox/PC同時)・FIFAブランドからの改称経緯を確認。The Game Awards 2023・D.I.C.E. Awards 2024でノミネートされたが受賞はなし。Switch版はNintendo Switch向け専用パッケージが発売されているため対応機種に含めた。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -2086,5 +2086,159 @@
     },
     "sourceNote": "英語版Wikipedia『Bokeh Game Studio』(2026-08-03閲覧、日本語版単独記事は未発見)で設立(2020年8月13日)・設立者(外山圭一郎ほか)・代表作を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ubisoft-montreal",
+    "name": "ユービーアイソフト・モントリオール",
+    "nameKana": "ゆーびーあいそふともんとりおーる",
+    "parentCompany": "ユービーアイソフト",
+    "description": "『アサシン クリード』シリーズの旗艦スタジオとして知られる、カナダ・モントリオール拠点のユービーアイソフト最大規模の開発スタジオ。1997年設立。",
+    "foundedYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ubisoft_Montreal"
+    },
+    "sourceNote": "英語版Wikipedia『Ubisoft Montreal』(2026-08-03閲覧)で設立年(1997年4月)・拠点(モントリオール)・アサシン クリードシリーズの主導スタジオである旨を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dambuster-studios",
+    "name": "Dambuster Studios",
+    "nameKana": "だむばすたーすたじおず",
+    "parentCompany": "Deep Silver",
+    "description": "英国ノッティンガム拠点の開発スタジオ。2014年設立、Deep Silver(現Plaion)傘下。『Dead Island 2』を手掛けた。",
+    "foundedYear": 2014,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dambuster_Studios"
+    },
+    "sourceNote": "英語版Wikipedia『Dambuster Studios』(2026-08-03閲覧)で設立年(2014年7月30日)・拠点(ノッティンガム)・Deep Silver傘下である旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "eidos-montreal",
+    "name": "アイドス・モントリオール",
+    "nameKana": "あいどすもんとりおーる",
+    "description": "『Marvel's Guardians of the Galaxy』『Deus Ex』シリーズ等を手掛けるカナダ・モントリオール拠点の開発スタジオ。2007年設立。本作発売時点(2021年)はスクウェア・エニックス傘下だったが、2022年にエンブレイサー・グループへ売却された。",
+    "foundedYear": 2007,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eidos-Montr%C3%A9al"
+    },
+    "sourceNote": "英語版Wikipedia『Eidos-Montréal』(2026-08-03閲覧)で設立年(2007年、Stéphane D'Astous氏設立)・拠点・2022年のエンブレイサー・グループへの売却を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bluetwelve-studio",
+    "name": "BlueTwelve Studio",
+    "nameKana": "ぶるーとぅえるぶすたじお",
+    "description": "『Stray』を手掛けるフランス・モンペリエ拠点の小規模インディースタジオ。2016年、KoolaおよびVivの2名により設立。",
+    "foundedYear": 2016,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、Gematsu等の英語記事)で設立年(2016年)・拠点(モンペリエ)・創業者2名を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mundfish",
+    "name": "Mundfish",
+    "nameKana": "むんどふぃっしゅ",
+    "description": "『Atomic Heart』を手掛けるゲーム開発会社。2017年設立。当初はロシア・モスクワを拠点としていたが、現在はキプロスに本拠を置き、アブダビ・エレバンにも開発拠点を持つ。",
+    "foundedYear": 2017,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、Mundfish公式サイトAboutページ等)で設立年(2017年)・拠点の変遷(モスクワ→キプロス)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "focus-entertainment",
+    "name": "Focus Entertainment",
+    "nameKana": "ふぉーかすえんたーていんめんと",
+    "description": "フランス・パリ拠点の大手ゲームパブリッシャー。1996年設立、旧社名Focus Home Interactiveから2021年に現社名へ変更した。『Atomic Heart』の世界販売等を手掛ける。",
+    "foundedYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Focus_Entertainment"
+    },
+    "sourceNote": "英語版Wikipedia『Focus Entertainment』(2026-08-03閲覧)で設立年(1996年)・拠点(パリ)・2021年の社名変更(Focus Home Interactive→Focus Entertainment)を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gunfire-games",
+    "name": "Gunfire Games",
+    "nameKana": "がんふぁいあげーむず",
+    "description": "『Remnant』シリーズ等を手掛ける米テキサス州オースティン拠点の開発スタジオ。2014年、デイヴィッド・アダムス氏が旧Vigil Games/Crytek USAの中核スタッフを率いて設立。",
+    "foundedYear": 2014,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gunfire_Games"
+    },
+    "sourceNote": "英語版Wikipedia『Gunfire Games』(2026-08-03閲覧)で設立年(2014年7月)・創業者(David Adams氏)・拠点(オースティン)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hexworks",
+    "name": "Hexworks",
+    "nameKana": "へっくすわーくす",
+    "parentCompany": "CI Games",
+    "description": "スペイン・バルセロナとルーマニア・ブカレストを拠点とするCI Games傘下の開発スタジオ。2020年設立、ファンタジー系アクションRPGを専門とし『Lords of the Fallen』(2023)を手掛けた。",
+    "foundedYear": 2020,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、CI Games公式ニュース記事)で設立年(2020年)・拠点(バルセロナ/ブカレスト)・CI Games傘下である旨を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ci-games",
+    "name": "CI Games",
+    "nameKana": "しーあいげーむず",
+    "description": "ポーランド・ワルシャワ拠点のゲームパブリッシャー・開発会社。2002年設立。『Sniper: Ghost Warrior』シリーズや、傘下スタジオHexworksが手掛ける『Lords of the Fallen』シリーズで知られる。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/CI_Games"
+    },
+    "sourceNote": "英語版Wikipedia『CI Games』(2026-08-03閲覧)で設立年(2002年)・拠点(ワルシャワ)・代表作を確認。日本語版Wikipedia単独記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "team-ninja",
+    "name": "Team NINJA",
+    "nameKana": "ちーむにんじゃ",
+    "parentCompany": "koei-tecmo",
+    "description": "『仁王』シリーズ、『Wo Long: Fallen Dynasty』、『NINJA GAIDEN』シリーズ等を手掛けるコーエーテクモゲームス内のアクションゲーム開発ブランド。1995年、テクモ内の開発チームとして発足。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Team_Ninja"
+    },
+    "sourceNote": "Web検索(2026-08-03、英語版Wikipedia『Team Ninja』等)で1995年にテクモ社内チーム(Tecmo Creative #3)として発足した経緯・現在はコーエーテクモゲームス内のブランドである旨を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bioware",
+    "name": "バイオウェア",
+    "nameKana": "ばいおうぇあ",
+    "parentCompany": "エレクトロニック・アーツ",
+    "description": "『ドラゴンエイジ』『マスエフェクト』シリーズ等を手掛けるカナダ・エドモントン拠点の開発会社。1995年、医師出身のレイ・ムジカ氏らにより設立され、2007年にエレクトロニック・アーツ傘下入りした。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バイオウェア"
+    },
+    "sourceNote": "日本語版Wikipedia『バイオウェア』(2026-08-03閲覧)で設立年(1995年)・拠点(エドモントン)・2007年のEA買収を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nihon-falcom",
+    "name": "日本ファルコム",
+    "nameKana": "にほんふぁるこむ",
+    "description": "『英雄伝説』『イース』シリーズ等を手掛ける東京都立川市拠点の老舗ゲーム開発・発売会社。1981年設立。",
+    "foundedYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本ファルコム"
+    },
+    "sourceNote": "日本語版Wikipedia『日本ファルコム』(2026-08-03閲覧)で設立年(1981年3月)・創業者(加藤正幸氏)・拠点(立川市)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ea-vancouver",
+    "name": "EA Vancouver",
+    "nameKana": "いーえーばんくーばー",
+    "parentCompany": "エレクトロニック・アーツ",
+    "description": "『EA SPORTS FC』シリーズ(旧FIFAシリーズ)等を手掛けるカナダ拠点のエレクトロニック・アーツ最大規模の開発スタジオ。1983年に「Distinctive Software」として設立され、1991年にEAが買収した。",
+    "foundedYear": 1983,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、EA公式資料・複数の英語ゲームメディア)で前身Distinctive Softwareの設立年(1983年)・1991年のEAによる買収・改称の経緯を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
   }
 ]
