@@ -4182,5 +4182,351 @@
     },
     "sourceNote": "日本語版Wikipedia『モータルコンバット1』(2026-08-03閲覧)で発売日・プラットフォーム・あらすじを確認、英語版Wikipediaで開発元(PS5/Xbox版はNetherRealm Studios、Switch版はShiver Entertainment/Saber Interactive)とGolden Joystick Awards 2023受賞歴を確認。Nintendo Switch版はダウンロード版・パッケージ版とも実配信されるネイティブ移植(ブログ記事等で確認、クラウド専用ではない)のため対応機種に含めた。Switch 2では後方互換で高速化するのみで専用版は確認できなかったため、switch2は対応機種に含めていない。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "guilty-gear-strive",
+    "title": "GUILTY GEAR -STRIVE-",
+    "titleKana": "ぎるてぃぎあすとらいぶ",
+    "developerIds": [
+      "arc-system-works"
+    ],
+    "publisherId": "arc-system-works",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2021-06-11",
+    "synopsis": "アークシステムワークスによる対戦格闘シリーズの最新作。舞台はワシントンD.C.で、主人公ソル=バッドガイと因縁の相手アスカ・R・クロイツとの決着が描かれる。セルアニメ風の美麗な3Dグラフィックに骨太な駆け引きを融合させ、全キャラクターにボーカル入りテーマ曲を用意。オンライン対戦を重視したロールバックネットコードを搭載している。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Fighting Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2022,
+        "result": "Fighting Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GUILTY_GEAR_-STRIVE-",
+      "officialUrl": "https://www.guiltygear.com/ggst/ja/"
+    },
+    "sourceNote": "日本語版Wikipedia「GUILTY GEAR -STRIVE-」(2026-08-03閲覧)で開発元・発売元(アークシステムワークス)、PS4/PS5/Windows版発売日(2021-06-11)、ジャンル、あらすじを確認。英語版Wikipediaで受賞歴(The Game Awards 2021 Best Fighting Game、第25回D.I.C.E. Awards Fighting Game of the Year)を確認。Nintendo Switch版は2024年8月PAX Westで発表され2025-01-23に発売された正式な移植版(クラウド版ではない)であることを英語版Wikipediaの記述(A port for Nintendo Switch was announced...and was released)で確認し対応機種に含めた。releaseDateはPS5版を含む初出プラットフォームの発売日を採用。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dead-space-2023",
+    "title": "Dead Space",
+    "titleKana": "でっどすぺーす",
+    "developerIds": [
+      "motive-studio"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror"
+    ],
+    "releaseDate": "2023-01-27",
+    "synopsis": "2008年発売の同名ホラー作品をフルリメイク。26世紀、宇宙船イシムラの調査に向かった技術者アイザック・クラークは、正体不明の遺物「マーカー」によって死者の肉体から生まれる怪物ネクロモーフの襲撃に見舞われる。恐怖の真相を追いながら艦内を生き延びるサバイバルホラーで、グラフィックと演出を刷新し原作の物語を拡張している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dead_Space_(2023_video_game)",
+      "officialUrl": "https://www.ea.com/games/dead-space/dead-space"
+    },
+    "sourceNote": "日本語版Wikipediaに本作単独記事が存在しないため、英語版Wikipedia「Dead Space (2023 video game)」(2026-08-03閲覧)で開発元(Motive Studio)・発売元(Electronic Arts)・発売日(2023-01-27)・対応機種(PS5/Windows/Xbox Series、Switch非対応)・あらすじを確認。The Game AwardsやD.I.C.E. Awardsでの言及はいずれもノミネートに留まり受賞に至っていないため受賞歴は未記載とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-callisto-protocol",
+    "title": "The Callisto Protocol",
+    "titleKana": "ざきゃりすとぷろとこる",
+    "developerIds": [
+      "striking-distance-studios"
+    ],
+    "publisherId": "krafton",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror"
+    ],
+    "releaseDate": "2022-12-02",
+    "synopsis": "2320年、木星の衛星カリストに墜落した宇宙船の船長ジェイコブ・リーは、高セキュリティの収容施設に囚われる。謎の感染症により囚人たちが凶暴な怪物と化す中、生き延びながら施設と看守たちの闇を暴いていくサードパーソン視点のサバイバルホラー。「Dead Space」の生みの親グレン・スコフィールド氏率いるスタジオが手掛けた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Callisto_Protocol",
+      "officialUrl": "https://www.callistoprotocol.com"
+    },
+    "sourceNote": "日本語版Wikipediaに単独記事なし。英語版Wikipedia「The Callisto Protocol」(2026-08-03閲覧)で開発元(Striking Distance Studios)・発売元(Krafton)・発売日(2022-12-02)・対応機種(PS5/PS4/Windows/Xbox、Switch非対応)・あらすじを確認。同記事で2022年10月にCERO審査未取得により日本国内向け発売が中止された旨も確認(本サイトには海外版PS5リリースとして収録)。受賞歴はVES Awards・D.I.C.E. Awardsともノミネートのみで受賞なしのため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "forspoken",
+    "title": "FORSPOKEN",
+    "titleKana": "ふぉーすぽーくん",
+    "developerIds": [
+      "luminous-productions"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2023-01-24",
+    "synopsis": "ニューヨークに暮らす21歳のフレイは、ある日突然、異世界アシアへと迷い込む。意思を持つ腕輪「カフ」から授かった魔法の力に目覚めた彼女は、大地を疾走するパルクール移動と魔法攻撃を駆使し、世界を支配する暴君タンタたちと対峙しながら元の世界へ帰る術を探す。ルミナスプロダクションズが手掛けたオープンワールドアクションRPG。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "フューチャー部門選出"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/FORSPOKEN",
+      "officialUrl": "https://forspoken.square-enix-games.com/ja-jp/"
+    },
+    "sourceNote": "日本語版Wikipedia「FORSPOKEN」(2026-08-03閲覧)で開発元(ルミナスプロダクションズ)・発売元(スクウェア・エニックス)・発売日(2023-01-24)・対応機種(PS5/Windows、Switch非対応)・あらすじ・日本ゲーム大賞2022フューチャー部門選出を確認。開発元ルミナスプロダクションズは2023年5月にスクウェア・エニックス本体へ再統合され現在は消滅している旨を英語版Wikipediaで確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "suicide-squad-kill-the-justice-league",
+    "title": "Suicide Squad: Kill the Justice League",
+    "titleKana": "すーさいどすくわっど きるざじゃすてぃすりーぐ",
+    "developerIds": [
+      "rocksteady-studios"
+    ],
+    "publisherId": "warner-bros-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "open-world",
+      "co-op"
+    ],
+    "releaseDate": "2024-02-02",
+    "synopsis": "「バットマン:アーカムナイト」の5年後を描く、ロックステディ・スタジオ制作のオープンワールドTPS。アマンダ・ウォーラーに集められたスーサイド・スクワッドが、地球侵略を目論む異星の知性体ブレイニアックと、彼に洗脳されたジャスティス・リーグのメンバーたちの打倒に挑む。最大4人までの協力プレイに対応し、メトロポリスを自由に飛び回れる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League",
+      "officialUrl": "https://www.suicidesquadgame.com"
+    },
+    "sourceNote": "日本語版Wikipediaに単独記事なし。英語版Wikipedia「Suicide Squad: Kill the Justice League」(2026-08-03閲覧)で開発元(ロックステディ・スタジオ)・発売元(ワーナー・ブラザース・ゲームズ)・発売日(2024-02-02)・対応機種(PS5/Windows/Xbox Series、Switch非対応)・あらすじを確認。同記事は「mixed reviews」と評しており、追跡対象9アワードでの受賞記載は見当たらなかったため受賞歴は未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "alone-in-the-dark-2024",
+    "title": "Alone in the Dark",
+    "titleKana": "あろーんいんざだーく",
+    "developerIds": [
+      "pieces-interactive"
+    ],
+    "publisherId": "thq-nordic",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror"
+    ],
+    "releaseDate": "2024-03-20",
+    "synopsis": "1992年発売のホラーゲーム原点作をリブート。1930年代のルイジアナを舞台に、私立探偵エドワード・カーンビーか姪エミリーのいずれかを操作し、荒廃した洋館ダーセトを調査する。ヴードゥー教の儀式と異次元の恐怖が渦巻く館で、行方不明の伯父の謎を追う心理サバイバルホラー。俳優デヴィッド・ハーバーらが声を担当している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2024_video_game)",
+      "officialUrl": "https://www.aloneinthedark.com"
+    },
+    "sourceNote": "日本語版Wikipediaに単独記事なし。英語版Wikipedia「Alone in the Dark (2024 video game)」(2026-08-03閲覧)で開発元(Pieces Interactive)・発売元(THQ Nordic)・発売日(2024-03-20)・対応機種(PS5/Windows/Xbox Series、PS4・Switch非対応)・あらすじを確認。同記事で開発元Pieces Interactiveが販売不振により2024年6月に閉鎖された旨も確認。受賞はGame Audio Network Guild Awardsのノミネートのみで追跡対象9アワードでの受賞は見当たらないため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "marvels-midnight-suns",
+    "title": "Marvel's Midnight Suns",
+    "titleKana": "まーべるずみっどないとさんず",
+    "developerIds": [
+      "firaxis-games"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "deck-building"
+    ],
+    "releaseDate": "2022-12-02",
+    "synopsis": "プレイヤー自身が作るオリジナルヒーロー「ハンター」が、アベンジャーズやミッドナイト・サンズのメンバーと共に、悪魔の母リリスと彼女が復活を目論む古の魔神クトーンに立ち向かう。戦闘はターン制とデッキ構築を組み合わせたシステムで進行し、拠点「アビー」でキャラクターと交流しながら物語を進める、ファイラクシス・ゲームズ制作のタクティクスRPG。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marvel%27s_Midnight_Suns",
+      "officialUrl": "https://www.midnightsuns.com"
+    },
+    "sourceNote": "日本語版Wikipediaに単独記事なし。英語版Wikipedia「Marvel's Midnight Suns」(2026-08-03閲覧)で開発元(ファイラクシス・ゲームズ)・発売元(2K)・発売日(PS5/Windows/Xbox Series版2022-12-02、PS4/Xbox One版2023-05-11)・あらすじを確認。Nintendo Switch版は開発発表後に開発中止(canceled)となったことを同記事で確認し対応機種から除外。受賞は第26回D.I.C.E. AwardsのStrategy/Simulation Game of the Yearノミネートのみで受賞歴なしのため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "persona-5-strikers",
+    "title": "ペルソナ5 ストライカーズ",
+    "titleKana": "ぺるそなふぁいぶすとらいかーず",
+    "developerIds": [
+      "omega-force",
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "musou-action"
+    ],
+    "releaseDate": "2020-02-20",
+    "synopsis": "「ペルソナ5」の半年後を舞台に、怪盗団の面々が謎の異空間「ジェイル」の発生源を追い、日本各地を旅する物語。AIアプリ「EMMA」を巡る陰謀に迫りながら、多数の敵を次々になぎ倒すアクションと、原作譲りのペルソナを用いた戦略性を融合させた無双系アクションRPG。オメガフォースとP-スタジオが共同開発した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ5_スクランブル",
+      "officialUrl": "https://persona5.jp/scramble/"
+    },
+    "sourceNote": "日本語版Wikipedia「ペルソナ5 スクランブル ザ・ファントム・ストライカーズ」(2026-08-03閲覧、国内製品名は『ペルソナ5 スクランブル』、海外名Persona 5 Strikers)で対応機種を確認したところPS4/Switch/Windows(Steam)のみでPS5専用版は存在しないことを確認したため、対応機種はswitchのみとした。開発元(アトラス、オメガフォース〈コーエーテクモゲームス〉)・発売元(国内アトラス/海外セガ、本サイトはアトラス表記で統一)・発売日(国内2020-02-20)・あらすじを確認。受賞歴の明記は見当たらず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "streets-of-rage-4",
+    "title": "ベア・ナックルIV",
+    "titleKana": "べあなっくるふぉー",
+    "developerIds": [
+      "dotemu",
+      "lizardcube",
+      "guard-crush-games"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2020-04-30",
+    "synopsis": "初代から約26年ぶりとなる正統続編ベルトスクロールアクション。かつて街を救った主人公たちが死闘の末に平穏を取り戻してから10年後、新たな悪「Yツインズ」の脅威が街に迫る。手描き風の美麗な2Dグラフィックと軽快なコンボアクションが特徴で、最大4人までのローカル・オンライン協力プレイに対応し、歴代シリーズのレトロキャラクターも隠し要素として使用できる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベア・ナックル",
+      "officialUrl": "https://www.streetsofrage4.com"
+    },
+    "sourceNote": "日本語版Wikipedia「ベア・ナックル」シリーズ記事内のIV節(2026-08-03閲覧)で日本語版タイトル(ベア・ナックルIV)・対応機種・開発元(Dotemu、Lizardcube、Guard Crush Games)・発売元(国内セガ、海外Dotemu)・発売日(デジタル版2020-04-30、PS4/Switch向けパッケージ版『スペシャルエディション』2020-07-30)・あらすじを確認。PS5専用版は確認できず(PS4版のみ)対応機種から除外しSwitch版のみ収録。英語版Wikipediaで確認した「Famitsu Gold award」は本サイト追跡対象の「ファミ通アワード」(年間表彰式)とは異なる週間クロスレビューの評価制度であるため受賞歴には採用せず、The Game Awards 2020 Best Action Gameはノミネート(受賞はHades)のため同様に未採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shovel-knight-treasure-trove",
+    "title": "Shovel Knight: Treasure Trove",
+    "titleKana": "しょべるないと とれじゃーとろーぶ",
+    "developerIds": [
+      "yacht-club-games"
+    ],
+    "publisherId": "yacht-club-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2017-03-03",
+    "synopsis": "ショベル型の武器を手にした騎士ショベルナイトが、さらわれた相棒シールドナイトを救うため、悪の帝国を築く魔女団「オーダー・オブ・ノー・クオーター」に挑む横スクロールアクション。基本編「シャベル・オブ・ホープ」に加え、悪役視点で描かれる3つの追加キャンペーンと対戦モードを収録した完全版コンパイル作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ショベルナイト",
+      "officialUrl": "https://yachtclubgames.com/shovel-knight/"
+    },
+    "sourceNote": "日本語版Wikipedia「ショベルナイト」(2026-08-03閲覧)で開発元・発売元(ヤハトクラブゲームズ、日本語パッケージ版はフライハイワークスが発売)・Switch版発売日(世界2017-03-03、国内2017-05-30)・あらすじを確認。『Treasure Trove』は基本キャンペーン(Shovel of Hope)に加えPlague of Shadows・Specter of Torment・King of Cards・対戦モードShowdownを含む完全版で、全要素が揃ったのは2019年12月の無料アップデート時点(正確な日付は複数ソースで確認できず未確定)であることを英語版Wikipediaで確認。releaseDateはSwitch版初出日を採用。The Game Awards 2014 Best Independent Gameは2014年発売の基本版に対する受賞であり本SKU固有の受賞と断定できないため未記載とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "katana-zero",
+    "title": "KATANA ZERO",
+    "titleKana": "かたなぜろ",
+    "developerIds": [
+      "askiisoft"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2019-04-18",
+    "synopsis": "記憶を失った刀使いの暗殺者「ゼロ」が、セラピストから与えられる薬と引き換えに暗殺依頼をこなしていくネオノワール系アクション。時間を巻き戻せる能力を駆使し、一撃で死亡する高難度のステージを何度もやり直しながら攻略する。ステージ間の会話がストーリー分岐や演出に影響する、Askiisoftによるインディー作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Katana_ZERO",
+      "officialUrl": "https://www.katanazero.com"
+    },
+    "sourceNote": "日本語版Wikipedia「Katana ZERO」(2026-08-03閲覧)で開発元(Askiisoft、開発者ジャスティン・スタンダー氏の個人スタジオ屋号)・発売元(Devolver Digital)・Switch版発売日(2019-04-18)・あらすじを確認。PS4版はESRBレーティングのみ取得され実発売に至っていないこと、PS5専用版は存在しないことを英語版Wikipediaで確認したため対応機種はswitchのみとした。The Game Awards 2019 Best Independent GameやBAFTA Debut Game等はいずれもノミネートのみで受賞に至っていないため受賞歴は未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "return-of-the-obra-dinn",
+    "title": "Return of the Obra Dinn",
+    "titleKana": "りたーんおぶじおぶらでぃん",
+    "developerIds": [
+      "3909-llc"
+    ],
+    "publisherId": "3909-llc",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2019-10-18",
+    "synopsis": "1807年、5年間消息不明だった商船オブラ・ディン号が乗員全員死亡・失踪の状態で帰還する。保険調査員となったプレイヤーは、死の瞬間を再現する不思議な懐中時計を使い、60人の乗員乗客それぞれの運命を推理していく。白黒一色のドット絵風グラフィックが印象的な、ルーカス・ポープ氏によるミステリー謎解きアドベンチャー。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2018,
+        "result": "Best Art Direction"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2019,
+        "result": "Artistic Achievement"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2019,
+        "result": "Game Design"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Return_of_the_Obra_Dinn",
+      "officialUrl": "https://obradinn.com"
+    },
+    "sourceNote": "日本語版Wikipedia「Return of the Obra Dinn」(2026-08-03閲覧)で開発元・発売元(3909、開発者ルーカス・ポープ氏の個人スタジオ)・PC版発売日(2018-10-18)・Switch/PS4/Xbox One版発売日(2019-10-18)・あらすじ・受賞歴(The Game Awards 2018 Best Art Direction、BAFTA Games Awards 2019 Artistic Achievement/Game Design)を確認。PS5専用版は存在しない(PS4版のみ)ため対応機種はswitchのみとした。Switch版の移植はWarp Digitalが担当。releaseDateはSwitch版発売日を採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "soul-hackers-2",
+    "title": "ソウルハッカーズ2",
+    "titleKana": "そうるはっかーずつー",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2022-08-25",
+    "synopsis": "世界の終焉を予見した情報生命体エオンが生み出したエージェント、リンゴ。彼女は世界の破滅を防ぐため、デビルサマナーとして蘇らせた2人の男とともに、終末をもたらす勢力に立ち向かう。悪魔合体システムを軸にした戦闘と、都会的でスタイリッシュな世界観が特徴の、アトラス制作コンピュータRPG「デビルサマナー」シリーズ関連作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソウルハッカーズ2",
+      "officialUrl": "https://sega.jp/soulhackers2/"
+    },
+    "sourceNote": "日本語版Wikipedia「ソウルハッカーズ2」(2026-08-03閲覧)で開発元(アトラス、Xbox One/Steam版はアートディンクが担当)・発売元(セガ、本サイトはアトラス表記で統一)・発売日(PS5/PS4/Xbox版2022-08-25、Steam版2022-08-26)・ジャンル(コンピュータRPG)・あらすじを確認。Nintendo Switch版は発売されていないため対応機種はps5のみとした。受賞歴の明記は見当たらず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -1123,5 +1123,205 @@
     },
     "sourceNote": "英語版Wikipedia『Warner Bros. Games』記事(2026-08-03閲覧)で概要・設立年・ブランド変遷を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "arc-system-works",
+    "name": "アークシステムワークス",
+    "nameKana": "あーくしすてむわーくす",
+    "description": "1988年設立、神奈川県横浜市に本社を置く日本の家庭用・アーケードゲーム開発発売元。「GUILTY GEAR」や「BLAZBLUE」などの2D対戦格闘ゲームシリーズで知られ、「ドラゴンボール ファイターズ」のようなライセンス作品の開発も手掛ける。",
+    "foundedYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arc_System_Works",
+      "officialUrl": "https://www.arcsystemworks.jp/"
+    },
+    "sourceNote": "英語版Wikipedia「Arc System Works」(2026-08-03閲覧)で設立年(1988年5月12日)・本社所在地(横浜市)・主要作品を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "motive-studio",
+    "name": "モーティブスタジオ",
+    "nameKana": "もーてぃぶすたじお",
+    "parentCompany": "electronic-arts",
+    "description": "2015年設立、カナダ・モントリオールに拠点を置くエレクトロニック・アーツ傘下の開発スタジオ。「Star Wars Battlefront II」や「Star Wars: Squadrons」の開発に携わり、「Dead Space」(2023年リメイク)を手掛けた。",
+    "foundedYear": 2015,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/EA_Motive",
+      "officialUrl": "https://www.ea.com/studios/motive"
+    },
+    "sourceNote": "英語版Wikipedia「EA Motive」(2026-08-03閲覧)で設立年(2015年7月13日)・拠点(モントリオール)・親会社(エレクトロニック・アーツ)・主要作品を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "striking-distance-studios",
+    "name": "ストライキング・ディスタンス・スタジオズ",
+    "nameKana": "すとらいきんぐでぃすたんすすたじおず",
+    "parentCompany": "krafton",
+    "description": "2019年6月にPUBGコーポレーション内のスタジオとして、グレン・スコフィールド氏が設立した米国の開発スタジオ。「The Callisto Protocol」を開発した。",
+    "foundedYear": 2019,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Callisto_Protocol"
+    },
+    "sourceNote": "英語版Wikipedia「The Callisto Protocol」(2026-08-03閲覧)で設立時期(2019年6月、PUBGコーポレーション内のスタジオとして発足)・設立者(グレン・スコフィールド氏)・親会社(クラフトン)を確認。単独の企業記事が無く公式サイトURLは未確認のため記載していない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "krafton",
+    "name": "クラフトン",
+    "nameKana": "くらふとん",
+    "description": "2007年設立の韓国・ソウルのBluehole Studioを母体とし、2018年に持株会社体制へ移行してクラフトンへ改称。「PUBG: BATTLEGROUNDS」で知られ、Striking Distance StudiosやUnknown Worlds Entertainmentなど複数スタジオを傘下に持つ。",
+    "foundedYear": 2007,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Krafton",
+      "officialUrl": "https://www.krafton.com"
+    },
+    "sourceNote": "英語版Wikipedia「Krafton」(2026-08-03閲覧)で前身Bluehole Studioの設立年(2007年3月)・クラフトンへの改称年(2018年)・主要作品・傘下スタジオを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "luminous-productions",
+    "name": "ルミナスプロダクションズ",
+    "nameKana": "るみなすぷろだくしょんず",
+    "parentCompany": "square-enix",
+    "description": "2018年にスクウェア・エニックス社内から独立設立された開発スタジオ。「ファイナルファンタジーXV」の開発チームを母体とし、「Forspoken」を制作したが、2023年5月にスクウェア・エニックス本体へ再統合され解散した。",
+    "foundedYear": 2018,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luminous_Productions"
+    },
+    "sourceNote": "英語版Wikipedia「Luminous Productions」(2026-08-03閲覧)で設立日(2018年3月27日)・親会社(スクウェア・エニックス)・2023年5月の本体再統合による解散を確認。解散済みのため公式サイトURLは記載していない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rocksteady-studios",
+    "name": "ロックステディ・スタジオ",
+    "nameKana": "ろっくすてでぃすたじお",
+    "parentCompany": "warner-bros-games",
+    "description": "2004年設立のロンドンの開発スタジオ。「バットマン:アーカム」シリーズで広く知られ、2010年にワーナー・ブラザースが過半数株式を取得。「Suicide Squad: Kill the Justice League」を開発した。",
+    "foundedYear": 2004,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rocksteady_Studios",
+      "officialUrl": "https://www.rocksteadygames.com"
+    },
+    "sourceNote": "英語版Wikipedia「Rocksteady Studios」(2026-08-03閲覧)で設立日(2004年12月13日)・ワーナー・ブラザースによる株式取得(2010年2月)・本社所在地(ロンドン)・主要作品を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pieces-interactive",
+    "name": "ピーシーズ・インタラクティブ",
+    "nameKana": "ぴーしーずいんたらくてぃぶ",
+    "parentCompany": "thq-nordic",
+    "description": "スウェーデンの開発スタジオ。「Magicka 2」などの制作で知られ、THQ Nordic(エンブレイサー・グループ)傘下だった。「Alone in the Dark」(2024年リメイク)を開発したが、販売不振を受けて2024年6月にエンブレイサー・グループにより閉鎖された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2024_video_game)"
+    },
+    "sourceNote": "英語版Wikipedia「Alone in the Dark (2024 video game)」(2026-08-03閲覧)でPieces Interactiveの主要作品(Magicka 2)・2024年6月の閉鎖(販売不振によるエンブレイサー・グループの決定)を確認。独立した企業記事が存在せず設立年・本社所在地・公式サイトは確認できなかったため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "thq-nordic",
+    "name": "THQ Nordic",
+    "nameKana": "てぃーえいちきゅーのるでぃっく",
+    "description": "2011年にNordic Games GmbHとしてオーストリア・ウィーンで設立され、2016年にTHQブランドの商標取得を機にTHQ Nordicへ改称。「Alone in the Dark」(2024年リメイク)を発売した。持株会社エンブレイサー・グループ傘下。",
+    "foundedYear": 2011,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/THQ_Nordic",
+      "officialUrl": "https://www.thqnordic.com"
+    },
+    "sourceNote": "英語版Wikipedia「THQ Nordic」(2026-08-03閲覧)で設立年(2011年、Nordic Games GmbH)・改称年(2016年)・本社所在地(ウィーン)・親会社(エンブレイサー・グループ)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "firaxis-games",
+    "name": "ファイラクシス・ゲームズ",
+    "nameKana": "ふぁいらくしすげーむず",
+    "parentCompany": "2k",
+    "description": "1996年にシド・マイヤー氏らMicroProse出身の3名が設立した米メリーランド州の開発スタジオ。「シヴィライゼーション」シリーズや「XCOM」シリーズで知られ、2005年よりテイクツー・インタラクティブ(2Kレーベル)傘下。「Marvel's Midnight Suns」を開発した。",
+    "foundedYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Firaxis_Games",
+      "officialUrl": "https://www.firaxis.com"
+    },
+    "sourceNote": "英語版Wikipedia「Firaxis Games」(2026-08-03閲覧)で設立年(1996年5月1日)・設立者(シド・マイヤー氏ら)・親会社(2005年よりテイクツー・インタラクティブ/2K)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "2k",
+    "name": "2K",
+    "nameKana": "つーけー",
+    "description": "2005年設立のテイクツー・インタラクティブ傘下のパブリッシャーレーベル。「NBA 2K」「ボーダーランズ」「バイオショック」シリーズなどを展開し、Firaxis GamesやGearbox Softwareなど複数スタジオを傘下に持つ。「Marvel's Midnight Suns」の発売元。",
+    "foundedYear": 2005,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/2K_(company)",
+      "officialUrl": "https://2k.com"
+    },
+    "sourceNote": "英語版Wikipedia「2K (company)」(2026-08-03閲覧)で設立日(2005年1月25日)・親会社(テイクツー・インタラクティブ)・傘下スタジオを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dotemu",
+    "name": "Dotemu",
+    "nameKana": "どっとみゅ",
+    "description": "2007年設立、フランス・パリのパブリッシャー。レトロ作品の復刻・リマスターを得意とし、「ベア・ナックルIV」(Streets of Rage 4)や「TMNT: Shredder's Revenge」を手掛けた。2021年にFocus Entertainment傘下入り。",
+    "foundedYear": 2007,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dotemu",
+      "officialUrl": "https://www.dotemu.com"
+    },
+    "sourceNote": "英語版Wikipedia「Dotemu」(2026-08-03閲覧)で設立年(2007年)・本社所在地(パリ)・主要作品・2021年のFocus Entertainmentによる買収を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "lizardcube",
+    "name": "Lizardcube",
+    "nameKana": "りざーどきゅーぶ",
+    "description": "オマー・コルニュ氏とベン・フィケ氏らによるフランスの開発スタジオ。「Wonder Boy: The Dragon's Trap」のリメイクで知られ、Dotemu・Guard Crush Gamesと共に「ベア・ナックルIV」のアートワークを手掛けた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wonder_Boy:_The_Dragon%27s_Trap"
+    },
+    "sourceNote": "英語版Wikipedia「Wonder Boy: The Dragon's Trap」記事(2026-08-03閲覧)でLizardcubeの設立メンバー(オマー・コルニュ氏、ベン・フィケ氏)・代表作を確認。単独の企業記事が存在せず設立年・本社所在地・公式サイトは確認できなかったため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "guard-crush-games",
+    "name": "Guard Crush Games",
+    "nameKana": "がーどくらっしゅげーむず",
+    "description": "シリル・ラガリーグ氏率いるフランスの小規模インディースタジオ。ファンメイドの新作「ベア・ナックル」構想「Streets of Fury」を原型とし、Dotemu・Lizardcubeと共に正式な続編「ベア・ナックルIV」を共同開発した。",
+    "externalLinks": {},
+    "sourceNote": "「ベア・ナックルIV」(Streets of Rage 4)の共同開発元としての英語版Wikipedia記述(Streets of Rage 4関連記事、2026-08-03閲覧)に基づく。単独の企業記事・公式サイトは確認できず、設立年等の詳細情報は未確認のため最小限の記載に留めた。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yacht-club-games",
+    "name": "ヤハトクラブゲームズ",
+    "nameKana": "やっとくらぶげーむず",
+    "description": "2011年に元WayForward Technologiesのショーン・ベラスコ氏らが設立した米ロサンゼルスの独立系スタジオ。「Shovel Knight」シリーズの開発・自社パブリッシングで知られる。",
+    "foundedYear": 2011,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yacht_Club_Games",
+      "officialUrl": "https://yachtclubgames.com"
+    },
+    "sourceNote": "英語版Wikipedia「Yacht Club Games」(2026-08-03閲覧)で設立年(2011年)・設立者(ショーン・ベラスコ氏)・拠点(ロサンゼルス)・主要作品を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "askiisoft",
+    "name": "Askiisoft",
+    "nameKana": "あすきーそふと",
+    "description": "カナダ・モントリオール在住の開発者ジャスティン・スタンダー氏による個人スタジオ屋号。マギル大学在学中の2013年より「KATANA ZERO」の開発を開始し、2019年に発売した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katana_Zero"
+    },
+    "sourceNote": "英語版Wikipedia「Katana Zero」(2026-08-03閲覧)で開発者ジャスティン・スタンダー氏の経歴・Askiisoftという屋号での活動・開発期間(2013年〜)を確認。個人開発のため法人としての設立年・公式サイトは確認できず未記載とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "3909-llc",
+    "name": "3909 LLC",
+    "nameKana": "さんきゅーぜろきゅーえるえるしー",
+    "description": "「Papers, Please」で知られる開発者ルーカス・ポープ氏が、妻の石坂桂子氏と共に2010年から日本を拠点に運営する個人スタジオ。「Return of the Obra Dinn」を開発・自社パブリッシングした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Pope"
+    },
+    "sourceNote": "英語版Wikipedia「Lucas Pope」(2026-08-03閲覧)で2010年に日本(埼玉)へ移住し独立系ゲーム開発を始めた経緯・主要作品(Papers, Please、Return of the Obra Dinn)を確認。スタジオ名「3909 LLC」は日本語版Wikipedia「Return of the Obra Dinn」記事の発売元表記(3909)から確認。法人としての正式な設立年の明記は見当たらず未記載。公式サイトURLも確認できず未記載。",
+    "updatedAt": "2026-08-03"
   }
 ]
