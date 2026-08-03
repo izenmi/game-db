@@ -6225,5 +6225,369 @@
     },
     "sourceNote": "英語版Wikipedia『Dredge (video game)』記事(2026-08-03閲覧)で開発元(Black Salt Games)・発売元(Team17)・対応プラットフォーム(Switch/PS4/PS5/PC等、Switch2の言及なし、モバイル版は2025-02-27で対象外)・発売日(2023-03-30)・受賞歴を確認。日本語版Wikipediaに単独記事なし。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "katamari-damacy-reroll",
+    "title": "塊魂 リローデッド",
+    "titleKana": "かたまりだましい りろーでっど",
+    "developerIds": [
+      "monkey-craft"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle"
+    ],
+    "releaseDate": "2018-12-07",
+    "synopsis": "かつて壊してしまった星や星座、月を取り戻すため、小さな王子が「コロ」と呼ばれる不思議な球を転がし、身の回りの小物から動物、建物までを次々と巻き込んで球を巨大化させていく。2004年発売のPS2用ソフト『塊魂』をUnityエンジンで作り直したリマスター版で、本作はNintendo Switch向けに2018年12月から配信された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katamari_Damacy_Reroll"
+    },
+    "sourceNote": "英語版Wikipedia『Katamari Damacy Reroll』(2026-08-03閲覧、日本語版該当記事は複数URLを試したが取得できず)でNintendo Switch版の世界同時発売日(2018年12月7日)・開発元(モンキークラフト)・発売元(バンダイナムコエンターテインメント)を確認。Switch 2版は同記事に言及がなく未確認のため非搭載として扱った。2005年GDC Awards(Excellence in Game Design)等は2004年のオリジナルPS2版『塊魂』に対する受賞であり、本Switch版Rerollの受賞情報ではないためawardResultsには含めていない。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "metal-gear-solid-delta-snake-eater",
+    "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+    "titleKana": "めたるぎあそりっど でるた すねーくいーたー",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "stealth",
+      "action-adventure"
+    ],
+    "releaseDate": "2025-08-28",
+    "synopsis": "冷戦下の1964年、ソ連領内に潜入した特殊工作員ネイキッド・スネークが、亡命した恩師ザ・ボスと対峙しながら、核弾頭搭載兵器「シャゴホッド」の破壊と科学者の救出を目指す。名作『メタルギアソリッド3 スネークイーター』を最新エンジンでフルリメイクした作品で、鬱蒼としたジャングルに身を潜めるサバイバル色の強い潜入行動が持ち味。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2025,
+        "result": "ベストリメイク/リマスター(ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_Delta:_Snake_Eater"
+    },
+    "sourceNote": "英語版Wikipedia『Metal Gear Solid Delta: Snake Eater』(2026-08-03閲覧、日本語版記事は取得できず404)でPS5/Windows/Xbox Series展開・発売日(2025年8月28日)・開発元(コナミデジタルエンタテインメント、Virtuos/PlatinumGames協力)を確認。Switch/Switch2版への言及はなく非対応として扱った。Golden Joystick Awards 2025のベストリメイク/リマスター部門はノミネートに留まる(受賞ではない)ことを確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "silent-hill-f",
+    "title": "SILENT HILL f",
+    "titleKana": "さいれんとひる えふ",
+    "developerIds": [
+      "neobards-entertainment"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "horror"
+    ],
+    "releaseDate": "2025-09-25",
+    "synopsis": "1960年代、山あいの町・戎ヶ丘を舞台にしたシリーズ最新作。家出をした女子高生・深水雛子が、深い霧に包まれ異形の存在が跋扈する「裏世界」へ迷い込む。変わり果てた友人たちや怪物と対峙しながら表と裏の世界を行き来し、自らの過去や運命と向き合っていく、シリーズ初の日本人主人公・和風舞台を採用したサイコロジカルホラー。",
+    "awardResults": [
+      {
+        "awardId": "famitsu-awards",
+        "year": 2026,
+        "result": "Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SILENT_HILL_f"
+    },
+    "sourceNote": "日本語版Wikipedia『SILENT HILL f』(2026-08-03閲覧)で対応プラットフォーム(PS5/Xbox Series X|S/PC、Switch言及なし)・開発元(ネオバーズ)・発売元(コナミデジタルエンタテインメント)・発売日(2025年9月25日)・あらすじ・ファミ通/電撃ゲームアワードでのGame of the Year受賞(開発チームのMVC部門受賞は作品自体の賞ではないため除外)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fantasy-life-i",
+    "title": "ファンタジーライフi グルグルの竜と時をぬすむ少女",
+    "titleKana": "ふぁんたじーらいふ あい ぐるぐるのりゅうと ときをぬすむしょうじょ",
+    "developerIds": [
+      "level-5"
+    ],
+    "publisherId": "level-5",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg",
+      "life-simulation"
+    ],
+    "releaseDate": "2025-05-22",
+    "synopsis": "考古学者エドワードと航海していた主人公は、竜の襲撃を受けて謎の無人島に流れ着き、1000年前の過去へと時空を超えてしまう。元の時代へ戻る方法を探しながら、島で釣りや料理、鍛冶、大工など様々な「ライフ」に就いて暮らしを築き、島の住人との交流や竜をめぐる謎を追っていく、シリーズ最新作のロールプレイングゲームである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファンタジーライフi_グルグルの竜と時をぬすむ少女"
+    },
+    "sourceNote": "日本語版Wikipedia『ファンタジーライフi グルグルの竜と時をぬすむ少女』(2026-08-03閲覧)で正式タイトル・対応プラットフォーム(Switch/Switch2/PS5/PS4/Xbox Series/PC)・発売日(2025年5月22日、Switch2デジタル版は6月5日)・開発元(LEVEL5 comcept→レベルファイブ大阪オフィス、companyとしてはlevel-5に集約)・発売元(レベルファイブ)を確認。依頼時の仮題「ファンタジーライフi:時空をこえた大冒険」は正式タイトルと異なっていたため、Wikipedia記載の正式タイトルを採用した。受賞歴の明記は見当たらず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dave-the-diver",
+    "title": "Dave the Diver",
+    "titleKana": "でいぶ・ざ・だいばー",
+    "developerIds": [
+      "mintrocket"
+    ],
+    "publisherId": "mintrocket",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "adventure",
+      "simulation"
+    ],
+    "releaseDate": "2023-10-26",
+    "synopsis": "潜水士デイヴは、昼間は「ブルーホール」と呼ばれる深海に潜って銛や網で魚介や資源を集め、夜は仲間とともに寿司店を営業する。漁と経営、探索とストーリーが一体となったハイブリッドアドベンチャーで、獲った素材を活かした料理を提供しながら店を大きくし、深海に潜む異変や「海の民」をめぐる謎も少しずつ追っていく。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2024,
+        "result": "Game Design"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Independent Game(ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デイヴ・ザ・ダイバー"
+    },
+    "sourceNote": "日本語版Wikipedia『デイヴ・ザ・ダイバー』および英語版Wikipedia『Dave the Diver』(2026-08-03閲覧)で開発元・発売元(ミントロケット、Nexonのサブブランド)、対応プラットフォームと発売日(Steam 2023-06-28、Switch 2023-10-26、PS4/PS5 2024-04-16、Switch2 2025-11-06、Xbox 2025-11-20)、BAFTA Games Award 2024 Game Design部門受賞、The Game Awards 2023 Best Independent Gameノミネートを確認。releaseDateはps5/switch/switch2の中で最も早いSwitch版日付(2023-10-26)を採用した。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "palworld",
+    "title": "パルワールド",
+    "titleKana": "ぱるわーるど",
+    "developerIds": [
+      "pocketpair"
+    ],
+    "publisherId": "pocketpair",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "sandbox",
+      "open-world"
+    ],
+    "releaseDate": "2024-10-04",
+    "synopsis": "謎の生物「パル」が生息するオープンワールド「パルパゴス島」を舞台に、パルを捕獲・育成しながら拠点を築き、労働や戦闘に活用していくサバイバルクラフトゲーム。銃火器を用いた戦闘や、各地に点在する塔でのボス戦も特徴で、複数の勢力が入り乱れる島を探索しつつ拠点を発展させていく、「銃を持ったポケモン」とも評されたダークな世界観が話題を呼んだ。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2024,
+        "result": "Best Early Access Game(ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パルワールド"
+    },
+    "sourceNote": "日本語版Wikipedia『パルワールド』および英語版Wikipedia『Palworld』(2026-08-03閲覧)で開発元・発売元(ポケットペア)、PS5版の日本発売日(2024年10月4日、早期アクセス世界配信は同年9月24日)を確認。Nintendo Switch/Switch2版は両記事とも言及がなく、未対応と判断してplatformsに含めなかった。正式版(Full Release)は2026年7月10日と報道されている。Xbox Excellence Award等、既存9アワード外の受賞・表彰は対象外とした。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "titleKana": "ほろうないと しるくそんぐ",
+    "developerIds": [
+      "team-cherry"
+    ],
+    "publisherId": "team-cherry",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "action-adventure"
+    ],
+    "releaseDate": "2025-09-04",
+    "synopsis": "織り手の末裔である戦士ホーネットは、何者かに捕らえられ、糸に呪われた王国「ファーループ」へと連れ去られる。「大いなる母シルク」と呼ばれる存在に支配されたこの地を探索し、モンスターとの戦闘や仕掛けを解きながら、3つの旋律を集めて秘められた「ゆりかご」に至り、王国を蝕む闇を晴らすべく戦う探索型アクションアドベンチャー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Hollow_Knight:_Silksong"
+    },
+    "sourceNote": "日本語版Wikipedia『Hollow Knight: Silksong』(2026-08-03閲覧)で2025年9月4日発売済み・対応プラットフォーム(Switch/Switch2/PS5/Xbox/PC)・開発元/発売元(Team Cherry)を確認。指示にあった「2026-08-03時点で発売済みか」の確認は済み(発売済み)。受賞歴の明記は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sea-of-thieves",
+    "title": "Sea of Thieves",
+    "titleKana": "しー おぶ しーゔず",
+    "developerIds": [
+      "rare"
+    ],
+    "publisherId": "xbox-game-studios",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "co-op"
+    ],
+    "releaseDate": "2024-04-30",
+    "synopsis": "プレイヤーは海賊となり、仲間とともに帆船で大海原を航海しながら、交易会社から依頼される航海任務をこなしていく。宝探しや海戦、他プレイヤーとの一人称視点での交流・抗争も楽しめる共有型オープンワールドの海賊アクションで、船の操縦や戦闘は複数人での協力が前提となっている。2018年のXbox/PC向け発売から6年を経て、2024年にPS5版が登場した。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2021,
+        "result": "Evolving Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sea_of_Thieves"
+    },
+    "sourceNote": "英語版Wikipedia『Sea of Thieves』(2026-08-03閲覧、日本語版記事は取得できず404)でPS5版が2024年4月30日に発売されたこと(Xbox/PC専売ではないこと)、開発元(Rare)・発売元(Xbox Game Studios)、BAFTA Games Awards 2021 Evolving Game受賞を確認。releaseDateはPS5版の発売日を採用した。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "slitterhead",
+    "title": "Slitterhead",
+    "titleKana": "すりったーへっど",
+    "developerIds": [
+      "bokeh-game-studio"
+    ],
+    "publisherId": "bokeh-game-studio",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "action-adventure"
+    ],
+    "releaseDate": "2024-11-08",
+    "synopsis": "1990年代の九龍を思わせる架空都市を舞台に、記憶を失った憑依する存在ヒョーキが、通行人の体を渡り歩きながら怪異「スリッターヘッド」と戦う。憑依中も意識を保てる特異体質の少女ジュリーと手を組み、同じ力を持つ仲間「レアリティ」たちを増やして戦力を強化しながら、時間や運命を巡る陰謀の真相に迫っていくホラーアクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Slitterhead"
+    },
+    "sourceNote": "英語版Wikipedia『Slitterhead』(2026-08-03閲覧、日本語版記事は取得できず404)で対応プラットフォーム(PS4/PS5/Xbox Series/PC、Switch非対応)、開発元・発売元(Bokeh Game Studio)、発売日(2024年11月8日)を確認。受賞歴の明記は見当たらず未記載(Metacriticでは賛否分かれる評価との記載あり)。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sonic-x-shadow-generations",
+    "title": "ソニック×シャドウ ジェネレーションズ",
+    "titleKana": "そにっく くろす しゃどう じぇねれーしょんず",
+    "developerIds": [
+      "sonic-team"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2024-10-25",
+    "synopsis": "シリーズ25周年記念作『ソニック ジェネレーションズ』のリマスターに、シャドウ・ザ・ヘッジホッグを主人公とした新規エピソードを加えたパッケージ。過去作の名ステージをクラシックソニックとモダンソニックで駆け抜ける原作パートに加え、新章ではシャドウが自身の過去と向き合いながら、ダークな新ステージと強敵に立ち向かっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonic_X_Shadow_Generations"
+    },
+    "sourceNote": "英語版Wikipedia『Sonic Generations』内の『Sonic X Shadow Generations』節(2026-08-03閲覧、日本語版記事の推測URLは404で取得できず)で2024年10月25日のリマスター発売・2025年6月5日のNintendo Switch 2版追加・開発元(ソニックチーム)・発売元(セガ)を確認。旧作『ソニック ジェネレーションズ』(2011年)自体の受賞歴(IGN Editor's Choice等)は本リマスター版の受賞ではないため含めていない。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kingdom-come-deliverance-2",
+    "title": "Kingdom Come: Deliverance II",
+    "titleKana": "きんぐだむ かむ でりばらんす つー",
+    "developerIds": [
+      "warhorse-studios"
+    ],
+    "publisherId": "deep-silver",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2025-02-04",
+    "synopsis": "1403年のボヘミアを舞台に、内乱に巻き込まれた青年ヘンリーが、ヴァーツラフ4世側の使者として、王位簒奪を目論むジギスムント側との政治的駆け引きや復讐に身を投じていく。クトナー・ホラやボヘミアの田園地帯など広大なフィールドを、中世のリアルな生活描写・戦闘・会話選択とともに描く、前作の直接の続編となるオープンワールドアクションRPG。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2026,
+        "result": "Narrative"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2025,
+        "result": "Ultimate Game of the Year(準グランプリ/2位)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kingdom_Come:_Deliverance_II"
+    },
+    "sourceNote": "英語版Wikipedia『Kingdom Come: Deliverance II』(2026-08-03閲覧、日本語版記事は取得できず404)で対応プラットフォーム(PS5/Windows/Xbox Series、Switch/Switch2への言及なし)、開発元(Warhorse Studios)・発売元(Deep Silver/Plaion)、発売日(2025年2月4日)、BAFTA Games Awards 2026 Narrative部門受賞、Golden Joystick Awards 2025 Ultimate Game of the Yearで2位(準グランプリ)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "indiana-jones-and-the-great-circle",
+    "title": "Indiana Jones and the Great Circle",
+    "titleKana": "いんでぃあな じょーんず あんど ざ ぐれーと さーくる",
+    "developerIds": [
+      "machinegames"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "stealth"
+    ],
+    "releaseDate": "2025-04-17",
+    "synopsis": "『レイダース/失われたアーク』と『最後の聖戦』の間、1937年を舞台に、考古学者インディ・ジョーンズが世界各地の遺跡を結ぶ謎の環「グレート・サークル」にまつわる力を狙う勢力を追う。バチカンやギザのピラミッド、タイのスコータイなど実在の地を巡り、一人称視点での探索・スニーク・格闘アクションを繰り広げる。",
+    "awardResults": [
+      {
+        "awardId": "dice-awards",
+        "year": 2025,
+        "result": "Adventure Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle"
+    },
+    "sourceNote": "英語版Wikipedia『Indiana Jones and the Great Circle』(2026-08-03閲覧、日本語版記事は未取得)でWindows/Xbox Series X|S(2024-12-09)、PlayStation 5(2025-04-17)、Nintendo Switch 2(2026-05-12)の順で展開されたことを確認。releaseDateはPS5版日付を採用。開発元(MachineGames)・発売元(ベセスダ・ソフトワークス)、D.I.C.E. Awards 2025 Adventure Game of the Year受賞を確認。BAFTA・Nordic Game Awards等の受賞・ノミネートも報告されているが、既存9アワード外のものは含めていない。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "astros-playroom",
+    "title": "ASTRO's PLAYROOM",
+    "titleKana": "あすとろず ぷれいるーむ",
+    "developerIds": [
+      "team-asobi"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "PS5本体に標準プリインストールされているデモンストレーション的タイトル。DualSenseコントローラーの触覚フィードバックやアダプティブトリガーなど新機能を体感できるステージを、ロボットのアストロを操作して巡る。歴代PlayStationハードやタイトルへのオマージュが散りばめられた、約4時間のプレイ時間を想定したアクションゲーム。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Astro's_Playroom"
+    },
+    "sourceNote": "日本語版Wikipedia『Astro's Playroom』(2026-08-03閲覧)でPS5専用であること・発売日(2020年11月12日)・開発元(Team Asobi/旧SIEジャパンスタジオ)・発売元(SIE)を確認。2024年発売の既存登録『アストロボット』(astro-bot)とは別作品であり、本作はPS5同梱のDualSense技術デモ(約4時間)、アストロボットは独立した本格3Dプラットフォーマーである点を確認した上で、id重複を避けるためastros-playroomとして新規登録した。受賞歴の明記は記事内に確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]

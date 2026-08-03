@@ -1974,5 +1974,117 @@
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia『Dredge (video game)』記事で開発元名を確認。設立年・所在地等の詳細は未確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "neobards-entertainment",
+    "name": "ネオバーズ",
+    "nameKana": "ねおばーず",
+    "description": "香港を拠点に台北・蘇州にもスタジオを持つゲーム開発会社。「バイオハザード」シリーズの移植・共同開発などで知られ、『SILENT HILL f』の開発を手掛けた。",
+    "foundedYear": 2017,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/NeoBards_Entertainment"
+    },
+    "sourceNote": "英語版Wikipedia『NeoBards Entertainment』(2026-08-03閲覧、日本語版単独記事は未発見)で設立(2017年2月15日)・拠点(香港、台北/蘇州にスタジオ)・代表的な協力実績(バイオハザードシリーズ)を確認。日本語版Wikipedia『SILENT HILL f』内では開発元が「ネオバーズ」と表記されていることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "level-5",
+    "name": "レベルファイブ",
+    "nameKana": "れべるふぁいぶ",
+    "description": "福岡県福岡市に本社を置くゲーム開発・販売会社。『レイトン教授』『イナズマイレブン』『妖怪ウォッチ』『ファンタジーライフ』シリーズなど、ゲームとアニメ・玩具を連動させるメディアミックス展開で知られる。",
+    "foundedYear": 1998,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レベルファイブ",
+      "officialUrl": "https://www.level5.co.jp/"
+    },
+    "sourceNote": "日本語版Wikipedia『レベルファイブ』(2026-08-03閲覧)で設立(1998年10月)・本社所在地(福岡市中央区)・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mintrocket",
+    "name": "ミントロケット",
+    "nameKana": "みんとろけっと",
+    "parentCompany": "Nexon",
+    "description": "韓国Nexon傘下のゲーム開発ブランド。2022年設立、2024年9月にNexonの完全子会社となった。代表作『Dave the Diver』で知られる。",
+    "foundedYear": 2022,
+    "externalLinks": {},
+    "sourceNote": "英語版WikipediaのNexon関連スタジオ一覧記事(2026-08-03閲覧、日本語版単独記事は未発見)で設立(2022年5月)・2024年9月の完全子会社化・Nexon傘下のサブブランドである旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pocketpair",
+    "name": "ポケットペア",
+    "nameKana": "ぽけっとぺあ",
+    "description": "東京都品川区に拠点を置くゲーム開発会社。代表取締役社長は溝部拓郎。複数ジャンルを掛け合わせた作風で知られ、『Craftopia』に続く『パルワールド』が世界的ヒットとなった。",
+    "foundedYear": 2015,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポケットペア"
+    },
+    "sourceNote": "日本語版Wikipedia『ポケットペア』(2026-08-03閲覧)で設立年・本社所在地・代表者・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rare",
+    "name": "レア",
+    "nameKana": "れあ",
+    "parentCompany": "Xbox Game Studios",
+    "description": "英国レスターシャーを拠点とするゲーム開発会社。『ドンキーコングカントリー』『バンジョーとカズーイの大冒険』『GoldenEye 007』などを手掛けた老舗スタジオで、現在はマイクロソフト(Xbox Game Studios)傘下で『Sea of Thieves』を開発・展開している。",
+    "foundedYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rare_(company)"
+    },
+    "sourceNote": "英語版Wikipedia『Rare (company)』(2026-08-03閲覧、日本語版記事の直接取得は失敗)で設立(1985年)・拠点・代表作・Xbox Game Studios傘下である旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "warhorse-studios",
+    "name": "Warhorse Studios",
+    "nameKana": "うぉーほーすすたじおず",
+    "parentCompany": "Plaion(旧Koch Media)",
+    "description": "チェコ・プラハを拠点とするゲーム開発会社。ダン・ヴァーヴラらが設立し、中世ボヘミアを舞台にしたリアル志向のRPG『Kingdom Come: Deliverance』シリーズで知られる。2019年にPlaion(当時Koch Media)の傘下となった。",
+    "foundedYear": 2011,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Warhorse_Studios"
+    },
+    "sourceNote": "英語版Wikipedia『Warhorse Studios』(2026-08-03閲覧、日本語版単独記事は未発見)で設立(2011年7月25日)・拠点・Plaionによる買収(2019年2月)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "deep-silver",
+    "name": "Deep Silver",
+    "nameKana": "でぃーぷしるばー",
+    "parentCompany": "Plaion",
+    "description": "オーストリアに拠点を置くゲームパブリッシャー。『メトロ』『セインツロウ』『デッドアイランド』『Kingdom Come: Deliverance』シリーズなどを発売。現在はEmbracer Group傘下のPlaion(旧Koch Media)の一事業ブランドとして展開されている。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Deep_Silver"
+    },
+    "sourceNote": "英語版Wikipedia『Deep Silver』(2026-08-03閲覧、日本語版単独記事は未発見)で設立(2002年11月)・現在Plaion傘下のブランドとして存続している旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "machinegames",
+    "name": "MachineGames",
+    "nameKana": "ましーんげーむす",
+    "parentCompany": "ベセスダ・ソフトワークス",
+    "description": "スウェーデン・ウプサラを拠点とするゲーム開発会社。Starbreeze Studios出身の7名が2009年に設立し、『Wolfenstein』シリーズ新作や『Indiana Jones and the Great Circle』(2024年)を手掛けた。2010年にゼニマックス・メディア傘下入り。",
+    "foundedYear": 2009,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MachineGames"
+    },
+    "sourceNote": "英語版Wikipedia『MachineGames』(2026-08-03閲覧、日本語版単独記事は未発見)で設立(2009年)・拠点・ゼニマックス・メディア傘下入り(2010年11月)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bokeh-game-studio",
+    "name": "Bokeh Game Studio",
+    "nameKana": "ぼけげーむすたじお",
+    "description": "元SIEジャパンスタジオのゲームディレクター・外山圭一郎が2020年に設立した独立系ゲームスタジオ。『SIREN』『サイレントヒル』シリーズなどで知られる外山が新たに手掛けた第一作『Slitterhead』(2024年)を開発した。",
+    "foundedYear": 2020,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bokeh_Game_Studio"
+    },
+    "sourceNote": "英語版Wikipedia『Bokeh Game Studio』(2026-08-03閲覧、日本語版単独記事は未発見)で設立(2020年8月13日)・設立者(外山圭一郎ほか)・代表作を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
