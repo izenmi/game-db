@@ -130,6 +130,15 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
 
 パッケージ画像は第2弾103本中88本を新規取得。同じくmatchedTitleのプラットフォーム照合で誤マッチ12件を追加除去(Civilization VII/Kingdom Come: Deliverance II/Sea of Thieves/Indiana Jones and the Great Circle/palworld/suicide-squad-kill-the-justice-league/mortal-kombat-1/sea-of-starsがXbox版、alone-in-the-dark-2024が2001年の旧作PS1版、live-a-live-2022が1994年SFCオリジナル版、limboが無関係な東方Projectスピンオフ、insideがPS4輸入版バンドル)。**前回除外した6件も本バッチのfetch-covers再実行で同一の誤マッチが再発**(キャッシュから消すと次回実行時に必ず再取得を試みるため)し、再度除外した。楽天市場APIの誤マッチ率の高さ(「購入リンク・パッケージ画像」セクション参照)は代表作中心の収録が進むほど、知名度の低いタイトルや同名紛らわしいタイトル(Mortal Kombat 1 vs 11等)で顕在化しやすい。
 
+**375本(2026-08-03、第3弾+150本の大型拡充)**: ユーザーから「150本追加、逐次処理・トークン節約重視」の依頼を受け、PS5サードパーティ大作・Switch/Switch2任天堂系・インディー・JRPG・対戦格闘アクション・ホラーサバイバル・スポーツレーシングシム・戦略SRPG・2024-2026新作・リマスター移植の10バッチ(Q〜Z、各15本、同一の逐次チェックポイント方式)で150本を追加(実在確認できず見送ったタイトルは0件)。会社292社(+115)・ジャンル31(+1: programming、Game Builder Garageのビジュアルプログラミングを表現するため新設)・アワード9のまま(新規受賞歴は既存の範囲でのみ追加、賞そのものは無理に増やさなかった)。このセッションはBatch Wの時点で既にWebSearch枠(200回)を使い切っていたため、Q〜Zの全バッチでWebFetchによる直接URL取得を基本とした。
+
+**Batch Wで会社データスキーマ不備が発生**: subagentが`newCompanies`に追加した12社が`id`/`name`のみで`nameKana`等5フィールドを欠落させ、`generate-manifest.mjs`の会社ソート処理がクラッシュした。`apply_batch.py`は参照整合性(developerIds/publisherId等の存在確認)のみを検証し、`CompanySource`型の必須フィールド充足はチェックしないため、このパターンのミスをすり抜ける。判明後はWebFetchで12社を個別に調査し直して手動修正し、Batch X以降は各subagentへの指示に「`src/types.ts`のCompanySource型を確認し、newCompaniesの7必須フィールドを自己チェックしてから出力」を明記して再発を防いだ。**今後apply_batch.pyを改修するなら会社の必須フィールド検証を追加する価値がある(未実装)**。
+
+パッケージ画像は第3弾150本中110本を新規取得(40本は該当商品なし)。`matchedTitle`の目視確認で3種類の誤マッチを発見・修正:
+- **対応機種と異なる版がヒット**(Xbox/PS4/Vita等、本サイトの対応機種enum`ps5`/`switch`/`switch2`に含まれない): 21件。`scripts/refetch-cover.mjs`(この拡充時に新規作成、id+カスタムキーワードを指定して1件ずつ再検索できる補助スクリプト)で「タイトル + 宣言済み機種名」のキーワードで再検索し、正しい機種の商品に差し替えた
+- **別作品(続編等)の画像が誤ヒット**: 3件(Tormented Souls→「Tormented Souls 2」、仁王→「仁王2 Remastered Complete Edition」、鬼武者→未発売の新作「鬼武者 Way of the Sword」)。いずれも`toSearchKeyword()`の部分一致判定が続編タイトルも拾ってしまうケースで、機種名を加えた再検索で正しい商品に差し替えた
+- **グッズ・特典画像が誤ヒット**: 2件(スーパー マリオパーティ→続編「ジャンボリー」の特典ステッカー、Poppy Playtime→ダイカットステッカー)。適切な代替候補が見つからなかったためプレースホルダーに戻した(Skullgirls 2nd EncoreもSwitch版の商品画像が見つからずプレースホルダーのまま)
+
 ## 既知の未着手事項
 
 - **ストアリンク(PlayStation Store・Nintendo公式ソフト検索)は未実装**。追加する場合は必ず実装前にブラウザで実際に検索してURLパターンを確認すること(manga-dbの`WebComicPlatform`ルールを参照)
