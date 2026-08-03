@@ -1857,5 +1857,122 @@
     },
     "sourceNote": "英語版Wikipedia『Cattle Call』(2026-08-03閲覧)で設立年(1998年3月)・拠点(東京都中野区)・スクウェア・エニックスとの協業歴・ブレイブリーデフォルトHD-2Dリマスターの開発元であることを確認。日本語版Wikipedia記事は未確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rose-engine",
+    "name": "rose-engine",
+    "nameKana": "ろーずえんじん",
+    "description": "ドイツを拠点とする少人数のインディーゲーム開発ユニット。レトロ調のドット絵とSFホラーを融合させた『SIGNALIS』の開発元として知られる。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Signalis』記事で開発元名を確認。rose-engine自体の単独記事・設立年は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "supermassive-games",
+    "name": "Supermassive Games",
+    "nameKana": "すーぱーまっしぶ・げーむず",
+    "description": "イギリス・ギルフォードを拠点とするホラーゲーム専門の開発スタジオ。『Until Dawn』『The Dark Pictures Anthology』シリーズで知られ、2025年発売の『Little Nightmares III』開発も担当。2022年にNordisk Gamesの完全子会社となった。",
+    "foundedYear": 2008,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Supermassive_Games"
+    },
+    "sourceNote": "英語版Wikipedia『Supermassive Games』記事(2026-08-03閲覧)で設立年・本社所在地・概要を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "red-barrels",
+    "name": "Red Barrels",
+    "nameKana": "れっど・ばれるず",
+    "description": "カナダのインディー開発スタジオ。元Ubisoft出身のスタッフが設立し、『Outlast』シリーズを手がける。『The Outlast Trials』は自社パブリッシングで展開。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia記事(Outlast関連)で概要を確認。設立年の明記箇所は見つからず未確認のため記載せず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "techland",
+    "name": "Techland",
+    "nameKana": "てっくらんど",
+    "description": "ポーランド・オストルフ・ヴィエルコポルスキ拠点のゲーム開発会社。東欧最古参のゲーム会社の一つで、『Dying Light』シリーズや『Dead Island』シリーズを手がける。2023年にテンセント傘下となった。",
+    "foundedYear": 1991,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Techland"
+    },
+    "sourceNote": "日本語版Wikipedia『Techland』記事(2026-08-03閲覧)で設立年・本社所在地・テンセント傘下化を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "io-interactive",
+    "name": "IO Interactive",
+    "nameKana": "あいおー・いんたらくてぃぶ",
+    "description": "デンマーク・コペンハーゲン拠点のゲーム開発・発売会社。『HITMAN』シリーズの開発元として知られ、2017年にマネジメント・バイアウトで独立。スウェーデン・スペイン・イギリスにもスタジオを持つ。",
+    "foundedYear": 1998,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/IO_Interactive"
+    },
+    "sourceNote": "英語版Wikipedia『IO Interactive』記事(2026-08-03閲覧)で設立年・本社所在地・沿革を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "massive-entertainment",
+    "name": "Massive Entertainment",
+    "nameKana": "まっしぶ・えんたていんめんと",
+    "description": "スウェーデン・マルメ拠点のUbisoft傘下スタジオ。『Tom Clancy's The Division』シリーズや『STAR WARS Outlaws』を開発。Snowdropエンジンを使用する。",
+    "foundedYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Massive_Entertainment"
+    },
+    "sourceNote": "英語版Wikipedia『Massive Entertainment』記事(2026-08-03閲覧)で設立年・本社所在地・Ubisoft傘下入りを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "criterion-games",
+    "name": "Criterion Games",
+    "nameKana": "くらいてりおん・げーむず",
+    "description": "イギリス・ギルフォード拠点のElectronic Arts傘下スタジオ。『Burnout』シリーズや『Need for Speed』シリーズのレースゲームで知られる。2025年に『Criterion – A Battlefield Studio』へ改称。",
+    "foundedYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Criterion_Games"
+    },
+    "sourceNote": "英語版Wikipedia『Criterion Games』記事(2026-08-03閲覧)で設立年・本社所在地・EA買収・改称を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-outsiders",
+    "name": "The Outsiders",
+    "nameKana": "じ・あうとさいだーず",
+    "description": "スウェーデンのゲーム開発スタジオ。リズムFPS『Metal: Hellsinger』を手がけたことで知られる。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Metal: Hellsinger』記事で開発元名を確認。設立年・詳細な沿革は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "funcom",
+    "name": "Funcom",
+    "nameKana": "ふぁんこむ",
+    "description": "ノルウェー・オスロ拠点のゲーム開発・発売会社。『Conan Exiles』『Age of Conan』などのMMORPGや『The Longest Journey』シリーズで知られる。2020年にテンセント傘下となった。",
+    "foundedYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Funcom"
+    },
+    "sourceNote": "英語版Wikipedia『Funcom』記事(2026-08-03閲覧)で設立年・本社所在地・テンセント傘下化を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "angel-matrix",
+    "name": "Angel Matrix",
+    "nameKana": "えんじぇる・まとりくす",
+    "description": "『Neon White』を開発したインディーゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Neon White』記事で開発元名を確認。設立年・所在地等の詳細は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "black-salt-games",
+    "name": "Black Salt Games",
+    "nameKana": "ぶらっく・そると・げーむず",
+    "description": "深海探索アドベンチャー『DREDGE』を開発したインディーゲームスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Dredge (video game)』記事で開発元名を確認。設立年・所在地等の詳細は未確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -5836,5 +5836,394 @@
     },
     "sourceNote": "日本語版Wikipedia『十三機兵防衛圏』記事(2026-08-03閲覧)で発売日(PS4版2019-11-28、Switch版2022-04-14)・開発元(ヴァニラウェア)・発売元(アトラス)・あらすじ・評価(ファミ通38/40点、IGN JAPAN 9.5/10点)を確認。PS5/Switch2版は記事に記載がなく、本サイト対象機種はSwitch版のみのため、releaseDateはSwitch版の発売日(2022-04-14、本サイト収録基準の「収録機種内で最速の発売日」に該当)を採用。『日本オタク大賞2019』『ファミ通・電撃ゲームアワード2019』の受賞は確認したが、既存9アワード(ファミ通アワード等)とは別の賞と考えられ対応関係を確認できなかったため、awardResultsには含めず未記載とした。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "signalis",
+    "title": "SIGNALIS",
+    "titleKana": "しぐなりす",
+    "developerIds": [
+      "rose-engine"
+    ],
+    "publisherId": "humble-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "puzzle"
+    ],
+    "releaseDate": "2022-10-27",
+    "synopsis": "アンドロイドのエルスターが、氷に閉ざされた辺境の採掘施設で行方不明の搭乗者アリアーネを捜索するSFサバイバルホラー。荒廃した施設を探索するうち、正体不明の脅威や反復するループ構造、全体主義国家「エウザン」の闇、記憶と意識をめぐる謎が少しずつ明らかになっていく。レトロなドット絵表現と閉塞的な恐怖演出、複数のエンディングが特徴の作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SIGNALIS"
+    },
+    "sourceNote": "日本語版Wikipedia『SIGNALIS』記事(2026-08-03閲覧)で開発元(rose-engine)・発売元(Humble Games、日本語版はPLAYISM)・対応プラットフォーム・発売日を確認。PS5/Switch2版は同記事に記載なく、実在しない可能性が高いため対応機種に含めていない。受賞歴は複数確認できたが(Tribeca Festival、German Computer Game Awards等)、本サイトの既存9アワードに該当するものがなかったため受賞歴は記載せず。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "little-nightmares-3",
+    "title": "Little Nightmares III",
+    "titleKana": "りとるないとめあ すりー",
+    "developerIds": [
+      "supermassive-games"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "horror",
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2025-10-10",
+    "synopsis": "仮面の少年ロウと飛行士風の少女アローンが、悪夢のような異世界「スパイラル」を旅する2人協力プレイ対応のパズルアクションホラー。荒廃した砂漠の墓地や不気味な菓子工場、寂れた遊園地などを巡りながら、恐ろしい怪物から逃げつつ、ロウの断片的な記憶を通して隠された過去と2人を結ぶ運命に迫っていく。シリーズ初の協力プレイ要素が目玉の最新作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Little_Nightmares_III"
+    },
+    "sourceNote": "英語版Wikipedia『Little Nightmares III』記事(2026-08-03閲覧)で開発元(Supermassive Games)・発売元(バンダイナムコエンターテインメント)・対応プラットフォーム(PS5/Switch/Switch2/PS4/PC/Xbox)・発売日(2025-10-10)を確認。日本語版Wikipediaには本作単独記事がなく、シリーズ記事『LITTLE NIGHTMARES-リトルナイトメア-』内で発売日のみ言及(2026-08-03時点で単独記事はリダイレクト無し=未作成)。受賞歴の明記は見当たらず記載せず。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-outlast-trials",
+    "title": "The Outlast Trials",
+    "titleKana": "じ・あうとらすと・とらいあるず",
+    "developerIds": [
+      "red-barrels"
+    ],
+    "publisherId": "red-barrels",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "co-op"
+    ],
+    "releaseDate": "2024-03-05",
+    "synopsis": "冷戦下の1959年、非道な企業マーコフ社が運営する人体実験施設「シニヤラ・ファシリティ」に強制収容された被験者となり、狂気に満ちた監視者や凶悪な収容者たちから逃げながら、次々と課される過酷な試練を仲間と突破していく一人称サバイバルホラー。最大4人までの協力プレイに対応し、施設からの脱出やその後の運命に関わる複数の結末が用意されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Outlast_Trials"
+    },
+    "sourceNote": "英語版Wikipedia『The Outlast Trials』記事(2026-08-03閲覧)で開発・発売元(Red Barrels自社パブリッシング)・対応プラットフォーム(PS5あり、Switch/Switch2なし)・発売日(2024-03-05正式リリース、2023-05-18アーリーアクセス開始)を確認。日本語版Wikipediaに単独記事なし。受賞歴の明記は見当たらず記載せず。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dying-light-2-stay-human",
+    "title": "Dying Light 2 Stay Human",
+    "titleKana": "だいいんぐらいと つー すてい ひゅーまん",
+    "developerIds": [
+      "techland"
+    ],
+    "publisherId": "techland",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure",
+      "survival-horror"
+    ],
+    "releaseDate": "2022-02-04",
+    "synopsis": "文明崩壊から15年後、欧州の城塞都市ヴィレドールを舞台に、ウイルスに感染した青年エイデンが行方不明の妹ミアを捜すパルクール×ゾンビサバイバルアクション。昼と夜で豹変する脅威と戦いながら、対立する派閥「サバイバーズ」「ピースキーパーズ」「レネゲイズ」の間で選択を重ね、都市の未来を左右する物語が展開する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダイイングライト2"
+    },
+    "sourceNote": "日本語版Wikipedia『ダイイングライト2』記事(2026-08-03閲覧)で発売日・あらすじを確認、開発元Techlandは自社パブリッシング(日本国内はスパイク・チュンソフトが販売)であることを英語版Wikipediaと合わせて確認。対応プラットフォームはPS5のみを収録、Switch版はクラウド版のみのため対応機種から除外。受賞歴の明記は見当たらず記載せず。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hitman-world-of-assassination",
+    "title": "HITMAN World of Assassination",
+    "titleKana": "ひっとまん わーるど・おぶ・あさしねーしょん",
+    "developerIds": [
+      "io-interactive"
+    ],
+    "publisherId": "io-interactive",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "stealth",
+      "crime-action"
+    ],
+    "releaseDate": "2021-01-20",
+    "synopsis": "暗殺者エージェント47が、世界を裏で操る秘密結社「プロヴィデンス」との戦いに決着をつけていくステルスアクション三部作。世界各地の実在都市を模した広大なステージを舞台に、変装や環境を駆使して多彩な手段でターゲットを排除するサンドボックス型の暗殺ゲームプレイが持ち味。2023年に3作をまとめた現在の名称へ改称された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Hitman_3"
+    },
+    "sourceNote": "日本語版Wikipedia『Hitman_3』記事(2026-08-03閲覧)で、2023年1月26日にHitman 1-3をまとめた『ヒットマン ワールド・オブ・アサシネーション』へ改称されたこと、開発・発売元(IO Interactive自社パブリッシング、日本国内PS版はH2 INTERACTIVE)、Switch2ネイティブ版(2025-06-05)、PS5パッケージ版日本発売(2023-09-28、デジタル版は2021年当初から)を確認。旧Nintendo Switch版はクラウド専用のため対応機種から除外。releaseDateは大元のHitman 3世界同時発売日(2021-01-20)を採用。ファミ通クロスレビューでプラチナ殿堂入りとの記載があったが、対象バージョン・年が特定できなかったため受賞歴には記載せず(未確認)。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "star-wars-outlaws",
+    "title": "STAR WARS Outlaws",
+    "titleKana": "すたー・うぉーず あうとろーず",
+    "developerIds": [
+      "massive-entertainment"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure",
+      "stealth"
+    ],
+    "releaseDate": "2024-08-30",
+    "synopsis": "映画「帝国の逆襲」と「ジェダイの帰還」の間の時代を舞台に、若き無法者ケイ・ヴェスが相棒の狐型生物ニックスとともに、危険な犯罪組織を敵に回しながら巨大な強奪計画に挑むオープンワールドアクション。複数の犯罪シンジケートの抗争や帝国保安局が絡む陰謀に巻き込まれながら、銀河各地の惑星を渡り歩き、危険な仕事をこなしていく。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "複数部門ノミネート(Best Performance/Best Action・Adventure Game/Innovation in Accessibility)"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2025,
+        "result": "複数部門ノミネート(Audio Achievement/Music/Performer in a Leading Role)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Star_Wars_Outlaws"
+    },
+    "sourceNote": "英語版Wikipedia『Star Wars Outlaws』記事(2026-08-03閲覧)で開発元(Massive Entertainment)・発売元(Ubisoft)・対応プラットフォーム(PS5/PC/Xbox Series、Switch2版は2025-09-04追加、旧Switch版はなし)・発売日・受賞歴(ノミネートのみ、GANG Awards/Grammy等は本サイト対象外award idのため除外)を確認。日本語版Wikipediaに単独記事なし。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "need-for-speed-unbound",
+    "title": "Need for Speed Unbound",
+    "titleKana": "にーど・ふぉー・すぴーど あんばうんど",
+    "developerIds": [
+      "criterion-games"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "racing"
+    ],
+    "releaseDate": "2022-12-02",
+    "synopsis": "2年前に幼馴染のジャスミンに愛車を奪われた過去を持つ主人公が、地方都市レイクショアのストリートレースシーンに戻り、彼女が主催する大規模イベント「ザ・グランド」制覇を目指すレーシングゲーム。夜の街を彩るグラフィティ風のビジュアルエフェクトと、賭けが絡む裏社会的なレース文化の描写が特徴のシリーズ最新作。",
+    "awardResults": [
+      {
+        "awardId": "dice-awards",
+        "year": 2023,
+        "result": "Racing Game of the Year(ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ニード・フォー・スピード_アンバウンド"
+    },
+    "sourceNote": "日本語版Wikipedia『ニード・フォー・スピード アンバウンド』記事(2026-08-03閲覧)で開発元・発売元・対応プラットフォーム(PS5/Xbox Series/PC、Switch非対応、Switch2の言及なし)・発売日・あらすじ根拠を確認。同記事に受賞歴記載はなかったため、DICE Awardsノミネートは英語版Wikipediaで補完。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hi-fi-rush",
+    "title": "Hi-Fi RUSH",
+    "titleKana": "はいふぁい らっしゅ",
+    "developerIds": [
+      "tango-gameworks"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rhythm-action",
+      "platformer"
+    ],
+    "releaseDate": "2024-03-19",
+    "synopsis": "義手を得るための手術中の事故で音楽プレイヤーが体内に埋め込まれ、あらゆる物事がリズムに同期して見えるようになった青年チャイが、欠陥品の烙印を押され追われる身となりながら、仲間たちと共に悪徳企業ヴァンデライ・テクノロジーズの陰謀に立ち向かうリズムアクション。音楽のビートに乗ったコミカルな戦闘とポップなビジュアルが持ち味。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Audio Design"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2024,
+        "result": "Animation Achievement(アニメーション部門受賞、Audio Achievementも受賞との情報あり)"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2024,
+        "result": "Best Audio"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Hi-Fi_RUSH"
+    },
+    "sourceNote": "日本語版Wikipedia『Hi-Fi RUSH』記事(2026-08-03閲覧)で開発元(Tango Gameworks)・発売元(ベセスダ・ソフトワークス、2024年にKraftonが事業継承)・対応プラットフォーム(Xbox Series/PC、PS5はデジタル版2024-03-19・パッケージ版2026-07-16、Switch/Switch2は非対応)・受賞歴(The Game Awards、BAFTA、GDC Awards等)を確認。releaseDateはPS5デジタル版発売日を採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "metal-hellsinger",
+    "title": "Metal: Hellsinger",
+    "titleKana": "めたる へるしんがー",
+    "developerIds": [
+      "the-outsiders"
+    ],
+    "publisherId": "funcom",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rhythm-action",
+      "shooter"
+    ],
+    "releaseDate": "2022-09-15",
+    "synopsis": "記憶と声を奪われた戦士「アンノウン」が、天界の秘密を握るしゃべる髑髏パズに導かれながら、地獄の九つの層に君臨する赤き裁判官を倒すべく音楽のビートに合わせて戦い抜くリズムFPS。射撃やコンボをビートに正確に合わせるほど攻撃力が増す独自システムと、著名メタルバンドのアーティストが参加した迫力の楽曲群が融合した作品。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2022,
+        "result": "Best Audio"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Best Score and Music(ノミネート)"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2023,
+        "result": "Original Music(ノミネート)"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2023,
+        "result": "Audio Achievement(ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Metal:_Hellsinger"
+    },
+    "sourceNote": "英語版Wikipedia『Metal: Hellsinger』記事(2026-08-03閲覧)で開発元(The Outsiders)・発売元(Funcom)・対応プラットフォーム(PS5/PS4/PC/Xbox、Switch非対応)・発売日(PS5は2022-09-15、PS4は同年12-08)・受賞歴を確認。日本語版Wikipediaに単独記事なし。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "civilization-7",
+    "title": "Civilization VII",
+    "titleKana": "しびらいぜーしょん せぶん",
+    "developerIds": [
+      "firaxis-games"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "strategy"
+    ],
+    "releaseDate": "2025-02-11",
+    "synopsis": "小さな集落を築くところから始まり、太古・探検・近代という3つの「時代」ごとに指導者や文明の組み合わせを選び直しながら、地図を広げ数千年にわたる人類の歴史を紡いでいくターン制ストラテジー。軍事的制圧・科学技術力・経済力・文化的影響力のいずれかの道を通じて世界の覇権を目指す、長寿シリーズの最新ナンバリング作品。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Best Sim/Strategy Game(ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Civilization_VII"
+    },
+    "sourceNote": "英語版Wikipedia『Civilization VII』記事(2026-08-03閲覧)で開発元(Firaxis Games)・発売元(2K)・対応プラットフォーム(PS5/PS4/Switch/PC等が2025-02-11、Nintendo Switch2版は2025-06-05に追加)・受賞歴を確認。日本語版Wikipediaに単独記事は見当たらず。releaseDateは初回発売日を採用、Switch2版追加日をsourceNoteに明記。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "neon-white",
+    "title": "Neon White",
+    "titleKana": "ねおん・ほわいと",
+    "developerIds": [
+      "angel-matrix"
+    ],
+    "publisherId": "annapurna-interactive",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "puzzle"
+    ],
+    "releaseDate": "2022-06-16",
+    "synopsis": "天国を舞台にした年に一度の競技会「ザ・コンペティション」に参加させられた記憶喪失の元暗殺者ホワイトが、拾ったカードを武器や移動能力として使い分けながら悪魔を狩り、高速でステージを駆け抜けていく一人称パルクールアクション。タイムアタックに特化したステージ構成と、大会を裏で操る「信者たち」を巡る陰謀の物語が描かれる。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2022,
+        "result": "Ultimate Game of the Year/PC Game of the Year/Best Indie Game(各ノミネート)"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Best Independent Game/Best Action Game/Best Debut Indie Game(各ノミネート)"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2023,
+        "result": "Game of the Year/Best Audio(Honorable Mention)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Neon_White"
+    },
+    "sourceNote": "英語版Wikipedia『Neon White』記事(2026-08-03閲覧)で開発元(Angel Matrix)・発売元(Annapurna Interactive)・対応プラットフォーム(Switch/PCは2022-06-16、PS4/PS5は同年12-13、Switch2の言及なし)・受賞歴を確認。日本語版Wikipediaに単独記事なし。releaseDateはSwitch/PC初回発売日を採用、PS5発売日をsourceNoteに明記。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dredge",
+    "title": "DREDGE",
+    "titleKana": "どれっじ",
+    "developerIds": [
+      "black-salt-games"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "horror"
+    ],
+    "releaseDate": "2023-03-30",
+    "synopsis": "船を失った漁師として辺境の町グレーター・マロウにやってきた主人公が、深海に潜む怪異や漂う幽霊船に彩られた不穏な海域で漁を営むクトゥルフ的アドベンチャー。日没後に正気を蝕む恐怖に見舞われる中、謎の収集家に依頼されて失われた遺物を集め、ある夫婦にまつわる悲劇の真相と、湾を守る巨大な怪物「リヴァイアサン」の正体に迫っていく。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Independent Game/Best Debut Indie Game(各ノミネート)"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2023,
+        "result": "Best Indie Game(ノミネート)"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2024,
+        "result": "複数部門ノミネート(Debut Game/Game Design/Narrative等)"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2024,
+        "result": "Game of the Year/Best Debut/Best Design(ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dredge_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Dredge (video game)』記事(2026-08-03閲覧)で開発元(Black Salt Games)・発売元(Team17)・対応プラットフォーム(Switch/PS4/PS5/PC等、Switch2の言及なし、モバイル版は2025-02-27で対象外)・発売日(2023-03-30)・受賞歴を確認。日本語版Wikipediaに単独記事なし。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]
