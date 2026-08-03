@@ -10297,5 +10297,351 @@
     },
     "sourceNote": "英語版Wikipedia『The Rogue Prince of Persia』記事(2026-08-03、WebFetchで確認)で開発元(Evil Empire)・発売元(Ubisoft)・発売日(PS5: 2025-08-20、Switch/Switch2: 2025-12-16)を確認。日本語版Wikipedia記事は確認できず英語版を使用。releaseDateは収録機種内で最速のPS5版の日付を採用し、Switch/Switch2版が約4か月後の発売である旨をここに明記する。あらすじは独自要約(コピペなし)。追跡対象9アワードでの受賞歴は確認できなかったためawardResultsは未掲載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "days-gone-remastered",
+    "title": "デイズ・ゴーン リマスター",
+    "titleKana": "でいずごーん りますたー",
+    "developerIds": [
+      "bend-studio"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure"
+    ],
+    "releaseDate": "2025-04-25",
+    "synopsis": "世界的なウイルス禍で人々が凶暴な「フリーカー」と化した終末後のオレゴンを舞台に、元アウトローのバイカー、ディーコンが荒野をバイクで駆け抜けながら、生き別れた妻の行方と生存者コミュニティとの絆を追い求めるオープンワールドサバイバルアクション。本作は2019年のPS4版を基にグラフィックとパフォーマンスを大幅に向上させたPS5向けリマスター版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デイズ・ゴーン"
+    },
+    "sourceNote": "日本語版Wikipedia『デイズ・ゴーン』記事(2026-08-03閲覧、WebFetch)でPS5版リマスター(2025-04-25発売)の存在・開発元(Bend Studio)・発売元(SIE)を確認。あらすじはオリジナル版のストーリー概要を基に自分の言葉で要約。リマスター版固有の追加要素・受賞歴は記事に記載がなく未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "grand-theft-auto-v",
+    "title": "グランド・セフト・オートV",
+    "titleKana": "ぐらんどせふとおーとふぁいぶ",
+    "developerIds": [
+      "rockstar-north"
+    ],
+    "publisherId": "rockstar-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "crime-action"
+    ],
+    "releaseDate": "2022-03-15",
+    "synopsis": "3人の主人公マイケル・フランクリン・トレバーの視点を切り替えながら、犯罪都市ロスサントスを舞台に強盗計画やギャング同士の抗争に身を投じるオープンワールド・クライムアクション。PS5版は2022年に発売され、グラフィックとパフォーマンスが大幅に強化されたほか、オンラインモード向けの新要素も追加されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グランド・セフト・オートV"
+    },
+    "sourceNote": "日本語版Wikipedia『グランド・セフト・オートV』記事(2026-08-03閲覧、WebFetch)でPS5/Xbox Series X|S版(2022-03-15発売、グラフィック・パフォーマンス強化版)の開発元(ロックスター・ノース)・発売元(ロックスター・ゲームス)を確認。あらすじはシリーズ共通のオープンワールド構造を基に自分の言葉で要約。PS4版・Switch版(移植・クラウド版とも存在しない)は本サイト収録対象外。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "persona-3-portable",
+    "title": "ペルソナ3 ポータブル",
+    "titleKana": "ぺるそなすりー ぽーたぶる",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "life-simulation"
+    ],
+    "releaseDate": "2023-01-19",
+    "synopsis": "全寮制の学園を舞台に、「ペルソナ」と呼ばれる特殊能力を持つ少年少女たちが、昼は学園生活を送りながら夜は異界に現れる「シャドウ」と戦う学園RPG。主人公の性別を選べる点も特徴。2009年のPSP版をベースに、フルボイス化やUI刷新など現行機向けの快適さを加えたリマスター版として、Switchを含む複数機種に移植された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ3_ポータブル"
+    },
+    "sourceNote": "日本語版Wikipedia『ペルソナ3 ポータブル』記事(2026-08-03閲覧、WebFetch)で2023年リマスター版(Switch/PS4/Xbox/PC、2023-01-19発売)の開発元・発売元(アトラス)を確認。PS5版は記事に記載がなく確認できなかったため対応機種に含めていない。あらすじはシリーズ共通の学園×ダンジョン探索構造を基に自分の言葉で要約。受賞歴は記事に記載なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tales-of-symphonia-remastered",
+    "title": "テイルズ オブ シンフォニア リマスター",
+    "titleKana": "ているず おぶ しんふぉにあ りますたー",
+    "developerIds": [
+      "bandai-namco-studios"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-02-16",
+    "synopsis": "マナの枯渇が進む世界シルヴァラントの神子コレットが、世界を再生する巡礼の旅に出発する。幼馴染のロイドたちと共に、並行世界テセアラとの間に隠された因縁や、自らが信じてきた「世界再生」の真実に迫っていく、リアルタイム戦闘が特徴のロールプレイングゲーム。2003年のゲームキューブ版を最大2Kにフル解像度化した移植リマスター版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア"
+    },
+    "sourceNote": "日本語版Wikipedia『テイルズ オブ シンフォニア』記事(2026-08-03閲覧、WebFetch)で2023年リマスター版(Switch/PS4/Xbox One、2023-02-16発売)の開発元(バンダイナムコスタジオ)・発売元(バンダイナムコエンターテインメント)・解像度向上等の改修内容を確認。PS5版は記事に記載がなく未確認のため対応機種に含めていない。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "okami-hd",
+    "title": "大神 絶景版",
+    "titleKana": "おおかみ ぜっけいばん",
+    "developerIds": [
+      "hexadrive"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2018-08-09",
+    "synopsis": "太陽神の化身である白狼アマテラスが、絵筆のような力を持つ「筆しらべ」を操り、荒廃した古代日本の自然を蘇らせながら、大蛇ヤマタノオロチをはじめとする妖怪達との戦いに挑む。和風の水墨画を思わせる独特なグラフィックが特徴のアクションアドベンチャー。Switch版はHD化された携帯機向け移植版「絶景版」として発売された。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2007,
+        "result": "優秀賞受賞(オリジナルPS2版での受賞)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大神_(ゲーム)"
+    },
+    "sourceNote": "日本語版Wikipedia『大神 (ゲーム)』記事(2026-08-03閲覧、WebFetch)でSwitch版「大神 絶景版」(2018-08-09発売)の開発元(ヘキサドライブ)・発売元(カプコン)・受賞歴(日本ゲーム大賞2007優秀賞等、いずれもオリジナルPS2版に対するもの)を確認。あらすじは自分の言葉で要約。文化庁メディア芸術祭大賞・IGN選出等その他の受賞歴は本サイト対象9賞の範囲外のため収録していない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mega-man-battle-network-legacy-collection",
+    "title": "ロックマンエグゼ アドバンスドコレクション",
+    "titleKana": "ろっくまんえぐぜ あどばんすどこれくしょん",
+    "developerIds": [
+      "neobards-entertainment",
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2023-04-14",
+    "synopsis": "GBA用ソフトとして展開した『バトルネットワーク ロックマンエグゼ』シリーズ全10作品を、2巻に分けて収録したコレクション。ネットワーク世界「サイバーワールド」を舞台に、少年とナビ「ロックマン.EXE」が、グリッド状のバトルフィールドでチップを駆使しウイルスや悪の組織に立ち向かうシリーズ全編を一挙に追体験できる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロックマンエグゼ_アドバンスドコレクション"
+    },
+    "sourceNote": "日本語版Wikipedia『ロックマンエグゼ アドバンスドコレクション』記事(2026-08-03閲覧、WebFetch)でSwitch版含む対応プラットフォーム・開発元(ネオバーズ)・発売元(カプコン)・発売日(2023-04-14)・収録作品(シリーズ10作品、Vol.1/Vol.2)を確認。developerIdsは記事記載のネオバーズに加え原作元のカプコンも併記した。あらすじはシリーズ共通の設定を基に自分の言葉で要約。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shin-megami-tensei-3-nocturne-hd-remaster",
+    "title": "真・女神転生III NOCTURNE HD REMASTER",
+    "titleKana": "しんめがみてんせいすりー のくたーん えいちでぃーりますたー",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2020-10-29",
+    "synopsis": "「東京受胎」と呼ばれる大災害で滅んだ東京が、悪魔が跋扈する異界「ボルテクス界」へと変貌する。悪魔の力を宿し半人半魔となった主人公が、世界の再生を巡り対立する複数の思想勢力の狭間で、自らの信じる理を選び取っていく高難度のダークファンタジーRPG。2003年のPS2版をHD化し、高解像度グラフィックで移植した完全版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真・女神転生III_NOCTURNE"
+    },
+    "sourceNote": "日本語版Wikipedia『真・女神転生III NOCTURNE』記事(2026-08-03閲覧、WebFetch)でSwitch/PS4版(2020-10-29発売)の開発元(アトラス)・発売元(セガ)・ファミ通クロスレビュープラチナ殿堂入りであることを確認。本サイト対象9賞との一致する個別受賞歴の明記はなく未確認のためawardResultsは収録していない。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "baten-kaitos-1-2-hd-remaster",
+    "title": "バテン・カイトスI&II HDリマスター",
+    "titleKana": "ばてんかいとすわんあんどつー えいちでぃーりますたー",
+    "developerIds": [
+      "monolith-soft"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-09-15",
+    "synopsis": "空に浮かぶ島々が舞台のファンタジーRPG『バテン・カイトス はじまりの翼と失われた海』と、その前日譚『バテン・カイトス オリジンズ』の2作をHD化して収録したコレクション。プレイヤーは主人公たちに寄り添う「守護精霊」となり、カードを使ったユニークなバトルシステムで、帝国の陰謀と古き邪神復活を巡る物語を辿る。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baten_Kaitos_I_%26_II_HD_Remaster"
+    },
+    "sourceNote": "英語版Wikipedia『Baten Kaitos I & II HD Remaster』記事(2026-08-03閲覧、WebFetch)でSwitch版(2023-09-15発売)・開発元(モノリスソフト、原開発時はtri-Crescendoとの共同)・発売元(バンダイナムコエンターテインメント)・収録2作品の概要を確認。日本語版記事は詳細ページに到達できず英語版で代替した。あらすじは自分の言葉で要約。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "front-mission-1st-remake",
+    "title": "フロントミッション1st: Remake",
+    "titleKana": "ふろんとみっしょんわんすと りめいく",
+    "developerIds": [
+      "forever-entertainment"
+    ],
+    "publisherId": "forever-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy"
+    ],
+    "releaseDate": "2022-11-30",
+    "synopsis": "人型兵器「ヴァンツァー」による部隊戦を描く、1995年発売のSFC版『フロントミッション』を全編フルリメイクした作品。傭兵として戦場を渡り歩く主人公が、島国の独立を巡る紛争に巻き込まれていく重厚なミリタリーストーリーを、マス目移動のマップと3Dグラフィックで再構築したシミュレーションRPGとして描く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フロントミッション"
+    },
+    "sourceNote": "日本語版Wikipedia『フロントミッション』記事(2026-08-03閲覧、WebFetch)でSwitch版ダウンロード配信(2022-11-30)・パッケージ版(2023-06-15)・PS5版含む他機種版(2023-06-30)の発売日、開発元・発売元(Forever Entertainment、Switch版パッケージのみ国内販売元レイニーフロッグが別途関与)を確認。releaseDateは収録対応機種内で最速のSwitchダウンロード配信日を採用し、PS5版の発売日差はここに明記した。あらすじは自分の言葉で要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "star-ocean-first-departure-r",
+    "title": "スターオーシャン1 -First Departure R-",
+    "titleKana": "すたーおーしゃんわん ふぁーすとでぃぱーちゃーあーる",
+    "developerIds": [
+      "square-enix",
+      "tose"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2019-12-05",
+    "synopsis": "惑星ロークへ不時着した宇宙船クルーの青年ロディが、蔓延する謎の疫病の治療法を探すうちに、惑星の技術水準を超えた文明の秘密や宇宙規模の陰謀に巻き込まれていく。シリーズの原点となる第1作をベースに、キャラクターイラストやボイスを一新し、戦闘テンポも調整して高解像度化した、ダウンロード専用のリメイク版として発売された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スターオーシャン"
+    },
+    "sourceNote": "日本語版Wikipedia『スターオーシャン』記事(2026-08-03閲覧、WebFetch)でSwitch/PS4版(2019-12-05発売)の開発元(スクウェア・エニックス、トーセ)・発売元(スクウェア・エニックス)・PSP版をベースにした改修内容を確認。あらすじは自分の言葉で要約。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bayonetta-switch",
+    "title": "ベヨネッタ",
+    "titleKana": "べよねった",
+    "developerIds": [
+      "platinumgames"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2018-02-17",
+    "synopsis": "記憶を失った魔女ベヨネッタが、都市ヴィグリッドに現れる天使の軍勢との戦いの中で、自らの過去と世界に隠された秘密に迫っていく。銃と髪を武器に変える華麗な魔女が、コンボと回避を駆使して敵を翻弄するハイスピードなアクションゲーム。Switch版はWii U版をベースに、ロード短縮やタッチ操作対応などの改良を加えた移植版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベヨネッタ"
+    },
+    "sourceNote": "日本語版Wikipedia『ベヨネッタ』記事(2026-08-03閲覧、WebFetch)でSwitch版(2018-02-17ダウンロード配信、2022-09-30パッケージ版)の発売元(任天堂)・改修内容(Wii U版ベース)を確認。developerIdsは原開発元のプラチナゲームズを採用(既存の『bayonetta-3』『bayonetta-origins』と同じ構成)。あらすじは自分の言葉で要約。受賞歴は原記事にオリジナルXbox 360版のファミ通クロスレビュー40点満点の言及があるが、本サイト対象9賞との一致は確認できず収録していない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "onimusha-warlords",
+    "title": "鬼武者",
+    "titleKana": "おにむしゃ",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2018-12-20",
+    "synopsis": "戦国時代の日本を舞台に、明智左馬介が、復活した織田信長率いる幻魔の軍勢に囚われた雪姫を救うため、刀を振るい妖怪跋扈する戦場を駆ける。敵の攻撃に合わせタイミングよく斬り返す「一閃」システムや、武器の属性を切り替える「変魂の術」が特徴の和風剣戟アクション。2001年発売のシリーズ第1作を高解像度化・操作性改善した移植版。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Onimusha:_Warlords"
+    },
+    "sourceNote": "英語版Wikipedia『Onimusha: Warlords』記事(2026-08-03閲覧、WebFetch)で2019年リマスター版のSwitch版発売日(2018-12-20 日本、他地域2019-01-15)・開発元/発売元(カプコン)・PS5版が存在しないことを確認。日本語版の同名記事には到達できず英語版で代替した。あらすじは自分の言葉で要約。受賞歴は本サイト対象9賞との一致は確認できず収録していない(オリジナル版のSIGGRAPH 2000 Best of Show等は対象外)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "crash-bandicoot-n-sane-trilogy",
+    "title": "クラッシュ・バンディクー ブッとび3段もり！",
+    "titleKana": "くらっしゅ・ばんでぃくー ぶっとびさんだんもり",
+    "developerIds": [
+      "vicarious-visions"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2018-10-18",
+    "synopsis": "マッドサイエンティスト、ネオ・コルテックスの野望を止めるため、有袋類の戦士クラッシュが南の島々を舞台に、ジャンプとスピンを駆使してステージを駆け抜ける。1996年発売のPS1三部作『クラッシュ・バンディクー』『2』『レーシング』をフルリメイクしたコレクション。Switch版は「ボーナスエディション」として発売。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クラッシュ・バンディクー"
+    },
+    "sourceNote": "日本語版Wikipedia『クラッシュ・バンディクー』記事(2026-08-03閲覧、WebFetch)でSwitch版ボーナスエディション(2018-10-18発売)・開発元(バイカリアス・ビジョンズ)を確認。発売元は記事内でSIE・セガゲームス・アクティビジョンの3社が列挙されるのみでSwitch版固有の発売元の明記はなく、Switch/Xbox One版の国内配給を担うことが一般に知られるセガゲームスをpublisherIdとして採用した(完全な一次ソース確認はできておらず、この点は未確認として明記する)。PS5版は存在しないためSwitch版のみ収録。あらすじは自分の言葉で要約。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sonic-origins",
+    "title": "ソニックオリジンズ",
+    "titleKana": "そにっくおりじんず",
+    "developerIds": [
+      "sonic-team"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2022-06-23",
+    "synopsis": "メガドライブ/セガCD時代の初期4作品「ソニック・ザ・ヘッジホッグ」「2」「CD」「3&ナックルズ」をひとつにまとめ、高解像度化と新規アニメーションを加えたコレクション。ワイド画面表示に対応した「アニバーサリーモード」と、当時のオリジナル画面比率を再現した「クラシックモード」の2つの遊び方を選べる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonic_Origins"
+    },
+    "sourceNote": "英語版Wikipedia『Sonic Origins』記事(2026-08-03閲覧、WebFetch)でPS5・Switch含む対応プラットフォーム・開発元(ソニックチーム)・発売元(セガ)・発売日(2022-06-23)・収録4作品を確認。あらすじは自分の言葉で要約。受賞歴は記事に記載なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "diablo-2-resurrected",
+    "title": "ディアブロ II: リザレクテッド",
+    "titleKana": "でぃあぶろつー りざれくてっど",
+    "developerIds": [
+      "blizzard-entertainment"
+    ],
+    "publisherId": "blizzard-entertainment",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2021-09-24",
+    "synopsis": "前作のラストで勇者の肉体を乗っ取った悪魔ディアブロが、メフィスト・バールら仲間の大魔王と共に復活を目論む。プレイヤーは聖域を守る教団に協力し、砂漠の王国から地獄の深淵まで各地を巡って大魔王達を討伐していく。1990年代の名作をフル3Dグラフィックで再構築したハックアンドスラッシュ系アクションRPG。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ディアブロII"
+    },
+    "sourceNote": "日本語版Wikipedia『ディアブロII』記事(2026-08-03閲覧、WebFetch)でPS5・Switch含む対応プラットフォーム・発売日(2021-09-24)・ストーリー概要を確認。開発元・発売元(ブリザード・エンターテイメント)は同社が自社IPを一貫して開発・発売していることを踏まえて採用(リマスター版専属の外部開発元記載は本文になし)。あらすじは自分の言葉で要約。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
   }
 ]

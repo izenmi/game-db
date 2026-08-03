@@ -3304,5 +3304,56 @@
     },
     "sourceNote": "英語版Wikipedia『Evil Empire (company)』記事(2026-08-03、WebFetchで確認)で拠点・代表作を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bend-studio",
+    "name": "Bend Studio",
+    "nameKana": "べんどすたじお",
+    "parentCompany": "ソニー・インタラクティブエンタテインメント",
+    "description": "『Days Gone』『Syphon Filter』シリーズ等を手掛ける、米オレゴン州ベンド拠点のSIE傘下開発スタジオ。",
+    "foundedYear": 1992,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bend_Studio"
+    },
+    "sourceNote": "英語版Wikipedia『Bend Studio』記事(2026-08-03閲覧、WebFetch)で設立年(1992年)・SIE傘下・代表作(Days Gone等)を確認。日本語版Wikipedia記事は同名記事が存在せず未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rockstar-north",
+    "name": "ロックスター・ノース",
+    "nameKana": "ろっくすたーのーす",
+    "parentCompany": "テイクツー・インタラクティブ(ロックスター・ゲームス傘下)",
+    "description": "『グランド・セフト・オート』シリーズを開発する、スコットランド・エディンバラ拠点のロックスター・ゲームス傘下スタジオ。前身はDMA Design。",
+    "foundedYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロックスター・ノース"
+    },
+    "sourceNote": "日本語版Wikipedia『ロックスター・ノース』記事(2026-08-03閲覧、WebFetch)で設立年(前身DMA Design、1988年)・親会社・代表作(グランド・セフト・オートシリーズ等)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rockstar-games",
+    "name": "ロックスター・ゲームス",
+    "nameKana": "ろっくすたーげーむす",
+    "parentCompany": "テイクツー・インタラクティブ",
+    "description": "『グランド・セフト・オート』『レッド・デッド・リデンプション』シリーズ等を発売する、米ニューヨーク拠点のパブリッシャー。",
+    "foundedYear": 1998,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロックスター・ゲームス"
+    },
+    "sourceNote": "日本語版Wikipedia『ロックスター・ゲームス』記事(2026-08-03閲覧、WebFetch)で設立年(1998年)・親会社(テイクツー・インタラクティブ傘下)・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hexadrive",
+    "name": "ヘキサドライブ",
+    "nameKana": "へきさどらいぶ",
+    "description": "既存タイトルの移植・リマスターを得意とする大阪拠点の開発会社。『大神 絶景版』『ファイナルファンタジー零式 HD』等を手掛けた。",
+    "foundedYear": 2007,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヘキサドライブ"
+    },
+    "sourceNote": "日本語版Wikipedia『ヘキサドライブ』記事(2026-08-03閲覧、WebFetch)で設立年(2007年)・代表作(大神 絶景版含む)・CEDECアワード2014優秀賞受賞を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
