@@ -126,6 +126,10 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
 
 パッケージ画像は`fetch-covers.mjs`で新規104本中100本を取得(4本は該当商品なし: persona-3-reload、dragon-quest-11-s-definitive-edition、pokemon-legends-za、kirby-air-riders)。`matchedTitle`をプラットフォーム表記(Xbox/Vita等の異機種、宣言済みplatformsと disjoint)で機械的にスクリーニングし、明確な誤マッチ6件(the-last-of-us-part-1がPart IIの画像を誤取得、alan-wake-2/disco-elysium-final-cutがXbox版、persona-4-goldenがVita版、slay-the-spireが北米輸入版、puyo-puyo-tetris-2がSwitch2限定版「2S」)をキャッシュから除去してプレースホルダー表示に戻した。合計10本がプレースホルダー。
 
+**225本(2026-08-03、追加で+103本の第2弾拡充)**: ユーザーから続けて「100本追加」の依頼を受け、まず件数を確認(直前の104本追加との重複意図がないか)した上で実施。PS5サードパーティ×2・Switch任天堂系×2・インディー×2・JRPG対戦格闘・PS5ホラーアクション・2024-25新作の8バッチ(I〜P、各12〜13本、同一の逐次チェックポイント方式)で103本を追加(実在確認できず見送ったのはAmnesia: The Bunker[対応機種なし]の1件のみ)。会社177社(+93)・ジャンル30(+2: stealth/rhythm-action)・アワード9のまま。**このバッチ以降、セッションのWebSearch利用枠(200回)を使い切ったため、Batch L以降はWebFetchによる直接URL取得(Wikipedia記事名を推測してアクセス)に切り替えて調査を継続した**(sourceNoteに「WebFetchで確認」「未確認」を明記する運用に変更)。
+
+パッケージ画像は第2弾103本中88本を新規取得。同じくmatchedTitleのプラットフォーム照合で誤マッチ12件を追加除去(Civilization VII/Kingdom Come: Deliverance II/Sea of Thieves/Indiana Jones and the Great Circle/palworld/suicide-squad-kill-the-justice-league/mortal-kombat-1/sea-of-starsがXbox版、alone-in-the-dark-2024が2001年の旧作PS1版、live-a-live-2022が1994年SFCオリジナル版、limboが無関係な東方Projectスピンオフ、insideがPS4輸入版バンドル)。**前回除外した6件も本バッチのfetch-covers再実行で同一の誤マッチが再発**(キャッシュから消すと次回実行時に必ず再取得を試みるため)し、再度除外した。楽天市場APIの誤マッチ率の高さ(「購入リンク・パッケージ画像」セクション参照)は代表作中心の収録が進むほど、知名度の低いタイトルや同名紛らわしいタイトル(Mortal Kombat 1 vs 11等)で顕在化しやすい。
+
 ## 既知の未着手事項
 
 - **ストアリンク(PlayStation Store・Nintendo公式ソフト検索)は未実装**。追加する場合は必ず実装前にブラウザで実際に検索してURLパターンを確認すること(manga-dbの`WebComicPlatform`ルールを参照)
