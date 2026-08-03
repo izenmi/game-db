@@ -3,18 +3,46 @@
     "id": "elden-ring",
     "title": "ELDEN RING",
     "titleKana": "えるでんりんぐ",
-    "developerIds": ["fromsoftware"],
+    "developerIds": [
+      "fromsoftware"
+    ],
     "publisherId": "fromsoftware",
-    "platforms": ["ps5"],
-    "genreIds": ["action-rpg", "open-world", "soulslike"],
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world",
+      "soulslike"
+    ],
     "releaseDate": "2022-02-25",
     "synopsis": "宮崎英高氏と作家ジョージ・R・R・マーティン氏が世界観構築で協力したダークファンタジーアクションRPG。プレイヤーは「褪せ人」となり、広大な「狭間の地」を探索しながら砕け散った「エルデンリング」の修復と新王の座を目指す。ソウルシリーズをオープンワールド化した作品で、複数のエンディングを持つ。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2022, "result": "Game of the Year" },
-      { "awardId": "japan-game-awards", "year": 2022, "result": "年間作品部門大賞" },
-      { "awardId": "golden-joystick-awards", "year": 2022, "result": "Ultimate Game of the Year" },
-      { "awardId": "dice-awards", "year": 2023, "result": "Game of the Year" },
-      { "awardId": "playstation-awards", "year": 2022, "result": "グランドアワード" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "年間作品部門大賞"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2022,
+        "result": "Ultimate Game of the Year"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2023,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2022,
+        "result": "グランドアワード"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ELDEN_RING",
@@ -27,19 +55,43 @@
     "id": "god-of-war-ragnarok",
     "title": "ゴッド・オブ・ウォー ラグナロク",
     "titleKana": "ごっど・おぶ・うぉー らぐなろく",
-    "developerIds": ["santa-monica-studio"],
+    "developerIds": [
+      "santa-monica-studio"
+    ],
     "publisherId": "sie",
-    "platforms": ["ps5"],
-    "genreIds": ["action-adventure"],
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
     "releaseDate": "2022-11-09",
     "synopsis": "2018年版の直接続編。北欧神話の終末「ラグナロク」が迫る中、クレイトスと成長した息子アトレウスが、オーディンやトールら主要な北欧の神々と対峙する。親子の絆を軸にした物語と進化した戦闘・探索システムが特徴で、北欧編三部作の完結編と位置づけられる。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2022, "result": "Best Narrative" },
-      { "awardId": "bafta-games-awards", "year": 2023, "result": "EE Game of the Year(公衆投票)" },
-      { "awardId": "dice-awards", "year": 2023, "result": "Adventure Game of the Year" },
-      { "awardId": "japan-game-awards", "year": 2023, "result": "年間作品部門優秀賞" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Best Narrative"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2023,
+        "result": "EE Game of the Year(公衆投票)"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2023,
+        "result": "Adventure Game of the Year"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "年間作品部門優秀賞"
+      }
     ],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴッド・オブ・ウォー_ラグナロク" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴッド・オブ・ウォー_ラグナロク"
+    },
     "sourceNote": "日本語版Wikipedia『ゴッド・オブ・ウォー ラグナロク』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。受賞歴はfamitsu.com/CESA公式サイト等で裏取り。あらすじは独自要約(コピペなし)。PS4/PS5同時発売、本サイトはPS5のみ収録。",
     "updatedAt": "2026-08-02"
   },
@@ -47,14 +99,25 @@
     "id": "spider-man-2",
     "title": "Marvel's Spider-Man 2",
     "titleKana": "まーべるず すぱいだーまんつー",
-    "developerIds": ["insomniac-games"],
+    "developerIds": [
+      "insomniac-games"
+    ],
     "publisherId": "sie",
-    "platforms": ["ps5"],
-    "genreIds": ["action-adventure", "open-world"],
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "open-world"
+    ],
     "releaseDate": "2023-10-20",
     "synopsis": "ニューヨークを舞台にしたオープンワールドアクション。ピーター・パーカーとマイルズ・モラレス、2人のスパイダーマンを自由に切り替えてプレイできる。新アクション「ウェブウイング」による滑空移動が可能になり、ヴェノムやクレイヴン・ザ・ハンターら強敵との戦いを通じて2人の絆と葛藤が描かれる。",
     "awardResults": [
-      { "awardId": "dice-awards", "year": 2024, "result": "Action Game of the Year" }
+      {
+        "awardId": "dice-awards",
+        "year": 2024,
+        "result": "Action Game of the Year"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Marvel's_Spider-Man_2",
@@ -67,17 +130,40 @@
     "id": "ff7-rebirth",
     "title": "ファイナルファンタジーVII リバース",
     "titleKana": "ふぁいなるふぁんたじーせぶん りばーす",
-    "developerIds": ["square-enix"],
+    "developerIds": [
+      "square-enix"
+    ],
     "publisherId": "square-enix",
-    "platforms": ["ps5", "switch2"],
-    "genreIds": ["action-rpg"],
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
     "releaseDate": "2024-02-29",
     "synopsis": "PS1版『FFVII』を再構築する3部作リメイクの第2作。ミッドガル脱出後からカーム、忘らるる都に至るまでの物語を、自由に探索できるオープンワールド形式で描く。パーティメンバーは7人に拡大され、クラウドたちとセフィロスを巡る因縁がさらに掘り下げられる。",
     "awardResults": [
-      { "awardId": "famitsu-awards", "year": 2024, "result": "Game of the Year" },
-      { "awardId": "the-game-awards", "year": 2024, "result": "Best Score and Music" },
-      { "awardId": "golden-joystick-awards", "year": 2024, "result": "複数部門受賞" },
-      { "awardId": "playstation-awards", "year": 2024, "result": "グランドアワード" }
+      {
+        "awardId": "famitsu-awards",
+        "year": 2024,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best Score and Music"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2024,
+        "result": "複数部門受賞"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2024,
+        "result": "グランドアワード"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リバース",
@@ -90,16 +176,35 @@
     "id": "gran-turismo-7",
     "title": "グランツーリスモ7",
     "titleKana": "ぐらんつーりすもせぶん",
-    "developerIds": ["polyphony-digital"],
+    "developerIds": [
+      "polyphony-digital"
+    ],
     "publisherId": "sie",
-    "platforms": ["ps5"],
-    "genreIds": ["racing", "simulation"],
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "simulation"
+    ],
     "releaseDate": "2022-03-04",
     "synopsis": "シリーズ25周年の集大成として開発されたリアル系ドライビングシミュレーター。名物モード「グランツーリスモモード」がワールドマップ形式のキャンペーンとして復活。PS5性能を活かした4K/HDR/レイトレーシング、最大120FPS、SSD高速ロード等、グラフィックからシステムまで全面刷新された。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2022, "result": "Best Sports/Racing Game" },
-      { "awardId": "dice-awards", "year": 2023, "result": "Racing Game of the Year" },
-      { "awardId": "playstation-awards", "year": 2022, "result": "SPECIAL AWARD" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Best Sports/Racing Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2023,
+        "result": "Racing Game of the Year"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2022,
+        "result": "SPECIAL AWARD"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/グランツーリスモ7",
@@ -112,18 +217,39 @@
     "id": "horizon-forbidden-west",
     "title": "Horizon Forbidden West",
     "titleKana": "ほらいずん ふぉーびどんうえすと",
-    "developerIds": ["guerrilla-games"],
+    "developerIds": [
+      "guerrilla-games"
+    ],
     "publisherId": "sie",
-    "platforms": ["ps5"],
-    "genreIds": ["action-rpg", "open-world"],
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
     "releaseDate": "2022-02-18",
     "synopsis": "『Horizon Zero Dawn』の直接続編。機械獣が支配するポストアポカリプス世界で、主人公アーロイが謎の疫病と環境崩壊の危機に立ち向かうため新天地「西部禁足地」を旅する。新種族との出会い、水中探索、グラップルフックによる新移動手段が加わった。",
     "awardResults": [
-      { "awardId": "japan-game-awards", "year": 2022, "result": "年間作品部門優秀賞" },
-      { "awardId": "golden-joystick-awards", "year": 2022, "result": "Best Storytelling" },
-      { "awardId": "bafta-games-awards", "year": 2023, "result": "Technical Achievement" }
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "年間作品部門優秀賞"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2022,
+        "result": "Best Storytelling"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2023,
+        "result": "Technical Achievement"
+      }
     ],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Horizon_Forbidden_West" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Horizon_Forbidden_West"
+    },
     "sourceNote": "日本語版Wikipedia『Horizon Forbidden West』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。あらすじは独自要約(コピペなし)。The Game Awards 2022はGOTYノミネートのみで受賞なし(受賞作はELDEN RING)。PS4/PS5同時発売、本サイトはPS5のみ収録。",
     "updatedAt": "2026-08-02"
   },
@@ -131,15 +257,30 @@
     "id": "resident-evil-village",
     "title": "バイオハザード ヴィレッジ",
     "titleKana": "ばいおはざーど ゔぃれっじ",
-    "developerIds": ["capcom"],
+    "developerIds": [
+      "capcom"
+    ],
     "publisherId": "capcom",
-    "platforms": ["ps5", "switch2"],
-    "genreIds": ["survival-horror"],
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "survival-horror"
+    ],
     "releaseDate": "2021-05-08",
     "synopsis": "前作の主人公イーサン・ウィンターズが妻子との平穏な暮らしから一転、何者かに娘ローズを奪われる。手がかりを追い霧に包まれた東欧の山村へ潜入したイーサンは、村を支配する謎の貴族たちや怪異と対峙し事件の黒幕に迫る。イーサンの物語に決着をつける一作。",
     "awardResults": [
-      { "awardId": "golden-joystick-awards", "year": 2021, "result": "Ultimate Game of the Year" },
-      { "awardId": "japan-game-awards", "year": 2022, "result": "年間作品部門優秀賞" }
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2021,
+        "result": "Ultimate Game of the Year"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "年間作品部門優秀賞"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/バイオハザード_ヴィレッジ",
@@ -152,16 +293,36 @@
     "id": "zelda-totk",
     "title": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
     "titleKana": "ぜるだのでんせつ てぃあーず おぶ ざ きんぐだむ",
-    "developerIds": ["nintendo"],
+    "developerIds": [
+      "nintendo"
+    ],
     "publisherId": "nintendo",
-    "platforms": ["switch", "switch2"],
-    "genreIds": ["open-world", "action-adventure"],
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure"
+    ],
     "releaseDate": "2023-05-12",
     "synopsis": "前作の事件から数年後、ハイラル城地下で謎の瘴気を調査していたリンクとゼルダは復活したガノンドロフに遭遇する。リンクは右腕を失い謎の力を得るが、ゼルダは行方不明になる。天空に浮かぶ島々や地下世界を巡りながら、ゼルダの行方と瘴気の脅威を追う。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2023, "result": "Best Action/Adventure Game" },
-      { "awardId": "famitsu-awards", "year": 2023, "result": "Game of the Year" },
-      { "awardId": "japan-game-awards", "year": 2024, "result": "年間作品部門大賞" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Action/Adventure Game"
+      },
+      {
+        "awardId": "famitsu-awards",
+        "year": 2023,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2024,
+        "result": "年間作品部門大賞"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼルダの伝説_ティアーズ_オブ_ザ_キングダム",
@@ -174,17 +335,41 @@
     "id": "zelda-botw",
     "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
     "titleKana": "ぜるだのでんせつ ぶれす おぶ ざ わいるど",
-    "developerIds": ["nintendo"],
+    "developerIds": [
+      "nintendo"
+    ],
     "publisherId": "nintendo",
-    "platforms": ["switch", "switch2"],
-    "genreIds": ["open-world", "action-adventure"],
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure"
+    ],
     "releaseDate": "2017-03-03",
     "synopsis": "100年の眠りから目覚めたリンクは、記憶を失った状態で古代ハイラル王国の脅威「災厄ガノン」に立ち向かう使命を負う。広大なフィールドを自由に探索し、4体の神獣を奪還しながら力を取り戻し、ゼルダ姫とともにハイラル城へ挑む。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2017, "result": "Game of the Year" },
-      { "awardId": "dice-awards", "year": 2018, "result": "Game of the Year" },
-      { "awardId": "golden-joystick-awards", "year": 2017, "result": "Ultimate Game of the Year" },
-      { "awardId": "japan-game-awards", "year": 2017, "result": "年間作品部門大賞" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2017,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2018,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2017,
+        "result": "Ultimate Game of the Year"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2017,
+        "result": "年間作品部門大賞"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼルダの伝説_ブレス_オブ_ザ_ワイルド",
@@ -197,17 +382,34 @@
     "id": "splatoon-3",
     "title": "スプラトゥーン3",
     "titleKana": "すぷらとぅーんすりー",
-    "developerIds": ["nintendo"],
+    "developerIds": [
+      "nintendo"
+    ],
     "publisherId": "nintendo",
-    "platforms": ["switch"],
-    "genreIds": ["shooter", "versus-action"],
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "versus-action"
+    ],
     "releaseDate": "2022-09-09",
     "synopsis": "イカやタコに変身できるヒューマノイドを操作し、インクを塗り合って陣地を広げるチーム対戦アクション。新エリア「バンカラ地方」を舞台に、ナワバリバトルやガチマッチ、シャケとの協力プレイ「サーモンラン」などを楽しめるシリーズ3作目。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2022, "result": "Best Multiplayer Game" },
-      { "awardId": "japan-game-awards", "year": 2023, "result": "年間作品部門優秀賞" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Best Multiplayer Game"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "年間作品部門優秀賞"
+      }
     ],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/スプラトゥーン3" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スプラトゥーン3"
+    },
     "sourceNote": "日本語版Wikipedia『スプラトゥーン3』記事(2026-08-02閲覧)で開発・発売元・発売日・受賞歴を確認。あらすじは独自要約(コピペなし)。Switch2向けには2025-06-12のVer.10.0.0で動作最適化(後方互換強化)のみ実施され、ゼルダ等のような専用パッケージ版は存在しないため対応機種には含めていない。",
     "updatedAt": "2026-08-02"
   },
@@ -215,17 +417,40 @@
     "id": "animal-crossing-new-horizons",
     "title": "あつまれ どうぶつの森",
     "titleKana": "あつまれ どうぶつのもり",
-    "developerIds": ["nintendo"],
+    "developerIds": [
+      "nintendo"
+    ],
     "publisherId": "nintendo",
-    "platforms": ["switch", "switch2"],
-    "genreIds": ["life-simulation"],
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "life-simulation"
+    ],
     "releaseDate": "2020-03-20",
     "synopsis": "プレイヤーは「たぬき開発」の無人島移住パッケージに参加し、何もない無人島での生活を始める。素材を集めてDIYで家具を作り、島を自由にレイアウトしながら個性豊かなどうぶつたちと交流するスローライフを楽しむ、シリーズ初の無人島舞台作品。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2020, "result": "Best Family Game" },
-      { "awardId": "famitsu-awards", "year": 2020, "result": "Game of the Year" },
-      { "awardId": "japan-game-awards", "year": 2020, "result": "年間作品部門大賞" },
-      { "awardId": "bafta-games-awards", "year": 2021, "result": "Games Beyond Entertainment" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2020,
+        "result": "Best Family Game"
+      },
+      {
+        "awardId": "famitsu-awards",
+        "year": 2020,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2020,
+        "result": "年間作品部門大賞"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2021,
+        "result": "Games Beyond Entertainment"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/あつまれ_どうぶつの森",
@@ -238,16 +463,35 @@
     "id": "pokemon-scarlet-violet",
     "title": "ポケットモンスター スカーレット・バイオレット",
     "titleKana": "ぽけっともんすたー すかーれっと・ばいおれっと",
-    "developerIds": ["game-freak"],
+    "developerIds": [
+      "game-freak"
+    ],
     "publisherId": "pokemon-company",
-    "platforms": ["switch"],
-    "genreIds": ["rpg", "open-world"],
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "open-world"
+    ],
     "releaseDate": "2022-11-18",
     "synopsis": "パルデア地方の学校に転入した主人公が「宝探し」をテーマにした課外授業に参加する物語。ジムリーダー巡りの「チャンピオンロード」、伝説のポケモンを追う「レジェンドルート」、謎の組織と対峙する「スタークラブ編」の3軸を、オープンワールドの中で好きな順序で進められるシリーズ初の作品。",
     "awardResults": [
-      { "awardId": "japan-game-awards", "year": 2023, "result": "ベストセールス賞" },
-      { "awardId": "japan-game-awards", "year": 2023, "result": "年間作品部門優秀賞" },
-      { "awardId": "famitsu-awards", "year": 2022, "result": "シナリオ賞" }
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "ベストセールス賞"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "年間作品部門優秀賞"
+      },
+      {
+        "awardId": "famitsu-awards",
+        "year": 2022,
+        "result": "シナリオ賞"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポケットモンスター_スカーレット・バイオレット",
@@ -260,16 +504,35 @@
     "id": "super-mario-odyssey",
     "title": "スーパーマリオ オデッセイ",
     "titleKana": "すーぱーまりお おですぇい",
-    "developerIds": ["nintendo", "one-up-studio"],
+    "developerIds": [
+      "nintendo",
+      "one-up-studio"
+    ],
     "publisherId": "nintendo",
-    "platforms": ["switch"],
-    "genreIds": ["action-adventure"],
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
     "releaseDate": "2017-10-27",
     "synopsis": "マリオが新たな相棒キャッピーとともに、クッパに連れ去られたピーチ姫を追い、帽子型飛行船オデッセイ号で世界各地を巡る。キャップを敵やオブジェクトに投げて乗っ取る「キャプチャー」アクションが特徴で、各ワールドで「パワームーン」を集めて次の目的地へ進む探索型3Dマリオ。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2017, "result": "Best Family Game" },
-      { "awardId": "bafta-games-awards", "year": 2018, "result": "Family" },
-      { "awardId": "famitsu-awards", "year": 2017, "result": "優秀賞" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2017,
+        "result": "Best Family Game"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2018,
+        "result": "Family"
+      },
+      {
+        "awardId": "famitsu-awards",
+        "year": 2017,
+        "result": "優秀賞"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーマリオ_オデッセイ",
@@ -282,15 +545,30 @@
     "id": "super-smash-bros-ultimate",
     "title": "大乱闘スマッシュブラザーズ SPECIAL",
     "titleKana": "だいらんとうすまっしゅぶらざーず すぺしゃる",
-    "developerIds": ["sora-ltd", "bandai-namco-studios"],
+    "developerIds": [
+      "sora-ltd",
+      "bandai-namco-studios"
+    ],
     "publisherId": "nintendo",
-    "platforms": ["switch"],
-    "genreIds": ["versus-action"],
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "versus-action"
+    ],
     "releaseDate": "2018-12-07",
     "synopsis": "シリーズ第6作。「全員参戦」をコンセプトに歴代シリーズの全ファイターを含む70体以上のプレイアブルキャラクターを収録した対戦アクションゲーム。発売後も有料DLC「ファイターパス」で他社IPを含む追加ファイターが順次配信され、シリーズ最大規模のボリュームとなった。",
     "awardResults": [
-      { "awardId": "japan-game-awards", "year": 2019, "result": "年間作品部門大賞" },
-      { "awardId": "the-game-awards", "year": 2019, "result": "Fighting Game of the Year" }
+      {
+        "awardId": "japan-game-awards",
+        "year": 2019,
+        "result": "年間作品部門大賞"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2019,
+        "result": "Fighting Game of the Year"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_SPECIAL",
@@ -303,15 +581,30 @@
     "id": "fire-emblem-three-houses",
     "title": "ファイアーエムブレム 風花雪月",
     "titleKana": "ふぁいあーえむぶれむ ふうかせつげつ",
-    "developerIds": ["intelligent-systems", "koei-tecmo"],
+    "developerIds": [
+      "intelligent-systems",
+      "koei-tecmo"
+    ],
     "publisherId": "nintendo",
-    "platforms": ["switch"],
-    "genreIds": ["tactical-rpg"],
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg"
+    ],
     "releaseDate": "2019-07-26",
     "synopsis": "傭兵の子として育った主人公が士官学校の教師となり、貴族の子弟からなる3学級のいずれかを指導する。前半は学園生活で生徒との絆を深め、後半は選んだ学級・進路により帝国・王国・同盟・教会の立場が分かれた分岐シナリオが展開する二部構成が特徴。",
     "awardResults": [
-      { "awardId": "japan-game-awards", "year": 2020, "result": "年間作品部門優秀賞" },
-      { "awardId": "the-game-awards", "year": 2019, "result": "Best Strategy Game" }
+      {
+        "awardId": "japan-game-awards",
+        "year": 2020,
+        "result": "年間作品部門優秀賞"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2019,
+        "result": "Best Strategy Game"
+      }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイアーエムブレム_風花雪月",
@@ -324,16 +617,30 @@
     "id": "mario-kart-world",
     "title": "マリオカート ワールド",
     "titleKana": "まりおかーと わーるど",
-    "developerIds": ["nintendo", "bandai-namco-studios", "monolith-soft"],
+    "developerIds": [
+      "nintendo",
+      "bandai-namco-studios",
+      "monolith-soft"
+    ],
     "publisherId": "nintendo",
-    "platforms": ["switch2"],
-    "genreIds": ["racing"],
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "racing"
+    ],
     "releaseDate": "2025-06-05",
     "synopsis": "シリーズ初のオープンワールド形式を採用し、コース同士が地続きになった一つの世界を最大24人で走る新作マリオカート。従来のグランプリに加え、フィールドを縦断しゲートを通過しながら勝ち残る新モード「サバイバル」や、自由に世界を走り回る「フリーラン」を搭載。",
     "awardResults": [
-      { "awardId": "the-game-awards", "year": 2025, "result": "Best Sports/Racing Game" }
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Best Sports/Racing Game"
+      }
     ],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオカート_ワールド" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオカート_ワールド"
+    },
     "sourceNote": "日本語版Wikipedia『マリオカート ワールド』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。Switch2ローンチタイトルでSwitch版は存在しない(複数ソースで確認)。あらすじは独自要約(コピペなし)。IGN JAPAN・ファミ通アワードの部門受賞情報は一次ソース未到達のため掲載を見送った。",
     "updatedAt": "2026-08-02"
   },
@@ -341,17 +648,34 @@
     "id": "monster-hunter-rise",
     "title": "モンスターハンターライズ",
     "titleKana": "もんすたーはんたーらいず",
-    "developerIds": ["capcom"],
+    "developerIds": [
+      "capcom"
+    ],
     "publisherId": "capcom",
-    "platforms": ["switch", "ps5"],
-    "genreIds": ["action-rpg"],
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
     "releaseDate": "2021-03-26",
     "synopsis": "「猛き炎」の異名を持つハンターとなり、モンスターの里カムラを守るため、多数のモンスターが群れをなして襲来する「百竜夜行」に立ち向かうハンティングアクション。拡張版「サンブレイク」では新たな観測拠点エルガドを舞台に、より強大なモンスターとの戦いが描かれる。",
     "awardResults": [
-      { "awardId": "japan-game-awards", "year": 2021, "result": "年間作品部門大賞" },
-      { "awardId": "japan-game-awards", "year": 2023, "result": "年間作品部門大賞(拡張版「サンブレイク」として)" }
+      {
+        "awardId": "japan-game-awards",
+        "year": 2021,
+        "result": "年間作品部門大賞"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "年間作品部門大賞(拡張版「サンブレイク」として)"
+      }
     ],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/モンスターハンターライズ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モンスターハンターライズ"
+    },
     "sourceNote": "日本語版Wikipedia『モンスターハンターライズ』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。Switch版が2021-03-26で最速発売、PS4/PS5等移植版は2023-01-20。PlayStation公式ブログ・GAME Watchで移植の裏取り。あらすじは独自要約(コピペなし)。Switch2版は本サイト時点(2026-08-02)で情報なし。",
     "updatedAt": "2026-08-02"
   },
@@ -359,18 +683,514 @@
     "id": "persona-5-royal",
     "title": "ペルソナ5 ザ・ロイヤル",
     "titleKana": "ぺるそなふぁいぶ ざ・ろいやる",
-    "developerIds": ["atlus"],
+    "developerIds": [
+      "atlus"
+    ],
     "publisherId": "atlus",
-    "platforms": ["ps5", "switch"],
-    "genreIds": ["rpg"],
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
     "releaseDate": "2022-10-21",
     "synopsis": "濡れ衣を着せられ東京の高校へ転校した主人公が、「心の怪盗団」の一員として悪しき大人たちの歪んだ欲望を盗む活動を描くRPG。新キャラクター芳澤かすみ・丸喜拓人が登場する追加シナリオ「3学期」が加わり、既存ストーリーにも新要素が追加されている。",
     "awardResults": [
-      { "awardId": "playstation-awards", "year": 2019, "result": "ユーザーズチョイス賞" },
-      { "awardId": "japan-game-awards", "year": 2020, "result": "年間作品部門優秀賞" }
+      {
+        "awardId": "playstation-awards",
+        "year": 2019,
+        "result": "ユーザーズチョイス賞"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2020,
+        "result": "年間作品部門優秀賞"
+      }
     ],
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ5" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ5"
+    },
     "sourceNote": "日本語版Wikipedia『ペルソナ5』記事(P5R単独記事は存在せず統合、2026-08-02閲覧)で確認。オリジナルのPS4版は2019-10-31発売だが本サイト対象外(PS5/Switch非対応のため)。本サイトが収録するPS5/Switch/Xbox/PC版(DLC40種以上同梱のリマスター)は2022-10-21発売。あらすじは独自要約(コピペなし)。受賞歴は原作『ペルソナ5』発表時点のものを含む。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "the-last-of-us-part-1",
+    "title": "The Last of Us Part I",
+    "titleKana": "ざ らすと おぶ あす ぱーとわん",
+    "developerIds": [
+      "naughty-dog"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "survival-horror"
+    ],
+    "releaseDate": "2022-09-02",
+    "synopsis": "感染性の菌類によって文明の大半が崩壊したアメリカ大陸を舞台に、密輸業者として生きてきた中年男ジョエルが、生まれつき感染症への免疫を持つ少女エリーの護衛を任され、各地の感染者や生存者と衝突しながら希望の拠点を目指す過酷な旅を描く。2013年発表の名作をPS5向けに一から作り直したフルリメイクで、映像表現と操作性を全面刷新しつつ、二人の間に芽生える絆をより濃密に描き直している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/The_Last_of_Us_Part_I",
+      "officialUrl": "https://store.playstation.com/ja-jp/product/JP9000-PPSA07643_00-THELASTOFUSPART1"
+    },
+    "sourceNote": "英語版Wikipedia『The Last of Us Part I』記事(2026-08-03閲覧)で開発元(Naughty Dog)・発売元(SIE)・日本発売日(2022-09-02)を確認。あらすじは独自要約(コピペなし)。原作『The Last of Us』(2013年PS3)はBAFTA Games Awards 2014でBest Game(Game of the Year)、D.I.C.E. Awards 2014(第17回)でGame of the Yearを受賞しているが、これらは2013年オリジナル版が受賞したものであり、本エントリが対象とする2022年PS5フルリメイク版自体が新たに獲得した受賞は追跡対象の9アワード内で確認できなかったため、awardResultsには含めていない。PC版(2023年)は本サイトが対象とするGamePlatformに含まれないため対応機種は「ps5」のみ。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-last-of-us-part-2-remastered",
+    "title": "The Last of Us Part II Remastered",
+    "titleKana": "ざ らすと おぶ あす ぱーとつー りますたーど",
+    "developerIds": [
+      "naughty-dog"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "survival-horror"
+    ],
+    "releaseDate": "2024-01-19",
+    "synopsis": "前作の事件から数年後、大切な人を奪われたエリーが復讐の旅に出るが、追う立場と追われる立場が入れ替わる過程で、暴力の連鎖がもたらす代償と赦しの難しさを突きつけられていく物語。本作はPS5向けリマスター版で、映像品質の向上に加え、ギター演奏モードや開発中止エリアの探訪、高難度のローグライク風モード「No Return」などの新要素を収録し、旧作の体験を拡張している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/The_Last_of_Us_Part_II"
+    },
+    "sourceNote": "日本語版Wikipedia『The Last of Us Part II』記事(2026-08-03閲覧)で開発元・発売元・日本発売日(2024-01-19)・Remastered版の新要素(ギター演奏モード、没エリア探訪、NoReturnモード等)を確認。あらすじは独自要約(コピペなし)。原作『The Last of Us Part II』(2020年PS4)はThe Game Awards 2020でGame of the Year、Golden Joystick Awards 2020でUltimate Game of the Year、D.I.C.E. Awards 2021でOutstanding Achievement in Storyを受賞しているが、これらは2020年オリジナル版が受賞したものであり、2024年のRemastered版自体が新たに獲得した受賞は確認できなかったため、awardResultsには含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ghost-of-tsushima-directors-cut",
+    "title": "Ghost of Tsushima Director's Cut",
+    "titleKana": "ごーすと おぶ つしま でぃれくたーずかっと",
+    "developerIds": [
+      "sucker-punch-productions"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "open-world"
+    ],
+    "releaseDate": "2021-08-20",
+    "synopsis": "元寇による対馬侵攻で一族と仲間の大半を失った武士・境井仁が、正々堂々とした戦い方に固執していては島を守れない現実に直面し、暗殺や奇襲といった非情な手段も辞さない「冥人」へと変貌していく姿を描くオープンワールド時代劇アクション。Director's Cutでは新たな舞台・壱岐島編が追加され、仁の過去に関わる因縁との対峙が描かれ物語の奥行きが増している。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2020,
+        "result": "Best Art Direction"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2021,
+        "result": "Adventure Game of the Year"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2021,
+        "result": "Audio Achievement"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2021,
+        "result": "年間作品部門大賞"
+      },
+      {
+        "awardId": "sxsw-gaming-awards",
+        "year": 2021,
+        "result": "Excellence in Animation, Art, & Visual Achievement"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2021,
+        "result": "Best Game Expansion(Director's Cut「壱岐島編」として)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Ghost_of_Tsushima"
+    },
+    "sourceNote": "日本語版Wikipedia『Ghost of Tsushima』記事および英語版Wikipedia(2026-08-03閲覧)で開発元・発売元・あらすじ・受賞歴を確認。Director's CutはPS4/PS5同時発売(2021-08-20)、PC版は2024-05-16。あらすじは独自要約(コピペなし)。受賞歴のうちGolden Joystick Awards 2021のBest Game Expansionのみ壱岐島編(Director's Cut追加コンテンツ)自体への授賞、それ以外は無印版発表時からの通算受賞。日本ゲーム大賞2021の正式部門名(年間作品部門大賞か優秀賞か)は要再確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "death-stranding-directors-cut",
+    "title": "DEATH STRANDING DIRECTOR'S CUT",
+    "titleKana": "です すとらんでぃんぐ でぃれくたーずかっと",
+    "developerIds": [
+      "kojima-productions"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "open-world"
+    ],
+    "releaseDate": "2021-09-24",
+    "synopsis": "謎の現象「デス・ストランディング」によって寸断されたアメリカ大陸を舞台に、配達人サムが大量の荷物を背負い、目に見えない幽霊的存在や敵対的な人間集団の脅威を避けながら山や川を歩いて横断し、孤立した拠点同士を通信網で結び直していく異色のアクション。Director's Cutでは新エリアや新装備、乗り物用レースコースなどが追加され、探索と配達の幅が広がっている。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2019,
+        "result": "Best Game Direction"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2019,
+        "result": "Best Score/Music"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2020,
+        "result": "Outstanding Achievement in Audio Design"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DEATH_STRANDING"
+    },
+    "sourceNote": "日本語版Wikipedia『DEATH STRANDING』記事(2026-08-03閲覧)で開発元・発売元・あらすじ・受賞歴を確認。PS5版Director's Cutの日本発売日は2021-09-24。日本国内PS5/PS4版の発売元はSIE(PC版は505 Games扱い)。あらすじは独自要約(コピペなし)。awardResultsは2019年オリジナル版(PS4)が獲得したものであり、2021年Director's Cut自体が新たに獲得した主要受賞は確認できなかった。D.I.C.E. Awardsの部門名(オーディオディレクション/テクニカル部門)は原文の記載が簡略で正式カテゴリ名の再確認が必要。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "returnal",
+    "title": "Returnal",
+    "titleKana": "りたーなる",
+    "developerIds": [
+      "housemarque"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "roguelike"
+    ],
+    "releaseDate": "2021-04-30",
+    "synopsis": "謎の信号を追って未知の惑星に不時着した宇宙飛行士セレーヌは、そこで自らの死体を発見し、死んでも記憶を保ったまま同じ墜落現場に引き戻される終わりのない時間ループに囚われてしまう。挑戦するたびに地形や敵配置、入手できる武器や能力が変化するローグライク構造の三人称視点シューティングで、断片的な記憶を頼りにループの謎と自身の過去を少しずつ解き明かしていく。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Action Game"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2022,
+        "result": "Best Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2022,
+        "result": "Outstanding Achievement in Original Music Composition"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Returnal"
+    },
+    "sourceNote": "日本語版Wikipedia『Returnal』記事(2026-08-03閲覧)で開発元(Housemarque)・発売元(SIE)・日本発売日・あらすじ・受賞歴を確認。あらすじは独自要約(コピペなし)。PC版(2023年)は本サイトのGamePlatform対象外のため未収録、対応機種はps5のみ。BAFTA Games Awardsは第18回(2022年開催、2021年発売作品対象)でBest Game等4部門受賞。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ratchet-clank-rift-apart",
+    "title": "ラチェット&クランク パラレル・トラブル",
+    "titleKana": "らちぇっとあんどくらんく ぱられる とらぶる",
+    "developerIds": [
+      "insomniac-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "shooter"
+    ],
+    "releaseDate": "2021-06-11",
+    "synopsis": "祝賀パレードの最中に起きた事故で次元転送装置「ディメンジョネイター」が暴走し、無数の並行世界が繋がってしまったことから、ラチェットとクランクは別次元に生きる仲間リベットやキットと出会う。並行世界の支配を企む悪の皇帝ネファリウスの野望を阻止すべく、個性豊かな武器を使い分けながら異次元の裂け目を瞬時に飛び越えて戦う、PS5の高速ロード性能を生かしたアクションアドベンチャー。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2021,
+        "result": "Best Visual Design"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2022,
+        "result": "Family Game of the Year"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2022,
+        "result": "Best Visual Art"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2022,
+        "result": "Animation"
+      },
+      {
+        "awardId": "sxsw-gaming-awards",
+        "year": 2022,
+        "result": "Excellence in Technical Achievement"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラチェット&クランク_パラレル・トラブル",
+      "officialUrl": "https://www.playstation.com/ja-jp/games/ratchet-clank-rift-apart/"
+    },
+    "sourceNote": "日本語版Wikipedia『ラチェット&クランク パラレル・トラブル』記事および英語版Wikipedia(2026-08-03閲覧)で開発元・発売元・日本発売日・あらすじを確認、受賞歴は英語版Wikipediaのaccolades節で裏取り。あらすじは独自要約(コピペなし)。PC版(2023年、Nixxes移植)は本サイト対象外のため未収録。日本ゲーム大賞・ファミ通アワードでの受賞有無は確認できず未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "demons-souls",
+    "title": "Demon's Souls",
+    "titleKana": "でもんずそうる",
+    "developerIds": [
+      "bluepoint-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "「王の器」の力を求めて人々が押し寄せた結果、深い霧と怪物に覆われてしまった王国ボレターリアを舞台に、理不尽なまでの高難度と緊張感のある探索を味わう硬派なアクションRPG。2009年のPS3作品をBluepoint Gamesが一新した完全リメイクで、映像表現を大幅に強化しつつ原作の骨太な手触りを再現している。",
+    "externalLinks": {
+      "officialUrl": "https://store.playstation.com/ja-jp/product/JP9000-PPSA01339_00-DEMONSSOULS00000"
+    },
+    "sourceNote": "英語版Wikipedia『Demon's Souls (2020 video game)』記事および4Gamer・Famitsu記事(2026-08-03閲覧)で開発元(Bluepoint Games、SIEジャパンスタジオも協力)・発売元(SIE)・PS5ローンチタイトルとしての日本発売日(2020-11-12)を確認。日本語版Wikipediaに本作単独の記事は見当たらず未使用。あらすじは独自要約(コピペなし、原作『デモンズソウル』の世界観を踏襲)。The Game Awards 2020やD.I.C.E. Awards 2021等でのノミネート情報は散見されたが、追跡対象9アワードでの明確な受賞(勝利)は確認できなかったため、awardResultsは未掲載。要再確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "astro-bot",
+    "title": "アストロボット",
+    "titleKana": "あすとろぼっと",
+    "developerIds": [
+      "team-asobi"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2024-09-06",
+    "synopsis": "宇宙船が謎の敵に襲われ、乗組員のロボット仲間たちが銀河のあちこちに散らばってしまう。主人公アストロを操作し、DualSenseコントローラーの機能を生かした多彩な仕掛けのステージを渡り歩きながら仲間を救出していく、PS5専用の3Dプラットフォームアクション。歴代PlayStation作品へのオマージュも随所に散りばめられている。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2025,
+        "result": "Best Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2025,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2024,
+        "result": "Best Audio Design"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2025,
+        "result": "Best Audio"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アストロボット",
+      "officialUrl": "https://blog.ja.playstation.com/2024/09/06/20240906-astro/"
+    },
+    "sourceNote": "日本語版Wikipedia『アストロボット』記事および英語版Wikipedia accolades節、PlayStation Blog JP・Famitsu記事(2026-08-03閲覧)で開発元(Team Asobi)・発売元(SIE)・日本発売日(2024-09-06)・受賞歴を確認。あらすじは独自要約(コピペなし)。Famitsuクロスレビューで36/40のプラチナ殿堂入りとの報道あり(個別アワード受賞ではないため awardResults には含めず)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "final-fantasy-16",
+    "title": "ファイナルファンタジーXVI",
+    "titleKana": "ふぁいなるふぁんたじーじゅうろく",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2023-06-22",
+    "synopsis": "クリスタルの加護と引き換えに大地の力を吸い上げる存在「マザークリスタル」と、それを操る召喚獣ドミナントたちの争いを軸に、弟の仇である炎のドミナントへの復讐を誓い旅立った青年クライヴの、喪失と再生をたどる物語が描かれる。従来のシリーズ作品より硬派でダークな作風へと舵を切り、召喚獣同士の大規模な激突を映画さながらの演出で見せるリアルタイムアクションRPG。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Score and Music"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2023,
+        "result": "Best Audio"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2023,
+        "result": "グランドアワード"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "フューチャー部門(発売前選出)"
+      },
+      {
+        "awardId": "famitsu-awards",
+        "year": 2023,
+        "result": "RPG部門"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイナルファンタジーXVI"
+    },
+    "sourceNote": "日本語版Wikipedia『ファイナルファンタジーXVI』記事(2026-08-03閲覧)で開発元・発売元(いずれもスクウェア・エニックス)・日本発売日(2023-06-22、PS5独占先行)・あらすじ・受賞歴を確認。あらすじは独自要約(コピペなし)。Windows版は2024-09-18、Xbox Series X/S版は2025-06-09に発売されているが、本サイトのGamePlatform対象外のため対応機種はps5のみ。日本ゲーム大賞2022のフューチャー部門は発売前(東京ゲームショウ)選出の部門であることに留意。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "stellar-blade",
+    "title": "Stellar Blade",
+    "titleKana": "すてらーぶれいど",
+    "developerIds": [
+      "shift-up"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "soulslike"
+    ],
+    "releaseDate": "2024-04-26",
+    "synopsis": "異星の脅威「ナイティバ」に敗れ地上を追われた人類が、地球奪還のため精鋭戦闘員イヴを送り込む。荒廃した地表に降り立ったイヴは、行く手を阻む異形のナイティバと戦いながら大地を切り拓いていくが、やがて自身の正体や人類の本当の運命に関わる衝撃の真実に直面する。俊敏な回避と反撃を組み合わせた高難度の剣戟アクションが持ち味の、韓国スタジオShift Up制作によるポストアポカリプス作品。",
+    "externalLinks": {
+      "officialUrl": "https://store.playstation.com/ja-jp/product/JP9000-PPSA13195_00-STELLARBLADE0000"
+    },
+    "sourceNote": "英語版Wikipedia『Stellar Blade』記事、4Gamer/PlayStation Blog JP記事(2026-08-03閲覧)で開発元(Shift Up)・発売元(SIE)・日本発売日(2024-04-26、PS5)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約(コピペなし)。Windows版は2025-06-12発売だが本サイト対象外。Nintendo Switch 2版はNintendo Direct 2026-06-09で「2026年内発売」と発表されたのみで具体的な発売日は本サイト運用時点(2026-08-03)で未確定・未発売のため対応機種には含めていない。The Game Awards 2024(Best Score and Music/Best Action Game)、D.I.C.E. Awards 2025(Action Game of the Year)等でノミネートされたが、追跡対象9アワードでの受賞(勝利)は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "helldivers-2",
+    "title": "HELLDIVERS 2",
+    "titleKana": "へるだいばーず つー",
+    "developerIds": [
+      "arrowhead-game-studios"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter"
+    ],
+    "releaseDate": "2024-02-08",
+    "synopsis": "「管理された民主主義」の拡大を掲げる超地球のため、精鋭兵士ヘルダイバーとなって虫型異星生命体テルミナイドや機械軍団オートマトンが跳梁する惑星へ降下し、最大4人の仲間と協力して拠点破壊や掃討作戦を行う。空から呼び出す戦略支援兵器は強力な反面、扱いを誤ると友軍誤射も日常茶飯事で、そのカオスさが持ち味の三人称視点協力型シューティング。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best Ongoing Game"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2024,
+        "result": "Best Multiplayer Game"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2025,
+        "result": "Multiplayer"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2025,
+        "result": "Action Game of the Year"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2024,
+        "result": "Best Multiplayer Game"
+      }
+    ],
+    "externalLinks": {
+      "officialUrl": "https://store.playstation.com/ja-jp/product/JP9000-PPSA06017_00-HELLDIVERS200000"
+    },
+    "sourceNote": "英語版Wikipedia『Helldivers 2』記事、PlayStation Blog JP記事(2026-08-03閲覧)で開発元(Arrowhead Game Studios)・発売元(SIE)・日本発売日(2024-02-08、世界同時)・受賞歴を確認。日本語版Wikipediaはシリーズ全体のみで本作単独記事は見当たらず未使用。あらすじは独自要約(コピペなし)。PC(Steam)版・Xbox Series X/S版(2025-08-26)は本サイトのGamePlatform対象外、Switch版は存在しないため対応機種はps5のみ。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "spider-man-miles-morales",
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "titleKana": "まーべるず すぱいだーまん まいるす もらーれす",
+    "developerIds": [
+      "insomniac-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "open-world"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "前作の主人公ピーター・パーカーが休暇で不在のクリスマスシーズン、新天地ハーレムに引っ越してきたばかりのマイルズ・モラレスが、街を狙うエネルギー企業ロクソン社と高性能装備で武装した犯罪組織アンダーグラウンドの対立に巻き込まれる。ピーターから受け継いだ使命に加え、自身に芽生えた生体電気パワーという独自の力を操りながら、新米スパイダーマンとしての自覚と責任を深めていく単独主人公のオープンワールドアクション。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2021,
+        "result": "Music"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Marvel's_Spider-Man:Miles_Morales"
+    },
+    "sourceNote": "日本語版Wikipedia『Marvel's Spider-Man:Miles Morales』記事(2026-08-03閲覧)で開発元・発売元・日本発売日(2020-11-12、PS4/PS5同時)・あらすじ・受賞歴を確認。あらすじは独自要約(コピペなし)。PS4版もあるが本サイトはPS5のみ収録(発売日はPS4/PS5共通のためそのまま採用)。PC版は2022年発売だが本サイト対象外。The Game Awards 2020は複数部門ノミネートのみで受賞なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "uncharted-legacy-of-thieves-collection",
+    "title": "アンチャーテッド トレジャーハンターコレクション",
+    "titleKana": "あんちゃーてっど とれじゃーはんたーこれくしょん",
+    "developerIds": [
+      "naughty-dog"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2022-01-28",
+    "synopsis": "トレジャーハンター、ネイサン・ドレイクの冒険の集大成として描かれた『海賊王と最後の秘宝』と、相棒クロエ・フレイザーが主人公を務めるスピンオフ『古代神の秘宝』の2作を、PS5向けに高解像度・高フレームレート化して1本にまとめた作品集。断崖絶壁を渡り、遺跡を駆け巡りながら財宝を追う世界各地を舞台にした大掛かりなアクションと謎解きを、より滑らかな映像とロード時間の短縮で快適に追体験できる。",
+    "externalLinks": {
+      "officialUrl": "https://blog.ja.playstation.com/2022/01/28/20220128-uncharted/"
+    },
+    "sourceNote": "4Gamer・Famitsu・GAME Watch・PlayStation Blog JPの各記事(2026-08-03閲覧)で開発元(Naughty Dog、リマスター作業はIron Galaxy Studiosが担当)・発売元(SIE)・日本発売日(2022-01-28)・収録タイトル(『アンチャーテッド4 海賊王と最後の秘宝』『アンチャーテッド 古代神の秘宝』のリマスター版)を確認。日本語版Wikipediaには本コレクション単独の記事が見当たらず(『アンチャーテッド コレクション』は別物のPS4版ナサン・ドレイク・コレクションの記事)、報道記事で代替した。あらすじは独自要約(コピペなし)。収録元の各作品はUncharted 4等で独自の受賞歴(BAFTA、DICE等)を持つが、これは2016年当時のオリジナル版が受賞したものであり、2022年のPS5コレクション自体が新たに獲得した受賞は確認できなかったためawardResultsは未掲載。PC版(2022年10月)は本サイト対象外。",
+    "updatedAt": "2026-08-03"
   }
 ]

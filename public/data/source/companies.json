@@ -5,7 +5,9 @@
     "nameKana": "ふろむそふとうぇあ",
     "parentCompany": "KADOKAWA",
     "description": "『Demon's Souls』『ダークソウル』シリーズ、『ELDEN RING』等で知られる、高難度アクションRPGを得意とする開発会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/フロム・ソフトウェア" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フロム・ソフトウェア"
+    },
     "sourceNote": "日本語版Wikipedia『フロム・ソフトウェア』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -14,7 +16,9 @@
     "name": "ソニー・インタラクティブエンタテインメント",
     "nameKana": "そにー・いんたらくてぃぶえんたていんめんと",
     "description": "PlayStationプラットフォームを展開するソニーグループのゲーム事業会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント"
+    },
     "sourceNote": "日本語版Wikipedia『ソニー・インタラクティブエンタテインメント』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -24,7 +28,9 @@
     "nameKana": "さんたもにかすたじお",
     "parentCompany": "ソニー・インタラクティブエンタテインメント",
     "description": "『ゴッド・オブ・ウォー』シリーズを手掛けるSIE傘下の開発スタジオ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/サンタモニカスタジオ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サンタモニカスタジオ"
+    },
     "sourceNote": "日本語版Wikipedia『サンタモニカスタジオ』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -34,7 +40,9 @@
     "nameKana": "いんそむにあっく げーむす",
     "parentCompany": "ソニー・インタラクティブエンタテインメント",
     "description": "『Marvel's Spider-Man』シリーズ等を手掛けるSIE傘下の開発スタジオ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/インソムニアック・ゲームズ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インソムニアック・ゲームズ"
+    },
     "sourceNote": "日本語版Wikipedia『インソムニアック・ゲームズ』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -44,7 +52,9 @@
     "nameKana": "すくうぇあ・えにっくす",
     "description": "『ファイナルファンタジー』『ドラゴンクエスト』シリーズ等で知られる大手ゲームメーカー。",
     "foundedYear": 2003,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/スクウェア・エニックス" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スクウェア・エニックス"
+    },
     "sourceNote": "日本語版Wikipedia『スクウェア・エニックス』記事(2026-08-02閲覧)で概要・設立年(旧スクウェアとエニックスの合併年)を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -54,7 +64,9 @@
     "nameKana": "ぽりふぉにー・でじたる",
     "parentCompany": "ソニー・インタラクティブエンタテインメント",
     "description": "『グランツーリスモ』シリーズを開発するSIE傘下のスタジオ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポリフォニー・デジタル" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポリフォニー・デジタル"
+    },
     "sourceNote": "日本語版Wikipedia『ポリフォニー・デジタル』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -64,7 +76,9 @@
     "nameKana": "げりらげーむず",
     "parentCompany": "ソニー・インタラクティブエンタテインメント",
     "description": "『Horizon』シリーズを手掛けるSIE傘下のオランダの開発スタジオ。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲリラゲームズ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲリラゲームズ"
+    },
     "sourceNote": "日本語版Wikipedia『ゲリラゲームズ』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -74,7 +88,9 @@
     "nameKana": "かぷこん",
     "description": "『バイオハザード』『モンスターハンター』シリーズ等で知られる大手ゲームメーカー。",
     "foundedYear": 1979,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/カプコン" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カプコン"
+    },
     "sourceNote": "日本語版Wikipedia『カプコン』記事(2026-08-02閲覧)で概要・設立年を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -84,7 +100,9 @@
     "nameKana": "にんてんどう",
     "description": "『マリオ』『ゼルダの伝説』シリーズ等を擁するゲームメーカー。Nintendo Switch/Switch2のハードメーカーでもあり、自社IPの多くは開発・発売元の両方を兼ねる。",
     "foundedYear": 1889,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/任天堂" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/任天堂"
+    },
     "sourceNote": "日本語版Wikipedia『任天堂』記事(2026-08-02閲覧)で設立年を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -94,7 +112,9 @@
     "nameKana": "ばんだいなむこすたじお",
     "parentCompany": "バンダイナムコホールディングス",
     "description": "他社IPタイトルの開発協力も多く手掛けるバンダイナムコグループの開発会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/バンダイナムコスタジオ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バンダイナムコスタジオ"
+    },
     "sourceNote": "日本語版Wikipedia『バンダイナムコスタジオ』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -103,7 +123,9 @@
     "name": "ソラ",
     "nameKana": "そら",
     "description": "桜井政博氏が代表を務める、『大乱闘スマッシュブラザーズ』シリーズ開発のための会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソラ_(企業)" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソラ_(企業)"
+    },
     "sourceNote": "日本語版Wikipedia『ソラ (企業)』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -112,7 +134,9 @@
     "name": "ゲームフリーク",
     "nameKana": "げーむふりーく",
     "description": "『ポケットモンスター』シリーズの本編を一貫して開発しているゲーム開発会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲームフリーク" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲームフリーク"
+    },
     "sourceNote": "日本語版Wikipedia『ゲームフリーク』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -121,7 +145,9 @@
     "name": "株式会社ポケモン",
     "nameKana": "かぶしきがいしゃぽけもん",
     "description": "『ポケットモンスター』ブランドの国内発売・ライセンス管理等を担う、任天堂・ゲームフリーク・クリーチャーズの合弁会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/株式会社ポケモン" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/株式会社ポケモン"
+    },
     "sourceNote": "日本語版Wikipedia『株式会社ポケモン』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -130,7 +156,9 @@
     "name": "インテリジェントシステムズ",
     "nameKana": "いんてりじぇんとしすてむず",
     "description": "『ファイアーエムブレム』シリーズ等を手掛ける任天堂系列の開発会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/インテリジェントシステムズ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インテリジェントシステムズ"
+    },
     "sourceNote": "日本語版Wikipedia『インテリジェントシステムズ』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -139,7 +167,9 @@
     "name": "コーエーテクモゲームス",
     "nameKana": "こーえーてくもげーむす",
     "description": "『信長の野望』『無双』シリーズ等で知られるゲームメーカー。『ファイアーエムブレム 風花雪月』の開発協力(シブサワ・コウ名義)でも知られる。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/コーエーテクモゲームス" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コーエーテクモゲームス"
+    },
     "sourceNote": "日本語版Wikipedia『コーエーテクモゲームス』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -149,7 +179,9 @@
     "nameKana": "ものりすそふと",
     "parentCompany": "任天堂",
     "description": "『ゼノブレイド』シリーズ等を手掛ける任天堂傘下の開発会社。他社タイトルの開発協力も多い。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/モノリスソフト" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モノリスソフト"
+    },
     "sourceNote": "日本語版Wikipedia『モノリスソフト』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -159,7 +191,9 @@
     "nameKana": "わんあっぷすたじお",
     "parentCompany": "任天堂",
     "description": "任天堂タイトルの開発協力を多く手掛ける任天堂傘下の開発会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/1-UPスタジオ" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/1-UPスタジオ"
+    },
     "sourceNote": "日本語版Wikipedia『1-UPスタジオ』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -169,8 +203,105 @@
     "nameKana": "あとらす",
     "parentCompany": "セガ",
     "description": "『ペルソナ』シリーズ等を手掛けるセガグループのゲーム開発・発売会社。",
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/アトラス_(ゲーム会社)" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アトラス_(ゲーム会社)"
+    },
     "sourceNote": "日本語版Wikipedia『アトラス (ゲーム会社)』記事(2026-08-02閲覧)で概要を確認。",
     "updatedAt": "2026-08-02"
+  },
+  {
+    "id": "naughty-dog",
+    "name": "ノーティードッグ",
+    "nameKana": "のーてぃーどっぐ",
+    "parentCompany": "ソニー・インタラクティブエンタテインメント",
+    "description": "『アンチャーテッド』『The Last of Us』シリーズ等を手掛けるSIE傘下の老舗開発スタジオ。",
+    "foundedYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノーティードッグ"
+    },
+    "sourceNote": "日本語版Wikipedia『ノーティードッグ』記事(2026-08-03閲覧)で設立年・SIE傘下(PlayStation Studios、2001年SCEが買収)である旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sucker-punch-productions",
+    "name": "サッカーパンチプロダクションズ",
+    "nameKana": "さっかーぱんちぷろだくしょんず",
+    "parentCompany": "ソニー・インタラクティブエンタテインメント",
+    "description": "『INFAMOUS』シリーズ、『Ghost of Tsushima』を手掛けるSIE傘下の開発スタジオ。",
+    "foundedYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サッカーパンチプロダクションズ"
+    },
+    "sourceNote": "日本語版Wikipedia『サッカーパンチプロダクションズ』記事(2026-08-03閲覧)で設立年・SIE傘下(2011年〜)である旨を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kojima-productions",
+    "name": "コジマプロダクション",
+    "nameKana": "こじまぷろだくしょん",
+    "description": "小島秀夫が自費で設立した独立系ゲーム開発スタジオ。外部資本を受けず『DEATH STRANDING』シリーズ等を開発する。",
+    "foundedYear": 2015,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コジマプロダクション"
+    },
+    "sourceNote": "日本語版Wikipedia『コジマプロダクション』記事(2026-08-03閲覧)で設立年・独立資本である旨(SIE等の資本を受け入れていない)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "housemarque",
+    "name": "Housemarque",
+    "nameKana": "はうすまーく",
+    "parentCompany": "ソニー・インタラクティブエンタテインメント",
+    "description": "『Returnal』『Nex Machina』等を手掛けるフィンランドの開発スタジオ。2021年にSIE傘下入り。",
+    "foundedYear": 1995,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、日本経済新聞・4Gamer・SIE公式プレスリリース記事)で設立年(1995年)・2021年6月のSIEによる買収・PlayStation Studios入りを確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bluepoint-games",
+    "name": "ブルーポイントゲームズ",
+    "nameKana": "ぶるーぽいんとげーむず",
+    "parentCompany": "ソニー・インタラクティブエンタテインメント",
+    "description": "過去作のフルリメイク・HDリマスターを専門とする米国の開発スタジオ。『Demon's Souls』(2020)等を手掛け、2021年にSIE傘下入り。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブルーポイントゲームズ"
+    },
+    "sourceNote": "日本語版Wikipedia『ブルーポイントゲームズ』記事(2026-08-03閲覧)で設立年・2021年10月のSIE買収・PlayStation Studios入りを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "team-asobi",
+    "name": "Team Asobi",
+    "nameKana": "ちーむあそび",
+    "parentCompany": "ソニー・インタラクティブエンタテインメント",
+    "description": "『アストロボット』シリーズを手掛けるSIE傘下の開発スタジオ。旧SIEジャパンスタジオ内のチームとして始動し、2021年に独立スタジオ化。",
+    "foundedYear": 2012,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、Famitsu/Inside/Game*Spark等の2021年報道)でTeam Asobiが2012年にSIEジャパンスタジオ内チームとして発足し、2021年4月にジャパンスタジオの開発機能を統合する形で独立スタジオ化した経緯を確認。日本語版Wikipediaに単独記事は見当たらず未使用(SIEジャパンスタジオの記事内で言及あり)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shift-up",
+    "name": "シフトアップ",
+    "nameKana": "しふとあっぷ",
+    "description": "『勝利の女神:NIKKE』『Stellar Blade』を手掛ける韓国の開発会社。2024年に韓国証券取引所(KOSPI)へ上場。",
+    "foundedYear": 2013,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、4Gamer/Forbes JAPAN/Kultur等の報道)で設立年(2013年)・代表キム・ヒョンテ氏・韓国拠点・2024年上場を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "arrowhead-game-studios",
+    "name": "Arrowhead Game Studios",
+    "nameKana": "あろーへっどげーむすたじおず",
+    "description": "『Helldivers』シリーズ等を手掛けるスウェーデン・ストックホルムの独立系開発スタジオ。",
+    "foundedYear": 2008,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arrowhead_Game_Studios"
+    },
+    "sourceNote": "Web検索(2026-08-03)で設立年(2008年)・スウェーデン拠点・SIEの資本傘下ではなく独立系スタジオである旨を確認。日本語版Wikipediaに単独記事は見当たらず、英語版Wikipediaを参照。",
+    "updatedAt": "2026-08-03"
   }
 ]

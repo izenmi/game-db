@@ -5,7 +5,9 @@
     "organizer": "コンピュータエンターテインメント協会(CESA)/日経BP",
     "description": "東京ゲームショウで発表される国内最大級のゲームアワード。年間大賞・優秀賞・新人賞等の部門がある。",
     "firstYear": 1996,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本ゲーム大賞" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本ゲーム大賞"
+    },
     "sourceNote": "日本語版Wikipedia『日本ゲーム大賞』記事(2026-08-02閲覧)で主催・開始年・部門構成を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -15,7 +17,9 @@
     "organizer": "The Game Awards, LLC(Geoff Keighley主催)",
     "description": "世界最大級のゲームアワード。Game of the Yearを筆頭に多部門を表彰する。",
     "firstYear": 2014,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/The_Game_Awards" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/The_Game_Awards"
+    },
     "sourceNote": "日本語版Wikipedia『The Game Awards』記事(2026-08-02閲覧)で概要・開始年を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -25,7 +29,9 @@
     "organizer": "英国映画テレビ芸術アカデミー(BAFTA)",
     "description": "英国の映画・テレビ芸術アカデミーが主催するゲーム表彰イベント。",
     "firstYear": 2004,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/BAFTA_Games_Awards" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BAFTA_Games_Awards"
+    },
     "sourceNote": "日本語版Wikipedia『BAFTA Games Awards』記事(2026-08-02閲覧)で主催・概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -35,7 +41,9 @@
     "organizer": "Academy of Interactive Arts & Sciences(AIAS)",
     "description": "インタラクティブ芸術科学アカデミーが主催する米国のゲームアワード。",
     "firstYear": 1998,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/D.I.C.E._Awards" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/D.I.C.E._Awards"
+    },
     "sourceNote": "日本語版Wikipedia『D.I.C.E. Awards』記事(2026-08-02閲覧)で主催・開始年を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -45,7 +53,9 @@
     "organizer": "英ゲーム誌『Computer and Video Games』/現GamesRadar+",
     "description": "英国の老舗ゲームアワード。読者投票を中心とした部門が多い。",
     "firstYear": 1983,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴールデン・ジョイスティック・アワード" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴールデン・ジョイスティック・アワード"
+    },
     "sourceNote": "日本語版Wikipedia『ゴールデン・ジョイスティック・アワード』記事(2026-08-02閲覧)で主催・開始年を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -55,7 +65,9 @@
     "organizer": "Game Developers Conference(GDC)運営",
     "description": "ゲーム開発者会議(GDC)内で発表される、開発者による開発者のためのアワード。",
     "firstYear": 2001,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/Game_Developers_Choice_Awards" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Game_Developers_Choice_Awards"
+    },
     "sourceNote": "日本語版Wikipedia『Game Developers Choice Awards』記事(2026-08-02閲覧)で主催・開始年を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -65,7 +77,9 @@
     "organizer": "ソニー・インタラクティブエンタテインメント(SIE)",
     "description": "PlayStationプラットフォームでの販売実績・人気を基準にSIEが表彰するアワード。対象がPlayStation系タイトルに偏る点に留意。",
     "firstYear": 1997,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/プレイステーション_アワード" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/プレイステーション_アワード"
+    },
     "sourceNote": "日本語版Wikipedia『プレイステーション アワード』記事(2026-08-02閲覧)で主催・概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -75,7 +89,9 @@
     "organizer": "KADOKAWA GAME LINKAGE(週刊ファミ通)",
     "description": "ファミ通誌が主催する国内ゲームアワード。読者投票と編集部選出を組み合わせる。",
     "firstYear": 1997,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファミ通アワード" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファミ通アワード"
+    },
     "sourceNote": "日本語版Wikipedia『ファミ通アワード』記事(2026-08-02閲覧)で主催・概要を確認。",
     "updatedAt": "2026-08-02"
   },
@@ -85,7 +101,9 @@
     "organizer": "South by Southwest(SXSW)運営",
     "description": "米国の複合フェスティバルSXSW内で発表されるゲーム表彰部門。",
     "firstYear": 2013,
-    "externalLinks": { "wikipediaUrl": "https://ja.wikipedia.org/wiki/SXSW_Gaming_Awards" },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SXSW_Gaming_Awards"
+    },
     "sourceNote": "日本語版Wikipedia等(2026-08-02閲覧)で主催・開始年を確認。",
     "updatedAt": "2026-08-02"
   }
