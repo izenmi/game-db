@@ -2240,5 +2240,30 @@
     "externalLinks": {},
     "sourceNote": "Web検索(2026-08-03、EA公式資料・複数の英語ゲームメディア)で前身Distinctive Softwareの設立年(1983年)・1991年のEAによる買収・改称の経緯を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "grezzo",
+    "name": "グレッゾ",
+    "nameKana": "ぐれっぞ",
+    "description": "元スクウェアの石井浩一氏が2006年に設立したゲーム開発会社。「ゼルダの伝説 時のオカリナ3D」「ムジュラの仮面3D」、Switch版「ゼルダの伝説 夢をみる島」等、任天堂タイトルのリメイクを数多く手掛ける。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グレッゾ"
+    },
+    "sourceNote": "日本語版Wikipedia「グレッゾ」および公式サイト沿革ページ(2026-08-03閲覧)で設立年(2006年12月)・代表者(石井浩一氏)・任天堂タイトルのリメイク開発実績を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "eighting",
+    "name": "エイティング",
+    "nameKana": "えいてぃんぐ",
+    "parentCompany": "コロプラ",
+    "description": "1993年設立の日本のゲーム開発会社。対戦・アクションゲームの受託開発を多く手掛け、「ピクミン3 デラックス」等、任天堂タイトルのNintendo Switchへの移植も担当する。2016年よりコロプラの完全子会社。",
+    "foundedYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エイティング"
+    },
+    "sourceNote": "日本語版Wikipedia「エイティング」およびNintendo Life・GoNintendo等の英語メディア報道(2026-08-03閲覧)で設立年(1993年)・コロプラによる完全子会社化(2016年)・『ピクミン3 デラックス』のSwitch移植担当を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

@@ -7298,5 +7298,354 @@
     "awardResults": [],
     "sourceNote": "英語版Wikipedia『EA Sports FC 24』(2026-08-03閲覧、WebFetch)で開発元(EA Vancouver、EA Romaniaと共同開発)・発売元(Electronic Arts)・発売日(2023-09-29、PS5/PS4/Switch/Xbox/PC同時)・FIFAブランドからの改称経緯を確認。The Game Awards 2023・D.I.C.E. Awards 2024でノミネートされたが受賞はなし。Switch版はNintendo Switch向け専用パッケージが発売されているため対応機種に含めた。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kirby-star-allies",
+    "title": "星のカービィ スターアライズ",
+    "titleKana": "ほしのかーびぃ すたーあらいず",
+    "developerIds": [
+      "hal-laboratory"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2018-03-16",
+    "synopsis": "宇宙のかなたから放たれた闇の心「ジャマハート」の影響でプププランドの仲間たちが凶暴化してしまう中、光の心を受けたカービィは、ハートを投げて敵を仲間に変える新能力を手に入れる。仲間を次々に入れ替えながら、最大4人の協力プレイで異変の真相を追う、シリーズ本編としては初めてのNintendo Switch向けタイトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星のカービィ_スターアライズ"
+    },
+    "sourceNote": "日本語版Wikipedia「星のカービィ スターアライズ」(2026-08-03閲覧、WebFetch)で発売日(2018-03-16)・開発元(ハル研究所)・発売元(任天堂)を確認。ファミ通クロスレビュープラチナ殿堂入り・月間販売ランキング1位は確認できたが、本サイト対象の9アワードでの受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "arms",
+    "title": "ARMS",
+    "titleKana": "あーむず",
+    "developerIds": [
+      "nintendo",
+      "bandai-namco-studios"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "versus-action",
+      "sports"
+    ],
+    "releaseDate": "2017-06-16",
+    "synopsis": "バネのように伸縮する腕「ARMS」を持つ人々が、プロスポーツさながらの真剣勝負を繰り広げる世界を舞台にした対戦アクション。個性豊かなファイターを操り、左右のパンチを打ち分けながら間合いを読み合う駆け引きが特徴で、Joy-Conを振って直感的に操作するモーション操作にも対応する、Switch向け完全新規タイトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ARMS_(対戦格闘ゲーム)"
+    },
+    "sourceNote": "日本語版Wikipedia「ARMS (対戦格闘ゲーム)」(2026-08-03閲覧、WebFetch)で発売日(2017-06-16)・開発元(任天堂、バンダイナムコスタジオが開発協力)・発売元(任天堂)を確認。Golden Joystick Awards 2017「Nintendo Game of the Year」、The Game Awards 2017「Best Fighting Game」、D.I.C.E. Awards「Fighting Game of the Year」等へのノミネートは確認できたが、いずれも受賞には至っていないため本サイトのルール(受賞明記分のみ採用)に従いawardResultsは未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tetris-99",
+    "title": "TETRIS 99",
+    "titleKana": "てとりす99",
+    "developerIds": [
+      "arika"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle"
+    ],
+    "releaseDate": "2019-02-14",
+    "synopsis": "任天堂とアリカが手掛ける、99人対戦形式のバトルロイヤル型テトリス。相手を倒すと得られるバッジで攻撃力を強化しつつ、複数の攻撃パターンから狙う相手を選び、妨害ブロックを送り込んで最後の1人を目指す。Nintendo Switch Online加入者向けに無料配信され、シリーズに新たな対戦の形をもたらした一作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/TETRIS_99"
+    },
+    "sourceNote": "日本語版Wikipedia「TETRIS 99」(2026-08-03閲覧、WebFetch)で配信開始日(日本2019-02-14)・開発元(アリカ)・発売元(任天堂)を確認。2019-08-09にはNintendo Switch Online利用権12か月分が付属するパッケージ版も発売されているが、releaseDateはオリジナルの配信開始日を採用した。受賞歴は記事内に記載なく未確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-mario-party",
+    "title": "スーパー マリオパーティ",
+    "titleKana": "すーぱー まりおぱーてぃ",
+    "developerIds": [
+      "ndcube",
+      "ca-production",
+      "will"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game"
+    ],
+    "releaseDate": "2018-10-05",
+    "synopsis": "マリオシリーズ恒例のパーティゲーム、Nintendo Switch移行後の第1作。誰が真のスーパースターにふさわしいかを巡ってキャラクターたちがすごろく形式のボードで対決し、勝敗を分けるミニゲームに挑む。2台のSwitchをつなげて盤面を拡張できる新モード「トゥーンモード」など、携帯機ならではの新要素も導入された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパー_マリオパーティ"
+    },
+    "sourceNote": "日本語版Wikipedia「スーパー マリオパーティ」(2026-08-03閲覧、WebFetch)で発売日(2018-10-05)・開発元(エヌディーキューブ・シーエイプロダクション・ウィル)・発売元(任天堂)を確認。ファミ通クロスレビューでのゴールド殿堂入りは確認できたが、本サイト対象のファミ通アワード等の受賞歴とは別の指標のため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "luigis-mansion-2-hd",
+    "title": "ルイージマンション2 HD",
+    "titleKana": "るいーじまんしょんつー えいちでぃー",
+    "developerIds": [
+      "next-level-games",
+      "tantalus-media"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2024-06-27",
+    "synopsis": "2013年発売のニンテンドー3DS用ソフト「ルイージマンション2」を、グラフィックを一新してフルHD化したリメイク版。オバキュームでお化けを吸い込みながら仕掛けを解いていく探索アクションはそのままに、最大4人で協力プレイができる専用モード「テラータワー」を新たに収録し、恐がりなルイージが不気味な洋館を渡り歩く冒険をより遊びやすい形で楽しめる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ルイージマンション2"
+    },
+    "sourceNote": "4Gamer・Gamer.ne.jp・ファミ通の各記事(2026-08-03閲覧)で発売日(2024-06-27)・発売元(任天堂)を確認。開発は原作(3DS版、Next Level Games)をTantalus MediaがHDリマスターした旨を確認。日本語版Wikipediaには本作単独の記事は見当たらず「ルイージマンション2」記事内の言及を参照。受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "miitopia-switch",
+    "title": "ミートピア",
+    "titleKana": "みーとぴあ",
+    "developerIds": [
+      "nintendo",
+      "grezzo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "life-simulation"
+    ],
+    "releaseDate": "2021-05-21",
+    "synopsis": "顔を奪われた人々が魔物に変えられてしまった世界「ミートピア」を舞台に、自作のMiiキャラクターたちと共に大魔王討伐の旅に出るロールプレイングゲーム。仲間との友好度を深める宿屋でのやり取りや、旅先での買い物・観光といった生活要素も楽しめる、2016年発売の3DS版をリメイクしたSwitch移植作で、新たに馬の相棒や新エリアも加わっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miitopia"
+    },
+    "sourceNote": "英語版Wikipedia「Miitopia」(2026-08-03閲覧、WebFetch)およびファミ通・4Gamer記事でSwitch版発売日(2021-05-21)・開発元(任天堂とグレッゾの共同開発)・発売元(任天堂)・国内正式タイトル「ミートピア」を確認。グレッゾは本バッチの「ゼルダの伝説 夢をみる島」(zelda-links-awakening)でも新規追加。原作は2016年発売の3DS版のため、本エントリはSwitch版のみを対象とする。受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-tennis-aces",
+    "title": "マリオテニス エース",
+    "titleKana": "まりおてにす えーす",
+    "developerIds": [
+      "camelot"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "sports"
+    ],
+    "releaseDate": "2018-06-22",
+    "synopsis": "マリオシリーズのテニスゲーム最新作。行方不明になったルイージを探すマリオが、人々を操る邪悪なラケット「エスター」を巡る事件に巻き込まれるストーリーモードを収録する。ここぞという場面で繰り出す必殺の「エナジーショット」やラケットが破損する新要素など、駆け引き性を高めたテニスバトルが楽しめ、オンラインでの対戦・協力プレイにも対応する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオテニス_エース"
+    },
+    "sourceNote": "日本語版Wikipedia「マリオテニス エース」(2026-08-03閲覧、WebFetch)で発売日(2018-06-22)・開発元(キャメロット)・発売元(任天堂)を確認。ファミ通月間販売ランキング1位は確認できたが、本サイト対象9アワードでの受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fire-emblem-warriors",
+    "title": "ファイアーエムブレム無双",
+    "titleKana": "ふぁいあーえむぶれむむそう",
+    "developerIds": [
+      "omega-force",
+      "team-ninja"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "musou-action",
+      "strategy"
+    ],
+    "releaseDate": "2017-09-28",
+    "synopsis": "「ファイアーエムブレム」シリーズと無双シリーズが初めて合流したコラボレーション作品。異界から来た双子の主人公シオンとリアンが、邪竜イビルザーグの復活を狙う勢力に対し、歴代ファイアーエムブレム作品のキャラクターたちと共闘する。多数の敵兵を一気になぎ倒す無双アクションに、部隊配置などシリーズならではの戦略要素を組み合わせている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイアーエムブレム無双"
+    },
+    "sourceNote": "日本語版Wikipedia「ファイアーエムブレム無双」(2026-08-03閲覧、WebFetch)で発売日(日本・アジア2017-09-28)・開発元(コーエーテクモゲームス内のオメガフォース、Team NINJAの混成チーム)を確認。発売元は日本国内ではコーエーテクモゲームス、海外では任天堂と地域により異なるが、既存の「ファイアーエムブレム無双 風花雪月」(fire-emblem-warriors-three-hopes)がpublisherIdにkoei-tecmoを採用している前例に倣い本作も同様とした。対応機種はNew 3DS版もあるが本サイトの対象外のためSwitch版のみ収録。ファミ通クロスレビュープラチナ殿堂入りは確認できたが、本サイト対象9アワードでの受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "captain-toad-treasure-tracker-switch",
+    "title": "進め！キノピオ隊長",
+    "titleKana": "すすめ きのぴおたいちょう",
+    "developerIds": [
+      "nintendo",
+      "one-up-studio",
+      "nintendo-software-technology"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "platformer"
+    ],
+    "releaseDate": "2018-07-13",
+    "synopsis": "大きなカラス「ウィンゴ」にさらわれたトッデットを助けるため、ジャンプできないキノコキャプテン・トードが仕掛け満載の箱庭ステージを一周見渡して道を探すパズルアクション。2014年発売のWii U版を土台に、Switch版では「スーパーマリオ オデッセイ」由来の新ステージ等が追加され、じっくり観察して謎を解く独特の操作性を存分に味わえる移植作となっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Captain_Toad:_Treasure_Tracker"
+    },
+    "sourceNote": "英語版Wikipedia「Captain Toad: Treasure Tracker」(2026-08-03閲覧、WebFetch)でSwitch版発売日(2018-07-13、3DS版と同時発売)・開発元(任天堂、1-UPスタジオ、任天堂ソフトウェア技術)・発売元(任天堂)・国内正式タイトル「進め！キノピオ隊長」を確認。原作は2014年Wii U版。Golden Joystick Awards 2018「Nintendo Game of the Year」ノミネート等は確認できたが受賞には至っておらず、本サイト対象9アワードでの受賞歴としては未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "new-pokemon-snap",
+    "title": "New ポケモンスナップ",
+    "titleKana": "にゅー ぽけもんすなっぷ",
+    "developerIds": [
+      "bandai-namco-studios"
+    ],
+    "publisherId": "pokemon-company",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2021-04-30",
+    "synopsis": "1999年発売の「ポケモンスナップ」の系譜を継ぐ写真撮影アクション。自動運転の観測ポッド「ネオワン」に乗り込み、未踏の地レンタル地方を巡って野生のポケモンの生態や、地域特有の発光現象「イルミナ」の謎を写真に収めていく。ソード・シールドまでに登場したポケモンを中心に200種類以上が登場する、実に22年ぶりとなる続編。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/New_ポケモンスナップ"
+    },
+    "sourceNote": "日本語版Wikipedia「New ポケモンスナップ」(2026-08-03閲覧、WebFetch)で発売日(2021-04-30)・開発元(バンダイナムコスタジオ)を確認。発売元は日本国内では株式会社ポケモン、海外では任天堂だが、既存の「Pokémon LEGENDS アルセウス」(pokemon-legends-arceus)等の前例に倣いpokemon-companyを採用。受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pikmin-3-deluxe",
+    "title": "ピクミン3 デラックス",
+    "titleKana": "ぴくみん3 でらっくす",
+    "developerIds": [
+      "nintendo",
+      "eighting"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "strategy",
+      "action-adventure",
+      "puzzle",
+      "life-simulation"
+    ],
+    "releaseDate": "2020-10-30",
+    "synopsis": "原生生物や気候の脅威に立ち向かいながら、3種類のピクミンを率いて食料資源フルーツを集める探索アクション。2013年発売のWii U版の内容に加え、オリマーとルーイの視点で描かれる新規サイドストーリー、周回プレイ向けの高難度モード、原生生物図鑑などを追加したSwitch完全版で、じっくり考えて指揮を執る面白さを味わえる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピクミン3"
+    },
+    "sourceNote": "日本語版Wikipedia「ピクミン3」およびNintendo Life・GoNintendo等の英語メディア報道(2026-08-03閲覧、WebFetch/WebSearch)で発売日(2020-10-30)・Switch版の移植開発をエイティングが担当したことを確認。エイティングは既存companies.jsonに未収録のため新規追加(コロプラ完全子会社、対戦・アクションゲームの受託開発で知られる)。原作(Wii U版、2013年)と区別しSwitch版のみを対象とする。受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-luigi-brothership",
+    "title": "マリオ&ルイージRPG ブラザーシップ!",
+    "titleKana": "まりおあんどるいーじあーるぴーじー ぶらざーしっぷ",
+    "developerIds": [
+      "acquire"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2024-11-07",
+    "synopsis": "マリオとルイージが謎の空間に吸い込まれ、バラバラの島々からなる「コネクタルランド」に迷い込むところから始まる物語。地元の少女コネッタと共に島々をつなぎ直す冒険に出て、世界を元の姿に戻すため謎の黒幕に立ち向かう。シリーズとしては9年ぶりとなる完全新作で、初のNintendo Switch向けタイトル。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオ&ルイージRPG_ブラザーシップ!"
+    },
+    "sourceNote": "日本語版Wikipedia「マリオ&ルイージRPG ブラザーシップ!」(2026-08-03閲覧、WebFetch)およびAUTOMATON記事で発売日(2024-11-07)・開発元(アルファドリーム倒産後、本作より開発を引き継いだアクワイア)・発売元(任天堂)を確認。Nintendo Switch 2 Edition等の専用強化版は検索範囲では確認できなかったためplatformsはswitchのみとした。受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "zelda-links-awakening",
+    "title": "ゼルダの伝説 夢をみる島",
+    "titleKana": "ぜるだのでんせつ ゆめをみるしま",
+    "developerIds": [
+      "grezzo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2019-09-20",
+    "synopsis": "航海中に嵐で遭難したリンクが、不思議な島「コホリント島」に流れ着くところから始まる物語。この島は誰かが見ている夢の世界であり、目覚めの原因とされる「かぜのさかな」を起こすため、島中に隠された8つの楽器を集める旅に出る。1993年発売のゲームボーイ版を、ジオラマ風のグラフィックで一新したリメイク作で、島の人々との交流も丁寧に描かれている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼルダの伝説_夢をみる島"
+    },
+    "sourceNote": "日本語版Wikipedia「ゼルダの伝説 夢をみる島」(2026-08-03閲覧、WebFetch)でSwitch版発売日(2019-09-20)・開発元(グレッゾ)・発売元(任天堂)を確認。グレッゾは本バッチの「ミートピア」(miitopia-switch)でも新規追加。ファミ通クロスレビュー・IGN・Game Informer等の高評価は確認できたが、本サイト対象9アワードでの受賞歴は確認できず未記載。原作は1993年発売のゲームボーイ版。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "game-builder-garage",
+    "title": "ナビつき！ つくってわかる はじめてゲームプログラミング",
+    "titleKana": "なびつき つくってわかる はじめてげーむぷろぐらみんぐ",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "programming"
+    ],
+    "releaseDate": "2021-06-11",
+    "synopsis": "プログラムの要素を擬人化した「ノードン」というキャラクターを配置し、線でつなげていくことでゲームを自作できるビジュアルプログラミングソフト。案内役アリスのレッスンで基礎を学びながら、シューティングやレースなど複数ジャンルのサンプルゲームの仕組みを分解・改造し、最終的にオリジナルのゲームづくりに挑戦できる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Game_Builder_Garage"
+    },
+    "sourceNote": "英語版Wikipedia「Game Builder Garage」(2026-08-03閲覧、WebFetch)で発売日(2021-06-11)・開発元/発売元(任天堂)・国内正式タイトル(「ナビつき！ つくってわかる はじめてゲームプログラミング」)を確認。ビジュアルプログラミングというテーマは既存ジャンルタグで表現しきれないため、新規ジャンル「programming」を追加。受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bayonetta-origins",
+    "title": "ベヨネッタ オリジンズ：セレッサと迷子の悪魔",
+    "titleKana": "べよねった おりじんず せれっさとまいごのあくま",
+    "developerIds": [
+      "platinumgames"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2023-03-17",
+    "synopsis": "「ベヨネッタ」シリーズの前日譚となる、幼少期のセレッサ(後のベヨネッタ)を主人公にしたアクションアドベンチャー。禁忌の血を引くとして森に追放された少女が、悪魔チェシャと出会い、彼と力を合わせて母親を救う旅に出る。絵本のような世界観の中、2人のキャラクターを同時に操作する新感覚のアクションが特徴で、シリーズ従来作とは一線を画す穏やかな雰囲気も魅力である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bayonetta_Origins:_Cereza_and_the_Lost_Demon"
+    },
+    "sourceNote": "英語版Wikipedia「Bayonetta Origins: Cereza and the Lost Demon」および電撃オンライン・ファミ通の記事(2026-08-03閲覧)で発売日(2023-03-17)・開発元(プラチナゲームズ)・発売元(任天堂)を確認。日本語版Wikipediaの単独記事URLは複数パターンを試したが到達できず、英語版を採用した。既存の「ベヨネッタ3」(bayonetta-3)とは別作品として区別。受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]
