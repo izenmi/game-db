@@ -1432,5 +1432,121 @@
     },
     "sourceNote": "英語版Wikipedia『Nintendo Software Technology』(2026-08-03閲覧)で設立年(1998年)・拠点(レドモンド)・任天堂子会社であること・代表作(マリオvs.ドンキーコング2024年版含む)を確認。日本語版Wikipedia単独記事は未確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "marvelous",
+    "name": "マーベラス",
+    "nameKana": "まーべらす",
+    "description": "オンラインゲーム・ゲームソフト・アニメソング等の企画制作を手がける日本の企業。牧場物語シリーズやルーンファクトリーシリーズの発売元として知られる。東京証券取引所プライム市場上場。",
+    "foundedYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マーベラス_(企業)",
+      "officialUrl": "https://www.marv.jp/"
+    },
+    "sourceNote": "日本語版Wikipedia「マーベラス (企業)」で設立年・概要・公式サイトを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hakama",
+    "name": "HAKAMA",
+    "nameKana": "はかま",
+    "parentCompany": "marvelous",
+    "description": "マーベラス傘下の開発スタジオ。『ルーンファクトリー5』を開発した。設立年・詳細沿革は未確認。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Rune Factory 5』記事内の開発元記載(Hakama, a subsidiary of Marvelous)のみで確認。単独記事なし、設立年等未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "xeen",
+    "name": "Xeen",
+    "nameKana": "じーん",
+    "description": "『聖剣伝説3 トライアルズ オブ マナ』(2020年)のフルリメイクを開発したスタジオ。設立年・沿革の詳細は未確認。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「聖剣伝説3」記事内で開発元として記載されているのみ確認。単独記事は未発見のため設立年等未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tose",
+    "name": "トーセ",
+    "nameKana": "とーせ",
+    "description": "京都府に本社を置く日本のゲーム受託開発会社。約2300タイトルの開発実績を持ち、業界最大手の受託開発企業とされる。『ドラゴンクエストトレジャーズ』『ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅』などを開発。",
+    "foundedYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トーセ"
+    },
+    "sourceNote": "日本語版Wikipedia「トーセ」で設立年・概要を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "artepiazza",
+    "name": "アルテピアッツァ",
+    "nameKana": "あるてぴあっつぁ",
+    "description": "東京都台東区に本社を置く日本のゲーム開発会社。グラフィックデザイナーの眞島真太郎が設立し、ドラゴンクエストシリーズのリメイクを多数手がけた。『スーパーマリオRPG』(2023年リメイク)にも開発協力。",
+    "foundedYear": 1989,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルテピアッツァ"
+    },
+    "sourceNote": "日本語版Wikipedia「アルテピアッツァ」で設立年・概要・代表作(スーパーマリオRPGへの関与含む)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "monkey-craft",
+    "name": "モンキークラフト",
+    "nameKana": "もんきーくらふと",
+    "description": "『クロノア Phantasy Reverie Series』(2022年)を開発した日本のスタジオ。設立年・沿革の詳細は未確認。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia記事内で開発元(MONKEYCRAFT)として記載されているのみ確認。単独記事は未発見のため設立年等未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bullet",
+    "name": "バレット",
+    "nameKana": "ばれっと",
+    "description": "『ロマンシング サガ -ミンストレルソング- リマスター』(2022年)の開発を担当した日本のスタジオ。設立年・沿革の詳細は未確認。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ロマンシング サガ -ミンストレルソング-」のテンプレート情報内でリマスター開発元として記載されているのみ確認。単独記事は未発見のため設立年等未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "live-wire",
+    "name": "Live Wire",
+    "nameKana": "らいぶわいや",
+    "description": "『ルーンファクトリー』シリーズを手がけた旧ネバーランドカンパニーの社長・開発スタッフらが在籍する日本の開発スタジオ。『ハーヴェステラ』(2022年)を開発。設立年は未確認。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ハーヴェステラ」記事内の記述で開発元・スタッフ背景を確認。設立年・公式サイトは未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shinen-multimedia",
+    "name": "Shin'en Multimedia",
+    "nameKana": "しんえん まるちめでぃあ",
+    "description": "1999年設立のドイツのゲーム開発会社。ハードウェア性能を活かした作り込みで知られ、『FASTシリーズ』(FAST RMX、FAST Fusion等)や『The Touryst』を開発。",
+    "foundedYear": 1999,
+    "externalLinks": {
+      "officialUrl": "https://www.shinen.com/"
+    },
+    "sourceNote": "公式サイト(shinen.com)で設立年・概要・代表作を確認。日本語版Wikipedia記事は未発見。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-game-kitchen",
+    "name": "The Game Kitchen",
+    "nameKana": "ざ げーむ きっちん",
+    "description": "スペインのインディーゲーム開発会社。ダークで陰鬱な世界観と独特のアートスタイルを特徴とし、『Blasphemous』『Blasphemous 2』を開発した。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia「The Game Kitchen」で概要・代表作を確認。正確な設立年の明記は確認できず未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "team17",
+    "name": "Team17",
+    "nameKana": "ちーむせぶんてぃーん",
+    "description": "英国ウェイクフィールドに本拠を置くゲーム開発・パブリッシャー。『Worms』シリーズ等で知られ、『Blasphemous 2』のパブリッシングを手がけた。",
+    "foundedYear": 1990,
+    "externalLinks": {
+      "officialUrl": "https://www.team17.com/"
+    },
+    "sourceNote": "英語版Wikipedia「Team17」で設立年・概要・公式サイトを確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

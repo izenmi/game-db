@@ -4862,5 +4862,284 @@
     },
     "sourceNote": "日本語版Wikipediaに独立記事なし(2026-08-03、検索で確認)。英語版Wikipedia『Tunic (video game)』で開発元(Andrew Shouldice氏の個人スタジオIsometricorp Games)・発売元(Finji)・当初PC/Xbox版(2022-03-16)に続きSwitch/PS4/PS5版が2022-09-27に発売されたこと・D.I.C.E. Awards『Outstanding Achievement for an Independent Game』・BAFTA Games Awards『Artistic Achievement』『Debut Game』の3部門受賞を確認。Isometricorp GamesはWeb検索でAndrew Shouldice氏の個人スタジオであることを確認し新規company追加(設立年・公式サイトURLは確認できず未記載)。releaseDateは対応機種(Switch/PS5)向けの発売日(2022-09-27)を採用し、より早いPC/Xbox版(2022-03-16、本サイト対象外機種)との違いをここに明記。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "trials-of-mana",
+    "title": "聖剣伝説3 トライアルズ オブ マナ",
+    "titleKana": "せいけんでんせつ3 とらいあるず おぶ まな",
+    "developerIds": [
+      "xeen"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2020-04-24",
+    "synopsis": "1995年発売のSFC『聖剣伝説3』を3Dグラフィックでフルリメイクした作品。6人の主人公から2人を選び、それぞれの視点で異なる仲間や敵、エンディングを体験できる。戦闘はアクション性を強化し、フルボイス化やシステム刷新も施された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/聖剣伝説3"
+    },
+    "sourceNote": "日本語版Wikipedia「聖剣伝説3」内のリメイク版記述で開発元・発売日・概要を確認。対応プラットフォームはPS4/Switch/Steam(後にXbox/モバイル追加)で、PS5・Switch2版は確認できず(未対応と判断)。受賞歴は記事内に記載なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dragon-quest-treasures",
+    "title": "ドラゴンクエストトレジャーズ",
+    "titleKana": "どらごんくえすととれじゃーず",
+    "developerIds": [
+      "tose"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2022-12-09",
+    "synopsis": "『ドラゴンクエストXI』の主人公エリックとミーアの幼少期を描くスピンオフ作品。空に浮かぶ島々の世界ドラコニアを舞台に、伝説の秘宝ドラゴンストーンを求めて冒険する。仲間モンスターを引き連れた探索と拠点経営を組み合わせたゲーム性が特徴。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia記事は未発見のため英語版Wikipedia「Dragon Quest Treasures」で開発元・発売日・概要を確認。PS5・Switch2版は確認できず(Switch/PC(Steam)のみ)。受賞歴は記載なし。公式サイトURLは未確認のため省略。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rune-factory-5",
+    "title": "ルーンファクトリー5",
+    "titleKana": "るーんふぁくとりー5",
+    "developerIds": [
+      "hakama"
+    ],
+    "publisherId": "marvelous",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "rpg"
+    ],
+    "releaseDate": "2021-05-20",
+    "synopsis": "記憶を失った主人公が、警備組織シードの一員として町リグバースで暮らし始める物語。農業や町の人々との交流といった生活パートと、モンスターとの戦闘・ダンジョン探索を組み合わせたシリーズ最新作。主人公の性別を選択できる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ルーンファクトリー5」で開発元・発売元・発売日・概要を確認(英語版で開発元名の英語表記Hakamaも照合)。PS5・Switch2版は存在せず(Switch/Steamのみ)。受賞歴の記載なし。発売直後の不具合報告についても言及あり。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-mario-rpg",
+    "title": "スーパーマリオRPG",
+    "titleKana": "すーぱーまりおあーるぴーじー",
+    "developerIds": [
+      "nintendo",
+      "square-enix",
+      "artepiazza"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-11-17",
+    "synopsis": "1996年のSFC版をフルリメイクした作品。スターロードが破壊された世界で、マリオがマロやジーノら新キャラクターと共に7つのスターピースを集め、願いを叶えるスターロードの復活を目指す。ピーチやクッパも道中から仲間として同行する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーマリオRPG"
+    },
+    "sourceNote": "日本語版Wikipedia「スーパーマリオRPG」で開発元(任天堂・スクウェア・エニックス・アルテピアッツァ)・発売日・概要を確認。Switch専用でPS5・Switch2版なし。2023年リメイク版自体の受賞歴の記載は確認できず(オリジナル版の評価のみ記載)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "paper-mario-the-thousand-year-door",
+    "title": "ペーパーマリオRPG",
+    "titleKana": "ぺーぱーまりおあーるぴーじー",
+    "developerIds": [
+      "nintendo",
+      "intelligent-systems"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2024-05-23",
+    "synopsis": "2004年のGBA版『ペーパーマリオRPG』(1000年の扉)をフルリメイク。ピーチから受け取った宝の地図をもとに港町ゴロツキタウンを訪れたマリオが、7つのスターストーンを求めて各地を巡りながら、メガバッテン軍団の陰謀に立ち向かう。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペーパーマリオRPG"
+    },
+    "sourceNote": "日本語版Wikipedia「ペーパーマリオRPG」で開発元(任天堂・インテリジェントシステムズ、トーセが開発協力)・発売日・概要を確認。Switch専用でPS5・Switch2版なし。受賞歴の記載は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "klonoa-phantasy-reverie-series",
+    "title": "クロノア Phantasy Reverie Series",
+    "titleKana": "くろのあ ふぁんたじー れゔぇりー しりーず",
+    "developerIds": [
+      "monkey-craft"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2022-07-08",
+    "synopsis": "クロノアシリーズ25周年記念として、『風のクロノア door to phantomile』と『風のクロノア2 世界が望んだ忘れ物』の2作をグラフィック一新でリマスターしたコレクション。原音を活かしつつ、オートセーブや難易度選択、ドット絵風フィルターなど新機能を追加。",
+    "externalLinks": {},
+    "sourceNote": "実際の日本語版Wikipedia記事タイトルは「風のクロノア 1&2アンコール」で、同記事内でPhantasy Reverie Seriesの情報を確認。開発元・発売元・各プラットフォーム発売日・概要を確認。受賞歴の記載なし。日本国内発売日はPS5/PS4/Switch/Xbox共に2022年7月7日、Steam版は7月8日との情報あり、releaseDateは日本国内主要発売日として2022-07-08(Steam日)ではなく本来7/7が妥当な可能性があるため要再確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "romancing-saga-minstrel-song-remastered",
+    "title": "ロマンシング サ・ガ ミンストレルソング リマスター",
+    "titleKana": "ろまんしんぐさが みんすとれるそんぐ りますたー",
+    "developerIds": [
+      "bullet"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2022-12-01",
+    "synopsis": "2005年PS2版『ロマンシング サ・ガ -ミンストレルソング-』(1992年『ロマンシング サ・ガ』のリメイク)をさらにHDリマスター。マップアビリティの操作性改善や新規仲間キャラクターの追加、強化ボスの実装など、原作へのフィードバックを反映した調整が施されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロマンシング_サガ_-ミンストレルソング-"
+    },
+    "sourceNote": "日本語版Wikipedia「ロマンシング サガ -ミンストレルソング-」のリマスター版セクションで開発元・発売元・発売日・概要を確認。対応プラットフォームはPS5/PS4/Switch/iOS/Android/Steamで、当データベース対象のPS5・Switchを採用。受賞歴の記載なし。開発元バレットの詳細情報は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "story-of-seasons-a-wonderful-life",
+    "title": "牧場物語 Welcome!ワンダフルライフ",
+    "titleKana": "ぼくじょうものがたり うぇるかむ わんだふるらいふ",
+    "developerIds": [
+      "marvelous"
+    ],
+    "publisherId": "marvelous",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "life-simulation"
+    ],
+    "releaseDate": "2023-01-26",
+    "synopsis": "ゲームキューブ版『牧場物語 ワンダフルライフ』のフルリメイク。主人公が譲り受けた牧場を舞台に、結婚相手を選び子どもを育てながら生涯を送る人生シミュレーション。性別選択に「その他」が加わるなど新要素も追加された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/牧場物語_ワンダフルライフ"
+    },
+    "sourceNote": "依頼書では邦題「牧場物語 わくわくアニマルマーチ」・英題「Story of Seasons: A Wonderful Life」と記載されていたが、両者は実際には別作品(わくわくアニマルマーチ=Harvest Moon: Animal Parade、Wii専用2008年作でPS5/Switch/Switch2版なし)。英題が指す実際の対応作品は2023年リメイク版『牧場物語 Welcome!ワンダフルライフ』(国際版タイトルがStory of Seasons: A Wonderful Life)と判断し、日本語版Wikipedia「牧場物語 ワンダフルライフ」で開発元・発売元・発売日(Switch 2023-01-26、PS5/XSX 2023-06-22、Steam 2023-06-28)・概要を確認してこちらを採用した。受賞歴の記載なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "harvestella",
+    "title": "ハーヴェステラ",
+    "titleKana": "はーゔぇすてら",
+    "developerIds": [
+      "live-wire"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "rpg"
+    ],
+    "releaseDate": "2022-11-04",
+    "synopsis": "スクウェア・エニックスの新規IP。四季の変わり目に訪れる災厄「死季」が存在する世界を舞台に、記憶喪失の主人公が拠点で農作業や生活を営みながら、バトルや探索を通じて世界の謎に迫っていく。シリアスなシナリオと美麗なビジュアルが特徴。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「ハーヴェステラ」で開発元(Live Wire)・発売元・発売日・概要を確認。PS5・Switch2版は存在せず(Switch/Steamのみ)。受賞歴の記載なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dragon-quest-monsters-3-the-dark-prince",
+    "title": "ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅",
+    "titleKana": "どらごんくえすともんすたーず3 まぞくのおうじとえるふのたび",
+    "developerIds": [
+      "tose"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-12-01",
+    "synopsis": "ドラゴンクエストモンスターズシリーズ25周年記念作で、約22年ぶりの完全新作。『ドラゴンクエストIV』の裏側の物語として、半魔半人の王子プサロが母を失った後にモンスターマスターとなり、仲間ロザリーやベネットと共に数奇な運命に立ち向かう姿を描く。",
+    "externalLinks": {},
+    "sourceNote": "依頼書の副題「魔王と3つの紋章」は実在するWikipedia記事名・公式表記と一致せず、シリーズ検索の結果「ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅」(英題: The Dark Prince)が該当作と判断してこちらを採用。日本語版Wikipedia同記事で開発元(トーセ)・発売元・発売日・概要を確認。Switch専用(後にSteam/iOS/Android)でPS5・Switch2版なし。受賞歴の記載はないが2023年12月のソフト販売本数首位という言及あり。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fast-fusion",
+    "title": "FAST Fusion",
+    "titleKana": "ふぁすと ふゅーじょん",
+    "developerIds": [
+      "shinen-multimedia"
+    ],
+    "publisherId": "shinen-multimedia",
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "racing"
+    ],
+    "releaseDate": "2025-06-05",
+    "synopsis": "ドイツのShin'en Multimediaが手がけるFASTシリーズ第4作。Nintendo Switch2のローンチタイトルとして世界同時発売された。反重力マシンを操り、フェイズ切り替えやエネルギー管理システムを駆使して近未来的なコースを駆け抜けるレースゲーム。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「FAST Racing League」内のシリーズ記述、および公式サイト(shinen.com)で開発元・発売日・概要を確認。Switch2ローンチタイトルとして2025年6月5日発売済み(記事取得時点の一部情報は「発売予定」表記だったが、今日時点で発売日は既に経過しているため発売済みと判断)。受賞歴は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "drag-x-drive",
+    "title": "Drag x Drive",
+    "titleKana": "どらっぐ くろす どらいぶ",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "sports"
+    ],
+    "releaseDate": "2025-08-14",
+    "synopsis": "車いすバスケットボールをモチーフにしたNintendo Switch2専用ソフト。Joy-Con2のマウスモードを用いて操作し、3対3のチーム戦でネオンに彩られたアリーナを駆け回りながらシュートを競う。ハーフパイプでのトリックも可能。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipedia「任天堂発売のゲームタイトル一覧」等の記述、および英語版Wikipediaで開発元(Nintendo EPD)・発売元・発売日(2025年8月14日、Switch2向けダウンロード専売)・概要・発売済みであることを確認。パッケージ版の有無は未確認(ダウンロード専売との情報あり)。受賞歴は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "blasphemous-2",
+    "title": "ブラスフェマス2",
+    "titleKana": "ぶらすふぇます2",
+    "developerIds": [
+      "the-game-kitchen"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania"
+    ],
+    "releaseDate": "2023-08-24",
+    "synopsis": "前作から時を経た新たな王国を舞台に、沈黙の騎士ペニテント・ワンが「三つの後悔」を集め、呪い「奇跡」の復活を阻止するために戦う2Dメトロイドヴァニア。武器を持ち替えながら探索と戦闘を進め、選択次第で異なる結末を迎える。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia「Blasphemous 2」で開発元(The Game Kitchen)・発売元(Team17)・各プラットフォーム発売日・概要を確認。Switch/PS5/Xbox/PC同時発売(2023-08-24)、PS4/Xbox One版は同年11月2日追加。日本語版Wikipedia記事は未発見のため英語版を採用。受賞歴の記載なし。",
+    "updatedAt": "2026-08-03"
   }
 ]
