@@ -3117,5 +3117,389 @@
     },
     "sourceNote": "海外名は「WarioWare: Move It!」。日本語版Wikipedia「超おどる メイド イン ワリオ」(2026-08-03閲覧)で国内正式タイトル・開発元(任天堂・インテリジェントシステムズ)・発売元(任天堂)・発売日(2023-11-03)・対応機種(Switch)を確認。受賞歴は本サイトの9アワード内で該当するものが確認できず未記載。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "donkey-kong-bananza",
+    "title": "ドンキーコング バナンザ",
+    "titleKana": "どんきーこんぐ ばなんざ",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "platformer"
+    ],
+    "releaseDate": "2025-07-17",
+    "synopsis": "黄金のバナナ「バナモンド」の噂を追ってインゴス島を訪れたドンキーコングが、ヴォイドカンパニーの襲撃を受け地下世界へ転落する。そこで謎の少女ポリーンと出会い、地層を自在に破壊しながら地底深くへ潜っていく3Dアクション。どんな願いも叶うという伝説の地「バナルート」を目指し、崩せる地形を生かした探索と冒険が展開される。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Best Family Game"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2025,
+        "result": "Critics' Choice Award"
+      },
+      {
+        "awardId": "famitsu-awards",
+        "year": 2025,
+        "result": "アクション部門"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドンキーコング_バナンザ"
+    },
+    "sourceNote": "日本語版Wikipedia「ドンキーコング バナンザ」記事(2026-08-03閲覧)で発売日(2025-07-17)・対応機種(Switch2専用)・開発元(任天堂企画制作本部)・あらすじ・受賞歴(The Game Awards 2025 Best Family Game受賞、Golden Joystick Awards 2025 Critics' Choice Award受賞、ファミ通・電撃ゲームアワード2025アクション部門受賞)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "metroid-prime-4-beyond",
+    "title": "メトロイドプライム4 ビヨンド",
+    "titleKana": "めとろいどぷらいむふぉー びよんど",
+    "developerIds": [
+      "retro-studios"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "shooter"
+    ],
+    "releaseDate": "2025-12-04",
+    "synopsis": "銀河連邦の研究施設がスペースパイレーツの残党に襲撃され、任務中だったバウンティハンター、サムス・アランに救援要請が届く。転送先の未知の惑星ビューロスで、サムスは新たな敵勢力と対峙しながら事件の真相を探ることになる。一人称視点での探索と戦闘を融合させた、レトロスタジオ制作によるSFアクションアドベンチャーの最新作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メトロイドプライム4"
+    },
+    "sourceNote": "日本語版Wikipedia「メトロイドプライム4」記事(2026-08-03閲覧)で発売日(2025-12-04)・対応機種(Switch/Switch2)・開発元(レトロスタジオ)・あらすじを確認。受賞歴は記事上で確認できず未記載(発売が2025年12月とThe Game Awards 2025開催後のため対象外の可能性が高い)。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "split-fiction",
+    "title": "Split Fiction",
+    "titleKana": "すぷりっとふぃくしょん",
+    "developerIds": [
+      "hazelight-studios"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "co-op",
+      "platformer"
+    ],
+    "releaseDate": "2025-03-06",
+    "synopsis": "創作のアイデアを盗む実験装置に接続された二人の作家、ミオとゾーイが、それぞれの物語世界に閉じ込められてしまう。ファンタジーとSFが混在する世界を、二人一組で協力しながら渡り歩き脱出を目指す。プレイヤーごとに異なる能力やギミックを操作し合う、Hazelight Studios制作の二人協力プレイ専用アクションアドベンチャー。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2025,
+        "result": "Ultimate Game of the Year 3位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Split_Fiction"
+    },
+    "sourceNote": "日本語版Wikipediaに該当記事が見当たらず、英語版Wikipedia「Split Fiction」記事(2026-08-03閲覧)で発売日(PS5/PC 2025-03-06、Switch2版2025-06-05)・開発元(Hazelight Studios)・発売元(Electronic Arts)・あらすじ・受賞歴を確認。The Game Awards 2025では複数部門にノミネートされたが受賞はなし(受賞歴として不採用)。Golden Joystick Awards 2025 Ultimate Game of the Yearで3位に入った旨が同記事に明記されていたため採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "detective-pikachu-returns",
+    "title": "帰ってきた名探偵ピカチュウ",
+    "titleKana": "かえってきためいたんていぴかちゅう",
+    "developerIds": [
+      "creatures-inc"
+    ],
+    "publisherId": "pokemon-company",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2023-10-06",
+    "synopsis": "事件解決から2年後、表彰式のためライム・シティを訪れたティムと相棒のピカチュウが、盗まれた宝石「オーロラの雫」の捜査に巻き込まれる。ポケモンに謎の装置が取り付けられる事件を追ううち、新たな黒幕の存在や古代遺跡の謎が明らかになっていく。映画のような会話劇で進行する、前作の続編にあたる捜査アドベンチャー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/名探偵ピカチュウ"
+    },
+    "sourceNote": "依頼元は「名探偵ピカチュウ リターンズ」表記だったが、日本語版Wikipedia「名探偵ピカチュウ」記事および検索結果(2026-08-03閲覧)により国内正式タイトルは「帰ってきた名探偵ピカチュウ」(英題Detective Pikachu Returns)と確認したためこちらを採用。発売日(2023-10-06)・対応機種(Switch)・開発元(クリーチャーズ)を確認。あらすじは独自要約。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "xenoblade-x-definitive-edition",
+    "title": "ゼノブレイドクロス ディフィニティブエディション",
+    "titleKana": "ぜのぶれいどくろす でぃふぃにてぃぶえでぃしょん",
+    "developerIds": [
+      "monolith-soft"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2025-03-20",
+    "synopsis": "Wii U版「ゼノブレイドクロス」をSwitch向けに移植したリマスター版。人類の新天地となった惑星ミラを舞台に、記憶を失った主人公が謎の巨大兵器スキエルと出会い、生存者組織「BLADE」の一員として広大な星を探索する。グラフィックや操作性が刷新され、後日Switch2向けに解像度・フレームレートを向上させた専用版も発売された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼノブレイドクロス"
+    },
+    "sourceNote": "日本語版Wikipedia「ゼノブレイドクロス」記事(2026-08-03閲覧)で、Switch版ディフィニティブエディションの発売日(2025-03-20)、およびSwitch2向け専用パッケージ版『ゼノブレイドクロス ディフィニティブエディション Nintendo Switch 2 Edition』が2026-02-19に発売済み(本サイト時点2026-08-03より前)であることを確認したため対応機種にSwitch2を含めた(単なる最適化パッチではなく独立したパッケージ版であることを記事本文で確認)。既存の xenoblade-2/xenoblade-3/xenoblade-definitive-edition(初代リメイク)とは別作品。あらすじは独自要約。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pokemon-brilliant-diamond",
+    "title": "ポケットモンスター ブリリアントダイヤモンド",
+    "titleKana": "ぽけっともんすたー ぶりりあんとだいやもんど",
+    "developerIds": [
+      "ilca"
+    ],
+    "publisherId": "pokemon-company",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2021-11-19",
+    "synopsis": "2006年発売のニンテンドーDS用ソフト「ポケットモンスター ダイヤモンド」をリメイクしたSwitch用RPG。シンオウ地方を舞台に、御三家ポケモンを相棒に選んだ主人公がジムリーダーとの対戦を重ねながらポケモンリーグ制覇を目指す。ドット絵だったフィールドを3Dで再現しつつ、原作のストーリーや世界観を忠実に踏襲している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポケットモンスター_ブリリアントダイヤモンド・シャイニングパール"
+    },
+    "sourceNote": "日本語版Wikipedia「ポケットモンスター ブリリアントダイヤモンド・シャイニングパール」記事(2026-08-03閲覧)で発売日(2021-11-19)・対応機種(Switch)・開発元(ILCA、ゲームフリークが監修)を確認。対になる『シャイニングパール』は別バージョンのため本エントリには含めていない。あらすじは独自要約。受賞歴は確認できず未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pokemon-legends-za",
+    "title": "Pokémon LEGENDS Z-A",
+    "titleKana": "ぽけもん れじぇんず ぜっとえー",
+    "developerIds": [
+      "game-freak"
+    ],
+    "publisherId": "pokemon-company",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2025-10-16",
+    "synopsis": "カロス地方のミアレシティを訪れた主人公が、古いホテルを拠点とする組織「M.Z.」にスカウトされ、都市再開発計画をめぐる事件解決に挑む。メガシンカを操る仲間たちとともに、街で次々と起こるトラブルの謎を追っていく。シリーズで初めて一都市を丸ごと舞台に据え、リアルタイムのバトルで街中を自由に駆け回れる、オープンワールド型のアクションRPG。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Pokémon_LEGENDS_Z-A"
+    },
+    "sourceNote": "日本語版Wikipedia「Pokémon LEGENDS Z-A」記事(2026-08-03閲覧)で発売日(2025-10-16、本サイト時点で発売済み)・対応機種(Switch/Switch2)・開発元(ゲームフリーク)を確認。あらすじは独自要約。受賞歴(The Game Awards等)は英語版Wikipediaも確認したが受賞の明記なくノミネートのみのため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sonic-frontiers",
+    "title": "ソニックフロンティア",
+    "titleKana": "そにっくふろんてぃあ",
+    "developerIds": [
+      "sonic-team"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "open-world",
+      "platformer"
+    ],
+    "releaseDate": "2022-11-08",
+    "synopsis": "古代文明の遺跡が残るスターフォール諸島で、エッグマンが電脳空間に取り込まれる事件が発生する。カオスエメラルドを追っていたソニックも仲間たちと離れ離れになり、単身で島の謎を追うことに。広大なフィールドを自由に駆け回れる新機軸のアクションアドベンチャーで、高速アクションとオープンな探索を融合させている。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "フューチャー部門選出"
+      },
+      {
+        "awardId": "famitsu-awards",
+        "year": 2022,
+        "result": "アクションアドベンチャー部門 最優秀賞"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "年間作品部門優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソニックフロンティア"
+    },
+    "sourceNote": "日本語版Wikipedia「ソニックフロンティア」記事(2026-08-03閲覧)で発売日(2022-11-08)・対応機種(PS5/PS4/Switch/Xbox/PC、本DBではps5とswitchのみ採用)・開発元(ソニックチーム)・発売元(セガ)・あらすじ・受賞歴(日本ゲーム大賞2022フューチャー部門選出、ファミ通・電撃ゲームアワード2022アクションアドベンチャー部門最優秀賞、日本ゲーム大賞2023年間作品部門優秀賞)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ghostwire-tokyo",
+    "title": "Ghostwire: Tokyo",
+    "titleKana": "ごーすとわいやーとうきょう",
+    "developerIds": [
+      "tango-gameworks"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "shooter",
+      "open-world"
+    ],
+    "releaseDate": "2022-03-25",
+    "synopsis": "謎の霧によって住民の大半が消失した渋谷を舞台に、事故で命を落としかけた青年が幽霊のKKに憑依され蘇る。二人一体となって怪異「マレビト」を祓いながら、事件の黒幕である般若の目的を追う一人称視点のアクションアドベンチャー。現代日本の妖怪や都市伝説をモチーフにした独特の世界観のもと、探索と超能力を使ったバトルを織り交ぜて渋谷の街を巡っていく。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2022,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Ghostwire:_Tokyo"
+    },
+    "sourceNote": "日本語版Wikipedia「Ghostwire: Tokyo」記事(2026-08-03閲覧)で発売日(PS5/PC版2022-03-25、Xbox版は2023-04-12)・開発元(Tango Gameworks)・国内発売元(ベセスダ・ソフトワークス)・あらすじ・受賞歴(日本ゲーム大賞2022優秀賞)を確認。Nintendo Switch/Switch2版は記事・英語版Wikipediaいずれにも記載がなく未発売と判断し、対応機種はps5のみとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "deathloop",
+    "title": "Deathloop",
+    "titleKana": "でするーぷ",
+    "developerIds": [
+      "arkane-lyon"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-adventure"
+    ],
+    "releaseDate": "2021-09-14",
+    "synopsis": "記憶を失った暗殺者コルトが、孤島ブラックリーフでタイムループに囚われる。日没までに8人の標的「ヴィジョナリー」全員を排除できなければ、記憶を保ったまま朝に時間が巻き戻ってしまう。得た情報を次のループに生かし攻略法を探る一人称シューティングで、ジュリアナという妨害役を別のプレイヤーが操作する対人要素も持つ。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Game Direction"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Art Direction"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2022,
+        "result": "Outstanding Achievement in Game Direction"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/DEATHLOOP"
+    },
+    "sourceNote": "日本語版Wikipedia「DEATHLOOP」記事および英語版Wikipedia「Deathloop」記事(いずれも2026-08-03閲覧)で発売日(PC/PS5版2021-09-14、Xbox版2022-09-20)・開発元(Arkane Lyon)・国内発売元(ベセスダ・ソフトワークス)・あらすじ・受賞歴(The Game Awards 2021 Best Game Direction/Best Art Direction受賞、D.I.C.E. Awards 2022 Outstanding Achievement in Game Direction受賞)を確認。Nintendo Switch/Switch2版は存在しないことを確認し、対応機種はps5のみとした。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "elden-ring-nightreign",
+    "title": "ELDEN RING NIGHTREIGN",
+    "titleKana": "えるでんりんぐないとれいん",
+    "developerIds": [
+      "fromsoftware"
+    ],
+    "publisherId": "fromsoftware",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "roguelike",
+      "co-op"
+    ],
+    "releaseDate": "2025-05-30",
+    "synopsis": "プレイヤーは「夜渡り」となり、狭間の地を舞台にプロシージャル生成された土地リムベルドを最大3人で探索する。制限時間内にフィールドが縮小していく中、日々の終わりに待ち受ける強大な「夜の王」の撃破を目指す。『ELDEN RING』の世界観を継承しつつ、周回プレイを前提としたローグライク要素と協力プレイに特化させた派生作。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2025,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ELDEN_RING_NIGHTREIGN"
+    },
+    "sourceNote": "日本語版Wikipedia「ELDEN RING NIGHTREIGN」記事、および英語版Wikipedia記事(いずれも2026-08-03閲覧)で発売日(2025-05-30)・対応機種(PS4/PS5/Xbox/PC、Switch非対応を確認)・開発元(フロム・ソフトウェア)・国内発売元(フロム・ソフトウェア自社パブリッシング、海外はバンダイナムコエンターテインメント)・あらすじ・受賞歴(日本ゲーム大賞2025優秀賞受賞)を確認。The Game Awards 2025 Best Multiplayer Game等はノミネートのみで受賞に至っていないため未採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "monster-hunter-wilds",
+    "title": "モンスターハンターワイルズ",
+    "titleKana": "もんすたーはんたーわいるず",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2025-02-28",
+    "synopsis": "未踏の地「禁足地」の調査を任された調査団の一員として、季節ごとに姿を変える広大なフィールドでモンスターを狩る。遭難していた少年ナタとの出会いをきっかけに、大規模な自然環境の異変や未知のモンスターの謎を追うことになる。四季の移ろいとシームレスな環境がハンティングに影響を与え、拠点作りや仲間との連携も重要になる、シリーズ最新作。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2025,
+        "result": "優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モンスターハンターワイルズ"
+    },
+    "sourceNote": "日本語版Wikipedia「モンスターハンターワイルズ」記事、および英語版Wikipedia記事(いずれも2026-08-03閲覧)で発売日(2025-02-28)・開発元/発売元(カプコン)・あらすじ・受賞歴(日本ゲーム大賞2025優秀賞受賞、The Game Awards 2025 Best RPGはノミネートのみで未受賞のため不採用)を確認。Nintendo Switch2版は英語版Wikipediaに「開発中(発売時期未定)」との記述があるのみで本サイト時点(2026-08-03)で発売確認が取れなかったため対応機種はps5のみとした(要再確認)。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "persona-5-tactica",
+    "title": "ペルソナ5 タクティカ",
+    "titleKana": "ぺるそなふぁいぶ たくてぃか",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg"
+    ],
+    "releaseDate": "2023-11-17",
+    "synopsis": "喫茶店ルブランに集まった怪盗団の面々が、突如として異世界「王国」に迷い込む。そこで革命を目指す少女エルと出会い、圧政を敷く占領軍「レギオン」との戦いに加わることに。幼い政治家・春日部の心の傷が生み出したという王国を巡り、マス目状のフィールドで駆け引きするタクティカルバトルが展開される、ペルソナ5シリーズ初のスピンオフ作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ5_タクティカ"
+    },
+    "sourceNote": "日本語版Wikipedia「ペルソナ5 タクティカ」記事(2026-08-03閲覧)で発売日(2023-11-17、全対応機種同日)・対応機種(PS5/PS4/Xbox/Switch/PC、本DBではps5とswitchのみ採用)・開発元(アトラス)・あらすじを確認。発売元は国内では実質アトラスブランドのため、既存のpersona-5-royal等に倣いpublisherIdをatlusとした。既存のpersona-5-royal・persona-3-reloadとは別作品。受賞歴は確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]

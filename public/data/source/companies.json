@@ -781,5 +781,92 @@
     },
     "sourceNote": "日本語版Wikipedia「ユービーアイソフト」(2026-08-03閲覧)で設立年(1986年)・本社(フランス)・代表作を確認。マリオ+ラビッツシリーズの開発主体(ミラノ・パリスタジオ)は英語版Wikipediaで確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "retro-studios",
+    "name": "レトロスタジオ",
+    "nameKana": "れとろすたじお",
+    "parentCompany": "任天堂",
+    "description": "『メトロイドプライム』シリーズや『ドンキーコング トロピカルフリーズ』などを手がける、米国テキサス州オースティン拠点の開発スタジオ。任天堂の投資を受けて設立され、2002年に完全子会社化された。",
+    "foundedYear": 1998,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レトロスタジオ"
+    },
+    "sourceNote": "日本語版Wikipedia「レトロスタジオ」記事(2026-08-03閲覧)で設立年・任天堂完全子会社化の経緯・代表作(メトロイドプライムシリーズ、ドンキーコングリターンズ等)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ilca",
+    "name": "ILCA",
+    "nameKana": "いるか",
+    "description": "『ポケットモンスター ブリリアントダイヤモンド・シャイニングパール』などを手がける日本のゲーム開発・リアルタイムCG制作会社。『ニーア オートマタ』のムービー制作等にも参加している。",
+    "foundedYear": 2010,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ILCA"
+    },
+    "sourceNote": "日本語版Wikipedia「ILCA」記事(2026-08-03閲覧)で設立年(2010年10月)・概要・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sonic-team",
+    "name": "ソニックチーム",
+    "nameKana": "そにっくちーむ",
+    "parentCompany": "セガ",
+    "description": "『ソニック・ザ・ヘッジホッグ』シリーズを中心に手がける、セガ内の看板開発ブランド。2000年に一時分社化したが、2004年にセガへ再統合された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソニックチーム"
+    },
+    "sourceNote": "日本語版Wikipedia「ソニックチーム」記事(2026-08-03閲覧)で概要・2000年分社化/2004年セガ再統合の経緯を確認。前身チームの発足(1990年代初頭)・分社・再統合と節目が複数あり設立年を一意に確定できなかったためfoundedYearは未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tango-gameworks",
+    "name": "Tango Gameworks",
+    "nameKana": "たんごげーむわーくす",
+    "description": "三上真司が創業した日本のゲーム開発会社。『サイコブレイク』シリーズや『Ghostwire: Tokyo』『Hi-Fi RUSH』を手がける。2024年にベセスダ・ソフトワークスから閉鎖を発表されたが、同年KRAFTONが事業を継承し法人として存続している。",
+    "foundedYear": 2010,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Tango_Gameworks"
+    },
+    "sourceNote": "日本語版Wikipedia「Tango Gameworks」記事(2026-08-03閲覧)で設立年・代表作・2024年のベセスダによる閉鎖発表とKRAFTONによる事業継承の経緯を確認。Ghostwire: Tokyo発売当時(2022年)はベセスダ・ソフトワークス(ゼニマックス)傘下だった。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bethesda-softworks",
+    "name": "ベセスダ・ソフトワークス",
+    "nameKana": "べせすだそふとわーくす",
+    "parentCompany": "マイクロソフト(ゼニマックス・メディア経由)",
+    "description": "『The Elder Scrolls』『Fallout』シリーズなどで知られる米国のゲームパブリッシャー。2021年にマイクロソフトが親会社ゼニマックス・メディアを買収し、傘下に入った。",
+    "foundedYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベセスダ・ソフトワークス"
+    },
+    "sourceNote": "日本語版Wikipedia「ベセスダ・ソフトワークス」記事(2026-08-03閲覧)で設立年・概要・マイクロソフト傘下入りの経緯を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "arkane-lyon",
+    "name": "アーケイン・リヨン",
+    "nameKana": "あーけいんりよん",
+    "parentCompany": "ベセスダ・ソフトワークス(ゼニマックス・メディア/マイクロソフト)",
+    "description": "フランス・リヨン拠点のゲーム開発会社アーケイン・スタジオの中核スタジオ。『Dishonored』シリーズや『Prey』『Deathloop』を手がける。",
+    "foundedYear": 1999,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arkane_Studios"
+    },
+    "sourceNote": "英語版Wikipedia「Arkane Studios」記事(2026-08-03閲覧)で設立年(1999年)・代表作・マイクロソフト/ゼニマックス傘下である点を確認。日本語版Wikipediaには該当記事が見当たらず未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "creatures-inc",
+    "name": "クリーチャーズ",
+    "nameKana": "くりーちゃーず",
+    "description": "任天堂・ゲームフリークと共に『ポケットモンスター』の著作権を持つ企業の一社。ポケモンカードゲームや3DCGモデリング制作を担うほか、『帰ってきた名探偵ピカチュウ』などのスピンオフ作品も開発する。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クリーチャーズ"
+    },
+    "sourceNote": "日本語版Wikipedia「クリーチャーズ」記事(2026-08-03閲覧)で設立年・概要・ポケモン関連での役割を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
