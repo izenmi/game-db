@@ -2365,5 +2365,343 @@
     },
     "sourceNote": "日本語版Wikipedia、ファミ通記事で発売日(2022-01-28)を確認。開発元・発売元は既存companies.jsonのgame-freak/pokemon-companyを再利用。日本ゲーム大賞2022年間作品部門優秀賞を確認(CEDEC AWARDS 2022の受賞情報もあったが、既存9アワードの対象外のため未掲載)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pokemon-sword-shield",
+    "title": "ポケットモンスター ソード・シールド",
+    "titleKana": "ぽけっともんすたー そーど しーるど",
+    "developerIds": [
+      "game-freak"
+    ],
+    "publisherId": "pokemon-company",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2019-11-15",
+    "synopsis": "ガラル地方を舞台にしたシリーズ完全新作RPG。天候や環境によって出現するポケモンが変わる広大なフィールド「ワイルドエリア」を自由に歩き回りながら野生ポケモンと出会え、戦闘中にポケモンが巨大化して力を増す「ダイマックス」「キョダイマックス」が新要素として登場した。各地のジムに挑み、サッカースタジアムさながらの盛り上がりの中でチャンピオンを目指す王道の冒険を、地方色豊かな演出で描いている。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2020,
+        "result": "優秀賞・ベストセールス賞・グローバル賞(日本作品部門)受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_%E3%82%BD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89",
+      "officialUrl": "https://www.pokemon.co.jp/ex/sword_shield/"
+    },
+    "sourceNote": "日本語版Wikipedia・ファミ通記事・任天堂公式サイトで発売日(2019-11-15)、開発ゲームフリーク/発売元(株)ポケモンを確認。日本ゲーム大賞2020公式サイト(awards.cesa.or.jp/2020/prize/year/08.html)を直接確認し受賞内容(優秀賞・ベストセールス賞・グローバル賞日本作品部門)を確認。Switch専用ソフトで他機種版なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "super-mario-bros-wonder",
+    "title": "スーパーマリオブラザーズ ワンダー",
+    "titleKana": "すーぱーまりおぶらざーず わんだー",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2023-10-20",
+    "synopsis": "11年ぶりとなる横スクロール2Dマリオの完全新作。触れるとコースの地形やキャラクターが予測不能な姿へ変化する「ワンダーフラワー」がステージごとに仕掛けられており、驚きを軸にした奇想天外な展開が次々に待ち受ける。最大4人での協力プレイに対応し、象に変身する「ゾウマリオ」など新しい変身アクションも楽しめるシリーズの新機軸。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2023,
+        "result": "Best Family Game賞受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA_%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC",
+      "officialUrl": "https://www.nintendo.com/jp/switch/aqmxa/index.html"
+    },
+    "sourceNote": "日本語版Wikipedia・任天堂公式サイト・ファミ通記事でSwitch版発売日(2023-10-20)、開発・発売元任天堂を確認。The Game Awards 2023でBest Family Game受賞をGame*Spark記事で確認。Switch2版「Nintendo Switch 2 Edition + みんなでリンリンパーク」が2026-03-26に発売済み(ファミ通・gamebiz記事で確認)のためswitch2を追加。releaseDateは初出のSwitch版日付。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "paper-mario-origami-king",
+    "title": "ペーパーマリオ オリガミキング",
+    "titleKana": "ぺーぱーまりお おりがみきんぐ",
+    "developerIds": [
+      "intelligent-systems"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "rpg"
+    ],
+    "releaseDate": "2020-07-17",
+    "synopsis": "紙の姿をしたマリオたちが活躍するアクションアドベンチャー。折り紙の王オリーに姿を変えられてしまったピーチ城やキノコ王国の仲間たちを救うため、円形の盤面上で敵を輪状に囲み向きと位置を揃えてから攻撃する独自の戦闘システムや、フィールド自体を紙のように折り曲げて道を作り出す謎解きギミックを駆使しながらキノコ王国各地を旅していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA_%E3%82%AA%E3%83%AA%E3%82%AC%E3%83%9F%E3%82%AD%E3%83%B3%E3%82%B0",
+      "officialUrl": "https://www.nintendo.com/jp/switch/aruua/index.html"
+    },
+    "sourceNote": "日本語版Wikipedia・GAME Watch記事・任天堂公式サイトで発売日(2020-07-17)、開発インテリジェントシステムズ、発売元任天堂を確認。日本ゲーム大賞等での受賞情報は検索で見つからず未確認のためawardResultsは省略。Switch専用で他機種版なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "astral-chain",
+    "title": "アストラルチェイン",
+    "titleKana": "あすとらるちぇいん",
+    "developerIds": [
+      "platinumgames"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2019-08-30",
+    "synopsis": "近未来の東京を舞台に、異世界からの脅威「キメラ」に立ち向かう特命捜査官の活躍を描くオリジナルアクション。捕獲したキメラを鎖でつないだ相棒「レギオン」として呼び出し、自キャラと同時に操作して連携攻撃を仕掛ける二体同時操作の戦闘が特徴。街を歩いて住民から聞き込みを行い証拠を集める地道な捜査パートも用意されており、アクションと謎解きの両方を楽しめる構成になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ASTRAL_CHAIN",
+      "officialUrl": "https://www.nintendo.com/jp/switch/ab48a/index.html"
+    },
+    "sourceNote": "ファミ通・4Gamer・プラチナゲームズ公式サイト・任天堂公式サイトで発売日(2019-08-30)、開発プラチナゲームズ、発売元任天堂を確認。日本ゲーム大賞2019フューチャー部門での受賞有無は検索で確定できず、awardResultsは含めていない(未確認)。Switch専用で他機種版なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ring-fit-adventure",
+    "title": "リングフィット アドベンチャー",
+    "titleKana": "りんぐふぃっと あどべんちゃー",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fitness"
+    ],
+    "releaseDate": "2019-10-18",
+    "synopsis": "リング状の専用コントローラー「リングコン」と脚に装着する「レッグバンド」を使い、実際に体を動かしてプレイするフィットネスアドベンチャー。スクワットやもも上げ、腹筋などの運動そのものがゲーム内の攻撃技として扱われ、ダンジョンを走り抜けながら物語を進める中で無理なく運動習慣を続けられるよう工夫されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88_%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC",
+      "officialUrl": "https://www.nintendo.com/jp/ring/index.html"
+    },
+    "sourceNote": "日本語版Wikipedia・任天堂公式サイトで発売日(2019-10-18)、開発・発売元とも任天堂を確認。既存21ジャンルに該当なしのため新規ジャンル「fitness」を追加。Switch2向け専用エディションは存在せず(検索で「Switch2 Editionは発表・発売されていない」ことを確認、Joy-Con等周辺機器のみ)、platformsはswitchのみ。日本ゲーム大賞での受賞は確定情報を得られず未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "octopath-traveler",
+    "title": "オクトパストラベラー",
+    "titleKana": "おくとぱすとらべらー",
+    "developerIds": [
+      "acquire"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2018-07-13",
+    "synopsis": "ドット絵の質感と立体的な3Dグラフィックを融合させた「HD-2D」表現で描かれるRPG。復讐や探索など異なる境遇・目的を持つ8人の主人公から1人を選んで旅を始め、道中で他の主人公たちも仲間に加えながらそれぞれ独立した物語を体験していく。街の人々に「聞き出す」「誘う」などキャラクター固有のフィールドコマンドを使えるのも魅力。",
+    "awardResults": [
+      {
+        "awardId": "famitsu-awards",
+        "year": 2018,
+        "result": "優秀賞・最優秀ゲームミュージック賞・ルーキー賞受賞"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2018,
+        "result": "Nintendo Game of the Year受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AF%E3%83%88%E3%83%91%E3%82%B9%E3%83%88%E3%83%A9%E3%83%99%E3%83%A9%E3%83%BC",
+      "officialUrl": "https://www.jp.square-enix.com/octopathtraveler/"
+    },
+    "sourceNote": "スクウェア・エニックス公式サイトでSwitch版発売日(2018-07-13)、開発アクワイア/発売元スクウェア・エニックスを確認。PS5版は2024-06-06配信を複数報道で確認。Switch2版はダウンロード版が2026-07-13/14に配信開始(4Gamer記事で確認、パッケージ版10/1は今後発売のため未算入だがDL版既発売のためswitch2を対応機種に含めた)。ファミ通アワード2018・ゴールデンジョイスティックアワード2018の受賞はWeb検索の要約情報に基づく(一次ページ未直接確認のため念のため要再確認)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "octopath-traveler-2",
+    "title": "オクトパストラベラー2",
+    "titleKana": "おくとぱすとらべらーつー",
+    "developerIds": [
+      "acquire"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2023-02-24",
+    "synopsis": "前作から大陸ごと舞台を一新したシリーズ完全新作RPG。8人の新たな主人公たちがそれぞれの目的を胸に旅をし、昼と夜で表情を変える街並みや、夜間限定のフィールドコマンドなど前作から進化した要素を多数搭載している。引き続きHD-2Dグラフィックによる幻想的な風景描写が魅力で、物語の分岐や結末も主人公ごとに異なる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AF%E3%83%88%E3%83%91%E3%82%B9%E3%83%88%E3%83%A9%E3%83%99%E3%83%A9%E3%83%BCII",
+      "officialUrl": "https://www.jp.square-enix.com/octopathtraveler2/"
+    },
+    "sourceNote": "gamebiz・スクウェア・エニックス公式サイトでSwitch/PS4/PS5/Steam版が2023-02-24発売(Steam版のみ2/25)であることを確認、開発アクワイア/発売元スクウェア・エニックス。Switch2版ダウンロード配信が2026-07-13/14に開始済み(4Gamer記事)のためswitch2を対応機種に含めた。releaseDateは最速のSwitch/PS5版日付。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "triangle-strategy",
+    "title": "トライアングルストラテジー",
+    "titleKana": "とらいあんぐるすとらてじー",
+    "developerIds": [
+      "square-enix",
+      "artdink"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy"
+    ],
+    "releaseDate": "2022-03-04",
+    "synopsis": "塩・鉄・麦という三つの資源をめぐり三国が対立する世界を舞台にしたタクティクスRPG。高低差のあるHD-2Dマップ上でユニットの配置や地形を活かして戦う戦略的な戦闘に加え、物語の重要な局面でプレイヤー自身の信念に基づいた選択を行い、仲間たちの支持を集めて物語の分岐先を決める「賛否の天秤」というシステムが特徴的。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%83%86%E3%82%B8%E3%83%BC",
+      "officialUrl": "https://www.jp.square-enix.com/trianglestrategy/"
+    },
+    "sourceNote": "ファミ通・4Gamer記事でSwitch版発売日(2022-03-04)、開発スクウェア・エニックス浅野チーム&アートディンク、発売元スクウェア・エニックスを確認。PS5/Xbox Series X|S/PC版が2025-08-20に発売済みであることを4Gamer・ファミ通・電撃オンライン記事で確認(本日2026-08-03時点で既発売のためps5を対応機種に含めた)。日本ゲーム大賞での明確な受賞は確認できず未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dragon-quest-11-s-definitive-edition",
+    "title": "ドラゴンクエストXI S 過ぎ去りし時を求めて デフィニティブエディション",
+    "titleKana": "どらごんくえすとじゅういちえす すぎさりしときをもとめて でふぃにてぃぶえでぃしょん",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2019-09-27",
+    "synopsis": "無印版に新たな仲間エピソードやフルボイスの会話、3Dグラフィックと往年のドラクエ風2Dドット表示を切り替えられるモードなどを追加した決定版RPG。魔王を倒す勇者として生まれながら悪の化身と疑われ追われる主人公が、個性豊かな仲間と共に世界を巡り自らの出生と世界の謎に迫る王道の物語を、より豊かな演出で楽しめる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88XI_%E9%81%8E%E3%81%8E%E5%8E%BB%E3%82%8A%E3%81%97%E6%99%82%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6",
+      "officialUrl": "https://www.dragonquest.jp/"
+    },
+    "sourceNote": "日本語版Wikipedia・4Gamer・PlayStation Blogでスイッチ版「S」の発売日(2019-09-27)を確認。PS4版「S」は2020-12-04発売(PS5専用版ではないため対応機種に含めず)。Switch2版は2026-09-24発売予定と発表されている(4gamer・gamewith記事)が、本日時点(2026-08-03)ではまだ未発売のためplatformsから除外し、switchのみとした。無印版(2017年)が日本ゲーム大賞を受賞した記録はあるが、本エントリは「S」デフィニティブエディション単独のためawardResultsは含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "monster-hunter-stories-2",
+    "title": "モンスターハンターストーリーズ2 破滅の翼",
+    "titleKana": "もんすたーはんたーすとーりーずつー はめつのつばさ",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2021-07-09",
+    "synopsis": "モンスターと絆を結び共に戦う「モンスターライダー」となって冒険するRPGシリーズ第2弾。卵から孵した相棒モンスター「オトモン」を育成・進化させながら大陸を旅し、伝説のライダーだった祖父の足跡と、世界を揺るがす災厄「破滅の卵」をめぐる謎を追う少年少女の成長物語を、ターン制バトルと広大なフィールド探索を通じて描いていく作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%BA2_%E3%80%9C%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%E3%80%9C",
+      "officialUrl": "https://www.monsterhunter.com/stories2/ja/"
+    },
+    "sourceNote": "日本語版Wikipedia・カプコン公式サイトで発売日(2021-07-09)、開発・発売元ともカプコンを確認。PC(Steam)版もあるがPS5版は存在しないためplatformsはswitchのみ。日本ゲーム大賞等の受賞情報は検索で見つからず未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "xenoblade-definitive-edition",
+    "title": "ゼノブレイド ディフィニティブ・エディション",
+    "titleKana": "ぜのぶれいど でぃふぃにてぃぶえでぃしょん",
+    "developerIds": [
+      "monolith-soft"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "rpg",
+      "open-world"
+    ],
+    "releaseDate": "2020-05-29",
+    "synopsis": "2010年発売のWii用RPG「ゼノブレイド」のグラフィックを全面的に刷新し、遊びやすさも改善したSwitch版リメイク。倒れた二柱の神の亡骸の上に築かれた世界を舞台に、未来を映す剣「モナド」を手にした主人公が仲間と共に巨神と機神の争いの謎へ迫っていく壮大な物語を描く。後日談となる追加エピソード「つながる未来」も新規収録されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89",
+      "officialUrl": "https://www.nintendo.com/jp/switch/aubqa/index.html"
+    },
+    "sourceNote": "4Gamer・ファミ通記事でSwitch版発売日(2020-05-29)、開発モノリスソフト、発売元任天堂を確認。Switch2版「Nintendo Switch 2 Edition」はダウンロード版2026-06-10、パッケージ版2026-07-30に発売済み(gamesoft-navi等の記事で確認、いずれも本日2026-08-03より前)のためswitch2を対応機種に含めた。releaseDateは初出のSwitch版日付。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "shin-megami-tensei-5",
+    "title": "真・女神転生V",
+    "titleKana": "しん・めがみてんせい ふぁいぶ",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "open-world"
+    ],
+    "releaseDate": "2021-11-11",
+    "synopsis": "隕石落下で荒廃した渋谷と、そこから繋がる異世界「ダアト」を舞台にしたシリーズ本編最新作RPG。悪魔を仲魔として仲間にし、育成や合体を重ねながら広く自由なフィールドを探索し、人と悪魔が織りなす崩壊した世界の再構築をめぐる善悪では割り切れない選択の物語を体験する。後に追加ストーリー等を収録した「Vengeance」版も発売された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E3%83%BB%E5%A5%B3%E7%A5%9E%E8%BB%A2%E7%94%9FV",
+      "officialUrl": "https://www.atlus.co.jp/smt5/"
+    },
+    "sourceNote": "アトラス公式サイト・ファミ通記事で発売日(2021-11-11)、開発・発売元ともアトラスを確認。Switch専用タイトルでPS5版は存在しない(2024年発売の拡張版「Vengeance」はPS5/Xbox版もあるが別作品のため今回の調査対象外)。日本ゲーム大賞2021年間作品部門の大賞は「Ghost of Tsushima」「モンスターハンターライズ」であり、本作の優秀賞受賞有無は検索で確定できず未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fire-emblem-warriors-three-hopes",
+    "title": "ファイアーエムブレム無双 風花雪月",
+    "titleKana": "ふぁいあーえむぶれむむそう ふうかせつげつ",
+    "developerIds": [
+      "omega-force",
+      "intelligent-systems"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "musou-action"
+    ],
+    "releaseDate": "2022-06-24",
+    "synopsis": "「ファイアーエムブレム 風花雪月」と同じフォドラ大陸を舞台にした、コーエーテクモの無双アクションとのコラボ作品。名も無き傭兵となった主人公が原作三学級いずれかの陣営に加わり、一騎当千で多数の敵兵をなぎ倒す爽快なバトルを繰り広げながら、原作の卒業前後で分岐する短い期間に的を絞り、原作とは異なる展開を辿る新たな歴史のifストーリーを体験する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%A8%E3%83%A0%E3%83%96%E3%83%AC%E3%83%A0%E7%84%A1%E5%8F%8C_%E9%A2%A8%E8%8A%B1%E9%9B%AA%E6%9C%88",
+      "officialUrl": "https://www.gamecity.ne.jp/fe_fs/"
+    },
+    "sourceNote": "ファミ通・GAME Watch記事・コーエーテクモ公式サイトで発売日(2022-06-24)、発売元コーエーテクモゲームスを確認。開発はコーエーテクモ内スタジオ「オメガフォース」を主体に任天堂・インテリジェントシステムズが協力する3社共同開発であることをファミ通インタビュー記事で確認。「ファイアーエムブレム 風花雪月」(fire-emblem-three-houses)とは別作品として区別。無双アクションを表す既存ジャンルタグがないため新規ジャンル「musou-action」を追加。Switch専用で他機種版なし。",
+    "updatedAt": "2026-08-03"
   }
 ]

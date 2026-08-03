@@ -603,5 +603,42 @@
     },
     "sourceNote": "英語版Wikipediaで設立(2002年5月、Rebel Act Studios出身メンバーが設立)と代表作を確認。日本語版Wikipedia記事は未確認(存在しない可能性あり、Weblio辞書に簡易記載のみ)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "acquire",
+    "name": "アクワイア",
+    "nameKana": "あくわいあ",
+    "description": "「立体忍者活劇 天誅」で知られ、近年はHD-2Dグラフィックの「オクトパストラベラー」シリーズを開発する日本のゲーム会社。",
+    "foundedYear": 1994,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AF%E3%82%A4%E3%82%A2_(%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE)"
+    },
+    "sourceNote": "日本語版Wikipedia「アクワイア (ゲーム会社)」で1994年創業(1998年株式会社化)・代表作を確認。オクトパストラベラーシリーズの開発元であることはスクウェア・エニックス公式サイト等の複数報道で確認済み。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "artdink",
+    "name": "アートディンク",
+    "nameKana": "あーとでぃんく",
+    "description": "「A列車で行こう」シリーズなどのシミュレーションゲームで知られる老舗デベロッパー。「トライアングルストラテジー」ではスクウェア・エニックスと共同開発を担当した。",
+    "foundedYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%88%E3%83%87%E3%82%A3%E3%83%B3%E3%82%AF"
+    },
+    "sourceNote": "日本語版Wikipedia「アートディンク」で1986年設立・代表作を確認。トライアングルストラテジーの開発がスクウェア・エニックスとアートディンクの共同であることはファミ通ニュース記事で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "omega-force",
+    "name": "オメガフォース",
+    "nameKana": "おめがふぉーす",
+    "parentCompany": "koei-tecmo",
+    "description": "コーエーテクモゲームス内の開発チーム・ブランド。「無双シリーズ」を中心に多数のアクションゲームを手掛け、「ファイアーエムブレム無双」シリーズの開発も担当する。",
+    "foundedYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A1%E3%82%AC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9"
+    },
+    "sourceNote": "日本語版Wikipedia「オメガフォース」で1996年設立・コーエーテクモ内部スタジオである旨を確認。ファイアーエムブレム無双 風花雪月の開発への関与はファミ通インタビュー記事等で確認(任天堂・インテリジェントシステムズとの3社共同開発)。",
+    "updatedAt": "2026-08-03"
   }
 ]
