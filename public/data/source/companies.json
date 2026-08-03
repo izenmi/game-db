@@ -2711,5 +2711,225 @@
     },
     "sourceNote": "日本語版Wikipedia『2XKO』(2026-08-03閲覧)で開発・発売元がライアットゲームズであることを確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dual-effect",
+    "name": "Dual Effect",
+    "nameKana": "でゅある えふぇくと",
+    "description": "アルゼンチンのインディーゲーム開発スタジオ。クラシックなサバイバルホラーへのオマージュ作『Tormented Souls』を開発した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tormented_Souls"
+    },
+    "sourceNote": "英語版Wikipedia『Tormented Souls』記事(2026-08-03 WebFetch閲覧)で開発元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "pqube",
+    "name": "PQube",
+    "nameKana": "ぴーきゅーぶ",
+    "description": "英国のゲームパブリッシャー。『Tormented Souls』等、海外インディー・日本製ゲームの欧米向けローカライズ・発売を手掛ける。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tormented_Souls"
+    },
+    "sourceNote": "英語版Wikipedia『Tormented Souls』記事(2026-08-03 WebFetch閲覧)で発売元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sfb-games",
+    "name": "SFB Games",
+    "nameKana": "えすえふびー げーむす",
+    "description": "レトロな固定カメラ演出のサバイバルホラー『Crow Country』を開発・自社発売したインディースタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Crow_Country"
+    },
+    "sourceNote": "英語版Wikipedia『Crow Country』記事(2026-08-03 WebFetch閲覧)で開発・発売元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bloodious-games",
+    "name": "Bloodious Games",
+    "nameKana": "ぶらでぃあす げーむす",
+    "description": "アルゼンチンのインディースタジオ。カメラを用いた一人称心理ホラー『MADiSON』を開発した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MADiSON_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『MADiSON (video game)』記事(2026-08-03 WebFetch閲覧)で開発元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "perpetual-games",
+    "name": "Perpetual Games",
+    "nameKana": "ぱーぺちゅある げーむす",
+    "description": "『MADiSON』のコンシューマ版国際発売を手掛けたパブリッシャー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MADiSON_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『MADiSON (video game)』記事(2026-08-03 WebFetch閲覧)で発売元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "two-star-games",
+    "name": "Two Star Games",
+    "nameKana": "つー すたー げーむす",
+    "description": "怪物機関車から逃げるオープンワールドサバイバルホラー『チューチュー・チャールズ』を開発・自社発売したインディースタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チューチュー・チャールズ"
+    },
+    "sourceNote": "日本語版Wikipedia『チューチュー・チャールズ』記事(2026-08-03 WebFetch閲覧)で開発・発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mob-entertainment",
+    "name": "Mob Entertainment",
+    "nameKana": "もぶ えんたーていんめん",
+    "description": "旧称MOB Games。おもちゃ工場を舞台にしたパズルサバイバルホラー『Poppy Playtime』シリーズを手掛ける米国のインディースタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mob_Entertainment"
+    },
+    "sourceNote": "英語版Wikipedia『Mob Entertainment』記事(2026-08-03 WebFetch閲覧)で開発・発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "darkstone-digital",
+    "name": "DarkStone Digital",
+    "nameKana": "だーくすとーん でじたる",
+    "description": "一人称ホラー『The Mortuary Assistant』を開発したインディースタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Mortuary_Assistant"
+    },
+    "sourceNote": "英語版Wikipedia『The Mortuary Assistant』記事(2026-08-03 WebFetch閲覧)で開発元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dreadxp",
+    "name": "DreadXP",
+    "nameKana": "どれっどえっくすぴー",
+    "description": "ホラーゲーム専門の米国パブリッシャー・メディア。『The Mortuary Assistant』『Amanda the Adventurer』等を発売する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Mortuary_Assistant"
+    },
+    "sourceNote": "英語版Wikipedia『The Mortuary Assistant』記事(2026-08-03 WebFetch閲覧)で発売元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "airdorf-games",
+    "name": "Airdorf Games",
+    "nameKana": "えあどーふ げーむす",
+    "description": "レトロ8ビット風グラフィックのホラー『FAITH: The Unholy Trinity』を開発した個人・小規模インディースタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faith:_The_Unholy_Trinity"
+    },
+    "sourceNote": "英語版Wikipedia『Faith: The Unholy Trinity』記事(2026-08-03 WebFetch閲覧)で開発元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "new-blood-interactive",
+    "name": "New Blood Interactive",
+    "nameKana": "にゅー ぶらっど いんたらくてぃぶ",
+    "description": "2014年設立の米国インディーパブリッシャー。『DUSK』『ULTRAKILL』『FAITH: The Unholy Trinity』等を発売する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faith:_The_Unholy_Trinity"
+    },
+    "sourceNote": "英語版Wikipedia『Faith: The Unholy Trinity』記事および同社概要(2026-08-03 WebFetch閲覧)で発売元として確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mangledmaw-games",
+    "name": "MANGLEDmaw Games",
+    "nameKana": "まんぐるどまう げーむす",
+    "description": "レトロ子供番組を模したアナログホラー『Amanda the Adventurer』シリーズを開発したインディースタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanda_the_Adventurer"
+    },
+    "sourceNote": "英語版Wikipedia『Amanda the Adventurer』記事(2026-08-03 WebFetch閲覧)で開発元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "invader-studios",
+    "name": "Invader Studios",
+    "nameKana": "いんべーだー すたじお",
+    "description": "『バイオハザード2』非公式ファンリメイクの制作で注目を集めたイタリアのスタジオ。オリジナルサバイバルホラー『Daymare』シリーズを手掛ける。",
+    "externalLinks": {
+      "officialUrl": "https://invaderstudios.com/"
+    },
+    "sourceNote": "英語版Wikipedia『Daymare: 1994 Sandcastle』記事(2026-08-03 WebFetch閲覧)で開発元として確認。会社単独のWikipedia記事は見当たらず、公式サイトURLで補足。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "leonardo-interactive",
+    "name": "Leonardo Interactive",
+    "nameKana": "れおなるど いんたらくてぃぶ",
+    "description": "『Daymare』シリーズ等を発売するパブリッシャー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daymare:_1994_Sandcastle"
+    },
+    "sourceNote": "英語版Wikipedia『Daymare: 1994 Sandcastle』記事(2026-08-03 WebFetch閲覧)で発売元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "baroque-decay",
+    "name": "Baroque Decay",
+    "nameKana": "ばろっく でけい",
+    "description": "ドット絵の企業サバイバルホラー『Yuppie Psycho』を開発したインディースタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yuppie_Psycho"
+    },
+    "sourceNote": "英語版Wikipedia『Yuppie Psycho』記事(2026-08-03 WebFetch閲覧)で開発元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "neon-doctrine",
+    "name": "Neon Doctrine",
+    "nameKana": "ねおん どくとりん",
+    "description": "『Yuppie Psycho』等を発売するインディーパブリッシャー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yuppie_Psycho"
+    },
+    "sourceNote": "英語版Wikipedia『Yuppie Psycho』記事(2026-08-03 WebFetch閲覧)で発売元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sadsquare-studio",
+    "name": "SadSquare Studio",
+    "nameKana": "さっどすくえあ すたじお",
+    "description": "一人称心理ホラー『Visage』を開発・自社発売したインディースタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Visage_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Visage (video game)』記事(2026-08-03 WebFetch閲覧)で開発・発売元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "moonless-formless",
+    "name": "Moonless Formless",
+    "nameKana": "むーんれす ふぉーむれす",
+    "description": "米シアトルの小規模スタジオ。『クロックタワー』を思わせる横視点ホラーローグライク『Withering Rooms』を開発した。",
+    "externalLinks": {
+      "officialUrl": "https://witheringrooms.com/"
+    },
+    "sourceNote": "公式サイト witheringrooms.com および4Gamer記事(2024-02-19、2026-08-03 WebFetch閲覧)で開発元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "perp-games",
+    "name": "Perp Games",
+    "nameKana": "ぱーぷ げーむす",
+    "description": "英国の物理パッケージ版専門パブリッシャー。インディータイトルのPS5/Switch向けパッケージ流通を手掛ける(『Withering Rooms』等)。",
+    "externalLinks": {
+      "officialUrl": "https://perpgames.com/"
+    },
+    "sourceNote": "公式サイト witheringrooms.com(2026-08-03 WebFetch閲覧)で発売元として確認。会社単独のWikipedia記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "behaviour-interactive",
+    "name": "Behaviour Interactive",
+    "nameKana": "びへいびあ いんたらくてぃぶ",
+    "description": "1992年設立、カナダ・モントリオール拠点のゲーム会社。非対称対戦サバイバルホラー『Dead by Daylight』で知られ、『The Casting of Frank Stone』を発売した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Behaviour_Interactive"
+    },
+    "sourceNote": "英語版Wikipedia『Behaviour Interactive』記事(2026-08-03 WebFetch閲覧)で設立年・概要・発売元としての役割を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

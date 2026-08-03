@@ -8727,5 +8727,426 @@
     },
     "sourceNote": "日本語版Wikipedia『2XKO』(2026-08-03閲覧)で開発元・発売元(ライアットゲームズ)・PS5正式リリース日(2026-01-21)・PC早期アクセス開始日(2025-10-08)を確認。The Game Awards 2025でBest Fighting Game候補に選出されたが受賞したのは餓狼伝説 City of the Wolvesであるため受賞歴には含めていない。Switch版は確認できず対応機種に含めていない。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tormented-souls",
+    "title": "Tormented Souls",
+    "titleKana": "とーめんてっど そうるず",
+    "developerIds": [
+      "dual-effect"
+    ],
+    "publisherId": "pqube",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-07-28",
+    "synopsis": "カナダ人女性キャロラインは、双子の姉妹を写した謎の写真を受け取り、廃墟と化した病院へ足を踏み入れる。固定カメラと硬直した操作感でかつての名作サバイバルホラーを彷彿させる本作は、彼女自身が生き別れた双子の一人だったという過去や、カルト教団による人体実験の真相を、限られた弾薬とパズル攻略を通して解き明かしていく。選択によって結末が分岐する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tormented_Souls"
+    },
+    "sourceNote": "英語版Wikipedia『Tormented Souls』(2026-08-03 WebFetch)で開発元Dual Effect・発売元PQube、世界初出のPS5版(2021-08-27)・Switch版(2022-04-14)発売日を確認。国内向けはファミ通記事(2022-06-30、Switch版7月28日発売決定)・4Gamer記事(2022-07-28、Switch版本日リリース。PS5版まとめページで2022-09-22発売と確認)で日本語対応版の発売日を確認し、releaseDateは国内Switch版初出日(2022-07-28)を採用した。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "crow-country",
+    "title": "Crow Country",
+    "titleKana": "くろう かんとりー",
+    "developerIds": [
+      "sfb-games"
+    ],
+    "publisherId": "sfb-games",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2024-10-17",
+    "synopsis": "1990年、閉園し廃墟となったテーマパーク「クロウ・カントリー」を、失踪した経営者エドワード・クロウを追って捜査官マーラ・フォレストが訪れる。園内には奇妙な鉱脈から生まれた化物が徘徊しており、限られた薬品や武器を工夫しながらパズルを解いて謎を追う、初代プレイステーション時代を思わせる固定視点のサバイバルホラー。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2024,
+        "result": "Best Indie Game - Self-Published部門(ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Crow_Country"
+    },
+    "sourceNote": "英語版Wikipedia『Crow Country』(2026-08-03 WebFetch)で開発・発売元SFB Games、受賞歴(Golden Joystick Awards 2024ノミネート)を確認。4Gamer記事(2024-10-17、日本語版PC・Switch本日リリース。PS5/PS4/Xbox版は2024-10-23)で国内発売日を確認しreleaseDateは国内Switch版初出日を採用。ファミ通記事(2024-10-19)でも日本語対応を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "madison",
+    "title": "MADiSON",
+    "titleKana": "までぃそん",
+    "developerIds": [
+      "bloodious-games"
+    ],
+    "publisherId": "perpetual-games",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "horror",
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2024-07-04",
+    "synopsis": "16歳の誕生日に呪われたポラロイドカメラを譲り受けた少年ルカは、そのカメラを介してかつての殺人鬼の霊に操られ、悪魔を人間の器に降臨させる儀式に加担させられていく。写真を撮ることで幻視や隠された仕掛けを暴きながら屋敷の謎を追う一人称視点の心理ホラーで、戦闘要素をほとんど排し、カメラ越しの演出による恐怖体験に特化している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MADiSON_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『MADiSON (video game)』(2026-08-03 WebFetch)で開発元Bloodious Games・発売元Perpetual Games、世界初出のPC/PS4/PS5版(2022-07-08)・Switch版(2022-08-26)を確認。国内向けは電撃オンライン記事(2024-04-03、PS5/Switch日本語パッケージ版7/4発売)・4Gamer記事(2024-07-04、コンシューマ版デジタル販売開始)で日本語対応版の発売日を確認し、releaseDateは国内デジタル版発売日(2024-07-04)を採用(パッケージ版は2024-07-11)。受賞歴はNYX Game Awards/Shacknews等で確認できるがいずれも既存9賞の対象外のため未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "choo-choo-charles",
+    "title": "Choo-Choo Charles",
+    "titleKana": "ちゅーちゅー ちゃーるず",
+    "developerIds": [
+      "two-star-games"
+    ],
+    "publisherId": "two-star-games",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "open-world",
+      "action-adventure"
+    ],
+    "releaseDate": "2023-12-21",
+    "synopsis": "蜘蛛のような姿の機関車型モンスター「チャールズ」が徘徊する孤島を舞台に、主人公は改造可能な小型機関車を駆って線路を駆け巡る。島に点在する住民を助けて武器や部品を集めながら罠を仕掛け、最終的にチャールズを打ち倒すことを目指すオープンワールドサバイバルホラー。探索・資源集め・追跡戦の3要素を組み合わせ、線路を外れた徒歩移動も可能。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チューチュー・チャールズ"
+    },
+    "sourceNote": "日本語版Wikipedia『チューチュー・チャールズ』(2026-08-03 WebFetch)で開発・発売元Two Star Games、Switch/PS4/PS5/Xbox版が2023-12-21発売であることを確認。releaseDateはこの日付を採用。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "poppy-playtime",
+    "title": "Poppy Playtime",
+    "titleKana": "ぽぴー ぷれいたいむ",
+    "developerIds": [
+      "mob-entertainment"
+    ],
+    "publisherId": "mob-entertainment",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "horror",
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-12-21",
+    "synopsis": "謎の招待状を受け取った元従業員が、社員全員が忽然と姿を消したおもちゃ工場プレイタイム社に舞い戻り、意思を持って動き出したぬいぐるみたちから逃げながら失踪の真相を追う一人称パズルホラー。伸縮する腕型の道具GrabPackを使って高所の足場や配線の仕掛けを解きながら工場の奥へ進む。国内ではチャプター1〜3をまとめたパッケージ版として発売された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poppy_Playtime"
+    },
+    "sourceNote": "英語版Wikipedia『Poppy Playtime』(2026-08-03 WebFetch)で開発・発売元Mob Entertainment(旧MOB Games)、ジャンル(puzzle survival horror)を確認。ファミ通記事(2023-12-18、チャプター1がSwitch/PS5/PS4で12月21日発売)で国内発売日を確認しreleaseDateに採用。4Gamer記事(2025-06-11)でチャプター1〜3を収録した「ポピープレイタイム トリプルパック」PS5/Switchパッケージ版が2025-09-04に国内発売されたことを確認、本エントリはこのパッケージ版を含む形でチャプター1〜3を対象とする。Indie Live Expo Awardsノミネートは既存9賞の対象外のため未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-mortuary-assistant",
+    "title": "The Mortuary Assistant",
+    "titleKana": "ざ もーちゅありー あしすたんと",
+    "developerIds": [
+      "darkstone-digital"
+    ],
+    "publisherId": "dreadxp",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2023-04-20",
+    "synopsis": "1998年のコネチカット州、葬儀社に新しく雇われた遺体防腐処理師レベッカは、運び込まれたある遺体に悪魔が取り憑いていることに気づく。悪魔祓いの儀式で正体を見抜けなければ自らが乗っ取られてしまう緊張感の中、日々の防腐処理業務と並行して館内を調べ、悪魔の正体を暴いていく一人称視点のウォーキングシミュレーター型ホラー。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Mortuary_Assistant"
+    },
+    "sourceNote": "英語版Wikipedia『The Mortuary Assistant』(2026-08-03 WebFetch)で開発元DarkStone Digital・発売元DreadXP、Switch版(2023-04-20)・PS5版(2024-08-02、Definitive Edition同時アップデート)の発売日を確認。国内向け日本語ローカライズの有無は未確認のため、世界同時配信日をreleaseDateとして採用した(2025年1月にPS5/Switch向け限定パッケージ版が発売されたこともIMDb記事で確認)。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "faith-the-unholy-trinity",
+    "title": "FAITH: The Unholy Trinity",
+    "titleKana": "ふぇいす",
+    "developerIds": [
+      "airdorf-games"
+    ],
+    "publisherId": "new-blood-interactive",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2024-10-10",
+    "synopsis": "カトリック司祭ジョン・ウォードは、かつて失敗に終わった悪魔祓いのやり直しから始まり、カルト教団の儀式を追う中で自身のトラウマと向き合っていく三章構成のホラー。ファミコン以前の8ビット風グラフィックとチップチューンが醸す不穏な演出が特徴で、悪魔の召喚を阻止するため聖水や十字架を手に、悪霊と対峙しながら屋敷や森を探索する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faith:_The_Unholy_Trinity"
+    },
+    "sourceNote": "英語版Wikipedia『Faith: The Unholy Trinity』(2026-08-03 WebFetch)で開発元Airdorf Games・発売元New Blood Interactive、Switch版(2024-10-10)・PS5版(2026-04-09)の発売日を確認(Xbox版は2025-10-23)。国内向け日本語ローカライズの有無は未確認のため世界配信日をreleaseDateとして採用。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "amanda-the-adventurer",
+    "title": "Amanda the Adventurer",
+    "titleKana": "あまんだ じ あどべんちゃらー",
+    "developerIds": [
+      "mangledmaw-games"
+    ],
+    "publisherId": "dreadxp",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-09-19",
+    "synopsis": "主人公ライリーは、亡くなった伯母の家に残されていた昔の子供向け番組「アマンダ・ジ・アドベンチャラー」のビデオテープを発見し、視聴と課題を進めるうちに、番組を制作した会社が行方不明の子どもたちを使い実験を行っていた過去に気づいていく。レトロな教育番組を装った映像が徐々に不気味さを増していくアナログホラー形式のパズルゲーム。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanda_the_Adventurer"
+    },
+    "sourceNote": "英語版Wikipedia『Amanda the Adventurer』(2026-08-03 WebFetch)で開発元MANGLEDmaw Games・発売元DreadXP、Switch版(2023-09-19)・PS4/PS5版(2024-10-10)の発売日を確認。国内向け日本語ローカライズの有無は未確認のため世界配信日をreleaseDateとして採用。続編(2作目2024年、3作目2026年)は本エントリには含めない(シリーズ最初の第1作のみを対象とする)。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "daymare-1994-sandcastle",
+    "title": "Daymare: 1994 Sandcastle",
+    "titleKana": "でいめあ 1994 さんどきゃっする",
+    "developerIds": [
+      "invader-studios"
+    ],
+    "publisherId": "leonardo-interactive",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "shooter",
+      "puzzle"
+    ],
+    "releaseDate": "2023-08-30",
+    "synopsis": "1994年、謎の生物兵器の流出により外部との通信が途絶えたエリア51。現地へ派遣された特殊部隊の隊員は、施設内を徘徊する怪物たちと交戦しながら生存者を捜索し、隠蔽された実験の真相に迫っていく。三人称視点で銃器を用いた戦闘を主体としたサバイバルホラーで、後年の惨劇を描く『Daymare: 1998』の前日譚に位置づけられる作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daymare:_1994_Sandcastle"
+    },
+    "sourceNote": "英語版Wikipedia『Daymare: 1994 Sandcastle』(2026-08-03 WebFetch)で開発元Invader Studios・発売元Leonardo Interactive、PS4/PS5/Xbox/PC版(2023-08-30)発売を確認。Switch版は英語版Wikipediaで「2025年1月」と記載(正確な日付は未確認)。日本の物理版販売元Beep Japanの商品ページ(2026-08-03 WebFetch)ではSwitch版発売日が当初「2024年9月5日予定」と案内されていたが、実際の発売は2025年1月に延期されたとみられる(Wikipedia記載と整合)。releaseDateはPS5版世界初出日を採用。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "yuppie-psycho-executive-edition",
+    "title": "Yuppie Psycho: Executive Edition",
+    "titleKana": "やっぴー さいこ えぐぜくてぃぶ えでぃしょん",
+    "developerIds": [
+      "baroque-decay"
+    ],
+    "publisherId": "neon-doctrine",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "puzzle",
+      "horror"
+    ],
+    "releaseDate": "2020-10-29",
+    "synopsis": "大企業シントラコープに新卒採用された主人公ブライアン・パスタルナックは、自分の本当の仕事が社内に潜む魔女狩りだと知らされる。長年にわたり会社を裏から蝕んできた魔女の正体を暴くため、限られたアイテムを頼りに戦闘をなるべく避けて隠れながら手がかりを集め謎を解いていく。レトロなドット絵と社会風刺の効いたブラックユーモアが同居するサバイバルホラーRPG。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yuppie_Psycho"
+    },
+    "sourceNote": "英語版Wikipedia『Yuppie Psycho』(2026-08-03 WebFetch)で開発元Baroque Decay・発売元Neon Doctrine、Switch版Executive Edition(2020-10-29)の発売日を確認。PS5版は2022年にGematsu記事で発売告知があったものの、Wikipedia本文・GameFAQs等ではPS4版(2023-01-11)の記載のみでPS5版が実際に発売されたか確証が得られなかったため、対応機種にはSwitchのみを含めた(PS5は見送り)。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "resident-evil-7-biohazard",
+    "title": "バイオハザード7 レジデント イービル",
+    "titleKana": "ばいおはざーど せぶん れじでんと いーびる",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "shooter",
+      "action-adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-06-14",
+    "synopsis": "失踪した妻ミアの手がかりを追う主人公イーサンは、ルイジアナ州の辺鄙な洋館でベイカー一家に捕らえられてしまう。一家は謎の少女エヴリンが生み出した特異な菌に汚染され豹変しており、イーサンは屋敷や周辺の製材所・沼地を探索しながら反撃の手段を集め脱出を目指す。シリーズの原点回帰として一人称視点を採用し、狭い屋敷内での緊迫した探索を重視したサバイバルホラー。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2017,
+        "result": "年間作品部門優秀賞"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2017,
+        "result": "Best VR Game"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2017,
+        "result": "Best VR/AR Game"
+      },
+      {
+        "awardId": "playstation-awards",
+        "year": 2017,
+        "result": "Gold Prize・ユーザーズチョイス賞・PlayStation VR賞"
+      },
+      {
+        "awardId": "sxsw-gaming-awards",
+        "year": 2018,
+        "result": "VR Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バイオハザード7_レジデント_イービル"
+    },
+    "sourceNote": "日本語版Wikipedia『バイオハザード7 レジデント イービル』(2026-08-03 WebFetch)で開発・発売元カプコン、受賞歴、対応プラットフォームを確認。原作は2017年にPS4/Xbox One/PC向けに発売されたが本サイトの対応機種基準では対象外のため含めていない。本サイトが対応機種として含むのはPS5/Xbox Series X|S版(国内2022-06-14発売)とNintendo Switch 2版(『ゴールドエディション グロテスクVer.』として2026-02-27発売、2026-08-03時点で発売済み)の2つで、releaseDateはこのうち最速のPS5版発売日を採用した。旧来のSwitch(無印)版はクラウド版のみのため対応機種に含めていない。受賞歴はVRモードでの受賞を含むが作品自体への表彰のため掲載した。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "visage",
+    "title": "Visage",
+    "titleKana": "びさーじゅ",
+    "developerIds": [
+      "sadsquare-studio"
+    ],
+    "publisherId": "sadsquare-studio",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2021-11-11",
+    "synopsis": "郊外の一軒家で一家惨殺事件を起こした男ドウェインの視点から、1961年から1985年にかけてこの家に住んだ複数の住人たちの悲劇を追体験していく一人称心理ホラー。悪魔に取り憑かれた子供や精神を病んだ老夫婦、重度の妄想に苛まれる男の記憶をそれぞれ辿るうち、ドウェイン自身のアルコール依存と家族崩壊にまつわる真相へとたどり着く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Visage_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Visage (video game)』(2026-08-03 WebFetch)で開発・発売元SadSquare Studio、PS5版発売日(2021-11-11)を確認。Nintendo Switch版は関連記事・Wikipediaいずれでも確認できず、対応機種にはPS5のみを含めた。国内向け日本語ローカライズの有無は未確認のため世界配信日をreleaseDateとして採用。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "withering-rooms",
+    "title": "Withering Rooms",
+    "titleKana": "うぃざりんぐ るーむず",
+    "developerIds": [
+      "moonless-formless"
+    ],
+    "publisherId": "perp-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "horror",
+      "action-rpg"
+    ],
+    "releaseDate": "2024-04-05",
+    "synopsis": "精神病院に入院していた少女は、夜ごと怪物に追われる悪夢を繰り返し見る。手続き生成によって毎晩レイアウトが変わるヴィクトリア朝の洋館を舞台に、武器や魔法のアーティファクトを集めて敵と戦い謎を解いていく横視点のホラーアクション。死亡すると所持品の大半を失い館の配置も変わるローグライク要素を採用している。",
+    "externalLinks": {
+      "officialUrl": "https://witheringrooms.com/"
+    },
+    "sourceNote": "公式サイトwitheringrooms.com(2026-08-03 WebFetch)で開発元Moonless Formless・発売元Perp Games、PS5版発売日(2024-04-05)を確認。4Gamer記事(2024-02-19)では正式リリース日を「4月2日」と報じていたが、公式サイトの記載(4月5日)を優先して採用した。英語版Wikipediaは同名記事が見当たらず参照できなかった。Nintendo Switch版は開発元コメント等から未発売と判断し対応機種に含めていない。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-quarry",
+    "title": "The Quarry",
+    "titleKana": "ざ くぉーりー",
+    "developerIds": [
+      "supermassive-games"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-06-10",
+    "synopsis": "最後の夜を迎えたキャンプ場ハケッツ・クオリーに取り残された9人の若きカウンセラーたちが、森に潜む謎の獣人や地元住民の脅威に直面する。プレイヤーの選択で生死や展開が枝分かれする分岐型ドラマで、186通りにも及ぶ結末が用意されている。古典的なスラッシャー映画へのオマージュを随所に散りばめたインタラクティブホラー。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Innovation in Accessibility(ノミネート)"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2022,
+        "result": "Best Performer(Ted Raimi、ノミネート)"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2023,
+        "result": "Performer in a Leading Role(Siobhan Williams、ノミネート)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Quarry_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『The Quarry (video game)』(2026-08-03 WebFetch)で開発元Supermassive Games・発売元2K、発売日(2022-06-10、PS4/PS5/Xbox/PC同時)、受賞歴(The Game Awards 2022・Golden Joystick Awards 2022・BAFTA Games Awards 2023のノミネート)を確認。国内向け日本語ローカライズの有無は未確認のため世界配信日をreleaseDateとして採用。PS4版・Xboxクラウド版は対応機種から除外しPS5のみ含めた。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "the-casting-of-frank-stone",
+    "title": "The Casting of Frank Stone",
+    "titleKana": "ざ きゃすてぃんぐ おぶ ふらんく すとーん",
+    "developerIds": [
+      "supermassive-games"
+    ],
+    "publisherId": "behaviour-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2024-09-03",
+    "synopsis": "1963年・1980年・2024年という3つの時代を行き来しながら、廃工場でホラー映画を撮影していた若者たちが偶然呼び覚ましてしまった連続殺人鬼フランク・ストーンの怨念を描く。次元を超えた存在や時間移動の要素を絡めた複数キャラクター群像劇で、プレイヤーの選択によって生存者や結末が変化するインタラクティブドラマ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Casting_of_Frank_Stone"
+    },
+    "sourceNote": "英語版Wikipedia『The Casting of Frank Stone』(2026-08-03 WebFetch)で開発元Supermassive Games・発売元Behaviour Interactive(『Dead by Daylight』世界観の関連作)、発売日(2024-09-03、PS5/Xbox Series/PC)を確認。国内向け日本語ローカライズの有無は未確認のため世界配信日をreleaseDateとして採用。Nintendo Switch版・PS4版は存在しないため対応機種に含めていない。受賞歴は確認できず。",
+    "updatedAt": "2026-08-03"
   }
 ]
