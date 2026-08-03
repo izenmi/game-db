@@ -1,5 +1,5 @@
-import { useMemo, useState } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { useMemo } from "react";
+import { Link } from "react-router-dom";
 import { getCounts, getGenres, getGames } from "../../data/manifest";
 import type { GameGenerated } from "../../types";
 import { useAsyncData } from "../common/useAsyncData";
@@ -68,9 +68,6 @@ export function HomePage() {
   const state = useAsyncData(getCounts, []);
   const gamesState = useAsyncData(getGames, []);
   const genresState = useAsyncData(getGenres, []);
-  const [q, setQ] = useState("");
-  const navigate = useNavigate();
-
   const pickupGames = useMemo(
     () => (gamesState.status === "ready" ? pickRandomGames(gamesState.data, PICKUP_COUNT) : []),
     [gamesState]
@@ -105,11 +102,6 @@ export function HomePage() {
     },
   });
 
-  function handleSearch(e: React.FormEvent) {
-    e.preventDefault();
-    navigate(`/games?q=${encodeURIComponent(q)}`);
-  }
-
   return (
     <div className="page">
       <div className="home-hero">
@@ -119,16 +111,6 @@ export function HomePage() {
           遊びたいゲーム探しに使えるデータベースです。ジャンル・会社・対応機種などで絞り込めます。
         </p>
       </div>
-
-      <form className="home-search-form" onSubmit={handleSearch}>
-        <input
-          className="search-box"
-          type="search"
-          placeholder="タイトル・開発元・発売元で検索"
-          value={q}
-          onChange={(e) => setQ(e.target.value)}
-        />
-      </form>
 
       {state.status === "loading" && <Loading />}
       {state.status === "error" && <ErrorState error={state.error} />}
