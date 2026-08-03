@@ -640,5 +640,146 @@
     },
     "sourceNote": "日本語版Wikipedia「オメガフォース」で1996年設立・コーエーテクモ内部スタジオである旨を確認。ファイアーエムブレム無双 風花雪月の開発への関与はファミ通インタビュー記事等で確認(任天堂・インテリジェントシステムズとの3社共同開発)。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "wayforward",
+    "name": "WayForward",
+    "nameKana": "うぇいふぉわーど",
+    "description": "1990年設立、米カリフォルニア州ヴァレンシア拠点の独立系ゲーム開発会社。「Shantae」シリーズが代表作で、任天堂をはじめ他社IPの受託開発にも数多く携わる。",
+    "foundedYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/WayForward"
+    },
+    "sourceNote": "英語版Wikipedia「WayForward」(2026-08-03閲覧)で設立年(1990年)・拠点(カリフォルニア州ヴァレンシア)・独立系デベロッパーであることを確認。日本語版Wikipediaに単独記事は見当たらず。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "camelot",
+    "name": "キャメロット",
+    "nameKana": "きゃめろっと",
+    "description": "1994年設立、東京・新宿を拠点とする任天堂系列の開発会社。「マリオゴルフ」「マリオテニス」シリーズや「ゴールデンサン」シリーズなどを手掛ける。",
+    "foundedYear": 1994,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Camelot_Software_Planning"
+    },
+    "sourceNote": "英語版Wikipedia「Camelot Software Planning」(2026-08-03閲覧)で設立年(1994年)・拠点(東京都新宿区)・代表作・任天堂との関係を確認。日本語版Wikipedia単独記事は未確認のため英語版を採用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "vanpool",
+    "name": "バンプール",
+    "nameKana": "ばんぷーる",
+    "description": "1999年設立の任天堂系列の受託開発会社。2012年以降ハル研究所と共同で「星のカービィ」シリーズ開発に参加した。2023年5月に解散、2024年2月に法人格消滅。",
+    "foundedYear": 1999,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バンプール"
+    },
+    "sourceNote": "日本語版Wikipedia「バンプール」(2026-08-03閲覧)で設立年(1999年)・星のカービィシリーズへの関与・2023年解散の事実を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "team-cherry",
+    "name": "Team Cherry",
+    "nameKana": "ちーむちぇりー",
+    "description": "オーストラリア・アデレード拠点のインディーゲームスタジオ。アリ・ギブソンとウィリアム・ペレンの2名が中心となり、代表作「Hollow Knight」シリーズを開発・自社パブリッシングしている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Team_Cherry"
+    },
+    "sourceNote": "英語版Wikipedia「Team Cherry」(2026-08-03閲覧)でオーストラリア拠点・代表作(Hollow Knightシリーズ)を確認。設立年の明確な記載は確認できず未記載とした。日本語版Wikipediaは単独記事なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "supergiant-games",
+    "name": "Supergiant Games",
+    "nameKana": "すーぱーじゃいあんとげーむず",
+    "description": "2009年設立、米サンフランシスコ拠点のインディーゲームスタジオ。「Bastion」「Transistor」「Pyre」「Hades」シリーズなどを手掛け、自社パブリッシングも行う。",
+    "foundedYear": 2009,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Supergiant_Games"
+    },
+    "sourceNote": "英語版Wikipedia「Supergiant Games」(2026-08-03閲覧)で設立年(2009年)・拠点(サンフランシスコ)・代表作を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "studio-mdhr",
+    "name": "StudioMDHR",
+    "nameKana": "すたじおえむでぃーえいちあーる",
+    "description": "カナダのインディーゲーム開発会社。モルデンハウアー兄弟(チャド・モルデンハウアー、ジャレド・モルデンハウアー)が中心となり、代表作「Cuphead」を開発・自社パブリッシングしている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/StudioMDHR"
+    },
+    "sourceNote": "英語版Wikipedia「StudioMDHR」(2026-08-03閲覧)でカナダの兄弟創業インディースタジオであること・代表作Cupheadを確認。正確な法人設立年の明記は確認できず未記載とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "matt-makes-games",
+    "name": "Matt Makes Games",
+    "nameKana": "まっとめいくすげーむず",
+    "description": "マディ・ソーソン氏らが中心のカナダのインディースタジオ。「Celeste」「TowerFall」を手掛ける。2019年にチームの多くはExtremely OK Gamesとして再編されたが、Celesteの発売元表記は本名義のまま維持されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Extremely_OK_Games"
+    },
+    "sourceNote": "英語版Wikipedia「Extremely OK Games」(2026-08-03閲覧)でMatt Makes Gamesからの改称経緯、およびCelesteの発売元表記が引き続きMatt Makes Gamesである旨を確認。設立年は明確でないため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "motion-twin",
+    "name": "Motion Twin",
+    "nameKana": "もーしょんついん",
+    "description": "2001年設立、フランス・ボルドー拠点の労働者協同組合形式のゲーム開発スタジオ。代表作「Dead Cells」を開発・自社パブリッシングしている。",
+    "foundedYear": 2001,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Motion_Twin"
+    },
+    "sourceNote": "英語版Wikipedia「Motion Twin」(2026-08-03閲覧)で設立年(2001年)・拠点(フランス・ボルドー)・代表作(Dead Cells)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "concernedape",
+    "name": "ConcernedApe",
+    "nameKana": "こんさーんどえいぷ",
+    "description": "個人開発者エリック・バロン氏の屋号。「Stardew Valley」をほぼ単独で開発したことで知られ、以後も自ら開発チームを率いて同作のアップデートを継続している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Barone"
+    },
+    "sourceNote": "英語版Wikipedia「Eric Barone」(2026-08-03閲覧)でStardew Valleyをほぼ単独で開発した経緯を確認。法人としての設立年は存在しないため未記載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "flyhigh-works",
+    "name": "フライハイワークス",
+    "nameKana": "ふらいはいわーくす",
+    "description": "2011年設立の日本のインディーゲームパブリッシャー。海外製インディーゲームの日本語ローカライズ・国内販売を主な事業とする。",
+    "foundedYear": 2011,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フライハイワークス"
+    },
+    "sourceNote": "日本語版Wikipedia「フライハイワークス」(2026-08-03閲覧)で設立年(2011年)・事業内容(海外インディーゲームの国内ローカライズ・販売)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "oizumi-amuse",
+    "name": "オーイズミ・アミュージオ",
+    "nameKana": "おーいずみあみゅーじお",
+    "parentCompany": "株式会社オーイズミ",
+    "description": "2009年設立、海外ゲームの日本語ローカライズ・パブリッシングを手掛ける企業。2013年に株式会社オーイズミの子会社となり、2017年に現社名へ変更した。",
+    "foundedYear": 2009,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーイズミ・アミュージオ"
+    },
+    "sourceNote": "日本語版Wikipedia「オーイズミ・アミュージオ」(2026-08-03閲覧)で設立年(2009年)・親会社(株式会社オーイズミ、2013年子会社化)・事業内容を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ubisoft",
+    "name": "ユービーアイソフト",
+    "nameKana": "ゆーびーあいそふと",
+    "description": "1986年設立、フランス発の大手ゲームパブリッシャー・デベロッパー。「アサシン クリード」「ファークライ」シリーズなどのほか、任天堂と協業した「マリオ+ラビッツ」シリーズをユービーアイソフト ミラノ・パリ両スタジオ主導で開発する。",
+    "foundedYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ユービーアイソフト"
+    },
+    "sourceNote": "日本語版Wikipedia「ユービーアイソフト」(2026-08-03閲覧)で設立年(1986年)・本社(フランス)・代表作を確認。マリオ+ラビッツシリーズの開発主体(ミラノ・パリスタジオ)は英語版Wikipediaで確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

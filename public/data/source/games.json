@@ -2703,5 +2703,419 @@
     },
     "sourceNote": "ファミ通・GAME Watch記事・コーエーテクモ公式サイトで発売日(2022-06-24)、発売元コーエーテクモゲームスを確認。開発はコーエーテクモ内スタジオ「オメガフォース」を主体に任天堂・インテリジェントシステムズが協力する3社共同開発であることをファミ通インタビュー記事で確認。「ファイアーエムブレム 風花雪月」(fire-emblem-three-houses)とは別作品として区別。無双アクションを表す既存ジャンルタグがないため新規ジャンル「musou-action」を追加。Switch専用で他機種版なし。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "advance-wars-1-2-reboot-camp",
+    "title": "アドバンスウォーズ1+2 リブートキャンプ",
+    "titleKana": "あどばんすうぉーずわんたすつー りぶーときゃんぷ",
+    "developerIds": [
+      "wayforward",
+      "intelligent-systems"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "strategy"
+    ],
+    "releaseDate": "2023-04-21",
+    "synopsis": "任天堂の戦略シミュレーション初期2作「アドバンスウォーズ」「アドバンスウォーズ2」をフルリメイクした作品。手描き風だった見た目を立体的な3Dキャラクターに一新しつつ、地形やユニット相性を読んで戦う部隊戦の駆け引きはそのまま継承。オレンジスターを操るキャンペーンを通じ、謎の軍事同盟ブラックホールとの戦いが描かれ、2つの本編に加え設計図モードなど自由に戦況を組める要素も収録している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Advance_Wars_1%2B2:_Re-Boot_Camp",
+      "officialUrl": "https://www.nintendo.com/jp/switch/awvca/index.html"
+    },
+    "sourceNote": "英語版Wikipedia「Advance Wars 1+2: Re-Boot Camp」(2026-08-03閲覧)で開発元(WayForwardとインテリジェントシステムズの共同開発)・発売元(任天堂)・世界同時発売日(2023-04-21)を確認。日本語版Wikipediaに単独記事は見当たらなかった。国内限定の発売日情報源は確認できておらず、世界同時発売日をそのまま採用。受賞歴は本サイトの9アワード内で該当するものが確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kirbys-return-to-dream-land-deluxe",
+    "title": "星のカービィ Wii デラックス",
+    "titleKana": "ほしのかーびぃ うぃーでらっくす",
+    "developerIds": [
+      "hal-laboratory",
+      "vanpool"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2023-02-24",
+    "synopsis": "2011年発売のWii用アクション「星のカービィ Wii」をSwitch向けにリメイクした作品。最大4人協力プレイで進める横スクロールアクションに、力を失った相棒マホロアの成長を描く新エピソード「マホロアエピローグ」や、専用ミニゲーム「マホロア鉄工所」を追加。グラフィックも一新され、遊びやすさとやり込み要素の両方が向上している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星のカービィ_Wiiデラックス"
+    },
+    "sourceNote": "日本語版Wikipedia「星のカービィ Wii デラックス」(2026-08-03閲覧)で開発元(ハル研究所・バンプール)・発売元(任天堂)・発売日(2023-02-24)・対応機種(Switch)を確認。受賞歴の明記はなく、ファミ通販売ランキング1位獲得の言及のみで本サイトの9アワードには該当しないため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-rabbids-galaxy-battle",
+    "title": "マリオ+ラビッツ ギャラクシーバトル",
+    "titleKana": "まりおぷらすらびっつ ぎゃらくしーばとる",
+    "developerIds": [
+      "ubisoft"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg"
+    ],
+    "releaseDate": "2022-12-02",
+    "synopsis": "銀河にダークメスをまき散らす謎の敵クルサに対し、マリオたちとラビッツが手を組んで立ち向かうシミュレーションRPG。カービィ風の融合キャラクター「スパークス」の能力を駆使し、複数の惑星を巡ってロゼッタ救出を目指す。前作から一新されたリアルタイム移動と、遮蔽物やジャンプを活用する戦略的なターン制バトルが特徴の続編である。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2022,
+        "result": "Best Sim/Strategy Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2023,
+        "result": "Family Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオ+ラビッツ_ギャラクシーバトル"
+    },
+    "sourceNote": "海外名は「Mario + Rabbids: Sparks of Hope」。日本語版Wikipedia「マリオ+ラビッツ ギャラクシーバトル」(2026-08-03閲覧)で国内正式タイトル・発売日(2022-12-02)・対応機種(Switch)・国内発売元(任天堂)を確認。開発元(ユービーアイソフト ミラノ・パリ主導)および受賞歴(The Game Awards 2022 Best Sim/Strategy Game、D.I.C.E. Awards 2023 Family Game of the Year)は英語版Wikipediaで確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "titleKana": "ほろうないと",
+    "developerIds": [
+      "team-cherry"
+    ],
+    "publisherId": "team-cherry",
+    "platforms": [
+      "switch",
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania"
+    ],
+    "releaseDate": "2018-06-13",
+    "synopsis": "かつて栄えた地下王国ハロウネストを舞台にした探索型2Dアクション。虫の騎士となり、入り組んだマップを探索しながら能力や装備を獲得し、硬派な操作性で強敵に挑む。王国を滅ぼした神「ラディアンス」の脅威と過去の真相を追う物語で、緻密なマップデザインと高い自由度から傑作メトロイドヴァニアとして高く評価されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hollow_Knight"
+    },
+    "sourceNote": "日本語版Wikipedia「Hollow Knight」および英語版Wikipedia(2026-08-03閲覧)で開発・発売元(Team Cherry、自社パブリッシング)、国内Switch版発売日(2018-06-13)、対応機種を確認。2026年2月5日にPS5・Switch 2向けの高解像度・高フレームレート対応ネイティブ版が追加配信されたことを英語版Wikipediaで確認し対応機種に含めた(互換パッチではなく専用版)。受賞歴は英語版Wikipediaで確認した範囲ではBAFTA/D.I.C.E./Golden Joystick/The Game Awards/GDC/SXSWはいずれもノミネートどまりで受賞なしのため未記載。あらすじは独自要約。ダウンロード専売か否かの断定はできていないが、各国でパッケージ版の流通実績もあり。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hades",
+    "title": "Hades",
+    "titleKana": "はです",
+    "developerIds": [
+      "supergiant-games"
+    ],
+    "publisherId": "supergiant-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "action-rpg"
+    ],
+    "releaseDate": "2020-09-17",
+    "synopsis": "冥界の王ハデスの息子ザグレウスが、父の支配する冥府から地上への脱出を幾度も試みるローグライクアクション。倒れても得た力を持ち帰れる仕組みにより、挑戦のたびに武器やスキルの組み合わせが変化する。オリュンポスの神々の加護「恩恵」を受けつつ戦いを重ねる中で、冥府の住人たちとの会話を通じて家族の秘密が少しずつ明らかになっていく。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2021,
+        "result": "Best Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2021,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2020,
+        "result": "Best Indie Game"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2020,
+        "result": "Best Indie"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2021,
+        "result": "Game of the Year"
+      },
+      {
+        "awardId": "sxsw-gaming-awards",
+        "year": 2021,
+        "result": "Video Game of the Year"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hades_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia「Hades (video game)」(2026-08-03閲覧、日本語版Wikipediaに単独記事は見当たらず)で世界同時正式リリース日(Switch/PC/macOS、2020-09-17)、PS5版追加日(2021-08-13)、開発・発売元(Supergiant Games自社パブリッシング)、受賞歴(BAFTA/D.I.C.E./Golden Joystick/The Game Awards/GDC/SXSWの各受賞)を確認。日本語音声・テキスト対応は2021年6月のアップデートで追加された後追いローカライズであり、初期リリース自体は日本でも発売日から購入可能だったためリリース日として採用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cuphead",
+    "title": "Cuphead",
+    "titleKana": "かっぷへっど",
+    "developerIds": [
+      "studio-mdhr"
+    ],
+    "publisherId": "studio-mdhr",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2019-04-18",
+    "synopsis": "1930年代のアニメーションを再現した、シビアな難易度で知られるラン&ガンアクション。カジノで悪魔に賭けに負けたカップヘッドとマグマンの兄弟が、借金のかたに集められた「魂の契約書」を取り立てるため、個性的なボスたちが待ち受けるステージに次々と挑む。手描き風の映像美と高難度のボス戦が高く評価され、後に追加コンテンツも配信された。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2017,
+        "result": "Best Visual Design"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2017,
+        "result": "Best Independent Game"
+      },
+      {
+        "awardId": "dice-awards",
+        "year": 2018,
+        "result": "Outstanding Achievement in Art Direction"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2018,
+        "result": "Music"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2018,
+        "result": "Best Visual Art"
+      },
+      {
+        "awardId": "sxsw-gaming-awards",
+        "year": 2018,
+        "result": "Excellence in Art"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Cuphead"
+    },
+    "sourceNote": "日本語版Wikipedia「Cuphead」(2026-08-03閲覧)でSwitch版国内発売日(2019-04-18、日本語対応)・開発発売元(StudioMDHR自社パブリッシング)を確認。PS5専用版は確認できず(PS4版のみ)対応機種に含めていない。受賞歴は英語版Wikipediaで各賞の受賞(ノミネート除く)を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "celeste",
+    "title": "Celeste",
+    "titleKana": "せれすて",
+    "developerIds": [
+      "matt-makes-games"
+    ],
+    "publisherId": "flyhigh-works",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2018-05-10",
+    "synopsis": "雪山「セレステ山」の頂上を目指すマデリンの姿を描く高難度2Dプラットフォーマー。正確なジャンプとダッシュを駆使して障害だらけのステージを攻略しながら、不安障害と向き合う主人公の内面的な成長が丁寧に描かれる。幅広い層が挑戦できるよう配慮されたアシスト機能や、隠し要素を含むやり込み度の高さでも評価が高い。",
+    "awardResults": [
+      {
+        "awardId": "dice-awards",
+        "year": 2019,
+        "result": "Action Game of the Year"
+      },
+      {
+        "awardId": "gdc-awards",
+        "year": 2019,
+        "result": "Best Audio"
+      },
+      {
+        "awardId": "sxsw-gaming-awards",
+        "year": 2019,
+        "result": "Matthew Crump Cultural Innovation Award"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Celeste"
+    },
+    "sourceNote": "日本語版Wikipedia「Celeste」(2026-08-03閲覧)でSwitch版国内発売日(2018-05-10)、開発元(Matt Makes Games)、国内発売元(記事では「ハチノヨンとフライハイワークスが対応」との記述、本サイトではフライハイワークスを採用)を確認。PS5版は未確認(PS4版のみ)のため対応機種に含めていない。受賞歴は英語版Wikipediaで各賞の受賞(ノミネート除く)の正確な年次を確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dead-cells",
+    "title": "Dead Cells",
+    "titleKana": "でっどせるず",
+    "developerIds": [
+      "motion-twin"
+    ],
+    "publisherId": "motion-twin",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "metroidvania"
+    ],
+    "releaseDate": "2018-08-07",
+    "synopsis": "疫病に覆われた孤島の牢獄を舞台に、不定形の生物が死体を乗っ取って何度も脱出に挑むローグライク×メトロイドヴァニア。挑戦のたびにマップ構成や入手できる武器が変化し、集めた素材で永続的な強化を進めながら、島を統べる王を打倒して脱出の真相に迫る。爽快な操作感と高い難度の絶妙なバランスで人気を博した作品である。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2018,
+        "result": "Best Indie Game"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2018,
+        "result": "Best Action Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dead_Cells"
+    },
+    "sourceNote": "英語版Wikipedia「Dead Cells」(2026-08-03閲覧、日本語版Wikipediaに単独記事は見当たらず)でWindows/Switch/PS4/Xbox One同時発売日(2018-08-07)、PS5ネイティブ版追加日(2023-06-29)、開発発売元(Motion Twin自社パブリッシング)、受賞歴(Golden Joystick/The Game Awardsの受賞)を確認。国内向けの個別パブリッシャーや別建ての国内発売日は確認できず、世界同時発売日をそのまま採用した点は未確認情報として明記する。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "stardew-valley",
+    "title": "スターデューバレー",
+    "titleKana": "すたーでゅーばれー",
+    "developerIds": [
+      "concernedape"
+    ],
+    "publisherId": "oizumi-amuse",
+    "platforms": [
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "simulation"
+    ],
+    "releaseDate": "2018-01-11",
+    "synopsis": "祖父から受け継いだ荒れ果てた農場を舞台に、農業・釣り・採掘・住民との交流など自由度の高い暮らしを送るライフシミュレーション。ペリカンタウンの住民と親交を深めたり結婚したりしながら季節ごとの行事をこなし、自分だけの農場を作り上げていく。開発者エリック・バロン氏がほぼ単独で長期間かけて制作したことでも知られる人気作。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2016,
+        "result": "Breakthrough Award"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スターデューバレー"
+    },
+    "sourceNote": "日本語版Wikipedia「スターデューバレー」(2026-08-03閲覧)でSwitch版国内発売日(2018-01-11)・国内発売元(オーイズミ・アミュージオ)・開発元(ConcernedApe=エリック・バロン氏)を確認。Switch 2版は北米2025-12-25、国内2026-03-19発売と確認し、互換パッチでなく専用版であるため対応機種に含めた。PS5版は確認できず含めていない。受賞歴(Golden Joystick 2016 Breakthrough Award)は英語版Wikipediaで確認。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "new-super-mario-bros-u-deluxe",
+    "title": "New スーパーマリオブラザーズ U デラックス",
+    "titleKana": "にゅーすーぱーまりおぶらざーず ゆーでらっくす",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2019-01-11",
+    "synopsis": "Wii U用横スクロールアクション「New スーパーマリオブラザーズ U」に外伝「New スーパールイージU」を同梱してSwitchに移植した作品。クッパ軍団に奪われたピーチ城を取り戻すため、マリオたちが多彩なステージを冒険する。最大4人同時プレイに対応し、新キャラクター「たぬきち」やアシスト機能「ヘルプブロック」も追加されている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/New_スーパーマリオブラザーズ_U"
+    },
+    "sourceNote": "日本語版Wikipedia「New スーパーマリオブラザーズ U」(2026-08-03閲覧)でWii U版(2012-12-08)およびSwitch版デラックス(2019-01-11)の発売日、開発発売元(任天堂)、対応機種を確認。受賞歴の明記はなく、ミリオンセラー・クロスレビュー殿堂入りの言及のみで本サイトの9アワードに該当しないため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-golf-super-rush",
+    "title": "マリオゴルフ スーパーラッシュ",
+    "titleKana": "まりおごるふ すーぱーらっしゅ",
+    "developerIds": [
+      "camelot"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "sports"
+    ],
+    "releaseDate": "2021-06-25",
+    "synopsis": "マリオシリーズのキャラクターたちが登場するゴルフゲーム。全員が同時にスイングする「スピードゴルフ」やコース上をダッシュ移動する新要素が加わり、テンポよく対戦できる。自分のMiiキャラクターを育成しながらマリオたちと交流していく「ゴルフアドベンチャー」モードも搭載され、じっくり遊べる一人用コンテンツも充実している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオゴルフ_スーパーラッシュ"
+    },
+    "sourceNote": "日本語版Wikipedia「マリオゴルフ スーパーラッシュ」(2026-08-03閲覧)で開発元(キャメロット)・発売元(任天堂)・発売日(2021-06-25)・対応機種(Switch)を確認。受賞歴の明記はなく、週間販売ランキング1位・クロスレビュー殿堂入りの言及のみで本サイトの9アワードに該当しないため未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mario-strikers-battle-league",
+    "title": "マリオストライカーズ バトルリーグ",
+    "titleKana": "まりおすとらいかーず ばとるりーぐ",
+    "developerIds": [
+      "next-level-games"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "sports",
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2022-06-10",
+    "synopsis": "マリオたちが5対5で激突する、格闘要素を交えたサッカー風スポーツアクション。壁を使ったパスやアイテムを駆使した過激な攻防が特徴で、各キャラクター固有の必殺技「ハイパーストライク」を決めれば一気に複数得点を狙える。自分だけのクラブを編成し、ギアで能力を強化してオンライン対戦を楽しむ要素も持つ、シリーズ最新のスポーツタイトルである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオストライカーズ_バトルリーグ"
+    },
+    "sourceNote": "日本語版Wikipedia「マリオストライカーズ バトルリーグ」(2026-08-03閲覧)で開発元(Next Level Games)・発売元(任天堂)・発売日(2022-06-10)・対応機種(Switch)を確認。受賞歴の記載は見当たらず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "warioware-move-it",
+    "title": "超おどる メイド イン ワリオ",
+    "titleKana": "ちょうおどる めいどいんわりお",
+    "developerIds": [
+      "nintendo",
+      "intelligent-systems"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game"
+    ],
+    "releaseDate": "2023-11-03",
+    "synopsis": "ワリオカンパニーの面々がリゾート地「バリオモロ島」を訪れ、Joy-Con2本を両手に持って全身を動かして遊ぶ1秒ゲーム集。200種類以上の多彩なミニゲームを次々とこなし、キャラクターごとに異なる持ち方・動きが用意されている。一人でも複数人でも楽しめる、体感操作に特化したシリーズ最新作の瞬間アクションゲームである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/超おどる_メイド_イン_ワリオ"
+    },
+    "sourceNote": "海外名は「WarioWare: Move It!」。日本語版Wikipedia「超おどる メイド イン ワリオ」(2026-08-03閲覧)で国内正式タイトル・開発元(任天堂・インテリジェントシステムズ)・発売元(任天堂)・発売日(2023-11-03)・対応機種(Switch)を確認。受賞歴は本サイトの9アワード内で該当するものが確認できず未記載。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]
