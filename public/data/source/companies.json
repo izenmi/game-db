@@ -987,5 +987,141 @@
     "externalLinks": {},
     "sourceNote": "検索結果(NieR:Automata Switch版関連情報)でSwitch版移植の開発元として確認。設立年は未確認のため記載せず。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ubisoft-quebec",
+    "name": "ユービーアイソフト・ケベック",
+    "nameKana": "ゆーびーあいそふとけべっく",
+    "parentCompany": "ユービーアイソフト",
+    "description": "カナダ・ケベックシティに拠点を置くユービーアイソフト傘下の開発スタジオ。『アサシン クリード シンジケート』以降、シリーズの主要タイトル開発を任されている。",
+    "foundedYear": 2005,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ubisoft_Quebec"
+    },
+    "sourceNote": "英語版Wikipedia『Ubisoft Quebec』記事(2026-08-03閲覧)で概要・設立年を確認。日本語版記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ubisoft-bordeaux",
+    "name": "ユービーアイソフト・ボルドー",
+    "nameKana": "ゆーびーあいそふとぼるどー",
+    "parentCompany": "ユービーアイソフト",
+    "description": "フランス・ボルドーに拠点を置くユービーアイソフト傘下の開発スタジオ。他スタジオの支援を主業務としつつ、『アサシン クリード ミラージュ』では主開発を担当した。",
+    "foundedYear": 2017,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ubisoft_Bordeaux"
+    },
+    "sourceNote": "英語版Wikipedia『Ubisoft Bordeaux』記事(2026-08-03閲覧)で概要・設立年を確認。日本語版記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "respawn-entertainment",
+    "name": "Respawn Entertainment",
+    "nameKana": "りすぽーんえんたーていんめんと",
+    "parentCompany": "エレクトロニック・アーツ",
+    "description": "『タイタンフォール』シリーズや『Apex Legends』を手掛けた元Infinity Ward幹部設立のアメリカのスタジオ。2017年にEAに買収され、以降『スター・ウォーズ ジェダイ』シリーズを開発している。",
+    "foundedYear": 2010,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Respawn_Entertainment"
+    },
+    "sourceNote": "英語版Wikipedia『Respawn Entertainment』記事(2026-08-03閲覧)で概要・設立年・EA買収時期を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "asobo-studio",
+    "name": "Asobo Studio",
+    "nameKana": "あそぼすたじお",
+    "description": "フランス・ボルドーを拠点とする独立系開発スタジオ。『A Plague Tale』シリーズや『Microsoft Flight Simulator』を手掛ける。",
+    "foundedYear": 2002,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asobo_Studio"
+    },
+    "sourceNote": "英語版Wikipedia『Asobo Studio』記事(2026-08-03閲覧)で概要・設立年・資本構成を確認。Microsoftの完全子会社ではなく独立資本(投資会社が約3割出資)である点に注意。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "neowiz",
+    "name": "Neowiz",
+    "nameKana": "ねおうぃず",
+    "description": "韓国のゲーム開発・パブリッシング企業。『DJMAX』シリーズなどで知られ、近年は『Lies of P』で家庭用・PC市場に進出した。",
+    "foundedYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Neowiz"
+    },
+    "sourceNote": "英語版Wikipedia『Neowiz』記事(2026-08-03閲覧)で概要・設立年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "round8-studio",
+    "name": "Round8スタジオ",
+    "nameKana": "らうんどえいとすたじお",
+    "parentCompany": "Neowiz",
+    "description": "Neowiz傘下の韓国の開発スタジオ。『Lies of P』の開発元。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Neowiz』記事(2026-08-03閲覧)内でLies of P開発元として言及されているのみで、Round8スタジオ単独の記事は確認できず(設立年など詳細未確認)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sumo-digital",
+    "name": "Sumo Digital",
+    "nameKana": "すもうでじたる",
+    "parentCompany": "Sumo Group",
+    "description": "イギリス・シェフィールドを拠点とする開発スタジオ。他社IPの受託開発・移植を多く手掛け、『Sackboy: A Big Adventure』や『ホグワーツ・レガシー』の開発に関与した。",
+    "foundedYear": 2003,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sumo_Digital"
+    },
+    "sourceNote": "英語版Wikipedia『Sumo Digital』記事(2026-08-03閲覧)で概要・設立年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ember-lab",
+    "name": "Ember Lab",
+    "nameKana": "えんばーらぼ",
+    "description": "アメリカ・ロサンゼルスを拠点とする独立系スタジオ。映像制作会社として活動した後、初のゲーム作品『Kena: Bridge of Spirits』を開発・自社パブリッシングした。",
+    "foundedYear": 2009,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ember_Lab"
+    },
+    "sourceNote": "英語版Wikipedia『Ember Lab』記事(2026-08-03閲覧)で概要・設立年を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "grinding-gear-games",
+    "name": "Grinding Gear Games",
+    "nameKana": "ぐらいんでぃんぐぎあげーむず",
+    "parentCompany": "Tencent",
+    "description": "ニュージーランド・オークランドを拠点とするアクションRPG専門の開発スタジオ。『Path of Exile』シリーズを開発。2024年にTencentの完全子会社となった。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grinding_Gear_Games"
+    },
+    "sourceNote": "英語版Wikipedia『Grinding Gear Games』記事(2026-08-03閲覧)で概要・設立年・Tencentによる出資経緯(2018年に過半数取得、2024年3月に完全子会社化)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "netherrealm-studios",
+    "name": "NetherRealm Studios",
+    "nameKana": "ねざーれるむすたじお",
+    "parentCompany": "ワーナー・ブラザース・ゲームズ",
+    "description": "アメリカ・シカゴを拠点とする格闘ゲーム専門スタジオ。『モータルコンバット』生みの親エド・ブーンが率い、『モータルコンバット』『インジャスティス』シリーズを開発する。",
+    "foundedYear": 2010,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/NetherRealm_Studios"
+    },
+    "sourceNote": "英語版Wikipedia『NetherRealm Studios』記事(2026-08-03閲覧)で概要・設立年・親会社を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "warner-bros-games",
+    "name": "ワーナー・ブラザース・ゲームズ",
+    "nameKana": "わーなーぶらざーすげーむず",
+    "description": "アメリカの大手ゲームパブリッシャー。NetherRealm StudiosやRocksteady Studiosなど複数の開発スタジオを傘下に持ち、『バットマン: アーカム』『モータルコンバット』『LEGO』シリーズ等を展開する。",
+    "foundedYear": 2004,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner_Bros._Games"
+    },
+    "sourceNote": "英語版Wikipedia『Warner Bros. Games』記事(2026-08-03閲覧)で概要・設立年・ブランド変遷を確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

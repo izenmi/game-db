@@ -3822,5 +3822,365 @@
     },
     "sourceNote": "日本語版Wikipediaで開発元Massive Monster、発売元Devolver Digital、Windows/macOS/Switch/PS4/PS5/Xbox One/Xbox Series X|S同時発売(2022-08-11、日本時間では8/12)、日本語対応を確認。受賞歴については情報源に明記されたものが見当たらず未掲載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "assassins-creed-shadows",
+    "title": "アサシン クリード シャドウズ",
+    "titleKana": "あさしんくりーどしゃどうず",
+    "developerIds": [
+      "ubisoft-quebec"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure"
+    ],
+    "releaseDate": "2025-03-20",
+    "synopsis": "戦国時代末期の日本を舞台に、実在の黒人武士弥助をモデルにした武士ヤスケと、忍びの女性ナオエの2人を操作するオープンワールド作品。ステルス中心のナオエと戦闘特化のヤスケを切り替えながら、謎の組織「百鬼」を巡る陰謀に挑む。姫路城や清水寺を再現した近畿地方を四季の移ろいとともに探索できる。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アサシン_クリード_シャドウズ"
+    },
+    "sourceNote": "日本語版Wikipedia『アサシン クリード シャドウズ』(2026-08-03閲覧)でPS5版発売日(2025-03-20)・開発元・あらすじを確認。Nintendo Switch 2版はDuckDuckGo経由の複数報道で2025-12-02発売と確認(バンダイナムコではなくユービーアイソフト自社パブリッシング)。受賞歴は今回の調査範囲(既存9アワード)では確認できず、awardResultsは空とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "assassins-creed-mirage",
+    "title": "アサシン クリード ミラージュ",
+    "titleKana": "あさしんくりーどみらーじゅ",
+    "developerIds": [
+      "ubisoft-bordeaux"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2023-10-05",
+    "synopsis": "9世紀のバグダッドを舞台に、路上の盗賊バシムが暗殺者集団「隠れし者」の一員へと成長していく姿を描く。シリーズ初期作を意識し、暗殺や群衆に紛れるステルス、パルクールなど小規模戦闘中心の原点回帰的な作りが特徴。自身の過去にまつわる謎を追う中で、秘密結社との対立が深まっていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アサシン_クリード_ミラージュ"
+    },
+    "sourceNote": "日本語版Wikipedia『アサシン クリード ミラージュ』(2026-08-03閲覧)で発売日・対応機種・あらすじを確認。同記事にNintendo Switch非対応の明記あり、Switch2版の情報もなし。受賞歴は既存9アワード範囲で確認できず空とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "star-wars-jedi-survivor",
+    "title": "Star Wars Jedi: Survivor",
+    "titleKana": "すたーうぉーずじぇだいさばいばー",
+    "developerIds": [
+      "respawn-entertainment"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2023-04-28",
+    "synopsis": "『Fallen Order』の5年後を舞台に、帝国から追われ続けるジェダイの生き残りカル・ケスティスの物語。仲間との再会を経て、伝説の惑星タナロールを目指す旅路が描かれる。かつての共和国ジェダイだった強敵ダガン・ゲラらとの戦いを通じ、抵抗運動の限界や自身の内なる闇と向き合っていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Survivor"
+    },
+    "sourceNote": "英語版Wikipedia『Star Wars Jedi: Survivor』(2026-08-03閲覧)で発売日・開発元・あらすじを確認(日本語版記事は開発中スタブで情報不足のため英語版を主に採用)。PS5/Xbox Series/PC以降、2024年にPS4/Xbox One版が追加されたが、Switch/Switch2版は存在しない。グラミー賞・DICE Awards等はノミネートまたは対象外の賞のため、既存9アワード範囲でのawardResultsは空とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "a-plague-tale-requiem",
+    "title": "A Plague Tale: Requiem",
+    "titleKana": "あぷれいぐているれくいえむ",
+    "developerIds": [
+      "asobo-studio"
+    ],
+    "publisherId": "oizumi-amuse",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2023-06-29",
+    "synopsis": "前作の数ヶ月後、ペストが蔓延する1348年頃のフランスを舞台に、姉アミシアと弟ユーゴの姉弟が再び旅立つ。ユーゴに宿る呪いの力「マキューラ」の起源と制御法を求め、各地を巡りながら大量のネズミや追手から逃れていく。全ての因縁に決着をつけるための、シリーズ完結編にあたる物語。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A_Plague_Tale:_Requiem"
+    },
+    "sourceNote": "PC/Xbox Series/Switch(クラウド版)は2022-10-18に世界同時発売だが、PS5版は日本国内で2023-06-29発売(オーイズミ・アミュージオ発表、DuckDuckGo経由でPlayStation Store情報・Wikipedia記述を確認)のため、当DBのreleaseDateはPS5日本版の日付を採用。Nintendo Switch版はクラウドストリーミング専用(英語版Wikipedia確認)のため対応機種に含めていない。受賞歴は既存9アワード範囲で確認できず空とした。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "lies-of-p",
+    "title": "Lies of P",
+    "titleKana": "らいずおぶぴー",
+    "developerIds": [
+      "round8-studio"
+    ],
+    "publisherId": "neowiz",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "soulslike",
+      "action-rpg"
+    ],
+    "releaseDate": "2023-09-19",
+    "synopsis": "『ピノッキオ』を下敷きに、自我を持つ人形「P」が、ベル・エポック風の都市クラットを舞台に人形の暴走「パペット・フレンジィ」と石化病が蔓延する街を彷徨う物語。生みの親ゼペットとの繋がりや「人間になる」という願いの真意を巡り、錬金術師組織の陰謀に立ち向かう高難度ソウルライクアクション。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2025,
+        "result": "Best Game Expansion(拡張DLC「Overture」として)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lies_of_P"
+    },
+    "sourceNote": "英語版Wikipedia『Lies of P』(2026-08-03閲覧)で発売日・開発元・あらすじ・受賞歴を確認(日本語版Wikipediaは単独記事なしのため英語版を採用)。Nintendo Switch 2版は2026-08-06発売予定(公式発表ベースの報道で確認)だが、本調査時点(2026-08-03)ではまだ発売前のため対応機種には含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "like-a-dragon-7",
+    "title": "龍が如く7 光と闇の行方",
+    "titleKana": "りゅうがごとくせぶん ひかりとやみのゆくえ",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2021-03-02",
+    "synopsis": "組長の罪を被り18年服役した春日一番が、出所後に東城会崩壊と裏切りに遭い横浜のホームレス街で目覚めるところから物語が始まる。シリーズ初のコマンド式RPGバトルを採用し、大の「ドラゴンクエスト」好きという設定の一番が、新たな仲間と共に己の生き様を懸けて再起を図る人間ドラマ。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2019,
+        "result": "フューチャー賞(発売前選出)"
+      },
+      {
+        "awardId": "japan-game-awards",
+        "year": 2020,
+        "result": "年間作品部門優秀賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍が如く7_光と闇の行方"
+    },
+    "sourceNote": "日本語版Wikipedia『龍が如く7 光と闇の行方』(2026-08-03閲覧)で発売日(PS4版2020-01-16、PS5版2021-03-02)・開発元・あらすじを確認。当DBはPS5版としてPS5版発売日を採用。日本ゲーム大賞の受賞歴はDuckDuckGo経由で複数記事(SEGA公式発表・まとめサイト)を確認。既存game id『like-a-dragon-infinite-wealth』(龍が如く8)とは別作品。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "spider-man-remastered",
+    "title": "Marvel's Spider-Man Remastered",
+    "titleKana": "まーべるずすぱいだーまん りますたーど",
+    "developerIds": [
+      "insomniac-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "ヴィランのフィスクを捕えた直後のニューヨークを舞台に、恩師オクタビアス博士がドクター・オクトパスへと変貌していく悲劇を描くPS5向けリマスター版。生体兵器「デビルズ・ブレス」の蔓延によりメイおばさんが感染する中、ピーターは市民の救済とアジトの解毒剤合成、そして師との対決の間で葛藤する。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man_Remastered"
+    },
+    "sourceNote": "英語版Wikipedia『Marvel's Spider-Man Remastered』(2026-08-03閲覧、日本語版『Marvel's Spider-Man』記事でも同内容を確認)で発売日・開発元・あらすじを確認。2020-11-12にPS5本体発売と同時に『Miles Morales』アルティメット・エディション同梱の形でリリースされ、2023-05-04より単品購入が可能になった(英語版Wikipedia記載)。無印PS4版の受賞歴(Famitsuプラチナ殿堂、PlayStation Awards 2018ゴールドプライズ)はPS5リマスター版固有の受賞ではないためawardResultsには含めていない。既存game id『spider-man-miles-morales』とは別作品(無印の移植版)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kena-bridge-of-spirits",
+    "title": "Kena: Bridge of Spirits",
+    "titleKana": "けな ぶりっじ おぶ すぴりっつ",
+    "developerIds": [
+      "ember-lab"
+    ],
+    "publisherId": "ember-lab",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2021-09-21",
+    "synopsis": "精霊使いの少女ケナが、廃村となった山里で聖なる祠を目指す物語。小さな精霊「ロット」たちを集めながら、未練を残した霊たちの悲しみに寄り添い成仏させていく。かつての村長トシが自然の摂理を拒んだことが村の崩壊を招いたと知り、最後は彼と対峙することになる。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Independent Game"
+      },
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Debut Indie Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kena:_Bridge_of_Spirits"
+    },
+    "sourceNote": "英語版Wikipedia『Kena: Bridge of Spirits』(2026-08-03閲覧)で発売日・開発元・あらすじ・The Game Awards 2021受賞歴を確認(日本語版Wikipediaは単独記事なし)。Nintendo Switch 2版は2026-03-26発売とGematsu等の報道で確認(DuckDuckGo経由)。SXSW Gaming Awards受賞説も見かけたが出典を確定できずawardResultsには含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "sackboy-a-big-adventure",
+    "title": "Sackboy: A Big Adventure",
+    "titleKana": "さっくぼーい あびっぐあどべんちゃー",
+    "developerIds": [
+      "sumo-digital"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "クラフトワールドの村ルームで平穏に暮らすサックピープルを、悪役ヴェックスが機械の力で服従させようと企てる。サックボーイは村を脱出し、長老スカーレットの助けを借りながら世界各地を旅し、ヴェックスが集めていた「ドリーマーオーブ」の真の目的を暴いて彼の野望を打ち砕く3Dアクションプラットフォーマー。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2021,
+        "result": "British Game"
+      },
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2021,
+        "result": "Family"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sackboy:_A_Big_Adventure"
+    },
+    "sourceNote": "英語版Wikipedia『Sackboy: A Big Adventure』(2026-08-03閲覧)で発売日・開発元・あらすじ・BAFTA Games Awards 2021受賞歴を確認(日本語版Wikipediaは単独記事なし)。PS5本体発売と同時展開のため日本含む主要市場での発売日を2020-11-12とした(欧州等一部地域は2020-11-19)。Nintendo Switch版は存在しない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tales-of-arise",
+    "title": "テイルズ オブ アライズ",
+    "titleKana": "ているず おぶ あらいず",
+    "developerIds": [
+      "bandai-namco-studios"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2021-09-09",
+    "synopsis": "痛みも記憶も失った青年アルフェンと、触れた者に痛みを与える呪いを背負う少女シオンが出会い、300年にわたり隣接惑星の圧政に苦しむ故郷の解放を目指す物語。各地を治める領主たちとの戦いを通じ、二人の絆と自由への意志が試されるシリーズ最新作。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2021,
+        "result": "Best Role Playing Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テイルズ_オブ_アライズ"
+    },
+    "sourceNote": "日本語版Wikipedia『テイルズ オブ アライズ』(2026-08-03閲覧)で発売日・開発元・あらすじ・The Game Awards 2021受賞歴を確認。Nintendo Switch 2版は追加シナリオ等を収録した『Beyond the Dawn Edition』として2026-05-21発売(複数のゲーム情報サイト報道、DuckDuckGo経由で確認)のため対応機種に追加。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dragon-ball-sparking-zero",
+    "title": "ドラゴンボール Sparking! ZERO",
+    "titleKana": "どらごんぼーる すぱーきんぐ・ぜろ",
+    "developerIds": [
+      "spike-chunsoft"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5",
+      "switch",
+      "switch2"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2024-10-10",
+    "synopsis": "17年ぶりとなる「Sparking!」シリーズ最新作。悟空やベジータ、フリーザなど8人の主人公それぞれの視点で「Z」や「超」のストーリーを追体験できる「エピソードバトル」を搭載し、選択によって展開が変化するIFストーリーも楽しめる。180人以上のキャラクターが登場する3D対戦アクション。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンボール_Sparking!_ZERO"
+    },
+    "sourceNote": "日本語版Wikipedia『ドラゴンボール Sparking! ZERO』(2026-08-03閲覧)で発売日・開発元・あらすじを確認。PS5/Xbox Series/PC版は2024-10-10、Nintendo Switch版とSwitch 2版は同日2025-11-13(国内)に発売されたことをバンダイナムコ公式発表報道(DuckDuckGo経由)で確認したため両方を対応機種に含めた。The Game Awards 2024・DICE Awards 2025等はノミネートに留まり受賞なしのためawardResultsは空。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "path-of-exile-2",
+    "title": "Path of Exile 2",
+    "titleKana": "ぱす おぶ えぐざいる つー",
+    "developerIds": [
+      "grinding-gear-games"
+    ],
+    "publisherId": "grinding-gear-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2024-12-07",
+    "synopsis": "前作から約20年後、大陸ラクラストを舞台に、処刑寸前で脱走した咎人が主人公となるハック&スラッシュ型ARPG。「獣」と呼ばれる古の存在に由来する腐敗が世界を蝕む中、その欠片を手にした伯爵夫人を追い、ケルトやローマなど多様な文化圏の勢力と関わりながら真相に迫っていく。",
+    "awardResults": [],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Path_of_Exile_2"
+    },
+    "sourceNote": "英語版Wikipedia『Path of Exile 2』(2026-08-03閲覧)およびDuckDuckGo経由の報道でPS5版アーリーアクセス開始日(2024-12-07)を確認。本調査時点(2026-08-03)では正式版(1.0)は未リリースで、2026年後半に予定と報じられている(2026年11月のExileConで詳細発表予定)。アーリーアクセスは購入・プレイ可能な形で実配信されているため対応機種に含めたが、正式版時期は未確定である点をsourceNoteに明記。日本語版Wikipedia記事は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mortal-kombat-1",
+    "title": "Mortal Kombat 1",
+    "titleKana": "もーたるこんばっと わん",
+    "developerIds": [
+      "netherrealm-studios"
+    ],
+    "publisherId": "warner-bros-games",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2023-09-19",
+    "synopsis": "『MK11』のラスボス撃破後、炎の神となったリウ・カンが新たな時間軸を創造したことから始まる、シリーズの再起動的な物語。リウ・カンは新世界の戦士たちを集めて格闘トーナメントを開催するが、シャン・ツンの陰謀やタイタン・ハビックによる時間軸融合の企てに立ち向かうことになる。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2023,
+        "result": "Best Multiplayer Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モータルコンバット1"
+    },
+    "sourceNote": "日本語版Wikipedia『モータルコンバット1』(2026-08-03閲覧)で発売日・プラットフォーム・あらすじを確認、英語版Wikipediaで開発元(PS5/Xbox版はNetherRealm Studios、Switch版はShiver Entertainment/Saber Interactive)とGolden Joystick Awards 2023受賞歴を確認。Nintendo Switch版はダウンロード版・パッケージ版とも実配信されるネイティブ移植(ブログ記事等で確認、クラウド専用ではない)のため対応機種に含めた。Switch 2では後方互換で高速化するのみで専用版は確認できなかったため、switch2は対応機種に含めていない。",
+    "updatedAt": "2026-08-03"
   }
 ]
