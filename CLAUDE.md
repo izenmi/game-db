@@ -99,6 +99,23 @@ node scripts/generate-ogp.mjs   # public/og-image.png の再生成(手動実行�
 
 `GameListPage`の件数表示(`page-subtitle`)は、絞り込み条件が1つでもある場合(`hasActiveFilters`)は「◯件 / 全□件」(絞り込み後件数 / 全体件数)、条件がない場合は「◯件」のみを表示する。全体件数は`gamesState.data.length`(絞り込み前の全件)を使う。姉妹サイトのranobe-db/manga-dbの`WorkListPage`にも同一パターンで実装済み。
 
+## トップページのコンテンツ拡充(2026-08-03実装)
+
+`HomePage.tsx`が検索ボックスと件数バッジだけで寂しいというユーザー要望を受け、`.count-badges`の直後・`.source-note`の直前に4セクションを追加した(サブコンポーネント分割はせず`HomePage.tsx`単一ファイルのまま拡張)。
+
+- **ピックアップゲーム**: `getGames()`で全ゲームを取得し、`pickRandomGames()`(部分Fisher–Yates)で6件をランダム抽出して`GameCard`で表示。`useMemo`の依存が`gamesState`(オブジェクト全体)なので、ページ再マウント時(=遷移して戻ってきたとき)だけ再抽選され、検索ボックス入力等の再レンダーでは変わらない
+- **受賞作スポットライト**: 全ゲームの`awardSummaries`を`flattenRecentAwards()`でフラット化し年降順で上位6件を表示。`AwardDetailPage.tsx`の`winner-list`パターンを流用(賞名リンクを追加した点だけ拡張)
+- **人気ジャンル**: `getGenres()`を`gameCount`降順で上位12件、チップリンクで`/games?genre=<id>`へ
+- **姉妹サイト紹介カード**: 既存の`SiteFooter`の小さいテキストリンクとは別に、より目立つカード(残り2サイトへのリンク、各リンク先サイト自身のアクセントカラーで縁取り)を新設。データはHomePage内のローカル定数(SiteFooterとは共有しない)
+
+`colorForYear`/`YEAR_COLORS`は従来`AwardDetailPage.tsx`にprivateで定義されていたが、受賞作スポットライトからも使うため`src/ui/common/yearColor.ts`に抽出した。姉妹サイト(ranobe-db/manga-db)にも同一パターンで実装済み(エンティティ名・ルート名・アクセントカラーのみ置き換え)。
+
+説明文(`.home-intro`)からも「次に」を削除し、「遊びたいゲーム探しに使えるデータベースです。ジャンル・会社・対応機種などで絞り込めます。」に変更した。
+
+## ページ遷移時のスクロール位置リセット(2026-08-03実装)
+
+react-routerはルート遷移時にスクロール位置を保持したままなので(ブラウザのフルページ遷移と違い自動リセットされない)、トップページを下にスクロールした状態でリンクをクリックすると遷移先も同じスクロール位置のまま表示される不具合があった。`src/ui/common/ScrollToTop.tsx`(`useLocation`の`pathname`変更を`useEffect`で監視し`window.scrollTo(0, 0)`)を作成し、`App.tsx`の`<BrowserRouter>`直下・`<TopNav />`の前にマウントしてサイト全体で解決した。姉妹サイト(ranobe-db/manga-db)にも同一パターンで実装済み。
+
 ## データ規模の推移
 
 18本(2026-08-02、scaffold。PS5中心7本・Switch中心8本・Switch2/マルチプラットフォーム3本のバランスで選定): エルデンリング(ELDEN RING)、ゴッド・オブ・ウォー ラグナロク、Marvel's Spider-Man 2、ファイナルファンタジーVII リバース、グランツーリスモ7、Horizon Forbidden West、バイオハザード ヴィレッジ、ゼルダの伝説 ティアーズ オブ ザ キングダム、ゼルダの伝説 ブレス オブ ザ ワイルド、スプラトゥーン3、あつまれ どうぶつの森、ポケットモンスター スカーレット・バイオレット、スーパーマリオ オデッセイ、大乱闘スマッシュブラザーズ SPECIAL、ファイアーエムブレム 風花雪月、マリオカート ワールド、モンスターハンターライズ、ペルソナ5 ザ・ロイヤル。18本時点で会社18社・ジャンル12・アワード9。
