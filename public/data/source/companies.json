@@ -2546,5 +2546,170 @@
     },
     "sourceNote": "日本語版Wikipedia『サイバーコネクトツー』記事(2026-08-03閲覧)で設立年(1996年2月)・創業者(松山洋)・概要を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "french-bread",
+    "name": "フランスパン",
+    "nameKana": "ふらんすぱん",
+    "description": "1995年設立、日本の対戦格闘ゲーム開発会社。同人格闘ゲームとして出発した「メルティブラッド」シリーズを商業展開し、後継作「UNDER NIGHT IN-BIRTH」シリーズの開発も手掛ける。",
+    "foundedYear": 1995,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/French-Bread"
+    },
+    "sourceNote": "英語版Wikipedia『French-Bread』(2026-08-03閲覧)で設立年(1995年)・概要・代表作(メルティブラッド、UNDER NIGHT IN-BIRTHシリーズ)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "delightworks",
+    "name": "ディライトワークス",
+    "nameKana": "でぃらいとわーくす",
+    "description": "『Fate/Grand Order』の運営で知られた日本のゲーム会社。2021年末にFGO関連のゲーム事業を新会社ラセングルへ承継した。",
+    "externalLinks": {},
+    "sourceNote": "ファミ通.com記事(2021-12-28、新会社ラセングル設立)・AUTOMATON記事(2021-12-28)で事業承継の経緯を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tamsoft",
+    "name": "タムソフト",
+    "nameKana": "たむそふと",
+    "description": "1992年6月26日設立、東京都台東区に本社を置く日本のゲーム受託開発会社。「闘神伝」シリーズや「戦国BASARA」シリーズの一部、「BLEACH Rebirth of Souls」等キャラクター性の強い作品を得意とする。",
+    "foundedYear": 1992,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タムソフト"
+    },
+    "sourceNote": "日本語版Wikipedia『タムソフト』(2026-08-03閲覧)で設立年(1992年6月26日)・本社所在地(東京都台東区浅草)・概要を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "hidden-variable-studios",
+    "name": "Hidden Variable Studios",
+    "nameKana": "ひどんばりあぶるすたじおず",
+    "description": "2011年設立、米ロサンゼルスのインディーゲーム開発会社。「Skullgirls」モバイル版・『Skullgirls 2nd Encore』の開発を担当したが、2025年1月にパブリッシャーAutumn Gamesとの契約・訴訟問題により開発から離脱した。",
+    "foundedYear": 2011,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、Siliconera・Gematsu・Crunchbase等)で設立年(2011年)・所在地(ロサンゼルス)・2025年1月のAutumn Gamesとの契約終了/訴訟を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "autumn-games",
+    "name": "Autumn Games",
+    "nameKana": "おーたむげーむず",
+    "description": "2007年設立、米ニューヨークのゲームパブリッシャー。格闘ゲーム「Skullgirls」シリーズの発売元。",
+    "foundedYear": 2007,
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Autumn Games』(2026-08-03閲覧)で設立年(2007年)・所在地(ニューヨーク)・Skullgirlsとの関係を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fair-play-labs",
+    "name": "Fair Play Labs",
+    "nameKana": "ふぇあぷれいらぼ",
+    "description": "コスタリカのゲーム開発スタジオ。「Nickelodeon All-Star Brawl」シリーズをLudosityと共同開発した。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、Fair Play Labs公式サイト・英語版Wikipedia『Nickelodeon All-Star Brawl』関連記事)で所在地(コスタリカ)・Ludosityとの共同開発体制を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "ludosity",
+    "name": "Ludosity",
+    "nameKana": "るどしてぃ",
+    "description": "2008年設立、スウェーデン・シェブデのインディーゲーム開発会社。「Ittle Dew」シリーズや「Nickelodeon All-Star Brawl」シリーズを手掛ける。",
+    "foundedYear": 2008,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、Glitchwave・EverybodyWiki等)で設立年(2008年)・所在地(スウェーデン・シェブデ)・代表作を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gamemill-entertainment",
+    "name": "GameMill Entertainment",
+    "nameKana": "げーむみるえんたーていんめんと",
+    "description": "2001年設立、米ミネアポリスのゲームパブリッシャー。アニメ・映像作品のライセンスを活かしたタイトルを中心に展開し、「Nickelodeon All-Star Brawl」シリーズ等を発売する。",
+    "foundedYear": 2001,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、MobyGames・PCGamingWiki等)で設立年(2001年)・所在地(ミネアポリス)・事業内容を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "blue-mammoth-games",
+    "name": "Blue Mammoth Games",
+    "nameKana": "ぶるーまんもすげーむず",
+    "parentCompany": "ユービーアイソフト",
+    "description": "2009年設立、米アトランタのゲーム開発会社。乱闘系対戦アクション「Brawlhalla」の開発元で、2018年にユービーアイソフト傘下入りした。",
+    "foundedYear": 2009,
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、GameSpot・Destructoid等の2018年3月報道)で設立年(2009年)・所在地(アトランタ)・ユービーアイソフトによる買収(2018-03-01)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "24-entertainment",
+    "name": "24 Entertainment",
+    "nameKana": "とぅえんてぃふぉーえんたーていんめんと",
+    "description": "中国・杭州浜江区に拠点を置くゲーム開発会社。ネットイース系列スタジオSunder Fire Studioの傘下で、剣戟バトルロイヤル「NARAKA: BLADEPOINT」を開発した。",
+    "externalLinks": {},
+    "sourceNote": "Gematsu社ページ・Shacknews記事(2026-08-03閲覧)で所在地(杭州)・親会社関係・NARAKA: BLADEPOINT開発の概要を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "netease-games",
+    "name": "NetEase Games",
+    "nameKana": "ねっといーずげーむず",
+    "description": "中国のIT大手網易(NetEase)のゲーム事業部門。「荒野行動」等のモバイルゲームのほか、「NARAKA: BLADEPOINT」等のPC・コンソールタイトルも発売する。",
+    "externalLinks": {},
+    "sourceNote": "英語版Wikipedia『Naraka: Bladepoint』関連記事・NetEase Games公式サイト(2026-08-03閲覧)で発売元としての役割を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mane6",
+    "name": "Mane6",
+    "nameKana": "めいんしっくす",
+    "description": "米国のインディーゲーム開発スタジオ。2011年に「マイリトルポニー」のファン制作格闘ゲームとして活動を始め、権利問題を経て独自IP「Them's Fightin' Herds」を開発した。",
+    "foundedYear": 2011,
+    "externalLinks": {},
+    "sourceNote": "Vice・Kotaku記事(2026-08-03閲覧)で前身がマイリトルポニーのファンゲーム開発チーム(2011年活動開始)だった経緯、2013年のハズブロからの中止要請を経てThem's Fightin' Herdsへ転換した経緯を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "modus-games",
+    "name": "Modus Games",
+    "nameKana": "もーどすげーむず",
+    "description": "米国のインディーゲーム向けパブリッシャー。「Them's Fightin' Herds」のコンソール版等を発売する。",
+    "externalLinks": {},
+    "sourceNote": "Web検索(2026-08-03、Gematsu・DualShockers記事)でThem's Fightin' Herdsの発売元であることを確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "odyssey-interactive",
+    "name": "Odyssey Interactive",
+    "nameKana": "おでっせいいんたらくてぃぶ",
+    "description": "2020年設立、カナダ・カルガリーのゲーム開発会社。「League of Legends」開発陣出身のメンバーが立ち上げ、3対3対戦アクション「Omega Strikers」を開発・発売する。",
+    "foundedYear": 2020,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omega_Strikers"
+    },
+    "sourceNote": "Upcomer・Unreal Engine公式インタビュー記事(2026-08-03閲覧)で設立年(2020年)・所在地(カルガリー)・元Riot Games出身者による設立経緯を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "toylogic",
+    "name": "トイロジック",
+    "nameKana": "といろじっく",
+    "description": "2006年設立、岳洋一氏が創業した日本のゲーム開発会社。オンラインアクション「Happy Wars」や「NieR Replicant ver.1.22474487139...」の移植のほか、「FOAMSTARS」をスクウェア・エニックスと共同開発した。",
+    "foundedYear": 2006,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トイロジック"
+    },
+    "sourceNote": "日本語版Wikipedia『トイロジック』(2026-08-03閲覧)で設立年(2006年)・創業者(岳洋一)・代表作(Happy Wars等)を確認。FOAMSTARS開発への関与はゲームウィズ等の複数報道記事で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "riot-games",
+    "name": "Riot Games",
+    "nameKana": "らいあっとげーむず",
+    "description": "米ロサンゼルスのゲーム開発・発売会社。「League of Legends」「VALORANT」で知られ、テンセント傘下。LoLのスピンオフ格闘ゲーム「2XKO」も開発・発売する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/2XKO"
+    },
+    "sourceNote": "日本語版Wikipedia『2XKO』(2026-08-03閲覧)で開発・発売元がライアットゲームズであることを確認。",
+    "updatedAt": "2026-08-03"
   }
 ]

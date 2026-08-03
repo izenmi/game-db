@@ -8366,5 +8366,366 @@
     "externalLinks": {},
     "sourceNote": "国内ゲームメディア記事(電撃オンライン・ファミ通、2026-08-03検索時点)で開発元(アトラス)・発売元(任天堂)・対応機種(Nintendo Switch)・発売日(2020-01-17)・原作(2015年Wii U版『幻影異聞録♯FE』のSwitch向け追加要素版)を確認。日本語版Wikipedia記事タイトルの表記ゆれによりWebFetchでの直接アクセスには失敗したため、WebSearchの複数記事で裏取りした。受賞歴は確認できず未記載。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "fatal-fury-city-of-the-wolves",
+    "title": "餓狼伝説 City of the Wolves",
+    "titleKana": "がろうでんせつ してぃおぶざうるぶず",
+    "developerIds": [
+      "snk"
+    ],
+    "publisherId": "snk",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2025-04-24",
+    "synopsis": "名門格闘ゲーム「餓狼伝説」シリーズが約26年ぶりに完全新作として復活。舞台は再建されたサウスタウンの新市街で、テリー・ボガードやロック・ハワードら人気キャラクターに新顔も加わって激突する。新システム「REV」を軸にした駆け引きが持ち味の3D対戦格闘で、裏社会の抗争を描くストーリーモードも収録している。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2025,
+        "result": "Best Fighting Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/餓狼伝説_City_of_the_Wolves"
+    },
+    "sourceNote": "日本語版Wikipedia『餓狼伝説 City of the Wolves』(2026-08-03閲覧)で発売日(2025-04-24)・対応機種(PS5/PS4/Xbox Series/Steam、Switch版は確認できず)を確認。SNK公式プレスリリース(snk-corp.co.jp、2025-12-12付)・eventhubs記事でThe Game Awards 2025「Best Fighting Game」受賞(2XKO・Capcom Fighting Collection 2等を抑えて受賞)を確認。開発・発売元はSNK自社(既存id「snk」を developer/publisher 双方に使用)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "under-night-in-birth-2-sys-celes",
+    "title": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+    "titleKana": "あんだーないといんばーす つー しすとせれす",
+    "developerIds": [
+      "french-bread"
+    ],
+    "publisherId": "arc-system-works",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2024-01-25",
+    "synopsis": "「アンダーナイト インヴァース」シリーズの完結編にあたる2D対戦格闘ゲーム。前作の全キャラクターに新技が加わり、カグヤ・ツルギ・クオンら新規参戦キャラも登場する。「夜」と「虚無」を巡る一連の物語に決着をつけるビジュアルノベル的なストーリーパートを収録し、ロールバック方式のオンライン対戦にも対応する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Under_Night_In-Birth_II"
+    },
+    "sourceNote": "電撃オンライン記事(2023-08-05、発売日決定)・ファミ通.com記事(2023-09、新キャラクター情報)で2024-01-25の日本発売を確認。英語版Wikipedia『Under Night In-Birth II』(2026-08-03閲覧)で開発元(French-Bread)・発売元(アークシステムワークス、地域により発売元は異なるが日本国内はアークシステムワークス)・対応機種(PS4/PS5/Switch/PC)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "melty-blood-type-lumina",
+    "title": "MELTY BLOOD: TYPE LUMINA",
+    "titleKana": "めるてぃぶらっど たいぷるみな",
+    "developerIds": [
+      "french-bread"
+    ],
+    "publisherId": "delightworks",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2021-09-30",
+    "synopsis": "リメイク版「月姫」の世界観を舞台にした2D対戦格闘ゲーム。同人格闘ゲームとして人気を博した「メルティブラッド」シリーズの完全新作で、シエルやアルクェイド、志貴ら人気キャラクターが一新されたグラフィックで登場する。初心者でも扱いやすい操作性を追求しつつ、シリーズ伝統の高速移動や必殺技の読み合いといった駆け引きの深さも両立させた作品で、EVO2023のメイントーナメント種目にも選ばれた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MELTY_BLOOD"
+    },
+    "sourceNote": "PlayStation Blog記事(2021-03-26)・4Gamer記事(2021-09-30発売)で発売日・対応機種(PS4/Switch/Xbox One/Steam、PS5版なし)を確認。日本語版Wikipedia『MELTY BLOOD』(シリーズ全体を扱う記事、2026-08-03閲覧)で開発元(TYPE-MOON・フランスパン・エコールソフトウェア)・発売元(2021年発売時はディライトワークス)を確認。developerIdsは主要開発元のフランスパンのみ登録(TYPE-MOON・エコールソフトウェアは未登録)。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "capcom-fighting-collection-2",
+    "title": "カプコン ファイティング コレクション2",
+    "titleKana": "かぷこん ふぁいてぃんぐ これくしょんつー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2025-05-16",
+    "synopsis": "1990〜2000年代のカプコン対戦格闘・アクション8作を収録したオムニバス集。「カプコン vs. SNK 2」や「ストリートファイターZERO3↑」、「燃えろ!ジャスティス学園」、「パワーストーン」シリーズ等、当時アーケードで人気だった作品を家庭用に忠実移植している。全タイトルで同一機種同士のオンライン対戦に対応し、資料集も楽しめる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カプコン_ファイティング_コレクション2"
+    },
+    "sourceNote": "日本語版Wikipedia『カプコン ファイティング コレクション2』(2026-08-03閲覧)で発売日(2025-05-16)・対応機種(Switch/PS4/Xbox One/Steam、PS5版はなし)・収録タイトル8本を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "marvel-vs-capcom-fighting-collection-arcade-classics",
+    "title": "マーベルVSカプコン ファイティングコレクション アーケードクラシックス",
+    "titleKana": "まーべるぶいえすかぷこん ふぁいてぃんぐこれくしょん あーけーどくらしっくす",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2024-09-12",
+    "synopsis": "マーベル・コミックとカプコンが共同制作した対戦格闘・ベルトスクロールアクション7作を収録したオムニバス集。「X-MEN VS. STREET FIGHTER」や「MARVEL VS. CAPCOM」シリーズ等、版権の関係で長らく入手困難だったアーケードの名作を家庭用ハードで復刻し、家庭用初移植の「パニッシャー」も収録している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マーベルVSカプコン_ファイティングコレクション_アーケードクラシックス"
+    },
+    "sourceNote": "日本語版Wikipedia『マーベルVSカプコン ファイティングコレクション アーケードクラシックス』(2026-08-03閲覧)でダウンロード配信開始日(2024-09-12、Steam/PS4/Switch)・パッケージ版発売日(2024-11-22)・対応機種(PS5版なし)・収録タイトル7本を確認。releaseDateはSwitch版が入手可能になった最速日(ダウンロード配信開始日)を採用し、パッケージ版発売日との差はここに明記する。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "naruto-x-boruto-ultimate-ninja-storm-connections",
+    "title": "NARUTO X BORUTO ナルティメットストームコネクションズ",
+    "titleKana": "なるとあんどぼると なるてぃめっとすとーむこねくしょんず",
+    "developerIds": [
+      "cyberconnect2"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action",
+      "adventure"
+    ],
+    "releaseDate": "2023-11-16",
+    "synopsis": "「NARUTO -ナルト-」20周年を記念した「ナルティメットストーム」シリーズ最新作。ボルトを主人公とした完全新規ストーリーが描かれ、歴代シリーズの人気キャラクターも多数参戦する対戦アクションゲーム。派手な連携技や必殺技の応酬に加え、原作の名場面を追体験できるアドベンチャーパートも収録し、シリーズ初のNintendo Switch向けタイトルとなった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/NARUTO_X_BORUTO_ナルティメットストームコネクションズ"
+    },
+    "sourceNote": "日本語版Wikipedia『NARUTO X BORUTO ナルティメットストームコネクションズ』(2026-08-03閲覧)で発売日(2023-11-16)・対応機種(PS5/PS4/Switch/Xbox One/Steam)・発売元(バンダイナムコエンターテインメント)を確認。開発元(サイバーコネクトツー)は英語版Wikipedia『Naruto X Boruto: Ultimate Ninja Storm Connections』で確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bleach-rebirth-of-souls",
+    "title": "BLEACH Rebirth of Souls",
+    "titleKana": "ぶりーち りばーすおぶそうるず",
+    "developerIds": [
+      "tamsoft"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action",
+      "adventure"
+    ],
+    "releaseDate": "2025-03-21",
+    "synopsis": "人気漫画「BLEACH」を題材にした対戦アクションゲーム。死神代行篇から破面篇、さらに千年血戦篇のキャラクターまで幅広い顔ぶれが参戦し、高速の移動技「フラッシュステップ」を活かした立体的な間合いの読み合いが特徴。原作のストーリーをなぞるモードも収録し、藍染惣右介や山本元柳斎重國といった強敵キャラも自分の手で操作して戦わせられる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bleach_Rebirth_of_Souls"
+    },
+    "sourceNote": "英語版Wikipedia『Bleach Rebirth of Souls』(2026-08-03閲覧)で開発元(Tamsoft)・発売元(バンダイナムコエンターテインメント)・発売日(2025-03-21)・対応機種(PS5/PS4/Xbox Series/Steam、Switch版なし)を確認。ファミ通.com記事(2024年12月・2025年1月)で発売日決定の経緯を補足確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "skullgirls-2nd-encore",
+    "title": "Skullgirls 2nd Encore",
+    "titleKana": "スカルガールズ セカンドアンコール",
+    "developerIds": [
+      "hidden-variable-studios"
+    ],
+    "publisherId": "autumn-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2019-10-22",
+    "synopsis": "個性豊かな女性キャラクターたちが戦う2D対戦格闘ゲーム「Skullgirls」の拡張版。手描き風のなめらかなアニメーションと、キャラクターごとに大きく異なる操作感が特徴で、フルボイスのストーリーモードも収録している。Nintendo Switch版は携帯モードでもコンボや連携が楽しめる高い移植度が評価された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Skullgirls"
+    },
+    "sourceNote": "英語版Wikipedia『Skullgirls』(2026-08-03閲覧)・Nintendo公式ストア(Switch版2019-10-22発売)で発売日・対応機種を確認。開発元(Hidden Variable Studios)・発売元(Autumn Games)はSiliconera・Gematsu等の複数報道記事で確認。PS5は正式な移植版がなくPS4版のみのため対応機種に含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nickelodeon-all-star-brawl-2",
+    "title": "Nickelodeon All-Star Brawl 2",
+    "titleKana": "にころでおん おーるすたーぶろーるつー",
+    "developerIds": [
+      "ludosity",
+      "fair-play-labs"
+    ],
+    "publisherId": "gamemill-entertainment",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "versus-action",
+      "platformer"
+    ],
+    "releaseDate": "2023-11-07",
+    "synopsis": "ニコロデオン系アニメの人気キャラクターが集結するプラットフォームファイター。スポンジボブやミュータント・タートルズなど多数の作品からキャラクターが参戦し、前作から一新されたオリジナル必殺技や新モードを搭載する。ステージの地形やギミックを活かした撃墜の駆け引きが楽しめる、いわゆる「スマブラ系」の対戦アクション。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nickelodeon_All-Star_Brawl_2"
+    },
+    "sourceNote": "英語版Wikipedia『Nickelodeon All-Star Brawl 2』(2026-08-03閲覧)で開発元(Ludosity/Fair Play Labs)・発売元(GameMill Entertainment)・デジタル版発売日(2023-11-07、パッケージ版は同年12月1日)・対応機種(PS5/PS4/Switch/Xbox/Steam)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "brawlhalla",
+    "title": "Brawlhalla",
+    "titleKana": "ぶろうるはら",
+    "developerIds": [
+      "blue-mammoth-games"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "versus-action",
+      "platformer"
+    ],
+    "releaseDate": "2018-11-06",
+    "synopsis": "基本プレイ無料の乱闘系プラットフォームファイター。フィールドに落ちている多彩な武器を拾って戦う独自システムと、最大8人までの同時対戦に対応する手軽さが特徴で、他媒体作品とのコラボキャラクターも多数参戦する。全プラットフォーム間のクロスプレイに対応し、PS5版は120fps描画やアダプティブトリガーによる攻撃時の手応え再現にも対応した高精細な移植版として作り込まれている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brawlhalla"
+    },
+    "sourceNote": "英語版Wikipedia『Brawlhalla』(2026-08-03閲覧)で開発元(Blue Mammoth Games、2018年にユービーアイソフト傘下入り)・発売元(ユービーアイソフト)・対応機種を確認。Switch版発売日(海外向け2018-11-06、国内2019-09-05)はninten-switch.com記事で確認。PS5版は公式サイト(playbrawlhalla.com)で120fps対応のネイティブ版であることを確認したが正確な追加日は未確認のため、releaseDateはSwitch版海外発売日を採用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "naraka-bladepoint",
+    "title": "NARAKA: BLADEPOINT",
+    "titleKana": "ならか ぶれいどぽいんと",
+    "developerIds": [
+      "24-entertainment"
+    ],
+    "publisherId": "netease-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "versus-action",
+      "action-adventure"
+    ],
+    "releaseDate": "2023-07-13",
+    "synopsis": "最大60人が入り乱れる剣戟バトルロイヤル。銃器ではなく刀剣や武術による近接戦闘と、グラップリングフックを使ったパルクール的な移動を軸にしており、キャラクターごとに固有のスキルを持つ。落下地点を選んで装備を集め、輪を狭めながら最後の一人(または一組)を目指す流れは既存のバトルロイヤルに近いが、近接戦闘中心の立ち回りが個性となっている。PS5版は基本プレイ無料化と同時に配信された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naraka:_Bladepoint"
+    },
+    "sourceNote": "英語版Wikipedia『Naraka: Bladepoint』(2026-08-03閲覧)で開発元(24 Entertainment)・発売元(NetEase Games)を確認。PS5版配信日(2023-07-13、基本無料化と同時)はファミ通.com・AUTOMATON記事(2023年7月)で確認。Switch版は確認できず対応機種に含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "thems-fightin-herds",
+    "title": "Them's Fightin' Herds",
+    "titleKana": "ぜむず ふぁいてぃんはーず",
+    "developerIds": [
+      "mane6"
+    ],
+    "publisherId": "modus-games",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2022-10-18",
+    "synopsis": "動物たちが戦う2D対戦格闘ゲーム。人気アニメーターのローレン・ファウストがキャラクターデザインを手掛け、愛らしい見た目とは裏腹に、起き上がりや連携の読み合いなど硬派な格闘システムを備える。長期のPC早期アクセスを経て家庭用へ移植され、シーズンパスによる追加参戦キャラクターの配信や、対戦格闘コミュニティ発のインディー作品として大会シーンでも取り上げられてきた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Them's_Fightin'_Herds"
+    },
+    "sourceNote": "英語版Wikipedia『Them's Fightin' Herds』(2026-08-03閲覧)・4Gamer記事(2022-11-04)で開発元(Mane6)・発売元(Modus Games)・PS5/PS4/Xbox版発売日(2022-10-18)を確認。Switch版は同記事で2022年12月15日発売と案内されており、releaseDateはPS5版を含む最速発売日(2022-10-18)を採用した。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "omega-strikers",
+    "title": "Omega Strikers",
+    "titleKana": "おめがすとらいかーず",
+    "developerIds": [
+      "odyssey-interactive"
+    ],
+    "publisherId": "odyssey-interactive",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "versus-action",
+      "sports"
+    ],
+    "releaseDate": "2023-04-28",
+    "synopsis": "3対3のチームで戦う無料の「エアホッケー風」対戦アクション。フィールド上でパックを弾き合い、キャラクター固有のアビリティを駆使して相手をノックアウトしながらゴールを狙う。1試合が短くテンポの良い設計で、クロスプレイ・クロスプログレッションに対応する。開発元はLeague of Legends開発陣出身者が設立したスタジオ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omega_Strikers"
+    },
+    "sourceNote": "4Gamer記事(2023-04-14/28)・ファミ通.com記事(2023-04-28)でPS5/PS4/Switch版配信日(2023-04-28)を確認。英語版Wikipedia『Omega Strikers』(2026-08-03閲覧)で開発元・発売元(Odyssey Interactive)を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "foamstars",
+    "title": "FOAMSTARS(フォームスターズ)",
+    "titleKana": "ふぉーむすたーず",
+    "developerIds": [
+      "toylogic"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "versus-action"
+    ],
+    "releaseDate": "2024-02-06",
+    "synopsis": "スクウェア・エニックスが手掛ける4対4のパーティシューター。泡を撃ち合って地形を作り、足場や壁として利用しながら戦うユニークなシステムが特徴で、対戦モードのほか協力プレイの「ウェーブバッシュ」も収録する。ポップな見た目とは裏腹に立ち回りの奥深さがあり、PlayStation Plusフリープレイでの配信でも話題を呼んだ。",
+    "externalLinks": {
+      "officialUrl": "https://www.jp.square-enix.com/foamstars/jp/"
+    },
+    "sourceNote": "スクウェア・エニックス公式サイト(jp.square-enix.com/foamstars)・同社プレスリリース(2023年11月・2024年発売日決定告知)でジャンル・発売日(2024-02-06)・対応機種(PS5/PS4)を確認。開発元(トイロジック)はゲームウィズ等の複数報道記事で確認。Switch版は発売されていないため対応機種に含めていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "2xko",
+    "title": "2XKO",
+    "titleKana": "つーえっくすけーおー",
+    "developerIds": [
+      "riot-games"
+    ],
+    "publisherId": "riot-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2026-01-21",
+    "synopsis": "「League of Legends」の世界観を舞台にした基本プレイ無料の2対2タッグ対戦格闘ゲーム。プレイヤー同士が呼吸を合わせて連携技を繰り出す「デュオプレイ」が特徴で、LoLの人気チャンピオンたちが格闘ゲーム向けに再構成されたアクションで参戦する。2025年秋にPC版が先行して早期アクセスを開始し、2026年1月にPS5・Xbox Series X|S版を含む正式リリースを迎えた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/2XKO"
+    },
+    "sourceNote": "日本語版Wikipedia『2XKO』(2026-08-03閲覧)で開発元・発売元(ライアットゲームズ)・PS5正式リリース日(2026-01-21)・PC早期アクセス開始日(2025-10-08)を確認。The Game Awards 2025でBest Fighting Game候補に選出されたが受賞したのは餓狼伝説 City of the Wolvesであるため受賞歴には含めていない。Switch版は確認できず対応機種に含めていない。",
+    "updatedAt": "2026-08-03"
   }
 ]
