@@ -7647,5 +7647,369 @@
     },
     "sourceNote": "英語版Wikipedia「Bayonetta Origins: Cereza and the Lost Demon」および電撃オンライン・ファミ通の記事(2026-08-03閲覧)で発売日(2023-03-17)・開発元(プラチナゲームズ)・発売元(任天堂)を確認。日本語版Wikipediaの単独記事URLは複数パターンを試したが到達できず、英語版を採用した。既存の「ベヨネッタ3」(bayonetta-3)とは別作品として区別。受賞歴は確認できず未記載。あらすじは独自要約。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "animal-well",
+    "title": "ANIMAL WELL",
+    "titleKana": "あにまるうぇる",
+    "developerIds": [
+      "billy-basso"
+    ],
+    "publisherId": "bigmode",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "puzzle"
+    ],
+    "releaseDate": "2024-05-09",
+    "synopsis": "地下深くに広がる不思議な井戸を、正体不明の生物となって探索するパズルプラットフォーマー。会話や文字による説明をほとんど排し、多数の動物や奇妙な仕掛けに満ちた入り組んだマップを、拾い集めた道具を駆使して自力で読み解いていく。開発者ビリー・バッソ氏がほぼ単独で7年をかけて作り上げた作品で、隠された仕掛けの奥深さが高く評価された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Animal_Well"
+    },
+    "sourceNote": "英語版Wikipedia『Animal Well』、4Gamer記事(いずれも2026-08-03閲覧)でPC/PS5/Switch同時発売日(2024-05-09)、開発元(Billy Basso氏)、発売元(Bigmode)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約(コピペなし)。The Game Awards 2024でBest Debut Indie Game/Best Independent Gameにノミネートされたが、追跡対象9アワードでの受賞(勝利)は確認できなかったためawardResultsは未掲載。Xbox版は2024-10-17発売だが本サイト対象外機種のため触れていない。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nine-sols",
+    "title": "九日 ナインソール",
+    "titleKana": "ないんそーるず",
+    "developerIds": [
+      "red-candle-games"
+    ],
+    "publisherId": "red-candle-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "soulslike"
+    ],
+    "releaseDate": "2024-11-26",
+    "synopsis": "台湾のスタジオが手掛ける、道教とSFを融合させた「Taopunk」世界観の2Dアクション。文明を追われた主人公ヤンは、かつての仲間である仙人たちの謀反という運命に立ち向かう。高難度のパリィ主体の戦闘とメトロイドヴァニア的な探索を組み合わせ、緻密な操作性と東洋的な美術で高い評価を得た。師弟関係や裏切りをめぐる重厚な人間ドラマも本作の見どころとなっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nine_Sols"
+    },
+    "sourceNote": "ファミ通.com記事、AUTOMATON記事、英語版Wikipedia『Nine Sols』(いずれも2026-08-03閲覧)でPS5/PS4/Switch/Xbox向け国内発売日(2024-11-26)、開発・発売元(Red Candle Games自社パブリッシング)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。The Game Awards 2024にはノミネートされず、GDC Awards 2025のBest Debut等主要部門でも受賞は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chants-of-sennaar",
+    "title": "Chants of Sennaar",
+    "titleKana": "ちゃんつおぶせなー",
+    "developerIds": [
+      "rundisc"
+    ],
+    "publisherId": "focus-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-09-06",
+    "synopsis": "バベルの塔の伝説を思わせる、言葉を失った古代世界を巡る言語解読パズルアドベンチャー。旅人となって塔を昇りながら、種族ごとに異なる未知の文字や記号を手がかりに少しずつ意味を推理し、対立し合う人々の間に再び意思疎通をもたらしていく。会話や翻訳表示に頼らず、観察と発見だけで謎を解く体験が高く評価された、独創的な作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chants_of_Sennaar"
+    },
+    "sourceNote": "4Gamer記事、AUTOMATON記事、英語版Wikipedia『Chants of Sennaar』(いずれも2026-08-03閲覧)でPC/PS4/PS5/Switch国内発売日(2023-09-06、日本語対応)、開発元Rundisc、発売元Focus Entertainment(既存id流用)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。BAFTA Games Awards 2024でGame Beyond Entertainment/New Intellectual Propertyにノミネートされたが受賞せず、追跡対象9アワードでの受賞は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bomb-rush-cyberfunk",
+    "title": "Bomb Rush Cyberfunk",
+    "titleKana": "ぼむらっしゅさいばーふぁんく",
+    "developerIds": [
+      "team-reptile"
+    ],
+    "publisherId": "team-reptile",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "platformer"
+    ],
+    "releaseDate": "2023-08-18",
+    "synopsis": "スケートボードやローラーブレードで街を駆け抜け、グラフィティを描いて縄張りを広げていくストリートアクション。近未来都市を舞台に、クルーの仲間たちと共にライバルクルーとのダンスバトルやトリック合戦に挑む。「ジェットセットラジオ」の精神を受け継ぐ作風で知られ、開発元自らがパブリッシングを手掛けた意欲作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bomb_Rush_Cyberfunk"
+    },
+    "sourceNote": "ファミ通.com記事、4Gamer記事、英語版Wikipedia『Bomb Rush Cyberfunk』(いずれも2026-08-03閲覧)でSwitch/PC同時発売日(2023-08-18)、PS5デジタル版発売日(2023-09-01、パッケージ版は2023-12-19に日本国内でSwitch/PS5とも発売)、開発・発売元(Team Reptile自社パブリッシング)を確認。日本語版Wikipediaに単独記事は見当たらず未使用。releaseDateは対応機種の中で最も早いSwitch版デジタル発売日を採用。あらすじは独自要約。The Game Awards 2023にはノミネートされず、Golden Joystick Awards 2023でBest Audioにノミネートされたが受賞は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "jusant",
+    "title": "Jusant",
+    "titleKana": "じゅさん",
+    "developerIds": [
+      "dont-nod"
+    ],
+    "publisherId": "dont-nod",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2024-01-25",
+    "synopsis": "水が枯れ果てた世界にそびえる巨大な塔を、ロープと相棒の水の生物とともに登り続けるクライミングアドベンチャー。指先の操作でロープを掛け替えながら岩肌や建造物の遺構をよじ登り、道中に残された痕跡からかつて塔に住んでいた文明の記憶をたどっていく。戦闘のない静かな探検体験が特徴で、映像美と音響演出も高く評価された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jusant"
+    },
+    "sourceNote": "4Gamer記事(2026-08-03閲覧)でPS5版の日本国内発売日(2024-01-25)を確認。英語版WikipediaによればPC/Xbox Series X|S/PS5の海外(北米・欧州)先行発売は2023-10-31で、日本国内PS5版はそれより遅れて配信されている。開発・発売元(DON'T NOD自社パブリッシング)を確認。Switch版は発売されていないため対応機種はPS5のみ。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。BAFTA Games Awards 2024でGame Beyond Entertainment/New Intellectual Propertyにノミネートされたが受賞せず、追跡対象9アワードでの受賞は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rogue-legacy-2",
+    "title": "Rogue Legacy 2",
+    "titleKana": "ろーぐれがしーつー",
+    "developerIds": [
+      "cellar-door-games"
+    ],
+    "publisherId": "cellar-door-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "platformer"
+    ],
+    "releaseDate": "2022-11-10",
+    "synopsis": "死んでは子孫が受け継いでいく城を、世代を超えて何度も攻略していくローグライクアクション。倒れるたびに異なる容姿や特性を持つ子孫を選び直し、集めた資源で家系や装備を強化しながら手強いボスへ挑む。前作の魅力を受け継ぎつつ新職業や成長要素、飛行モードによる救済措置を加えた続編として、シリーズファンから高く評価された。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+    },
+    "sourceNote": "AUTOMATON記事、doope!記事、英語版Wikipedia『Rogue Legacy 2』(いずれも2026-08-03閲覧)でNintendo Switch版の国内配信開始日(2022-11-10、日本語ローカライズ同時対応)、PS5版発売日(2023-06-20)、開発・発売元(Cellar Door Games自社パブリッシング)を確認。releaseDateは対応機種の中で最も早いSwitch版の日付を採用。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。主要な追跡対象アワードでの受賞は確認できなかったためawardResultsは未掲載。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "deaths-door",
+    "title": "Death's Door",
+    "titleKana": "ですどあ",
+    "developerIds": [
+      "acid-nerve"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "metroidvania"
+    ],
+    "releaseDate": "2021-11-23",
+    "synopsis": "カラスの死神が、盗まれた大いなる魂を取り戻すため様々な世界を巡る硬派なアクションアドベンチャー。剣や弓を駆使して個性豊かなボスたちと戦いながらダンジョンを攻略し、新たな能力を得て行動範囲を広げていく。簡潔ながら奥深い戦闘とダークユーモアに満ちた世界観が魅力で、発売年の多くの賞レースの候補となり、Golden Joystick Awardsではインディー部門の栄誉に輝いた。",
+    "awardResults": [
+      {
+        "awardId": "golden-joystick-awards",
+        "year": 2021,
+        "result": "Best Indie Game"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Death's Door (video game)』、GamesRadar+記事(いずれも2026-08-03閲覧)でSwitch/PS5(・PS4)同時発売日(2021-11-23)、開発元Acid Nerve、発売元Devolver Digital(既存id流用)、Golden Joystick Awards 2021でBest Indie Gameを受賞したことを確認。The Game Awards 2021ではBest Indieにノミネートされたが受賞はKena: Bridge of Spiritsだったため未記載。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "paper-trail",
+    "title": "ペーパートレイル",
+    "titleKana": "ぺーぱーとれいる",
+    "developerIds": [
+      "newfangled-games"
+    ],
+    "publisherId": "newfangled-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2024-05-23",
+    "synopsis": "折り紙のように世界そのものを折り曲げて道を切り開いていく、トップダウン視点のパズルアドベンチャー。学者を志す主人公の少女が家族の反対を押し切って故郷を旅立ち、紙細工のような各地の風景を折りたたみながら奥地を目指す。旅立ちと成長をテーマにした、静かで心温まる物語と、次々に姿を変える仕掛けの数々が特徴となっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paper_Trail_(video_game)"
+    },
+    "sourceNote": "4Gamer記事、ninten-switch.com記事、英語版Wikipedia『Paper Trail (video game)』(いずれも2026-08-03閲覧)でNintendo Switch版国内配信開始日(2024-05-23)、海外PC/PS5等の発売日(2024-05-21)、開発元Newfangled Gamesを確認。発売元はNetflix Games版と自社(コンシューマ)版で異なるが、Switch/PS5等の一般コンシューマ版はNewfangled Games自身の発売として扱った。PS5版の国内配信日はSwitch版と概ね同時期とみられるが個別の日付は確認できず、Switch版の国内配信日を採用した。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "botany-manor",
+    "title": "Botany Manor",
+    "titleKana": "ぼたにーまなー",
+    "developerIds": [
+      "balloon-studios"
+    ],
+    "publisherId": "whitethorn-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2024-04-09",
+    "synopsis": "19世紀イギリスの屋敷と庭園を舞台に、架空の希少な植物を発芽させる方法を手記や日用品の手がかりから読み解いていく一人称パズルアドベンチャー。かつて活躍した植物学者の邸内やその庭を歩き回り、光や温度、音など植物ごとに異なる発芽条件を推理して次々と花を咲かせていく、穏やかで丁寧な探索体験が魅力となっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Botany_Manor"
+    },
+    "sourceNote": "4Gamer記事、gamebiz記事、Gematsu記事、英語版Wikipedia『Botany Manor』(いずれも2026-08-03閲覧)でSwitchデジタル版発売日(2024-04-09、PC/Xbox同時)、PS5版発売日(当初2024-12-17予定も延期し2025-01-28発売)、Switchパッケージ版発売日(2025-02-20)、開発元Balloon Studios、発売元Whitethorn Games(日本展開はChorus Worldwideと提携)を確認。releaseDateは対応機種の中で最も早いSwitchデジタル版の日付を採用。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "toem",
+    "title": "トーエム",
+    "titleKana": "とーえむ",
+    "developerIds": [
+      "something-we-made"
+    ],
+    "publisherId": "popagenda",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2021-09-17",
+    "synopsis": "白黒で描かれた不思議な町や自然を、カメラ片手に旅していく癒し系フォトアドベンチャー。行く先々の人々の頼み事に応えながら写真を撮り集め、旅の最終目的地である山で起きるという現象「トーエム」を目撃するために各地を巡っていく。派手な演出のない、のんびりとした撮影体験が魅力の、優しい作風の作品で、多くのプレイヤーから癒しの旅として親しまれている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toem"
+    },
+    "sourceNote": "英語版Wikipedia『Toem』(2026-08-03閲覧)でWindows/Switch/PS5同時発売日(2021-09-17)、開発元Something We Made、発売元Popagendaを確認。Xbox版は2023年7月追加だが本サイト対象外機種のため触れていない。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cyber-shadow",
+    "title": "Cyber Shadow",
+    "titleKana": "さいばーしゃどう",
+    "developerIds": [
+      "mechanical-head-studios"
+    ],
+    "publisherId": "yacht-club-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer",
+      "action-adventure"
+    ],
+    "releaseDate": "2021-01-26",
+    "synopsis": "機械帝国に支配された近未来を舞台にした、往年のファミコン風グラフィックによる高難度2Dアクション。忍者シュラは囚われた仲間を救うため単身敵の要塞へ乗り込み、鋭い剣技と忍具を駆使して機械兵たちを斬り伏せていく。レトロな見た目に反した緻密な操作性と歯応えのある難度、そして意外性に富んだステージ構成が国内外で評価された作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyber_Shadow"
+    },
+    "sourceNote": "英語版Wikipedia『Cyber Shadow』、Yacht Club Games公式サイト(いずれも2026-08-03閲覧)でWindows/Switch/PS4/PS5/Xbox One同時デジタル発売日(2021-01-26)、開発元Mechanical Head Studios、発売元Yacht Club Games(既存id流用)を確認。Switch/PS5のパッケージ版は2025-02-27に追加発売されているが、デジタル版の初回発売日をreleaseDateとして採用した。日本語対応の有無・時期は情報源からは確認できず未確認。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "have-a-nice-death",
+    "title": "Have a Nice Death",
+    "titleKana": "はぶあないすです",
+    "developerIds": [
+      "magic-design-studios"
+    ],
+    "publisherId": "gearbox-publishing",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "platformer"
+    ],
+    "releaseDate": "2023-03-22",
+    "synopsis": "過労気味の「死神社」CEOを操作し、暴走した部下たちを分からせていく2Dローグライクアクション。フロアを進むたびにマップ構成や入手できる武器が変化し、各部門を統括する幹部社員との戦いを繰り返しながら会社に溜まった膿を清算していく。皮肉の効いたブラックユーモアと軽快な操作感が魅力の、風刺の効いた作品。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Have_a_Nice_Death"
+    },
+    "sourceNote": "denfaminicogamer記事、ninten-switch.com記事、英語版Wikipedia『Have a Nice Death』(いずれも2026-08-03閲覧)でNintendo Switch版国内配信開始日(2023-03-22、PC同時)、PS4/PS5版発売日(2023-12-05)、開発元Magic Design Studios、発売元Gearbox Publishingを確認。releaseDateは対応機種の中で最も早いSwitch版の日付を採用。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "islets",
+    "title": "アイレッツ 漂流の天空島",
+    "titleKana": "あいれっつ",
+    "developerIds": [
+      "kyle-thompson"
+    ],
+    "publisherId": "teyon-japan",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer"
+    ],
+    "releaseDate": "2023-07-13",
+    "synopsis": "分裂して空に散らばってしまった島々を、キツネの主人公が再び繋ぎ合わせていくメトロイドヴァニア。新たな能力を得て行動範囲を広げながら島の住人たちと交流し、それぞれが抱える悩みを解決していく。かわいらしい見た目に反して歯応えのあるアクションと、島同士を結合させて地形そのものを変化させていく独自の探索構造が特徴の一作。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Islets_(video_game)"
+    },
+    "sourceNote": "Gamer.ne.jp記事、ファミ通.com記事、Teyon Japan公式サイト、英語版Wikipedia『Islets (video game)』(いずれも2026-08-03閲覧)で開発者Kyle Thompson、海外(英語版)PC/Switch/Xbox同時発売日(2022-08-24、発売元Armor Games Studios)、Teyon Japanによる日本語対応国内版のNintendo Switch配信日(2023-07-13)を確認。国内版発売元はTeyon Japan(既存id流用)とし、releaseDateは国内配信日を採用。PS5版は2025年に発売された旨の情報もあったが日本語対応や国内配信の裏取りができなかったため対応機種には含めていない。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "chicory-a-colorful-tale",
+    "title": "Chicory: A Colorful Tale",
+    "titleKana": "ちこりーあからふるている",
+    "developerIds": [
+      "wishes-unlimited"
+    ],
+    "publisherId": "finji",
+    "platforms": [
+      "ps5",
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2021-06-10",
+    "synopsis": "色を失ってしまった世界を、魔法の筆を受け継いだ主人公の犬が塗り直していくアクションアドベンチャー。もともと世界に色を塗っていた先代の突然の失踪をきっかけに、不安を抱えながらも各地を旅して困っている仲間たちを助け、自分なりの筆使いを見つけていく。創作にまつわる不安や葛藤を掘り下げた、心の在り方をテーマにした温かく誠実な物語である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chicory:_A_Colorful_Tale"
+    },
+    "sourceNote": "英語版Wikipedia『Chicory: A Colorful Tale』(2026-08-03閲覧)でPS4/PS5同時発売日(2021-06-10)、Switch版発売日(2021-12-15)、開発元Wishes Unlimited(Greg Lobanov氏主宰)、発売元Finji(既存id流用)を確認。releaseDateは対応機種の中で最も早いPS5版の日付を採用。The Game Awards 2021でBest Debut Indie Game等にノミネートされ、Golden Joystick Awards 2021のBest Indie Game候補にも挙がったが、いずれも受賞はDeath's Door等が獲得しており、追跡対象9アワードでの受賞は確認できなかったためawardResultsは未掲載。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "card-shark",
+    "title": "Card Shark",
+    "titleKana": "かーどしゃーく",
+    "developerIds": [
+      "nerial"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-06-02",
+    "synopsis": "18世紀フランスを舞台に、言葉を話せない下働きの青年が伯爵とともにイカサマ師として成り上がっていくアドベンチャー。カードを隠したり覗き見たりする技術をスティック操作やタイミング操作で実際に身につけながら、貴族や賭博師たちを騙して財を築きながら、裏で進む王家をめぐる陰謀の真相にも次第に近づいていくことになる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Card_Shark"
+    },
+    "sourceNote": "4Gamer記事、ninten-switch.com記事、英語版Wikipedia『Card Shark』(いずれも2026-08-03閲覧)でPC/Switch同時発売日(2022-06-02)、開発元Nerial、発売元Devolver Digital(既存id流用)を確認。PS5版は発売されていないため対応機種はSwitchのみ。日本語版Wikipediaに単独記事は見当たらず未使用。あらすじは独自要約。",
+    "updatedAt": "2026-08-03"
   }
 ]

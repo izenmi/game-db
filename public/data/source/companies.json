@@ -2265,5 +2265,213 @@
     },
     "sourceNote": "日本語版Wikipedia「エイティング」およびNintendo Life・GoNintendo等の英語メディア報道(2026-08-03閲覧)で設立年(1993年)・コロプラによる完全子会社化(2016年)・『ピクミン3 デラックス』のSwitch移植担当を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "billy-basso",
+    "name": "Billy Basso",
+    "nameKana": "びりー・ばっそ",
+    "description": "米国の個人ゲーム開発者。「Animal Well」を7年かけてほぼ単独で開発した(エンジンも自作)。屋号は「Shared Memory」。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Animal_Well"
+    },
+    "sourceNote": "英語版Wikipedia『Animal Well』(2026-08-03閲覧)で、Billy Basso氏が単独開発者であり屋号がShared Memoryであることを確認。個人開発者のため法人設立年は該当なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "bigmode",
+    "name": "Bigmode",
+    "nameKana": "びっぐもーど",
+    "description": "配信者Jason \"PlayerUnknown\" Chu(だけでなくSuper Eyepatch Wolfら)が2023年に設立したインディーゲームパブリッシャー。「Animal Well」が最初の発売作品。",
+    "foundedYear": 2023,
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Animal_Well"
+    },
+    "sourceNote": "英語版Wikipedia『Animal Well』(2026-08-03閲覧)でBigmodeが本作の発売元(初の発売タイトル)であることを確認。設立年2023年は同記事の記述に基づく。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "red-candle-games",
+    "name": "Red Candle Games",
+    "nameKana": "れっどきゃんどるげーむず",
+    "description": "台湾のインディーゲームスタジオ。ホラーゲーム「返校(Detention)」「還願(Devotion)」で知られ、「九日 ナインソール(Nine Sols)」を開発・自社パブリッシングした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nine_Sols"
+    },
+    "sourceNote": "ファミ通.com『九日ナインソール』記事、英語版Wikipedia『Nine Sols』(いずれも2026-08-03閲覧)で、台湾のRed Candle Gamesが開発・発売元であり『返校』『還願』の開発元であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "rundisc",
+    "name": "Rundisc",
+    "nameKana": "らんでぃすく",
+    "description": "フランスのインディーゲームスタジオ。言語解読パズルアドベンチャー「Chants of Sennaar」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chants_of_Sennaar"
+    },
+    "sourceNote": "英語版Wikipedia『Chants of Sennaar』(2026-08-03閲覧)で開発元Rundisc、発売元Focus Entertainmentを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "team-reptile",
+    "name": "Team Reptile",
+    "nameKana": "ちーむれぷたいる",
+    "description": "オランダのインディーゲームスタジオ。ストリートアクション「Bomb Rush Cyberfunk」を開発・自社パブリッシングした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bomb_Rush_Cyberfunk"
+    },
+    "sourceNote": "英語版Wikipedia『Bomb Rush Cyberfunk』(2026-08-03閲覧)でオランダのTeam Reptileが開発・発売の両方を自社で行っていることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "dont-nod",
+    "name": "DON'T NOD",
+    "nameKana": "どんとのっど",
+    "description": "「ライフ イズ ストレンジ」シリーズで知られるフランスのゲームスタジオ。クライミングアドベンチャー「Jusant」を開発・自社パブリッシングした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jusant"
+    },
+    "sourceNote": "英語版Wikipedia『Jusant』、ファミ通.com/4Gamer記事(いずれも2026-08-03閲覧)でDON'T NODが開発・発売元であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "cellar-door-games",
+    "name": "Cellar Door Games",
+    "nameKana": "せらーどあげーむず",
+    "description": "カナダのインディーゲームスタジオ。ローグライクアクション「Rogue Legacy」シリーズの開発・自社パブリッシングで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+    },
+    "sourceNote": "英語版Wikipedia『Rogue Legacy 2』(2026-08-03閲覧)でカナダのCellar Door Gamesが開発・発売元であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "acid-nerve",
+    "name": "Acid Nerve",
+    "nameKana": "あしっどなーぶ",
+    "description": "英国の2人組インディーゲームスタジオ。アクションアドベンチャー「Death's Door」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Death%27s_Door_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Death's Door (video game)』(2026-08-03閲覧)で開発元Acid Nerve、発売元Devolver Digitalを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "newfangled-games",
+    "name": "Newfangled Games",
+    "nameKana": "にゅーふぁんぐるどげーむず",
+    "description": "英国のインディーゲームスタジオ。折り紙のように世界を折るパズルアドベンチャー「Paper Trail」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paper_Trail_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Paper Trail (video game)』(2026-08-03閲覧)で英国のNewfangled Gamesが開発元であることを確認。コンシューマ版(Switch/PS5等)の発売元表記はNetflix Games版とは別に自社(Newfangled Games)扱いとして流通しているため発売元として採用。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "balloon-studios",
+    "name": "Balloon Studios",
+    "nameKana": "ばるーんすたじおず",
+    "description": "英国のインディーゲームスタジオ。一人称パズルアドベンチャー「Botany Manor」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Botany_Manor"
+    },
+    "sourceNote": "英語版Wikipedia『Botany Manor』(2026-08-03閲覧)で英国のBalloon Studiosが開発元であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "whitethorn-games",
+    "name": "Whitethorn Games",
+    "nameKana": "ほわいとそーんげーむず",
+    "description": "米国のインディーゲームパブリッシャー。「Botany Manor」等を発売。日本国内展開ではChorus Worldwideと提携している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Botany_Manor"
+    },
+    "sourceNote": "英語版Wikipedia『Botany Manor』、Whitethorn Games公式サイト(いずれも2026-08-03閲覧)で発売元であることおよび日本展開でのChorus Worldwideとの提携を確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "something-we-made",
+    "name": "Something We Made",
+    "nameKana": "さむしんぐうぃめいど",
+    "description": "スウェーデンのインディーゲームスタジオ。フォトアドベンチャー「TOEM」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toem"
+    },
+    "sourceNote": "英語版Wikipedia『Toem』(2026-08-03閲覧)でスウェーデンのSomething We Madeが開発元であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "popagenda",
+    "name": "Popagenda",
+    "nameKana": "ぽぱげんだ",
+    "description": "「TOEM」の販売・マーケティングを手掛けたパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "4Gamer記事・英語版Wikipedia『Toem』(2026-08-03閲覧)でPopagendaが本作の発売・マーケティングに関わったことを確認。設立年は未確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "mechanical-head-studios",
+    "name": "Mechanical Head Studios",
+    "nameKana": "めかにかるへっどすたじおず",
+    "description": "フィンランドのインディーゲームスタジオ。レトロ風2Dアクション「Cyber Shadow」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyber_Shadow"
+    },
+    "sourceNote": "英語版Wikipedia『Cyber Shadow』(2026-08-03閲覧)でフィンランドのMechanical Head Studiosが開発元、Yacht Club Gamesが発売元であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "magic-design-studios",
+    "name": "Magic Design Studios",
+    "nameKana": "まじっくでざいんすたじおず",
+    "description": "フランスのインディーゲームスタジオ。ローグライクアクション「Have a Nice Death」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Have_a_Nice_Death"
+    },
+    "sourceNote": "英語版Wikipedia『Have a Nice Death』(2026-08-03閲覧)でMagic Design Studiosが開発元、Gearbox Publishingが発売元であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "gearbox-publishing",
+    "name": "Gearbox Publishing",
+    "nameKana": "ぎあぼっくすぱぶりっしんぐ",
+    "description": "米Gearbox Entertainmentのパブリッシング部門。「Have a Nice Death」等インディータイトルの発売元を務める。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Have_a_Nice_Death"
+    },
+    "sourceNote": "英語版Wikipedia『Have a Nice Death』(2026-08-03閲覧)でGearbox Publishingが発売元であることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "kyle-thompson",
+    "name": "Kyle Thompson",
+    "nameKana": "かいる・とんぷそん",
+    "description": "メトロイドヴァニア「Islets」を手掛けた個人ゲーム開発者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Islets_(video_game)"
+    },
+    "sourceNote": "英語版Wikipedia『Islets (video game)』(2026-08-03閲覧)でKyle Thompson氏が開発者であることを確認。個人開発者のため法人設立年は該当なし。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "wishes-unlimited",
+    "name": "Wishes Unlimited",
+    "nameKana": "うぃっしゅずあんりみてっど",
+    "description": "Greg Lobanov氏が率いる米国のインディーゲームスタジオ。「Chicory: A Colorful Tale」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chicory:_A_Colorful_Tale"
+    },
+    "sourceNote": "英語版Wikipedia『Chicory: A Colorful Tale』(2026-08-03閲覧)で開発元Wishes Unlimited(Greg Lobanov氏主宰)、発売元Finjiであることを確認。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "nerial",
+    "name": "Nerial",
+    "nameKana": "にえりある",
+    "description": "「Reigns」シリーズで知られるフランスのインディーゲームスタジオ。イカサマアドベンチャー「Card Shark」の開発元。",
+    "externalLinks": {
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Card_Shark"
+    },
+    "sourceNote": "英語版Wikipedia『Card Shark』(2026-08-03閲覧)で開発元Nerial、発売元Devolver Digitalであることを確認。",
+    "updatedAt": "2026-08-03"
   }
 ]
