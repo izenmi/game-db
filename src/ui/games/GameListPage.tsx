@@ -225,7 +225,8 @@ export function GameListPage() {
       {gamesState.status === "ready" && (
         <>
           <p className="page-subtitle">
-            {filtered.length}件{totalPages > 1 && `(${page} / ${totalPages}ページ)`}
+            {hasActiveFilters ? `${filtered.length}件 / 全${gamesState.data.length}件` : `${filtered.length}件`}
+            {totalPages > 1 && `(${page} / ${totalPages}ページ)`}
           </p>
           {filtered.length === 0 && <EmptyState />}
           {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
