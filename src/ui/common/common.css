@@ -689,6 +689,10 @@ h1 {
   border-left-color: #f2a35c;
 }
 
+.sister-site-card--mystery {
+  border-left-color: #9d8ae6;
+}
+
 .source-note {
   color: var(--color-text-muted);
   font-size: 0.72rem;

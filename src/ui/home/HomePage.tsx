@@ -32,6 +32,12 @@ const SISTER_SITES = [
     url: "https://izenmi.github.io/manga-db/",
     tagline: "コミック作品を原作者・作画家・レーベル・受賞歴・テーマから探せるデータベース",
   },
+  {
+    key: "mystery",
+    name: "ミステリDB",
+    url: "https://izenmi.github.io/mystery-db/",
+    tagline: "国内外の推理小説を著者・名探偵・翻訳者・受賞歴・テーマから探せるデータベース",
+  },
 ] as const;
 
 /** Returns up to `count` elements from `games` in random order, without mutating the input. */
