@@ -53,6 +53,17 @@ function pickRandomGames(games: GameGenerated[], count: number): GameGenerated[]
   return result;
 }
 
+/** Cached for the lifetime of the SPA session so the row stays put when the reader navigates
+ *  away and comes back (including via the browser's Back button) — re-rolling on every remount
+ *  silently replaced the works they had just been looking at. A full page reload starts a new
+ *  module instance and therefore reshuffles. */
+let cachedPickup: GameGenerated[] | null = null;
+
+function getPickupGames(games: GameGenerated[]): GameGenerated[] {
+  if (!cachedPickup) cachedPickup = pickRandomGames(games, PICKUP_COUNT);
+  return cachedPickup;
+}
+
 interface RecentAward {
   gameId: string;
   gameTitle: string;
@@ -75,7 +86,7 @@ export function HomePage() {
   const gamesState = useAsyncData(getGames, []);
   const genresState = useAsyncData(getGenres, []);
   const pickupGames = useMemo(
-    () => (gamesState.status === "ready" ? pickRandomGames(gamesState.data, PICKUP_COUNT) : []),
+    () => (gamesState.status === "ready" ? getPickupGames(gamesState.data) : []),
     [gamesState]
   );
   const recentAwards = useMemo(

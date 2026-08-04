@@ -137,7 +137,7 @@ node scripts/generate-ogp.mjs   # public/og-image.png の再生成(手動実行�
 
 `HomePage.tsx`が検索ボックスと件数バッジだけで寂しいというユーザー要望を受け、`.count-badges`の直後・`.source-note`の直前に4セクションを追加した(サブコンポーネント分割はせず`HomePage.tsx`単一ファイルのまま拡張)。
 
-- **ピックアップゲーム**: `getGames()`で全ゲームを取得し、`pickRandomGames()`(部分Fisher–Yates)で6件をランダム抽出して`GameCard`で表示。`useMemo`の依存が`gamesState`(オブジェクト全体)なので、ページ再マウント時(=遷移して戻ってきたとき)だけ再抽選され、検索ボックス入力等の再レンダーでは変わらない
+- **ピックアップゲーム**: `getGames()`で全ゲームを取得し、`pickRandomGames()`(部分Fisher–Yates)で6件をランダム抽出して`GameCard`で表示。**抽選結果はモジュールレベルの`cachedPickup`に保持し、SPAセッション中は再抽選しない**(2026-08-04にユーザー指示で変更)。以前は`useMemo`の依存が`gamesState`だったためページ再マウント時に再抽選され、ブラウザの戻るボタンでトップに戻ると直前まで見ていたゲームが別のものに差し替わってしまっていた。フルリロードすると新しいモジュールインスタンスになるので抽選し直される
 - **受賞作スポットライト**: 全ゲームの`awardSummaries`を`flattenRecentAwards()`でフラット化し年降順で上位6件を表示。`AwardDetailPage.tsx`の`winner-list`パターンを流用(賞名リンクを追加した点だけ拡張)
 - **人気ジャンル**: `getGenres()`を`gameCount`降順で上位12件、チップリンクで`/games?genre=<id>`へ
 - **姉妹サイト紹介カード**: より目立つカード(残り2サイトへのリンク、各リンク先サイト自身のアクセントカラーで縁取り)を新設。データはHomePage内のローカル定数。**全ページ下部の`SiteFooter`(姉妹サイトへの小さいテキストリンク)は2026-08-03にユーザー指示で削除済み**(`App.tsx`からの呼び出し・コンポーネント本体・`common.css`の`.site-footer*`ルールを削除)。姉妹サイトへの導線はこのホームページのカードのみに一本化されている
