@@ -32,11 +32,31 @@
 // deprioritizes import editions — and the declared platform is appended to the search keyword as
 // a fallback, which is exactly what refetch-cover.mjs was being driven by hand to do.
 //
-// Usage:
-//   RAKUTEN_APP_ID=xxx RAKUTEN_ACCESS_KEY=xxx npm run fetch-covers
-//   RAKUTEN_APP_ID=xxx RAKUTEN_ACCESS_KEY=xxx npm run fetch-covers -- --force
-//   RAKUTEN_APP_ID=xxx RAKUTEN_ACCESS_KEY=xxx npm run fetch-covers -- --retry-misses
-//   RAKUTEN_APP_ID=xxx RAKUTEN_ACCESS_KEY=xxx npm run fetch-covers -- --only=elden-ring,mario-kart-world
+// Two sources are tried in order (2026-08-04):
+//
+//   1. IGDB (api.igdb.com/v4) — a games database rather than a store, so an entry *is* the game:
+//      portrait box art (t_cover_big is 264x352, matching this site's 92x131 / 160x228 slots),
+//      identified by platform, with none of a marketplace's noise — no shop name in the title, no
+//      used/import/download-code variants, no season pass or bundle standing in for the game. It
+//      also carries the download-only and indie titles a shop listing can never cover (F-ZERO 99,
+//      Marvel Rivals, Brawlhalla, Jusant, TOEM...). Auth is a Twitch client-credentials token;
+//      register a free app at dev.twitch.tv and pass IGDB_CLIENT_ID / IGDB_CLIENT_SECRET.
+//   2. Rakuten Ichiba (IchibaItem/Search) — the fallback, and still a necessary one: it has the
+//      Japanese retail package for titles IGDB only indexes under an English name this site's
+//      Japanese title can't be matched against.
+//
+// Nintendo's own search API (search.nintendo.jp/nintendo_soft/search.json) and the PlayStation
+// Store both work without credentials and would cover roughly 45 of the remaining titles, but
+// their artwork is 1920x1080 / 1024x1024 — landscape or square key art, which gets badly cropped
+// in a portrait cover slot. They're the fallback plan if IGDB's coverage disappoints; see
+// CLAUDE.md before spending time re-deriving that.
+//
+// Usage (either credential pair may be omitted to run just the other tier):
+//   RAKUTEN_APP_ID=xxx RAKUTEN_ACCESS_KEY=xxx IGDB_CLIENT_ID=xxx IGDB_CLIENT_SECRET=xxx \
+//     npm run fetch-covers
+//   ... npm run fetch-covers -- --force
+//   ... npm run fetch-covers -- --retry-misses
+//   ... npm run fetch-covers -- --only=elden-ring,mario-kart-world
 //
 // --force re-fetches everything, including entries that were corrected by hand after a mismatch,
 // so prefer --retry-misses when retrying the unresolved games: it only touches entries whose
@@ -54,12 +74,22 @@ const cachePath = path.join(sourceDir, "covers-cache.json");
 const REFERER_URL = "https://izenmi.github.io/game-db/";
 const ORIGIN_URL = "https://izenmi.github.io";
 
+// Each tier has its own credentials and either can be skipped, so neither is fatal on its own —
+// running with only one set configured is a useful way to top up from just that source.
 const APP_ID = process.env.RAKUTEN_APP_ID;
 const ACCESS_KEY = process.env.RAKUTEN_ACCESS_KEY;
-if (!APP_ID || !ACCESS_KEY) {
-  console.error("RAKUTEN_APP_ID and RAKUTEN_ACCESS_KEY env vars are required (see the header comment in this file).");
+const RAKUTEN_ENABLED = Boolean(APP_ID && ACCESS_KEY);
+const IGDB_CLIENT_ID = process.env.IGDB_CLIENT_ID;
+const IGDB_CLIENT_SECRET = process.env.IGDB_CLIENT_SECRET;
+const IGDB_ENABLED = Boolean(IGDB_CLIENT_ID && IGDB_CLIENT_SECRET);
+if (!RAKUTEN_ENABLED && !IGDB_ENABLED) {
+  console.error(
+    "RAKUTEN_APP_ID/RAKUTEN_ACCESS_KEY か IGDB_CLIENT_ID/IGDB_CLIENT_SECRET のどちらかは必要です (see the header comment in this file).",
+  );
   process.exit(1);
 }
+if (!RAKUTEN_ENABLED) console.warn("RAKUTEN_* が未設定のため楽天市場をスキップし IGDB のみで解決します。");
+if (!IGDB_ENABLED) console.warn("IGDB_* が未設定のため IGDB フォールバックをスキップします。");
 
 const GAME_SOFTWARE_GENRE_ID = "101205"; // テレビゲーム, confirmed via ranking.rakuten.co.jp/*/101205/
 
@@ -82,7 +112,10 @@ function sleep(ms) {
 function normalize(title) {
   return title
     .normalize("NFKC")
-    .replace(/[\s　・:：;；!?！？―—\-ー~〜～()（）「」『』【】〈〉《》〔〕"“”'’,、.。]/g, "")
+    // "&" is in the list because compilation titles disagree about it constantly: this site has
+    // 幻想水滸伝I・II / ドラゴンクエストI＆II / バテン・カイトスI&II where the shops have I&II,
+    // I＆II and I&II respectively.
+    .replace(/[\s　・:：;；!?！？―—\-ー~〜～()（）「」『』【】〈〉《》〔〕"“”'’,、.。&＆]/g, "")
     .toLowerCase();
 }
 
@@ -282,6 +315,134 @@ function keywordCandidates(game) {
   return [...new Set(candidates.filter(Boolean).map(toSearchKeyword))];
 }
 
+// --- IGDB tier ---------------------------------------------------------------------------
+//
+// Rakuten Ichiba only knows about things a shop stocks, so a download-only or indie title simply
+// isn't there (F-ZERO 99, Marvel Rivals, Brawlhalla, Jusant, TOEM...). IGDB is a games database
+// rather than a store, so it carries those, and its cover art is portrait box art (t_cover_big is
+// 264x352) which matches this site's cover slots.
+
+const IGDB_PLATFORM_NAMES = {
+  ps5: ["PlayStation 5"],
+  switch: ["Nintendo Switch"],
+  switch2: ["Nintendo Switch 2"],
+};
+
+// IGDB `game_type`: 0 main_game, 1 dlc_addon, 2 expansion, 3 bundle, 4 standalone_expansion,
+// 5 mod, 6 episode, 7 season, 8 remake, 9 remaster, 10 expanded_game, 11 port, 13 pack.
+// This site lists games, so add-ons and bundles must never stand in for one — without this filter
+// 「あつまれ どうぶつの森」 resolved to the Happy Home Paradise expansion, 「仁王」 to the Dragon of
+// the North DLC, 「ゼノブレイド3」 to Future Redeemed and 「ポケットモンスター ソード・シールド」
+// to the Double Pack. Remakes/remasters/ports stay because several entries here are exactly that
+// (ゼノブレイド ディフィニティブ・エディション, 大神 絶景版, 真・女神転生III HD REMASTER).
+const IGDB_ACCEPTED_GAME_TYPES = new Set([0, 8, 9, 10, 11]);
+
+let igdbToken;
+
+/** Client-credentials token from Twitch (IGDB's auth provider). Fetched once per run. */
+async function igdbAuthorize() {
+  if (igdbToken) return igdbToken;
+  const params = new URLSearchParams({
+    client_id: IGDB_CLIENT_ID,
+    client_secret: IGDB_CLIENT_SECRET,
+    grant_type: "client_credentials",
+  });
+  const res = await fetch(`https://id.twitch.tv/oauth2/token?${params.toString()}`, { method: "POST" });
+  const data = await res.json();
+  if (!res.ok || !data.access_token) {
+    throw new Error(`IGDB auth failed: ${data.message || data.error || `HTTP ${res.status}`}`);
+  }
+  igdbToken = data.access_token;
+  return igdbToken;
+}
+
+async function igdbQuery(endpoint, body) {
+  const token = await igdbAuthorize();
+  const res = await fetch(`https://api.igdb.com/v4/${endpoint}`, {
+    method: "POST",
+    headers: { "Client-ID": IGDB_CLIENT_ID, Authorization: `Bearer ${token}`, Accept: "application/json" },
+    body,
+  });
+  if (res.status === 429) {
+    await sleep(2000);
+    return igdbQuery(endpoint, body);
+  }
+  if (!res.ok) throw new Error(`IGDB HTTP ${res.status}: ${(await res.text()).slice(0, 120)}`);
+  return res.json();
+}
+
+async function searchIgdb(keyword) {
+  return igdbQuery(
+    "games",
+    `search "${keyword.replace(/"/g, " ")}"; fields name, alternative_names.name, cover.image_id, platforms.name, game_type, url; where cover != null; limit 10;`,
+  );
+}
+
+/**
+ * Japanese-titled games can't be found through the normal search: IGDB's `name` is the English
+ * title and `alternative_names` rarely carries a Japanese one (「パルワールド」 and 「トーエム」
+ * both returned zero hits). Region-specific names live on their own endpoint instead, where the
+ * nested `game` gives the cover and platforms directly.
+ */
+async function searchIgdbLocalizations(keyword) {
+  const rows = await igdbQuery(
+    "game_localizations",
+    `fields name, game.name, game.alternative_names.name, game.cover.image_id, game.platforms.name, game.game_type, game.url; where name ~ *"${keyword.replace(/"/g, " ")}"* & game.cover != null; limit 10;`,
+  );
+  return rows.filter((r) => r.game).map((r) => ({ ...r.game, localizedName: r.name }));
+}
+
+/**
+ * True when `name` is our title with a number tacked on — i.e. the sequel, not the game. Prefix
+ * matching alone accepted 「仁王」→「Nioh 3」 and 「Amanda the Adventurer」→「Amanda the
+ * Adventurer 2」. Titles that genuinely carry the number (ブラスフェマス2, ゼノブレイド2) are
+ * unaffected, because then the digit is part of `target` too.
+ */
+function isSequelOf(name, target) {
+  const n = normalize(name);
+  return n.startsWith(target) && /^\d/.test(n.slice(target.length));
+}
+
+function igdbNamesOf(item) {
+  return [item.name, item.localizedName, ...(item.alternative_names ?? []).map((a) => a.name)].filter(Boolean);
+}
+
+function pickBestIgdbMatch(items, game) {
+  const target = normalize(game.title);
+  const core = normalize(coreTitle(game.title));
+  const wanted = (game.platforms ?? []).flatMap((p) => IGDB_PLATFORM_NAMES[p] ?? []);
+  const usable = items.filter((it) => {
+    if (!it.cover?.image_id) return false;
+    if (!IGDB_ACCEPTED_GAME_TYPES.has(it.game_type ?? 0)) return false;
+    // Platform check next: it's the cheapest way to reject the wrong entry in a franchise.
+    const platforms = (it.platforms ?? []).map((p) => p.name);
+    if (!platforms.some((name) => wanted.includes(name))) return false;
+    return igdbNamesOf(it).some((name) => titleMatches(name, target, core) && !isSequelOf(name, target));
+  });
+  // Prefix matching alone picks up sequels and special editions whose name merely starts with
+  // ours — 「Amanda the Adventurer」→「Amanda the Adventurer 2」, 「Sea of Thieves」→「Sea of
+  // Thieves: Custom Seas - Season 20」, 「ゼルダの伝説 夢をみる島」→「Link's Awakening - Artbook
+  // Set」. Rank the base game first, then the shortest name: within one franchise on one platform
+  // the shortest name is the plain edition, so Collector's / Digital Deluxe / Premium variants
+  // lose to it without needing a keyword blocklist (which would wrongly reject the entries whose
+  // real title is an edition, e.g. ゼノブレイド ディフィニティブ・エディション).
+  // Rank by how much longer the *matching* name is than our title, then by the English name's
+  // length. Comparing the matching name matters because a special edition is usually reached
+  // through a localized name that spells the edition out (「…ラグナロク デジタルデラックス
+  // エディション アップグレード」), so it scores far worse than a plain-named base entry.
+  // (Ranking main_game ahead of remake/port instead would be wrong: 「ゼルダの伝説 夢をみる島」's
+  // Switch release is a remake while the Artbook Set bundle is a main_game.)
+  const excess = (it) => {
+    const lengths = igdbNamesOf(it)
+      .filter((name) => titleMatches(name, target, core))
+      .map((name) => Math.abs(normalize(name).length - target.length));
+    return lengths.length ? Math.min(...lengths) : Number.MAX_SAFE_INTEGER;
+  };
+  return usable.sort(
+    (a, b) => excess(a) - excess(b) || normalize(a.name ?? "").length - normalize(b.name ?? "").length,
+  )[0];
+}
+
 function shouldSkip(game) {
   const cached = cache[game.id];
   if (!cached) return false;
@@ -290,21 +451,107 @@ function shouldSkip(game) {
   return true;
 }
 
-/** Runs the keyword candidates in order and returns the first acceptable item. */
-async function findItem(game) {
-  for (const keyword of keywordCandidates(game)) {
+/** IGDB's documented cover template. Verified before caching, same as the noimage guard. */
+function igdbCoverUrl(imageId) {
+  return `https://images.igdb.com/igdb/image/upload/t_cover_big_2x/${imageId}.jpg`;
+}
+
+// Reads the body rather than trusting content-length: images.igdb.com serves over HTTP/2 without
+// that header, so a length-based check rejects every (perfectly good) cover.
+async function servesRealImage(url) {
+  try {
+    const res = await fetch(url);
+    if (!res.ok || !(res.headers.get("content-type") ?? "").startsWith("image/")) return false;
+    return (await res.arrayBuffer()).byteLength > 2000;
+  } catch {
+    return false;
+  }
+}
+
+async function tryRakuten(game) {
+  for (const keyword of RAKUTEN_ENABLED ? keywordCandidates(game) : []) {
     const items = await searchRakuten(keyword);
     await sleep(1100);
     const best = pickBestMatch(items, game);
-    if (best) return best;
+    if (best) {
+      // mediumImageUrls are 128x128; strip the `_ex=Wxh` query suffix so the browser gets the
+      // shop's original (usually larger) image instead of Rakuten's downscaled thumbnail.
+      const coverUrl = (best.mediumImageUrls?.[0] ?? "").replace(/\?_ex=\d+x\d+$/, "") || null;
+      // itemUrl embeds our applicationId as an affiliate-tracking query param
+      // (`rafcid=wsc_i_is_<applicationId>`) — strip it before caching so the committed file
+      // doesn't carry that identifier (ranobe-db/manga-db's covers-cache.json doesn't store
+      // itemUrl at all for the same reason; kept here only as a manual-review aid).
+      const itemUrl = best.itemUrl ? best.itemUrl.split("?")[0] : undefined;
+      // Flag the editions worth a second look in the review pass: an import listing means no
+      // domestic package was found, so its art may be the foreign box.
+      const tag = !coverUrl ? "no-cover" : isImportEdition(best.itemName ?? "") ? "ok-import" : "ok";
+      console.log(`[${tag}] ${game.title} -> matched "${best.itemName}"`);
+      return {
+        title: game.title,
+        matchedTitle: best.itemName,
+        coverUrl,
+        itemUrl,
+        source: "rakuten-ichiba",
+        resolvedAt: new Date().toISOString(),
+      };
+    }
   }
-  return undefined;
+  return null;
+}
+
+async function tryIgdb(game) {
+  // The platform-name filter in pickBestIgdbMatch already covers what the keyword's platform
+  // suffix does for Rakuten, so only the title-derived keywords are worth spending here.
+  const igdbKeywords = IGDB_ENABLED ? [...new Set([game.title, coreTitle(game.title)])] : [];
+  const igdbLookups = [
+    ...igdbKeywords.map((k) => () => searchIgdb(k)),
+    ...igdbKeywords.map((k) => () => searchIgdbLocalizations(k)),
+  ];
+  // Gather every lookup's candidates before choosing, rather than taking the first lookup that
+  // returns anything. The base game and its special editions often surface from *different*
+  // lookups — the English search finds "Persona 3 Reload" while only the Digital Deluxe Edition
+  // has a Japanese localization record — so stopping early handed the ranking a single bad
+  // option instead of a choice.
+  const seen = new Map();
+  for (const lookup of igdbLookups) {
+    for (const item of await lookup()) if (item.id && !seen.has(item.id)) seen.set(item.id, item);
+    await sleep(300);
+  }
+
+  const best = pickBestIgdbMatch([...seen.values()], game);
+  if (!best) return null;
+  const coverUrl = igdbCoverUrl(best.cover.image_id);
+  if (!(await servesRealImage(coverUrl))) {
+    console.log(`[skip-igdb] ${game.title}: ${coverUrl} が実画像を返しませんでした`);
+    return null;
+  }
+  console.log(`[ok-igdb] ${game.title} -> matched "${best.name}" (${(best.platforms ?? []).map((p) => p.name).join("/")})`);
+  return {
+    title: game.title,
+    matchedTitle: best.name,
+    coverUrl,
+    itemUrl: best.url,
+    source: "igdb",
+    resolvedAt: new Date().toISOString(),
+  };
+}
+
+/**
+ * IGDB first, Rakuten as the fallback. IGDB is a games database rather than a shop, so its entry
+ * for a title is the game itself — a portrait cover, correctly identified by platform, with no
+ * shop-name noise, no used/import/download-code variants and no risk of a season pass or a
+ * bundle standing in for the game. Rakuten still earns its place as the fallback: it has the
+ * Japanese retail package for titles IGDB indexes only under an English name we can't match.
+ */
+async function resolveGame(game) {
+  return (await tryIgdb(game)) ?? (await tryRakuten(game));
 }
 
 async function run() {
   const targets = games.filter((g) => (ONLY ? ONLY.includes(g.id) : true));
   let updated = 0;
   let skipped = 0;
+  let kept = 0;
 
   for (const game of targets) {
     if (shouldSkip(game)) {
@@ -312,42 +559,28 @@ async function run() {
       continue;
     }
     try {
-      const best = await findItem(game);
-      if (best) {
-        // mediumImageUrls are 128x128; strip the `_ex=Wxh` query suffix so the browser gets the
-        // shop's original (usually larger) image instead of Rakuten's downscaled thumbnail.
-        const coverUrl = (best.mediumImageUrls?.[0] ?? "").replace(/\?_ex=\d+x\d+$/, "") || null;
-        // itemUrl embeds our applicationId as an affiliate-tracking query param
-        // (`rafcid=wsc_i_is_<applicationId>`) — strip it before caching so the committed file
-        // doesn't carry that identifier (ranobe-db/manga-db's covers-cache.json doesn't store
-        // itemUrl at all for the same reason; kept here only as a manual-review aid).
-        const itemUrl = best.itemUrl ? best.itemUrl.split("?")[0] : undefined;
-        cache[game.id] = {
-          title: game.title,
-          matchedTitle: best.itemName,
-          coverUrl,
-          itemUrl,
-          source: "rakuten-ichiba",
-          resolvedAt: new Date().toISOString(),
-        };
-        // Flag the editions worth a second look in the review pass: an import listing means no
-        // domestic package was found, so its art may be the foreign box.
-        const tag = !coverUrl ? "no-cover" : isImportEdition(best.itemName ?? "") ? "ok-import" : "ok";
-        console.log(`[${tag}] ${game.title} -> matched "${best.itemName}"`);
+      const entry = await resolveGame(game);
+      if (entry) {
+        cache[game.id] = entry;
         updated++;
+      } else if (cache[game.id]?.coverUrl) {
+        // A failed re-resolve must never throw away a cover we already had. This is what made
+        // --force destructive: a re-run that missed replaced a good (often hand-corrected) entry
+        // with a null stub, which is how the same false matches kept coming back after cleanup.
+        console.log(`[keep] ${game.title}: 今回は解決できなかったため既存の表紙を維持します`);
+        kept++;
       } else {
         cache[game.id] = { title: game.title, coverUrl: null, resolvedAt: new Date().toISOString() };
-        console.log(`[miss] ${game.title}: 該当商品が見つかりませんでした`);
+        console.log(`[miss] ${game.title}: IGDB・楽天市場のいずれにも該当が見つかりませんでした`);
       }
     } catch (err) {
       console.error(`[error] ${game.title}: ${err.message}`);
     }
-    await sleep(1100);
   }
 
   const sorted = Object.fromEntries(Object.entries(cache).sort(([a], [b]) => a.localeCompare(b)));
   writeFileSync(cachePath, JSON.stringify(sorted, null, 2) + "\n");
-  console.log(`完了: ${updated}件更新, ${skipped}件スキップ(既存キャッシュ)。 -> ${cachePath}`);
+  console.log(`完了: ${updated}件更新, ${kept}件は既存維持, ${skipped}件スキップ(既存キャッシュ)。 -> ${cachePath}`);
   console.log("反映前に必ずmatchedTitleを目視確認してください(誤マッチの可能性があります)。");
 }
 

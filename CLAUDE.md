@@ -80,8 +80,32 @@ PS5・Nintendo Switch・Nintendo Switch 2向けのゲームソフトを対応機
     - **キーワードの段階的フォールバック**: フルタイトル → コアタイトル → **コアタイトル+機種名**。3段目は`refetch-cover.mjs`を手で回して機種違いを直していた手順そのもの
     - **短いタイトルの前方一致化**: 商品名の先頭ノイズ(`【中古】`・`[Switch]`・`PS5 ゲームソフト`・`新品`・キャンペーン文言等)を除去したうえで、タイトルが**その先頭に来ること**を要求する(`titleMatches()`)。単なる部分一致だと「LIMBO」→「東方深秘録 〜 Urban Legend in Limbo.」、「INSIDE」→「NBA Inside Drive 2004」を拾う(実際に拾っていた)
     - **`coreTitle()`は`:`で分割しない**(ranobe-db/manga-dbとの明確な違い)。ゲームのタイトルはコロンの後ろが作品を識別する部分なので、そこで切るとシリーズ名だけが残り**同一シリーズの別作品**を拾う。実際に「Metal: Hellsinger」→「METAL GEAR SOLID」、「Hollow Knight: Silksong」→「Hollow Knight」、「Dying Light: The Beast」→「Dying Light 2」、「グランブルーファンタジー ヴァーサス: ライジング」→無印「ヴァーサス」、「ディアブロ II: リザレクテッド」→「ディアブロIII」が発生した
-    - **`--retry-misses`フラグを追加**: `coverUrl`が`null`のエントリだけを再試行する。**未解決分の再挑戦には必ずこれを使う**こと。`--force`で全件回すと、目視確認で除去した誤マッチが同じ形で復活する(CLAUDE.mdの過去の記録どおり実際に何度も起きている)
+    - **`--retry-misses`フラグを追加**: `coverUrl`が`null`のエントリだけを再試行する
+    - **`--force`は破壊的でなくなった(2026-08-04)**: 従来は再取得で解決できないと既存エントリを`coverUrl: null`のスタブで上書きしていた。これが「目視確認で除去した誤マッチが再実行で復活する」現象(CLAUDE.mdに何度も記録されている)の直接の原因だった。現在は既存の表紙があればそれを維持し`[keep]`とログに出す。ただし**手動で直した`matchedTitle`の経緯メモは上書きされる**ので、意図せず全件を回さないよう`--retry-misses`を使い分けること
     - 副作用として、判定を厳しくした分だけ正しい商品も落ちることがある(「フロントミッション1st: Remake」は商品名が「フロントミッション 1st リメイク」で表記が違うため落ちた)。そういうケースは従来どおり`refetch-cover.mjs`にカスタムキーワードを渡して個別に埋める
+  - **`refetch-cover.mjs`(手動フォールバック)の使い方**: `DRY=1`で候補一覧、`PICK=n`で採用候補を選ぶ。2026-08-04に**IGDBモードを追加**した(`IGDB=1`。楽天専用だったため日本語タイトルのIGDB検索ができなかった)。あわせて、`fetch-covers.mjs`側にはあった**1文字トークン除去(`toSearchKeyword()`)が入っておらず**「Blasphemous 2」「ドラゴンクエストXI … S」のようなキーワードがAPIに弾かれていたのを修正した
+    ```sh
+    DRY=1 IGDB=1 IGDB_CLIENT_ID=xxx IGDB_CLIENT_SECRET=xxx node scripts/refetch-cover.mjs pizza-tower "Pizza Tower"
+    PICK=0 IGDB=1 ... node scripts/refetch-cover.mjs pizza-tower "Pizza Tower"
+    ```
+  - **IGDBが1段目、楽天市場が2段目(2026-08-04。当初は楽天優先で実装したが同日ユーザー指示で逆転)**: 楽天市場は「店が売っている商品」の検索なので、**パッケージ版が存在しないダウンロード専売タイトルは構造的に取得できない**(F-ZERO 99・Marvel Rivals・パルワールド・Brawlhalla・2XKO・ASTRO's PLAYROOM等)。インディー作品(Jusant・TOEM・Chants of Sennaar・Islets・Crow Country等)も同様に弱い。さらに商品名にショップ名・キャンペーン文言・中古/輸入版/DL版の別が混ざるため誤マッチ源にもなる。IGDBはゲーム専門DBなのでエントリがゲームそのものであり、縦長ボックスアート・機種情報つきでこれらのノイズが無い
+    - 楽天市場は**フォールバックとして必要**: IGDBが英語名でしか持っていない作品は、本サイトの日本語タイトルと照合できない。2026-08-04時点で375本中65本がこの理由で楽天由来のまま(日本語パッケージ写真)
+    - **認証**: [dev.twitch.tv](https://dev.twitch.tv/)で無料・即時にアプリ登録し、Client ID / Client Secretを取得する(IGDBの認証はTwitchが担う)。`IGDB_CLIENT_ID`/`IGDB_CLIENT_SECRET`環境変数で渡す。`POST https://id.twitch.tv/oauth2/token?...&grant_type=client_credentials`でアクセストークンを取り、実行開始時に1回だけ取得してメモリに保持する
+    - **検索**: `POST https://api.igdb.com/v4/games`、`Client-ID`と`Authorization: Bearer <token>`ヘッダー必須。ボディはApicalypse構文で`search "<kw>"; fields name, alternative_names.name, cover.image_id, platforms.name, url; where cover != null; limit 10;`
+    - **採用条件は3つとも必須**: (1)`platforms.name`が本サイトの宣言済み`platforms`と対応する(`ps5`→`PlayStation 5`、`switch`→`Nintendo Switch`、`switch2`→`Nintendo Switch 2`。**プラットフォームIDの数値は決め打ちせず名前で照合する**)、(2)`name`/`alternative_names[].name`/ローカライズ名のいずれかが`titleMatches()`を通る、(3)`cover.image_id`が存在する
+    - **`game_type`でDLC・拡張・バンドルを弾く(必須)**: 受け入れるのは`0`(本編)/`8`(リメイク)/`9`(リマスター)/`10`(拡張収録版)/`11`(移植)のみ。リメイク・移植を残すのは本サイトに該当作品があるため(ゼノブレイド ディフィニティブ・エディション、大神 絶景版、真・女神転生III HD REMASTER)。この絞り込みが無いと「あつまれ どうぶつの森」→ハッピーホームパラダイス(拡張)、「仁王」→Dragon of the North(DLC)、「ゼノブレイド3」→Future Redeemed(DLC)、「ポケットモンスター ソード・シールド」→ダブルパック(バンドル)を採用してしまう(実際に発生)
+    - **続編を弾く**: 正規化後のIGDB名が「自サイトのタイトル+数字」になっている候補は続編とみなして不採用(「仁王」→「Nioh 3」、「Amanda the Adventurer」→「Amanda the Adventurer 2」)。自タイトル自体に数字が入っている場合(ブラスフェマス2、ゼノブレイド2)は数字が`target`側にも含まれるので影響しない
+    - **全検索段の候補を統合してから選ぶ**: 検索は「英語games検索×2キーワード + ローカライズ検索×2キーワード」の4段だが、**最初にヒットした段で確定してはいけない**。本編が英語検索、特別版だけが日本語ローカライズ検索で見つかることがあり(「テイルズ オブ アライズ」「ソニックフロンティア」「ゼルダの伝説 夢をみる島」で発生)、早期確定だと選択肢が1つしかない状態でランキングすることになる
+    - **並べ替えは「実際に一致した名前」と自タイトルの文字数差が小さい順**、同点なら英語名が短い順。一致した名前で比較するのが要点で、特別版は版名を明記した日本語名(「…ラグナロク デジタルデラックスエディション アップグレード」)経由で引っかかるため大きく不利になる。なお`game_type`が本編(0)のものを優先する並べ替えは**誤り**だった: 「ゼルダの伝説 夢をみる島」のSwitch版はリメイク(8)である一方、Artbook Setバンドルが本編(0)扱いだったため逆転する
+    - **日本語タイトルは`game_localizations`エンドポイントを使う(重要)**: IGDBの`name`は英語で、`alternative_names`に日本語が入っていることは**ほとんどない**(「パルワールド」「トーエム」は通常検索・`alternative_names`検索とも0件)。地域別名称は`POST https://api.igdb.com/v4/game_localizations`に`where name ~ *"<kw>"* & game.cover != null;`で問い合わせ、ネストした`game`から`cover.image_id`と`platforms.name`を取る。`fetch-covers.mjs`は通常検索が外れたときにこちらへフォールバックする
+    - **表紙URL**: `https://images.igdb.com/igdb/image/upload/t_cover_big_2x/<image_id>.jpg`(528x704)。IGDB公式のURLテンプレートだが、キャッシュに書く前に必ず実画像であることを確認する。**`content-length`ヘッダーで判定してはいけない**: `images.igdb.com`はHTTP/2で当該ヘッダーを返さないため、長さベースのチェックは正常な表紙を全件弾く(実際にこのバグで初回実行が0件になった)。`content-type`が`image/`で始まることと、ボディの実バイト数で判定する
+    - **縦横比が合うことが採用理由の一つ**: IGDBの`t_cover_big`は264x352の縦長ボックスアートで、サイトの表紙枠(`.game-cover--sm` 92x131 / `--lg` 160x228)や既存の楽天カバー(247x400)と揃う。**表示側のCSSは変更不要**
+    - レート制限は4リクエスト/秒。リクエスト間300msスリープ、429時は2秒待って再試行する
+  - **Nintendo公式検索API・PlayStation Storeは検証済みだが不採用(2026-08-04、再検討時はここを読むこと)**: どちらも認証不要で実際に使え、両方あわせて未取得68本のうち**おおよそ45本**は取れる見込みだった。不採用の理由は**画像の縦横比**:
+    - **Nintendo公式検索API** `https://search.nintendo.jp/nintendo_soft/search.json?q=<kw>` … JSONで`hard`(機種)・`sform`(`HAC_DL`ならDL専売)・`iurl`/`siurl`(画像ID)を返す。F-ZERO 99のようなDL専売も引ける。画像は`https://img-eshop.cdn.nintendo.net/i/<iurl>.jpg`が**1920x1080の横長**、`<siurl>`が**1024x1024の正方形**しかなく、縦長の表紙枠に入れると大きく切り落とされる。なお公式マーケティングページの`og:image`は汎用のSNSバナー(`sns.png`)で使えない
+    - **PlayStation Store** `https://store.playstation.com/ja-jp/search/<kw>` … 検索ページから`/ja-jp/product/...`のリンクが取れ、商品ページに`image.api.playstation.com/vulcan/...`の画像がある。ただしこちらも**1024x1024の正方形**で、1ページに14〜42枚の画像があるため選別ルールが必要。さらに商品名がJP表記(`マーベル・ライバルズ`)で本サイトのEN表記(`Marvel Rivals`)と照合しづらく、`Days Gone Remastered`→`Days Gone Value Selection`(PS4の旧作)のような誤マッチも実際に発生した
+    - 正方形画像を使う場合はユーザーの意向として「表示側のCSSを調整する」(`object-fit`を分ける等)方針が確認済み
+  - **楽天ブックス ゲーム検索API(`BooksGame/Search`)も検証済み・不採用(2026-08-04)**: 楽天市場と違い`hardware`(機種)を構造化フィールドで返し商品名もきれいという利点はあるが、小売カタログである以上ダウンロード専売には無力で、**未取得68本のうち何らかの結果が返ったのは4本だけ**だった。なお`keyword`パラメータは受け付けず、`title`/`jan`/`hardware`/`makerCode`/`label`/`booksGenreId`のいずれかが必須
   - **楽天の認証情報は姉妹サイトと共用できる(2026-08-04に実証)**: 「Rakutenのアプリ登録はサイトごとなのでranobe-db/manga-dbのキーは使い回せない」と記載していたが、現行の新gateway形式の認証情報(UUIDの`applicationId`+`pk_`始まりの`accessKey`)は3サイトいずれのRefererからも通ることを実測で確認した。ただし**3サイトのfetch-coversを同時に走らせると429(レート制限)が返る**ので必ず1つずつ実行すること(3スクリプトとも429時のバックオフ再試行を実装済み)
   - これらの理由により、**新規タイトル追加時は`fetch-covers.mjs`実行後に必ず`matchedTitle`と実際の画像を目視確認すること**(ranobe-dbのhonto.jpフォールバック運用と同じ原則)。中古品のパッケージ写真自体は(ウォーターマークが入っていても)正しい商品であれば採用してよい — 実際にFF7リバースの初回マッチは中古品の写真だったが、公式パッケージそのものだったため問題なかった
 
@@ -149,7 +173,11 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
 
 ## 既知の未着手事項
 
-- **パッケージ画像は307/375本(81.9%)で解決済み(2026-08-04)**: 上記の自動化により292→307に改善。新規15本はいずれも正しい機種の商品で、うち6本(Alan Wake 2 / Alone in the Dark / Civilization VII / Kingdom Come: Deliverance II / Mortal Kombat 1 / Poppy Playtime)は国内版が見つからず**輸入版のパッケージ**を採用している(ログ上は`[ok-import]`で出る。以前はこれらがXbox版として誤マッチしていた)。未解決68本は、同一シリーズの別作品を誤って拾うくらいならプレースホルダーのままにする方針で意図的に空けているものを含む(INSIDE・LIMBO・Metal: Hellsinger・Hollow Knight: Silksong・Dying Light: The Beast・ディアブロ II: リザレクテッド・グランブルーファンタジー ヴァーサス: ライジング等)
+- **パッケージ画像は375/375本(100%)で解決済み(2026-08-04)**: 内訳は**IGDB 310・楽天市場65**。292→307が楽天側のマッチング自動化、307→375がIGDB層の追加、その後ユーザー指示でIGDBを優先順位1位に変更し既存の楽天エントリ245件をIGDBへ差し替えた(IGDBで引けなかった分は楽天のまま維持)。
+  - **版違いを採用している5本**(`ゴッド・オブ・ウォー ラグナロク`→Digital Deluxe Edition、`ペルソナ３ リロード`→同、`クラッシュ・バンディクー ブッとび3段もり！`→Bonus Edition、`Marvel's Spider-Man: Miles Morales`→Launch Edition、`ポケットモンスター ソード・シールド`→Double Pack)は、**IGDB側に日本語名を持つ本編エントリが存在せず**変種SKUしか選べなかったもの。同じゲームのキーアートなので許容する判断をユーザーと確認済み(2026-08-04)。なお`クロノ・クロス ラジカルドリーマーズエディション`・`サイバーパンク2077 アルティメットエディション`・`ゼノブレイド ディフィニティブ・エディション`等は作品の正式名に版名が含まれるので正しいマッチ
+  - かつて国内版が見つからず**輸入版のパッケージ**を採用していた6本(Alan Wake 2 / Alone in the Dark / Civilization VII / Kingdom Come: Deliverance II / Mortal Kombat 1 / Poppy Playtime)は、IGDB優先化で全てIGDBの正規カバーに置き換わった。楽天由来のエントリで輸入版を採用した場合はログに`[ok-import]`が出るので、その都度確認すること
+  - **最後の24本は`refetch-cover.mjs`で個別に埋めた**。いずれも「日本語表記のゆれ」で、自動では引けなかったもの: 実商品名/IGDB名が別表記のケース(塊魂 リローデッド→`Katamari Damacy Reroll`、ペルソナ5 ストライカーズ→`Persona 5 Strikers`、カービィエアライダー→楽天では「カービィのエアライダー」)と、IGDBに日本語ローカライズ名が無く英語名でしか引けないケース(ピザタワー→`Pizza Tower`、カセットビースト→`Cassette Beasts`、チェインドエコーズ→`Chained Echoes`)。**新規タイトル追加時に日本語タイトルが自動で埋まらなかったら、まず英語名で`IGDB=1 node scripts/refetch-cover.mjs <id> "<English title>"`を試すこと**
+  - 半角の`&`と全角の`＆`は`normalize()`で除去している。合集タイトルは表記が割れる(本サイト`幻想水滸伝I・II`/`ドラゴンクエストI＆II`/`バテン・カイトスI&II` ↔ 店側`I＆II`/`I&II`)
 - **ストアリンク(PlayStation Store・Nintendo公式ソフト検索)は未実装**。追加する場合は必ず実装前にブラウザで実際に検索してURLパターンを確認すること(manga-dbの`WebComicPlatform`ルールを参照)
 - **`og-image.png`は`scripts/generate-ogp.mjs`で生成済み**(2026-08-02、game-db用に新規作成)だが、データ規模が変わったら再実行が必要(自動化されていない)
 - **受賞歴のうち「未確認」表記のあるものは確度が低い**: 初回18本のデータ投入時、一部のタイトルでBAFTA Games Awardsの個別部門・D.I.C.E. Awardsの受賞可否など、調査時点で一次ソースに到達できず記載を見送った受賞歴がある(各ゲームの`sourceNote`に記載内容を明記)。正確性を重視する場合は個別に再確認を推奨

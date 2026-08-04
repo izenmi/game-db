@@ -10,10 +10,10 @@ function colorFor(title: string): (typeof COVER_COLORS)[number] {
 }
 
 /** Real package art when one was resolved, falling back to a generated placeholder (title on a
- *  pastel card) when absent or the image fails to load. No cover-fetch pipeline exists yet (see
- *  CLAUDE.md「既知の未着手事項」), so `coverUrl` is always undefined for now — every game renders
- *  the placeholder until that's built. We don't host package art ourselves regardless; that's
- *  copyrighted artwork, not a fact. */
+ *  pastel card) when absent or the image fails to load. `coverUrl` comes from
+ *  covers-cache.json via scripts/fetch-covers.mjs; titles with no retail listing and no IGDB
+ *  entry keep the placeholder. We don't host package art ourselves; that's copyrighted artwork,
+ *  not a fact. */
 export function GameCover({ title, coverUrl, size = "sm" }: { title: string; coverUrl?: string; size?: "sm" | "lg" }) {
   const [broken, setBroken] = useState(false);
   if (coverUrl && !broken) {
