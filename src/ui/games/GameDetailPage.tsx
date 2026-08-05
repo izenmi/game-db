@@ -65,7 +65,7 @@ export function GameDetailPage() {
                   rel="noreferrer"
                   key={platform}
                 >
-                  {{ ps5: "PS5", switch: "Switch", switch2: "Switch2" }[platform]}版をAmazonで探す
+                  {{ ps5: "PS5", switch: "Switch", switch2: "Switch2" }[platform]}版をAmazonで購入
                 </a>
               ))}
             </div>
