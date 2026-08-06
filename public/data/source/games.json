@@ -16197,5 +16197,328 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Tripwire Interactiveを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tetris-effect-connected",
+    "title": "テトリス エフェクト・コネクテッド",
+    "titleKana": "てとりすえふぇくとこねくてっど",
+    "developerIds": [
+      "monstars",
+      "resonair"
+    ],
+    "publisherId": "enhance",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "rhythm-action"
+    ],
+    "releaseDate": "2021-10-08",
+    "synopsis": "落ちものパズルの定番テトリスに、音と映像の演出を全面的に重ねた作品。ブロックを操作するたびに効果音が旋律に組み込まれ、背景の映像が呼応して変化する。本作では3人での協力プレイや対戦を含むオンラインモードが追加された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Monstars/Resonair・発売元Enhanceを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lumines-remastered",
+    "title": "ルミネス リマスター",
+    "titleKana": "るみねすりますたー",
+    "developerIds": [
+      "resonair",
+      "enhance"
+    ],
+    "publisherId": "enhance",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "rhythm-action"
+    ],
+    "releaseDate": "2018-06-26",
+    "synopsis": "2004年のPSP用パズルを高解像度化した移植版。2色のブロックを敷き詰め、楽曲に同期して左から右へ走る「タイムライン」が通過したときに同色の正方形が消える。音楽とステージが連動して切り替わる構成が持ち味になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Resonair/Enhance・発売元Enhanceを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "humanity",
+    "title": "Humanity",
+    "titleKana": "ひゅーまにてぃ",
+    "developerIds": [
+      "tha-ltd"
+    ],
+    "publisherId": "enhance",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "platformer"
+    ],
+    "releaseDate": "2023-05-15",
+    "synopsis": "柴犬を操作して、行進する人間の大群を目的地まで誘導するパズル。命令を床に置いて進路・跳躍・分岐を指示し、群衆の流れそのものを設計する。人が積み重なって橋になるといった物理的な挙動が解法に組み込まれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元tha ltd.・発売元Enhanceを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "talos-principle-2",
+    "title": "The Talos Principle II",
+    "titleKana": "ざたろすぷりんしぷるつー",
+    "developerIds": [
+      "croteam"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-11-02",
+    "synopsis": "人類滅亡後の世界で、人間を模した機械たちが自らの存在意義を問う一人称パズル。レーザーの経路をつなぎ、装置を配置して扉を開く仕掛けを解きながら、意識や創造をめぐる哲学的な対話が並行して進む。前作より広い野外の舞台を歩き回れる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Croteam・発売元Devolver Digitalを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "superliminal",
+    "title": "Superliminal",
+    "titleKana": "すーぱーりみなる",
+    "developerIds": [
+      "pillow-castle-games"
+    ],
+    "publisherId": "pillow-castle-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2020-07-07",
+    "synopsis": "遠近感そのものを操作するパズル。手前で小さく見える物を拾い、離れた場所に置き直すと実際に巨大化するという仕組みで、見た目の大きさが物体の実寸になる。夢の治療プログラムという設定のもと、錯視を利用した仕掛けが連続する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Pillow Castle Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "viewfinder",
+    "title": "Viewfinder",
+    "titleKana": "びゅーふぁいんだー",
+    "developerIds": [
+      "sad-owl-studios"
+    ],
+    "publisherId": "thunderful",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-07-18",
+    "synopsis": "写真を空中にかざすと、そこに写っている風景が実際の地形として出現するパズル。落ちている写真や自分で撮った1枚を使って足場や橋を作り、行き止まりを突破していく。絵画やスケッチも同じように使え、解法の幅が広く取られている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Sad Owl Studios・発売元Thunderfulを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "escape-academy",
+    "title": "Escape Academy",
+    "titleKana": "えすけーぷあかでみー",
+    "developerIds": [
+      "coin-crew-games"
+    ],
+    "publisherId": "iam8bit",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure",
+      "co-op"
+    ],
+    "releaseDate": "2022-07-14",
+    "synopsis": "脱出ゲームの専門学校に入学し、制限時間内に部屋を出る課題をこなしていく作品。実際の脱出施設を手がけた制作陣が作っており、暗号・配線・仕掛けの解体といった手触りが再現されている。2人での協力プレイに対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Coin Crew Games・発売元iam8bit等を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "puzzle-bobble-everybubble",
+    "title": "パズルボブル エブリバブル!",
+    "titleKana": "ぱずるぼぶるえぶりばぶる",
+    "developerIds": [
+      "taito"
+    ],
+    "publisherId": "taito",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "party-game",
+      "co-op"
+    ],
+    "releaseDate": "2023-05-23",
+    "synopsis": "泡を撃ち上げて同色3つ以上をつなげて消すパズルの新作。最大4人での協力プレイに対応し、味方の泡も足場や壁として使える。『スペースインベーダー』とのコラボレーションを含むストーリーモードと、多数の対戦ルールを収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元タイトーを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "theatrhythm-final-bar-line",
+    "title": "シアトリズム ファイナルバーライン",
+    "titleKana": "しあとりずむふぁいなるばーらいん",
+    "developerIds": [
+      "indieszero"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rhythm-action"
+    ],
+    "releaseDate": "2023-02-16",
+    "synopsis": "『ファイナルファンタジー』の楽曲で遊ぶリズムゲームの集大成。シリーズ各作から385曲以上を収録し、フィールド曲・バトル曲・イベント曲で譜面の形式が変わる。パーティを編成して敵と戦うRPG的な要素も引き続き備えている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元インディーズゼロ・発売元スクウェア・エニックスを確認。収録曲数の詳細は未確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "we-love-katamari-reroll",
+    "title": "みんな大好き塊魂アンコール +ロイヤルリバース",
+    "titleKana": "みんなだいすきかたまりだましいあんこーるぷらすろいやるりばーす",
+    "developerIds": [
+      "monkeycraft"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "party-game"
+    ],
+    "releaseDate": "2023-06-02",
+    "synopsis": "2005年のPS2用作品を作り直した移植版。塊を転がして身の回りの物を巻き込み、どんどん大きくしていく。画鋲から始まり最後には島や雲まで巻き込む規模の変化が持ち味で、王様の若き日を描く新モード「ロイヤルリバース」を収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元モンキークラフト・発売元バンダイナムコエンターテインメントを確認。『塊魂 リローデッド』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "puyo-puyo-champions",
+    "title": "ぷよぷよeスポーツ",
+    "titleKana": "ぷよぷよいーすぽーつ",
+    "developerIds": [
+      "sonic-team"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "versus-action"
+    ],
+    "releaseDate": "2018-10-25",
+    "synopsis": "対戦に特化した『ぷよぷよ』。ストーリーモードや演出を削ぎ落とし、通常ルールと「ぷよぷよ通」ルールでの対戦だけに絞った構成をとる。安価に競技目的で遊べる作りで、オンラインのレーティング対戦とリーグ機能を備えている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Puyo Puyo Champions』としてSwitch版の発売日・開発元ソニックチーム・発売元セガを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "melatonin",
+    "title": "Melatonin",
+    "titleKana": "めらとにん",
+    "developerIds": [
+      "half-asleep"
+    ],
+    "publisherId": "half-asleep",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rhythm-action",
+      "puzzle"
+    ],
+    "releaseDate": "2022-12-22",
+    "synopsis": "夢の中の出来事を題材にしたリズムゲーム。買い物・SNS・恋愛といった日常の不安が、パステル調の柔らかい絵で夢の場面として描かれる。譜面は画面表示ではなく音とアニメーションで覚える設計で、『リズム天国』に近い手触りを持つ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Half Asleepを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "trombone-champ",
+    "title": "Trombone Champ",
+    "titleKana": "とろんぼーんちゃんぷ",
+    "developerIds": [
+      "holy-wow-studios"
+    ],
+    "publisherId": "holy-wow-studios",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rhythm-action",
+      "party-game"
+    ],
+    "releaseDate": "2023-09-14",
+    "synopsis": "トロンボーンを吹くことに特化した音楽ゲーム。音程を自分で連続的に動かして旋律をなぞる操作系のため、狙って外れた音が出る滑稽さがそのまま遊びになっている。クラシックや民謡を中心に多数の曲を収録し、カード収集の要素も備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元Holy Wow Studiosを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "a-little-to-the-left",
+    "title": "A Little to the Left",
+    "titleKana": "あーりとるとぅざれふと",
+    "developerIds": [
+      "max-inferno"
+    ],
+    "publisherId": "secret-mode",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle"
+    ],
+    "releaseDate": "2022-11-09",
+    "synopsis": "机の上の物を整える、ただそれだけを扱うパズル。鉛筆を長さ順に並べる、切手を升目に収めるといった課題を解いていくが、正解が複数あったり猫が邪魔をして崩したりする。片付けの気持ちよさと、思い通りにいかない可笑しさが同居している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Max Inferno・発売元Secret Modeを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "superhot",
+    "title": "SUPERHOT",
+    "titleKana": "すーぱーほっと",
+    "developerIds": [
+      "superhot-team"
+    ],
+    "publisherId": "superhot-team",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "puzzle"
+    ],
+    "releaseDate": "2019-08-19",
+    "synopsis": "自分が動いたときだけ時間が進む一人称シューター。弾丸は止まって見え、その隙に位置取りを考えて銃を奪い、投げ、撃ち返す。撃ち合いというよりパズルに近い設計で、白と赤だけの簡素な描画と、現実を侵食していく筋書きが特徴になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元SUPERHOT Teamを確認。原典は2016年のPC版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

@@ -4552,5 +4552,149 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『PAYDAY 3』の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "monstars",
+    "name": "Monstars",
+    "nameKana": "もんすたーず",
+    "description": "日本の開発会社。『テトリス エフェクト』シリーズの開発をResonairらと共同で担当した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Tetris Effect: Connected』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "enhance",
+    "name": "エンハンス",
+    "nameKana": "えんはんす",
+    "description": "水口哲也が率いる日本の開発・発売会社。音と映像の共感覚的な体験を主題とする作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Tetris Effect』『Lumines Remastered』『Humanity』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "resonair",
+    "name": "レゾネア",
+    "nameKana": "れぞねあ",
+    "description": "日本の開発会社。『ルミネス』『Rez』系統の音楽性の高い作品に関わる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Lumines Remastered』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tha-ltd",
+    "name": "tha ltd.",
+    "nameKana": "てぃーえいちえー",
+    "description": "中村勇吾が主宰する日本のデザインスタジオ。『Humanity』の開発を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Humanity』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "croteam",
+    "name": "Croteam",
+    "nameKana": "くろちーむ",
+    "description": "クロアチアの開発会社。『Serious Sam』『The Talos Principle』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『The Talos Principle II』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "pillow-castle-games",
+    "name": "Pillow Castle Games",
+    "nameKana": "ぴろーきゃっするげーむず",
+    "description": "米国の小規模開発スタジオ。遠近法を用いたパズル『Superliminal』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sad-owl-studios",
+    "name": "Sad Owl Studios",
+    "nameKana": "さっどあうるすたじおず",
+    "description": "英国の開発スタジオ。写真を世界に貼り付けて道を作るパズル『Viewfinder』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "thunderful",
+    "name": "Thunderful Games",
+    "nameKana": "さんだふるげーむず",
+    "description": "スウェーデンの開発・発売会社。独立系作品を幅広く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Viewfinder』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "coin-crew-games",
+    "name": "Coin Crew Games",
+    "nameKana": "こいんくるーげーむず",
+    "description": "米国の開発スタジオ。実際の脱出ゲーム制作の知見を活かした『Escape Academy』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "taito",
+    "name": "タイトー",
+    "nameKana": "たいとー",
+    "description": "日本の開発・発売会社。『スペースインベーダー』『パズルボブル』『ダライアス』等で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『パズルボブル エブリバブル!』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "monkeycraft",
+    "name": "モンキークラフト",
+    "nameKana": "もんきーくらふと",
+    "description": "日本の開発会社。他社作品の移植・リメイクを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『みんな大好き塊魂アンコール』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "half-asleep",
+    "name": "Half Asleep",
+    "nameKana": "はーふあすりーぷ",
+    "description": "カナダの個人開発スタジオ。夢を題材にしたリズムゲーム『Melatonin』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "holy-wow-studios",
+    "name": "Holy Wow Studios",
+    "nameKana": "ほーりーわうすたじおず",
+    "description": "トロンボーンを吹く風変わりな音楽ゲーム『Trombone Champ』を制作した小規模スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "max-inferno",
+    "name": "Max Inferno",
+    "nameKana": "まっくすいんふぇるの",
+    "description": "カナダの二人組スタジオ。物を整頓するパズル『A Little to the Left』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "secret-mode",
+    "name": "Secret Mode",
+    "nameKana": "しーくれっともーど",
+    "description": "英国のパブリッシャー。Sumo Groupの傘下で独立系作品を扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『A Little to the Left』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "superhot-team",
+    "name": "SUPERHOT Team",
+    "nameKana": "すーぱーほっとちーむ",
+    "description": "ポーランドの開発会社。時間が自分の動きに同期するFPS『SUPERHOT』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
