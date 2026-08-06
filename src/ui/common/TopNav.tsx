@@ -5,6 +5,7 @@ const LINKS = [
   { to: "/genres", label: "ジャンル" },
   { to: "/companies", label: "会社" },
   { to: "/awards", label: "アワード" },
+  { to: "/timeline", label: "年表" },
 ];
 
 export function TopNav() {

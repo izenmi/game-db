@@ -291,6 +291,7 @@ const sitemapEntries = [
   ...companies.map((c) => urlEntry(`/companies/${c.id}`, c.updatedAt?.slice(0, 10))),
   urlEntry("/awards"),
   ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
+  urlEntry("/timeline"),
   urlEntry("/about"),
 ];
 

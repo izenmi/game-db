@@ -41,6 +41,7 @@ const routes = [
   ...companies.map((c) => `/companies/${c.id}`),
   "/awards",
   ...awards.map((a) => `/awards/${a.id}`),
+  "/timeline",
   "/about",
 ];
 

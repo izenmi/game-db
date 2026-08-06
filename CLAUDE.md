@@ -191,6 +191,22 @@ react-routerはルート遷移時にスクロール位置を保持したまま�
   生成JSONが大きく膨らむ。詳細ページは`getGames()`(取得済みキャッシュ)から解決するので追加の通信は発生しない
 - チューニング用の定数は`generate-manifest.mjs`冒頭の`RELATED_COUNT`と各ボーナス値
 
+## 年表ページ `/timeline`(2026-08-06実装)
+
+`releaseDate`の年部分でゲームを年代→年の順にグルーピングして一覧する。姉妹サイト4サイトすべてに同一パターンで実装済み。
+
+- `src/ui/timeline/TimelinePage.tsx`。データはビルド時に何も足しておらず、`getGames()`(取得済みキャッシュ)を
+  クライアント側でグルーピングするだけなので、`generate-manifest.mjs`側の変更は不要
+- **年ラベルは既存の`.winner-year`ピルを流用**しているので、年ごとの色ローテーションはアワード系ページと一致する。
+  `colorForYear()`(`src/ui/common/yearColor.ts`)をそのまま使う
+- 年代ジャンプは素の`<a href="#decade-1990">`。React Routerは介在せずブラウザがハッシュ移動するだけなので、
+  `ScrollToTop`(pathname監視)とは競合しない。固定ヘッダーに隠れないよう`.timeline-decade`に`scroll-margin-top`を置いている
+- 並び順は既定が古い順、`useState`のトグルで新しい順に切り替わる(URLには持たせていない)
+- ****年内は`releaseDate`(日付)順**。姉妹サイトと違いgames.jsonは日まで持っているため、タイトル順ではなく実際の発売順に並べている(同日の場合のみタイトル順)。全375本が`YYYY-MM-DD`形式であることは確認済み**
+- ルート追加時に触る必要があるのは4箇所: `src/App.tsx`(Route)、`src/ui/common/TopNav.tsx`(ナビ)、
+  `scripts/prerender.mjs`の`routes`配列、`scripts/generate-manifest.mjs`の`sitemapEntries`。
+  **プリレンダーとsitemapは手書きの配列なので、新しい静的ルートを足したら必ず両方に追記すること**
+
 ## 既知の未着手事項
 
 - **パッケージ画像は375/375本(100%)で解決済み(2026-08-04)**: 内訳は**IGDB 310・楽天市場65**。292→307が楽天側のマッチング自動化、307→375がIGDB層の追加、その後ユーザー指示でIGDBを優先順位1位に変更し既存の楽天エントリ245件をIGDBへ差し替えた(IGDBで引けなかった分は楽天のまま維持)。
