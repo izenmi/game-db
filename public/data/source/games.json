@@ -10977,5 +10977,322 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch/PS5版の発売日・開発元Hopoo Games・発売元Gearbox Publishingを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hyrule-warriors-age-of-calamity",
+    "title": "ゼルダ無双 厄災の黙示録",
+    "titleKana": "ぜるだむそうやくさいのもくしろく",
+    "developerIds": [
+      "omega-force",
+      "koei-tecmo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "musou-action",
+      "action-adventure"
+    ],
+    "releaseDate": "2020-11-20",
+    "synopsis": "『ゼルダの伝説 ブレス オブ ザ ワイルド』の百年前、大厄災に立ち向かうハイラル王国を描く一騎当千アクション。リンクやゼルダに加え四英傑も操作でき、シーカーストーンの力やガーディアンを使って大群を薙ぎ払う。原作で語られなかった戦いの顛末が本編として展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の存在・開発元Omega Force・発売元任天堂を確認。発売日は国内発売日(2020年11月20日)を採用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hyrule-warriors-age-of-imprisonment",
+    "title": "ゼルダ無双 封印戦記",
+    "titleKana": "ぜるだむそうふういんせんき",
+    "developerIds": [
+      "omega-force",
+      "koei-tecmo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "musou-action",
+      "action-adventure"
+    ],
+    "releaseDate": "2025-11-06",
+    "synopsis": "『ゼルダの伝説 ティアーズ オブ ザ キングダム』でゼルダが飛ばされた「封印戦争」の時代を描く無双アクション。初代ハイラル王ラウルらとともに、魔王ガノンドロフの軍勢と戦う。Nintendo Switch 2専用ソフトとして大量の敵表示と広い戦場を実現している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch 2版の発売日・発売元任天堂を確認。IGDB上の開発元表記はAAA Games Studioだが、本サイトでは無双シリーズの開発体制に合わせωフォース/コーエーテクモを開発元として登録した(共同開発の詳細は未確認)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "super-mario-3d-all-stars",
+    "title": "スーパーマリオ 3Dコレクション",
+    "titleKana": "すーぱーまりおすりーでぃーこれくしょん",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "action-adventure"
+    ],
+    "releaseDate": "2020-09-18",
+    "synopsis": "『スーパーマリオ64』『スーパーマリオサンシャイン』『スーパーマリオギャラクシー』の3作を高解像度化して1本にまとめた作品。各作のサウンドトラックを聴けるミュージックプレイヤーも収録する。マリオ35周年記念として期間限定で販売された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元が任天堂であることを確認(合集扱いのため型判定は緩めて照会した)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "metroid-prime-remastered",
+    "title": "メトロイドプライム リマスタード",
+    "titleKana": "めとろいどぷらいむりますたーど",
+    "developerIds": [
+      "retro-studios",
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "shooter"
+    ],
+    "releaseDate": "2023-02-09",
+    "synopsis": "ゲームキューブ用一人称アクションアドベンチャーの全面リマスター。バウンティハンターのサムス・アランが惑星ターロンIVを調査し、スキャンによる情報収集とビームの切り替えで謎を解きながら探索範囲を広げていく。モデル・テクスチャ・操作系が現行機向けに刷新された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の存在・開発元Retro Studios/任天堂・発売元任天堂を確認。発売日は国内ダウンロード版配信日(2023年2月9日)を採用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "princess-peach-showtime",
+    "title": "プリンセスピーチ Showtime!",
+    "titleKana": "ぷりんせすぴーちしょうたいむ",
+    "developerIds": [
+      "good-feel"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "platformer"
+    ],
+    "releaseDate": "2024-03-22",
+    "synopsis": "ピーチ姫が主役のアクションアドベンチャー。乗っ取られた「きらめき劇場」を舞台に、剣士・怪盗・パティシエなど演目ごとの変身能力を得て舞台を進む。変身ごとに操作感が大きく変わる構成で、劇のシーンを立て直しながら劇場を取り戻していく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元グッド・フィール・発売元任天堂を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "famicom-detective-club-missing-heir",
+    "title": "ファミコン探偵倶楽部 消えた後継者",
+    "titleKana": "ふぁみこんたんていくらぶきえたこうけいしゃ",
+    "developerIds": [
+      "mages",
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2021-05-14",
+    "synopsis": "1988年のディスクシステム用アドベンチャーを全面リメイクした作品。記憶を失った少年探偵が、旧家・綾城家に伝わる呪いと連続する死の真相を追う。フルボイスとアニメーションで描き直され、コマンド選択式の推理進行は原作の構成を踏襲している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元MAGES./任天堂・発売元任天堂を確認。同時発売の姉妹作『うしろに立つ少女』は別タイトルのため本エントリには含めていない。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "emio-the-smiling-man",
+    "title": "笑み男 ファミコン探偵倶楽部",
+    "titleKana": "えみおとこふぁみこんたんていくらぶ",
+    "developerIds": [
+      "nintendo",
+      "mages"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2024-08-29",
+    "synopsis": "『ファミコン探偵倶楽部』シリーズの完全新作。紙袋をかぶせられた少年の遺体が発見される事件を追ううち、38年前から語り継がれる都市伝説「笑み男」の噂に行き当たる。前2作の主人公とあゆみが再び聞き込みと推理を重ね、猟奇的な連続殺人の核心へ迫る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元任天堂/MAGES.・発売元任天堂を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bayonetta-2",
+    "title": "ベヨネッタ2",
+    "titleKana": "べよねったつー",
+    "developerIds": [
+      "platinumgames"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2018-02-16",
+    "synopsis": "魔女ベヨネッタを操作するスタイリッシュアクションの第2作。相棒ジャンヌの魂を取り戻すため煉獄の山インフェルノへ向かう。回避成功時のウィッチタイムに加え、魔獣を直接操って攻撃する「魔獣喚起」が加わり、より派手な連携が可能になった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元プラチナゲームズ・発売元任天堂を確認。原典はWii U版(2014年)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "snipperclips",
+    "title": "いっしょにチョキッと スニッパーズ",
+    "titleKana": "いっしょにちょきっとすにっぱーず",
+    "developerIds": [
+      "sfb-games"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "party-game",
+      "co-op"
+    ],
+    "releaseDate": "2017-03-03",
+    "synopsis": "紙のキャラクターがお互いの体を切り抜き合って形を作る協力パズル。ボールを運ぶ、鍵穴に合う形になるといったお題を、2人以上で相談しながら解いていく。切りすぎると詰むため、どちらがどう重なるかを声に出して調整する遊びが中心になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元SFB Games・発売元任天堂を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "1-2-switch",
+    "title": "1-2-Switch",
+    "titleKana": "わんつーすいっち",
+    "developerIds": [
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game"
+    ],
+    "releaseDate": "2017-03-03",
+    "synopsis": "画面ではなく相手の顔を見ながら遊ぶことを狙ったパーティゲーム集。Joy-ConのHD振動やモーションIRカメラを使い、早撃ち・剣術・牛の乳しぼりなど28種の対戦を収録する。Nintendo Switch本体の入力機能を体験させるローンチタイトルとして発売された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元が任天堂であることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nintendo-world-championships-nes-edition",
+    "title": "Nintendo World Championships ファミコン世界大会",
+    "titleKana": "にんてんどーわーるどちゃんぴおんしっぷふぁみこんせかいたいかい",
+    "developerIds": [
+      "nintendo",
+      "indieszero"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game",
+      "platformer"
+    ],
+    "releaseDate": "2024-07-18",
+    "synopsis": "ファミコンの名作13タイトルから切り出した短い課題を、いかに速くクリアするかで競うタイムアタック集。『スーパーマリオブラザーズ』の1-1をどれだけ速く抜けるかといった150種以上のチャレンジを収録し、世界のプレイヤーの記録と競い合える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元任天堂/インディーズゼロ・発売元任天堂を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "donkey-kong-country-returns-hd",
+    "title": "ドンキーコング リターンズ HD",
+    "titleKana": "どんきーこんぐりたーんずえいちでぃー",
+    "developerIds": [
+      "forever-entertainment"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2025-01-16",
+    "synopsis": "Wii用横スクロールアクションの高解像度リマスター。催眠術で島の動物たちを操るティキ族からバナナを取り返すため、ドンキーコングとディディーコングが島を巡る。3DS版で追加された低難度のモダンモードと追加ステージも収録している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で発売日・開発元Forever Entertainment・発売元任天堂を確認。IGDBにはSwitch 2の記載もあるが、Switch 2向けの専用パッケージ版は確認できないため対応機種はSwitchのみとした。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nintendo-switch-2-welcome-tour",
+    "title": "Nintendo Switch 2 のひみつ展",
+    "titleKana": "にんてんどーすいっちつーのひみつてん",
+    "developerIds": [
+      "ndcube",
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "party-game"
+    ],
+    "releaseDate": "2025-06-05",
+    "synopsis": "Nintendo Switch 2本体の機能を展示会形式で体験する作品。巨大な本体模型の上を歩き回り、各部の解説を読みながらフレームレートやHD振動、マウス操作などを確かめるミニゲームに挑む。本体の仕様そのものを題材にした構成が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch 2版の発売日・開発元Nintendo Cube(NDキューブ)/任天堂・発売元任天堂を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "another-code-recollection",
+    "title": "Another Code: リコレクション 2つの記憶",
+    "titleKana": "あなざーこーどりこれくしょんふたつのきおく",
+    "developerIds": [
+      "arc-system-works"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2024-01-19",
+    "synopsis": "ニンテンドーDS『Another Code 2つの記憶』とWii『Another Code: R 記憶の扉』をひとつにまとめた3Dリメイク。少女アシュレイが行方不明の父を追い、島の館や湖畔で仕掛けを解きながら失われた家族の記憶をたどる。演出とパズルが現行機向けに作り直されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元アークシステムワークス・発売元任天堂を確認(合集扱いのため型判定は緩めて照会した)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kirby-fighters-2",
+    "title": "カービィファイターズ2",
+    "titleKana": "かーびぃふぁいたーずつー",
+    "developerIds": [
+      "hal-laboratory"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "versus-action"
+    ],
+    "releaseDate": "2020-09-23",
+    "synopsis": "カービィのコピー能力ごとに戦い方が変わる対戦アクション。最大4人で殴り合うバトルのほか、相棒と協力して塔を登る「デデデでもドン!」モードを収録する。能力の組み合わせや相性を試しながら勝ち上がる構成で、オンライン対戦にも対応している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元HAL研究所・発売元任天堂を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

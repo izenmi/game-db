@@ -148,7 +148,7 @@ async function main() {
     await new Promise((r) => setTimeout(r, 300));
 
     const cands = results
-      .filter((g) => ALLOWED_TYPES.has(g.game_type ?? 0))
+      .filter((g) => process.env.ANYTYPE === "1" || ALLOWED_TYPES.has(g.game_type ?? 0))
       .map((g) => ({ g, plats: sitePlatforms(g) }))
       .filter((x) => x.plats.length > 0)
       .sort((a, b) => score(kw, a.g) - score(kw, b.g));

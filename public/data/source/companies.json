@@ -3436,5 +3436,23 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Risk of Rain 2』の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mages",
+    "name": "MAGES.",
+    "nameKana": "めーじす",
+    "description": "日本の開発・発売会社。アドベンチャーゲームを得意とし、『ファミコン探偵倶楽部』リメイク版の開発にも参加した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『ファミコン探偵倶楽部』リメイク版・『笑み男』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "indieszero",
+    "name": "インディーズゼロ",
+    "nameKana": "いんでぃーずぜろ",
+    "description": "日本の開発会社。『ナムコミュージアム』『シアトリズム』等の移植・ミニゲーム集を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Nintendo World Championships ファミコン世界大会』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
