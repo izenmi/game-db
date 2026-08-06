@@ -3994,5 +3994,77 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『僕のヒーローアカデミア One's Justice2』『呪術廻戦 戦華双乱』の開発元(Byking Inc.)として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "colossal-order",
+    "name": "Colossal Order",
+    "nameKana": "ころっさるおーだー",
+    "description": "フィンランドの開発会社。都市建設シミュレーション『Cities: Skylines』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Cities: Skylines II』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "11-bit-studios",
+    "name": "11 bit studios",
+    "nameKana": "いれぶんびっとすたじおず",
+    "description": "ポーランドの開発・発売会社。『This War of Mine』『Frostpunk』など重い主題の作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Frostpunk 2』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "limbic-entertainment",
+    "name": "Limbic Entertainment",
+    "nameKana": "りんびっくえんためいめんと",
+    "description": "ドイツの開発会社。『Tropico』『Might & Magic』シリーズなど戦略作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Tropico 6』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kalypso-media",
+    "name": "Kalypso Media",
+    "nameKana": "かりぷそめでぃあ",
+    "description": "ドイツの発売会社。経営・戦略シミュレーションを中心に展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Tropico 6』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "frontier-developments",
+    "name": "Frontier Developments",
+    "nameKana": "ふろんてぃあでべろっぷめんつ",
+    "description": "英国の開発・発売会社。『Planet Coaster』『Jurassic World Evolution』等の経営シミュレーションを得意とする。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で両作の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ubisoft-blue-byte",
+    "name": "Ubisoft Blue Byte",
+    "nameKana": "ゆーびーあいそふとぶるーばいと",
+    "description": "ドイツにあるUbisoftの開発スタジオ。『Anno』『The Settlers』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Anno 1800: Console Edition』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "pathea-games",
+    "name": "Pathea Games",
+    "nameKana": "ぱしーあげーむず",
+    "description": "中国の開発会社。開拓と生活を組み合わせた『My Time at』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『My Time at Sandrock』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "pm-studios",
+    "name": "PM Studios",
+    "nameKana": "ぴーえむすたじおず",
+    "description": "米国の発売会社。海外開発作品の家庭用機版を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『My Time at Sandrock』の発売元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

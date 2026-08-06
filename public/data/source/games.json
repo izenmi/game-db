@@ -14229,5 +14229,331 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元アークシステムワークス/アトラス・発売元セガ/アトラスを確認。原典は2013年のアーケード/PS3版。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "cities-skylines-2",
+    "title": "Cities: Skylines II",
+    "titleKana": "してぃーずすかいらいんずつー",
+    "developerIds": [
+      "colossal-order"
+    ],
+    "publisherId": "paradox-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2023-10-24",
+    "synopsis": "何もない土地に道路を引き、区画を指定して都市を育てる建設シミュレーションの続編。住民一人ひとりの通勤や買い物を個別に計算する仕組みが導入され、渋滞や失業といった問題がより細かく現れる。上下水道や電力、教育・医療の配置も市長の仕事になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Colossal Order・発売元Paradox Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "two-point-hospital",
+    "title": "Two Point Hospital",
+    "titleKana": "つーぽいんとほすぴたる",
+    "developerIds": [
+      "two-point-studios"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2020-02-25",
+    "synopsis": "架空の郡ツーポイントで病院を経営するシミュレーション。頭が電球になる病気など荒唐無稽な症例を診断・治療しながら、診察室や待合の配置を工夫して患者の流れをさばく。『Theme Hospital』の系譜に連なる作品で、皮肉の効いた館内放送が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Two Point Studios・発売元セガを確認。シリーズの『Two Point Campus』『Two Point Museum』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "frostpunk-2",
+    "title": "Frostpunk 2",
+    "titleKana": "ふろすとぱんくつー",
+    "developerIds": [
+      "11-bit-studios"
+    ],
+    "publisherId": "11-bit-studios",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2025-09-18",
+    "synopsis": "極寒に閉ざされた世界で都市を運営する作品の続編。前作から30年後、石炭から石油へ移る時代の都市を率い、資源不足と派閥対立の板挟みで法を定めていく。何を切り捨てるかを迫られる選択が中心にあり、決定は議会の合意を得なければ通らない。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元11 bit studiosを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tropico-6",
+    "title": "Tropico 6",
+    "titleKana": "とろぴこしっくす",
+    "developerIds": [
+      "limbic-entertainment"
+    ],
+    "publisherId": "kalypso-media",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2020-11-05",
+    "synopsis": "カリブ海の島国を治める独裁者「エル・プレジデンテ」となる経営シミュレーション。植民地時代から現代までの4つの時代を通じ、産業を興し外交で立ち回りながら政権を維持する。本作では複数の島からなる群島が舞台となり、橋や輸送の計画が重要になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Limbic Entertainment・発売元Kalypso Mediaを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jurassic-world-evolution-2",
+    "title": "Jurassic World Evolution 2",
+    "titleKana": "じゅらしっくわーるどえぼりゅーしょんつー",
+    "developerIds": [
+      "frontier-developments"
+    ],
+    "publisherId": "frontier-developments",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2021-11-09",
+    "synopsis": "恐竜を復元して公園を運営する経営シミュレーションの第2作。展示施設と観客の動線を設計しつつ、脱走や病気に対処する。映画『ジュラシック・ワールド/炎の王国』後の世界を舞台に、施設外へ逃れた恐竜を保護・管理する新しい筋書きが加わった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Frontier Developmentsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "planet-coaster-2",
+    "title": "Planet Coaster 2",
+    "titleKana": "ぷらねっとこーすたーつー",
+    "developerIds": [
+      "frontier-developments"
+    ],
+    "publisherId": "frontier-developments",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "sandbox"
+    ],
+    "releaseDate": "2024-11-06",
+    "synopsis": "遊園地を設計・経営するシミュレーションの続編。コースターのレールを一本ずつ引いて絶叫マシンを作れる自由度はそのままに、プールとウォータースライダーが加わって水の演出が扱えるようになった。来園者の満足度と収支の両立が課題になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Frontier Developmentsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "anno-1800-console",
+    "title": "Anno 1800 Console Edition",
+    "titleKana": "あのーせんはっぴゃくこんそーるえでぃしょん",
+    "developerIds": [
+      "ubisoft-blue-byte"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2023-03-16",
+    "synopsis": "産業革命期を舞台にした都市建設・交易シミュレーションの家庭用機版。旧世界と新世界に島を開き、原料の生産と輸送を組み合わせて工業を育てる。住民の階級ごとに要求される物資が異なり、供給の連鎖をどう組むかが街の成長を左右する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Blue Byte・発売元Ubisoftを確認。原典は2019年のPC版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "romance-of-the-three-kingdoms-8-remake",
+    "title": "三國志8 Remake",
+    "titleKana": "さんごくしはちりめいく",
+    "developerIds": [
+      "koei-tecmo"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "strategy",
+      "simulation",
+      "rpg"
+    ],
+    "releaseDate": "2024-10-24",
+    "synopsis": "2001年の『三國志VIII』を作り直した歴史シミュレーション。君主だけでなく一介の武将としても遊べる個人視点が特徴で、仕官・放浪・義兄弟の契りなど人間関係を軸に乱世を渡っていく。武将同士の因縁を描くイベントが大幅に増補された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元がコーエーテクモゲームスであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "taikou-risshiden-5-dx",
+    "title": "太閤立志伝V DX",
+    "titleKana": "たいこうりっしでんふぁいぶでぃーえっくす",
+    "developerIds": [
+      "koei-tecmo"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "rpg",
+      "strategy"
+    ],
+    "releaseDate": "2022-05-19",
+    "synopsis": "戦国時代を舞台に、武将・忍者・商人・鍛冶屋など好きな身分で生きられるシミュレーションの移植版。天下統一を目指すだけでなく、茶人として名を上げるといった遊び方も選べる。カードで技能を覚える仕組みと、自由度の高い生き方が支持されてきた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコーエーテクモゲームスであることを確認。原典は2004年のPC/PS2版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "winning-post-10",
+    "title": "Winning Post 10",
+    "titleKana": "うぃにんぐぽすとてん",
+    "developerIds": [
+      "koei-tecmo"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "sports"
+    ],
+    "releaseDate": "2023-03-30",
+    "synopsis": "競走馬のオーナーブリーダーとなって血統を作り上げる競馬シミュレーション。種牡馬と繁殖牝馬を掛け合わせて仔馬を育て、国内外のレースに送り出す。実在の名馬と騎手を多数収録し、数十年にわたる長期の牧場経営を追体験できる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元がコーエーテクモゲームスであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "super-robot-wars-y",
+    "title": "スーパーロボット大戦Y",
+    "titleKana": "すーぱーろぼっとたいせんわい",
+    "developerIds": [
+      "bb-studio"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "strategy"
+    ],
+    "releaseDate": "2025-08-28",
+    "synopsis": "複数のロボットアニメが共演するシミュレーションRPGの最新作。マス目上の戦場でユニットを動かし、精神コマンドと合体攻撃を絡めて敵を殲滅する基本は変わらず、参戦作品の垣根を越えた掛け合いが見どころになっている。育成と改造で機体を鍛えられる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・発売元バンダイナムコエンターテインメントを確認。開発は本サイトではシリーズを手がけるB.B.スタジオとして登録した(IGDB上の表記はBandai Namco Forge Digitals)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "phantom-brave-the-lost-hero",
+    "title": "ファントム・ブレイブ 幽霊船団と消えた英雄",
+    "titleKana": "ふぁんとむぶれいぶゆうれいせんだんときえたえいゆう",
+    "developerIds": [
+      "nippon-ichi-software"
+    ],
+    "publisherId": "nippon-ichi-software",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2025-01-30",
+    "synopsis": "20年ぶりとなる『ファントム・ブレイブ』の続編。霊を憑依させて実体化させる「憑依」を軸にしたシミュレーションRPGで、マス目ではなく自由に動ける戦場が特徴。少女マローネと幽霊のアッシュが、海に現れた幽霊船団の謎を追う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元日本一ソフトウェアを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "labyrinth-of-galleria",
+    "title": "ガレリアの地下迷宮と魔女ノ旅団",
+    "titleKana": "がれりあのちかめいきゅうとまじょのりょだん",
+    "developerIds": [
+      "nippon-ichi-software"
+    ],
+    "publisherId": "nippon-ichi-software",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "roguelike"
+    ],
+    "releaseDate": "2021-11-11",
+    "synopsis": "『ルフランの地下迷宮と魔女ノ旅団』の系譜に連なるダンジョンRPG。人形に魂を宿らせた「魔女ノ旅団」を編成し、壁を壊しながら碁盤目状の迷宮を踏破していく。複数体を1つの隊列にまとめる独自の編成規則と、重い筋書きが特徴になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本一ソフトウェアであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "disgaea-5-complete",
+    "title": "魔界戦記ディスガイア5",
+    "titleKana": "まかいせんきでぃすがいあふぁいぶ",
+    "developerIds": [
+      "nippon-ichi-software"
+    ],
+    "publisherId": "nippon-ichi-software",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "rpg"
+    ],
+    "releaseDate": "2017-03-03",
+    "synopsis": "桁違いの数値インフレで知られるシミュレーションRPGの第5作。復讐に燃える魔王キリアが、超魔王ヴォイド・ダークに支配された魔界を渡り歩く。味方を持ち上げて投げる、敵の技を奪うといった独自の戦術に加え、育成の上限が極端に高い作りが持ち味。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Disgaea 5 Complete』としてSwitch版の発売日・開発/発売元が日本一ソフトウェアであることを確認。原典は2015年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "my-time-at-sandrock",
+    "title": "My Time at Sandrock",
+    "titleKana": "まいたいむあっとさんどろっく",
+    "developerIds": [
+      "pathea-games"
+    ],
+    "publisherId": "pm-studios",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "rpg",
+      "sandbox"
+    ],
+    "releaseDate": "2023-11-02",
+    "synopsis": "砂漠の町サンドロックで建築屋を営む生活シミュレーション。資源を採取して機械で加工し、町からの依頼をこなして寂れた集落を立て直していく。住民との交流や結婚、遺跡の探索といった要素を備え、前作『My Time at Portia』の系譜に連なる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Pathea Games・発売元PM Studiosを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
