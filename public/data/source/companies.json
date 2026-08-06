@@ -3598,5 +3598,149 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Digimon Survive』の開発元(Hyde,Inc.)として確認。日本語社名の表記は未確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tobyfox",
+    "name": "tobyfox",
+    "nameKana": "とびーふぉっくす",
+    "description": "米国の個人開発者トビー・フォックス。『UNDERTALE』『DELTARUNE』を作曲を含めほぼ一人で制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で両作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hempuli",
+    "name": "Hempuli",
+    "nameKana": "へんぷり",
+    "description": "フィンランドの個人開発スタジオ。ルールそのものを書き換えるパズル『Baba Is You』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Baba Is You』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "thunder-lotus",
+    "name": "Thunder Lotus Games",
+    "nameKana": "さんだーろーたすげーむず",
+    "description": "カナダの開発会社。手描きアニメーション調の『Spiritfarer』『Jotun』等を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Spiritfarer』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nomada-studio",
+    "name": "Nomada Studio",
+    "nameKana": "のまだすたじお",
+    "description": "スペインの開発会社。イラストレーターConradとの共作『GRIS』で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Gris』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shedworks",
+    "name": "Shedworks",
+    "nameKana": "しぇっどわーくす",
+    "description": "英国の小規模開発スタジオ。砂漠を旅するオープンワールド『Sable』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Sable』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "awaceb",
+    "name": "Awaceb",
+    "nameKana": "あわせぶ",
+    "description": "ニューカレドニアにルーツを持つ開発会社。故郷の風景と文化を題材にした『Tchia』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Tchia』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kepler-interactive",
+    "name": "Kepler Interactive",
+    "nameKana": "けぷらーいんたらくてぃぶ",
+    "description": "英国のパブリッシャー。複数の独立系スタジオが共同出資して設立された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Tchia』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "adamgryu",
+    "name": "adamgryu",
+    "nameKana": "あだむぐりゅー",
+    "description": "カナダの個人開発者アダム・ロビンソン=ユー。『A Short Hike』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『A Short Hike』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "four-quarters",
+    "name": "Four Quarters",
+    "nameKana": "ふぉーくぉーたーず",
+    "description": "ロシアの小規模開発スタジオ。ドット絵のローグライト『Loop Hero』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Loop Hero』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dodge-roll",
+    "name": "Dodge Roll",
+    "nameKana": "どっじろーる",
+    "description": "米国の開発スタジオ。弾幕とローグライトを掛け合わせた『Enter the Gungeon』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Enter the Gungeon』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "southpaw-games",
+    "name": "SouthPAW Games",
+    "nameKana": "さうすぽーげーむず",
+    "description": "韓国の開発会社。頭を付け替えて能力が変わるローグライト『Skul: The Hero Slayer』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Skul: The Hero Slayer』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shiny-shoe",
+    "name": "Shiny Shoe",
+    "nameKana": "しゃいにーしゅー",
+    "description": "米国の開発会社。デッキ構築ローグライト『Monster Train』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Monster Train』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "good-shepherd-entertainment",
+    "name": "Good Shepherd Entertainment",
+    "nameKana": "ぐっどしぇぱーどえんためいめんと",
+    "description": "オランダ発のパブリッシャー。独立系スタジオの作品を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Monster Train』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "heart-machine",
+    "name": "Heart Machine",
+    "nameKana": "はーとましーん",
+    "description": "米国の開発会社。ドット絵と映像表現に特徴のある『Hyper Light Drifter』で注目された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Hyper Light Drifter』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "abylight-studios",
+    "name": "Abylight Studios",
+    "nameKana": "あびらいとすたじおず",
+    "description": "スペインの開発・発売会社。他社インディー作品の家庭用機移植を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Hyper Light Drifter: Special Edition』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "phobia-game-studio",
+    "name": "Phobia Game Studio",
+    "nameKana": "ふぉびあげーむすたじお",
+    "description": "ポーランドの開発スタジオ。怪物側を操作する逆ホラー『CARRION』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Carrion』の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

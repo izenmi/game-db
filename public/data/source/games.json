@@ -12593,5 +12593,330 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元龍が如くスタジオ・発売元セガを確認。原典は2015年のPS3/PS4版。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "undertale",
+    "title": "UNDERTALE",
+    "titleKana": "あんだーている",
+    "developerIds": [
+      "tobyfox"
+    ],
+    "publisherId": "tobyfox",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2018-09-15",
+    "synopsis": "地下に落ちた人間の子どもが地上を目指すRPG。特徴は「誰も殺さずに クリアできる」点で、敵と戦うか会話で和解するかを毎回選べ、その積み重ねが世界の様子と結末を変える。戦闘は弾幕を避ける操作を伴い、選択の重さを演出する仕掛けが随所に置かれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元tobyfoxを確認。国内版の発売はハチノヨンが担当。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "deltarune",
+    "title": "DELTARUNE",
+    "titleKana": "でるたるーん",
+    "developerIds": [
+      "tobyfox"
+    ],
+    "publisherId": "tobyfox",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2025-06-04",
+    "synopsis": "『UNDERTALE』の作者による作品。高校生クリスが級友のスージィらと「闇の世界」へ落ち、伝説の勇者として旅をする。3人編成のターン制戦闘に弾幕回避が組み合わさり、敵を倒さずに解決する道も残されている。章ごとに分けて配信される構成をとる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元tobyfoxを確認。発売日は第1〜4章を収録した版の登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "baba-is-you",
+    "title": "Baba Is You",
+    "titleKana": "ばばいずゆー",
+    "developerIds": [
+      "hempuli"
+    ],
+    "publisherId": "hempuli",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle"
+    ],
+    "releaseDate": "2019-03-13",
+    "synopsis": "盤面に置かれた単語ブロックを押して、ゲームのルール自体を書き換えるパズル。「BABA IS YOU」を「ROCK IS YOU」に組み替えれば岩を操作でき、「WALL IS WIN」にすれば壁に触れて勝てる。発想の転換だけで解ける設計が高く評価された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元Hempuliを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "spiritfarer",
+    "title": "Spiritfarer",
+    "titleKana": "すぴりっとふぇあらー",
+    "developerIds": [
+      "thunder-lotus"
+    ],
+    "publisherId": "thunder-lotus",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "adventure",
+      "platformer"
+    ],
+    "releaseDate": "2020-08-18",
+    "synopsis": "死者を彼岸へ送る船頭となった少女ステラの物語。船を改築しながら各地を巡り、乗せた霊たちの願いを聞き、料理や畑仕事を通して交流を深める。やがて訪れる別れをどう受け止めるかを主題に据えた、看取りをテーマにした管理・探索作品。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元Thunder Lotusを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gris",
+    "title": "GRIS",
+    "titleKana": "ぐりす",
+    "developerIds": [
+      "nomada-studio"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer",
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2018-12-13",
+    "synopsis": "喪失を抱えた少女グリスが、色を失った世界を歩き直す横スクロールの探索作品。台詞は一切なく、水彩画のような背景と音楽だけで感情の段階が語られる。進むごとに世界に色が戻り、重くなる・泳ぐといった新しい所作が解放されていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Nomada Studio・発売元Devolver Digitalを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sable",
+    "title": "Sable",
+    "titleKana": "せいぶる",
+    "developerIds": [
+      "shedworks"
+    ],
+    "publisherId": "raw-fury",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "adventure"
+    ],
+    "releaseDate": "2022-11-29",
+    "synopsis": "成人の儀「ギリング」に出た少女セイブルが、ホバーバイクで砂漠を旅するオープンワールド作品。戦闘はなく、遺跡を登り仮面を集めて自分の生き方を選ぶことが目的になる。フランスのバンド・デシネを思わせる線画調の描画が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Shedworks・発売元Raw Furyを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tchia",
+    "title": "Tchia",
+    "titleKana": "ちあ",
+    "developerIds": [
+      "awaceb"
+    ],
+    "publisherId": "kepler-interactive",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "adventure"
+    ],
+    "releaseDate": "2023-03-21",
+    "synopsis": "ニューカレドニアの風景と文化を下敷きにしたオープンワールド作品。少女チアが、さらわれた父を追って群島を旅する。動物や物に憑依して移動・探索する「ソウルジャンプ」と、実際に弦をはじく操作で演奏するウクレレが遊びの中心にある。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Awaceb・発売元Kepler Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "a-short-hike",
+    "title": "A Short Hike",
+    "titleKana": "あしょーとはいく",
+    "developerIds": [
+      "adamgryu"
+    ],
+    "publisherId": "adamgryu",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2020-08-18",
+    "synopsis": "電波を求めて島の頂上を目指す鳥のクレアの、数時間で終わる小さな冒険。羽根を集めるほど高く飛べるようになり、寄り道や住民との会話が自由に楽しめる。低解像度の描画と穏やかな音楽で、目的を急がない散策そのものを主題にしている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元adamgryuを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "loop-hero",
+    "title": "Loop Hero",
+    "titleKana": "るーぷひーろー",
+    "developerIds": [
+      "four-quarters"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "roguelike",
+      "deck-building",
+      "strategy"
+    ],
+    "releaseDate": "2021-12-09",
+    "synopsis": "勇者が自動で周回する円環の道に、プレイヤーがカードで地形や建物を置いていく作品。敵を増やせば報酬も増えるが自分の首も絞めるという綱引きが核心で、周回のたびに資源を持ち帰って拠点を拡張する。世界が消滅した後の再構築を題材にしている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Four Quarters・発売元Devolver Digitalを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "enter-the-gungeon",
+    "title": "Enter the Gungeon",
+    "titleKana": "えんたーざがんじょん",
+    "developerIds": [
+      "dodge-roll"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "roguelike",
+      "shooter"
+    ],
+    "releaseDate": "2017-12-14",
+    "synopsis": "過去を消せる弾丸を求めて、銃をモチーフにした地下迷宮に挑む見下ろし型シューティング。入るたびに構造が変わる部屋で弾幕を回避しながら進み、奇天烈な銃を拾い集める。テーブルを盾にする、回避で無敵になるといった立ち回りが攻略の鍵になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Dodge Roll・発売元Devolver Digitalを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "skul-the-hero-slayer",
+    "title": "Skul: The Hero Slayer",
+    "titleKana": "すかるざひーろーすれいやー",
+    "developerIds": [
+      "southpaw-games"
+    ],
+    "publisherId": "neowiz",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "roguelike",
+      "platformer"
+    ],
+    "releaseDate": "2021-10-20",
+    "synopsis": "人間の勇者に滅ぼされた魔王城を、生き残った小さなスケルトンのスカルが取り戻すローグライト。頭蓋骨を付け替えると操作感と技が丸ごと変わる仕組みが特徴で、2つの頭を状況に応じて切り替えながら戦う。魔物側の視点で語られる筋書きも見どころ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元SouthPAW Games・発売元NEOWIZを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "monster-train",
+    "title": "Monster Train",
+    "titleKana": "もんすたーとれいん",
+    "developerIds": [
+      "shiny-shoe"
+    ],
+    "publisherId": "good-shepherd-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "deck-building",
+      "roguelike",
+      "strategy"
+    ],
+    "releaseDate": "2021-08-19",
+    "synopsis": "凍りついた地獄の最深部へ、最後の炎を運ぶ列車を守るデッキ構築型ローグライト。3階層の車両それぞれにユニットを配置して迎撃する縦の陣形が特徴で、階ごとの役割分担が勝敗を決める。2つの一族を組み合わせてデッキの方向性を決める。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Shiny Shoe・発売元Good Shepherd Entertainmentを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hyper-light-drifter",
+    "title": "Hyper Light Drifter: Special Edition",
+    "titleKana": "はいぱーらいとどりふたーすぺしゃるえでぃしょん",
+    "developerIds": [
+      "heart-machine"
+    ],
+    "publisherId": "abylight-studios",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2018-09-06",
+    "synopsis": "病に侵された放浪者が、滅びた文明の遺跡を巡る見下ろし型アクション。台詞は使われず、壁画と断片的な映像だけで世界の顛末が語られる。短い踏み込みと剣・銃の連携が求められる歯応えのある戦闘と、鮮烈な色彩のドット絵が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Heart Machine・発売元Abylight Studiosを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "carrion",
+    "title": "CARRION",
+    "titleKana": "きゃりおん",
+    "developerIds": [
+      "phobia-game-studio"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "horror",
+      "action-adventure"
+    ],
+    "releaseDate": "2020-07-23",
+    "synopsis": "研究施設に囚われた不定形の怪物を操作する「逆ホラー」。触手を伸ばして通気口を這い回り、逃げ惑う職員を捕食して質量を増やしていく。成長すると通れる経路と使える能力が変わり、施設全体を掌握して外へ出るまでが目的になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Phobia Game Studio・発売元Devolver Digitalを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "like-a-dragon-ishin",
+    "title": "龍が如く 維新! 極",
+    "titleKana": "りゅうがごとくいしんきわみ",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "crime-action",
+      "rpg"
+    ],
+    "releaseDate": "2023-02-17",
+    "synopsis": "幕末の京都を舞台にした外伝作のリメイク。坂本龍馬が師の仇を討つため名を偽り新選組に入隊する筋書きで、刀・拳・短銃・二刀を切り替える四つの型が戦闘の軸になる。歓楽街での遊びや畑作りといった寄り道要素もシリーズ同様に豊富に用意されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元龍が如くスタジオ・発売元セガを確認。原典は2014年のPS3/PS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
