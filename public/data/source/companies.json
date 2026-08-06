@@ -4453,5 +4453,104 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Astlibra Revision』の発売元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ghost-ship-games",
+    "name": "Ghost Ship Games",
+    "nameKana": "ごーすとしっぷげーむず",
+    "description": "デンマークの開発会社。宇宙ドワーフの協力型シューター『Deep Rock Galactic』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fatshark",
+    "name": "Fatshark",
+    "nameKana": "ふぁっとしゃーく",
+    "description": "スウェーデンの開発会社。ウォーハンマー世界を題材にした協力型アクションを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Darktide』『Vermintide 2』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "turtle-rock-studios",
+    "name": "Turtle Rock Studios",
+    "nameKana": "たーとるろっくすたじおず",
+    "description": "米国の開発会社。『Left 4 Dead』の原型を作り、後に『Back 4 Blood』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Back 4 Blood』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "rebellion-developments",
+    "name": "Rebellion Developments",
+    "nameKana": "りべりおんでべろっぷめんつ",
+    "description": "英国の開発・発売会社。狙撃を主題にした『Sniper Elite』シリーズを長く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同シリーズの開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "void-interactive",
+    "name": "VOID Interactive",
+    "nameKana": "ゔぉいどいんたらくてぃぶ",
+    "description": "アイルランドの開発会社。特殊部隊の突入を再現した『Ready or Not』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "expression-games",
+    "name": "Expression Games",
+    "nameKana": "えくすぷれっしょんげーむず",
+    "description": "英国の開発会社。第二次世界大戦の大規模戦闘を扱う『Hell Let Loose』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bohemia-interactive",
+    "name": "Bohemia Interactive",
+    "nameKana": "ぼへみあいんたらくてぃぶ",
+    "description": "チェコの開発・発売会社。軍事シミュレーション『Arma』シリーズで知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Arma Reforger』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "new-world-interactive",
+    "name": "New World Interactive",
+    "nameKana": "にゅーわーるどいんたらくてぃぶ",
+    "description": "カナダの開発会社。現代戦を扱う硬派なFPS『Insurgency』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Insurgency: Sandstorm』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nexon-games",
+    "name": "NEXON Games",
+    "nameKana": "ねくそんげーむず",
+    "description": "韓国の開発会社。ネクソン傘下で『The First Descendant』等を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tripwire-interactive",
+    "name": "Tripwire Interactive",
+    "nameKana": "とりっぷわいやーいんたらくてぃぶ",
+    "description": "米国の開発・発売会社。協力型ゾンビシューター『Killing Floor』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Killing Floor III』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "starbreeze-studios",
+    "name": "Starbreeze Studios",
+    "nameKana": "すたーぶれいずすたじおず",
+    "description": "スウェーデンの開発・発売会社。協力型の強盗アクション『PAYDAY』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『PAYDAY 3』の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

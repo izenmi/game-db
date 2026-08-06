@@ -15868,5 +15868,334 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元KEIZO・発売元WhisperGamesを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "deep-rock-galactic",
+    "title": "Deep Rock Galactic",
+    "titleKana": "でぃーぷろっくぎゃらくてぃっく",
+    "developerIds": [
+      "ghost-ship-games"
+    ],
+    "publisherId": "coffee-stain-studios",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2022-01-04",
+    "synopsis": "宇宙のドワーフ鉱夫となり、洞窟に潜って資源を掘り出す最大4人の協力型シューター。地形は全て破壊可能で、掘る・登る・照らすといった役割が4つの職業に分かれている。真っ暗な洞内で照明弾を投げながら進む探索と、虫の大群との戦闘が交互に訪れる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ghost Ship Games・発売元Coffee Stain Publishingを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "warhammer-40k-darktide",
+    "title": "Warhammer 40,000: Darktide",
+    "titleKana": "うぉーはんまーよんまんだーくたいど",
+    "developerIds": [
+      "fatshark"
+    ],
+    "publisherId": "fatshark",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "action-adventure"
+    ],
+    "releaseDate": "2024-11-27",
+    "synopsis": "ウォーハンマー40Kの巨大都市アトーマ・プライムを舞台にした4人協力アクション。カオスの信徒に侵食された下層区で、囚人上がりの部隊が大群と斬り合う。近接武器と銃器を持ち替えながら押し寄せる敵をさばく設計で、職業ごとに役割が分かれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Fatsharkを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "warhammer-vermintide-2",
+    "title": "Warhammer: Vermintide 2",
+    "titleKana": "うぉーはんまーゔぁーみんたいどつー",
+    "developerIds": [
+      "fatshark"
+    ],
+    "publisherId": "fatshark",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "action-adventure"
+    ],
+    "releaseDate": "2021-07-26",
+    "synopsis": "ネズミ人間スケイヴンとカオスの軍勢に抗う4人協力アクション。5人の英雄から1人を選び、それぞれ3系統の職に育て分けて挑む。一人称視点の近接戦闘に重心を置いており、群がる敵をさばきながら隊列を保つことが生存の鍵になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Fatsharkを確認。原典は2018年のPC/PS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "back-4-blood",
+    "title": "Back 4 Blood",
+    "titleKana": "ばっくふぉーぶらっど",
+    "developerIds": [
+      "turtle-rock-studios"
+    ],
+    "publisherId": "warner-bros-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "horror"
+    ],
+    "releaseDate": "2021-10-12",
+    "synopsis": "『Left 4 Dead』の制作陣による4人協力型のゾンビシューター。寄生生物に侵された「リドゥン」の群れを抜けて拠点を目指す。出撃前にカードを組み合わせて自分の性能を強化する仕組みが加わり、道中の難度も別のカードによって動的に変化する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Turtle Rock Studios・発売元Warner Bros. Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sniper-elite-5",
+    "title": "Sniper Elite 5",
+    "titleKana": "すないぱーえりーとふぁいぶ",
+    "developerIds": [
+      "rebellion-developments"
+    ],
+    "publisherId": "rebellion-developments",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "stealth",
+      "simulation"
+    ],
+    "releaseDate": "2022-05-26",
+    "synopsis": "第二次世界大戦を舞台にした狙撃シューターの第5作。1944年のフランスで、狙撃手カール・フェアバーンがナチスの秘密計画を阻止する。風と重力を計算して撃つ弾道再現と、命中の瞬間を体内まで映す演出がシリーズの看板になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Rebellion Developmentsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sniper-elite-resistance",
+    "title": "Sniper Elite: Resistance",
+    "titleKana": "すないぱーえりーとれじすたんす",
+    "developerIds": [
+      "rebellion-developments"
+    ],
+    "publisherId": "rebellion-developments",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "stealth",
+      "simulation"
+    ],
+    "releaseDate": "2025-01-28",
+    "synopsis": "『Sniper Elite 5』と同時期のフランスを、別の主人公ハリー・ホーキンスの視点から描く作品。レジスタンスと連携しながらドイツ軍の兵器開発を妨害する。長距離狙撃と潜入の組み合わせは変わらず、広い地形を自分の判断で攻略していく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Rebellion Developmentsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "rainbow-six-extraction",
+    "title": "レインボーシックス エクストラクション",
+    "titleKana": "れいんぼーしっくすえくすとらくしょん",
+    "developerIds": [
+      "ubisoft-montreal"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "stealth"
+    ],
+    "releaseDate": "2022-01-20",
+    "synopsis": "『レインボーシックス シージ』の世界観を用いた3人協力型シューター。寄生体アーキアンに侵された封鎖区域へ潜入し、目標を達成して脱出する。隊員が倒れると救出するまで使えなくなる仕組みがあり、慎重な進行を促す設計になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Montreal・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "rainbow-six-siege",
+    "title": "レインボーシックス シージ",
+    "titleKana": "れいんぼーしっくすしーじ",
+    "developerIds": [
+      "ubisoft-montreal"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "stealth",
+      "versus-action"
+    ],
+    "releaseDate": "2020-12-01",
+    "synopsis": "5対5で攻防に分かれる対戦FPS。壁や床を破壊して射線と侵入路を作れる点が核で、固有の装備を持つ「オペレーター」の選択が試合の組み立てを決める。被弾に弱く復活もないため、音の情報と隊内の連携が勝敗を大きく左右する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Montreal・発売元Ubisoftを確認。原典は2015年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "payday-3",
+    "title": "PAYDAY 3",
+    "titleKana": "ぺいでいすりー",
+    "developerIds": [
+      "starbreeze-studios"
+    ],
+    "publisherId": "starbreeze-studios",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "crime-action"
+    ],
+    "releaseDate": "2023-09-18",
+    "synopsis": "強盗団となって銀行や美術館を襲う4人協力型シューターの第3作。舞台をニューヨークに移し、監視カメラや電子錠を回避して静かに進める潜入と、露見後の激しい銃撃戦を選べる。装備の準備と役割分担が計画の成否を決める。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Starbreeze Studiosを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ready-or-not",
+    "title": "Ready or Not",
+    "titleKana": "れでぃおあのっと",
+    "developerIds": [
+      "void-interactive"
+    ],
+    "publisherId": "void-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "stealth"
+    ],
+    "releaseDate": "2025-07-15",
+    "synopsis": "SWAT隊員として現場に突入する戦術シューター。撃つより先に投降を呼びかけ、扉の開け方や閃光弾の使い方を選ぶ手順の重さが特徴で、民間人を巻き込めば評価が下がる。一人でも5人でも遊べ、隊員へ指示を出しながら建物を制圧していく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元VOID Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hell-let-loose",
+    "title": "Hell Let Loose",
+    "titleKana": "へるれっとるーす",
+    "developerIds": [
+      "expression-games"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2021-10-05",
+    "synopsis": "第二次世界大戦の戦場を50対50で再現する大規模FPS。分隊単位で行動し、補給線と拠点の支配権をやり取りしながら前線を押し上げる。指揮官・工兵・戦車兵など役割が細かく分かれており、個人技よりも部隊としての連携が戦況を決める。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Expression Games・発売元Team17を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "arma-reforger",
+    "title": "Arma Reforger",
+    "titleKana": "あーまりふぉーじゃー",
+    "developerIds": [
+      "bohemia-interactive"
+    ],
+    "publisherId": "bohemia-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2024-12-12",
+    "synopsis": "冷戦期の架空の島エヴロナを舞台にした軍事シミュレーション。広大な地形を車両と徒歩で移動し、拠点の確保と補給を積み重ねて戦線を動かす。負傷部位ごとの応急処置や無線での連携など、即応より段取りを重んじる作りになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Bohemia Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "insurgency-sandstorm",
+    "title": "Insurgency: Sandstorm",
+    "titleKana": "いんさーじぇんしーさんどすとーむ",
+    "developerIds": [
+      "new-world-interactive"
+    ],
+    "publisherId": "focus-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "versus-action"
+    ],
+    "releaseDate": "2024-01-30",
+    "synopsis": "中東の紛争地域を舞台にした硬派なFPS。体力表示や照準の中心点がなく、数発被弾すれば倒れる緊張感の高い設計で、音声通話で味方に叫ぶことが実際の戦術になる。対戦と、AI相手の協力モードの両方を備えている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元New World Interactive・発売元Focus Entertainmentを確認。原典は2018年のPC版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "the-first-descendant",
+    "title": "The First Descendant",
+    "titleKana": "ざふぁーすとでぃせんだんと",
+    "developerIds": [
+      "nexon-games"
+    ],
+    "publisherId": "nexon",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-rpg",
+      "co-op"
+    ],
+    "releaseDate": "2023-09-19",
+    "synopsis": "基本プレイ無料の三人称協力型シューター。異星の侵略者ヴァルガスから人類を守る「継承者」となり、最大4人で任務に挑む。固有能力を持つキャラクターと膨大な銃器を集めて強化する構造で、装備の掘り下げが長期的な目標になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元NEXON Games・発売元Nexonを確認。発売日はIGDBの登録値で、正式サービス開始日とは異なる可能性がある(未確認)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "killing-floor-3",
+    "title": "Killing Floor 3",
+    "titleKana": "きりんぐふろあすりー",
+    "developerIds": [
+      "tripwire-interactive"
+    ],
+    "publisherId": "tripwire-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "horror"
+    ],
+    "releaseDate": "2025-07-24",
+    "synopsis": "改造生物「ゼッド」の大群を6人で迎え撃つ協力型シューターの第3作。波状に押し寄せる敵を倒し、合間に武器を買い足して次の波に備える構成は健在で、時間が遅くなる演出と過剰な流血表現が持ち味。職業ごとに装備の系統が分かれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Tripwire Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
