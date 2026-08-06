@@ -4696,5 +4696,140 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で同作の開発/発売元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "spiders",
+    "name": "Spiders",
+    "nameKana": "すぱいだーず",
+    "description": "フランスの開発会社。『GreedFall』『Steelrising』などアクションRPGを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Steelrising』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "overborder-studio",
+    "name": "OverBorder Studio",
+    "nameKana": "おーばーぼーだーすたじお",
+    "description": "台湾の開発スタジオ。ソウルライクの『Thymesia』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "cold-symmetry",
+    "name": "Cold Symmetry",
+    "nameKana": "こーるどしんめとりー",
+    "description": "少人数で結成された開発スタジオ。『Mortal Shell』シリーズを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Mortal Shell: Enhanced Edition』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shift",
+    "name": "シフト",
+    "nameKana": "しふと",
+    "description": "日本の開発会社。『GOD EATER』『CODE VEIN』シリーズの開発を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Code Vein II』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ska-studios",
+    "name": "Ska Studios",
+    "nameKana": "すかすたじおず",
+    "description": "米国の夫婦二人組スタジオ。『Salt and Sanctuary』シリーズを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Salt and Sacrifice』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "a44-games",
+    "name": "A44 Games",
+    "nameKana": "えーふぉーてぃーふぉーげーむず",
+    "description": "ニュージーランドの開発会社。『Ashen』『Flintlock』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Flintlock: The Siege of Dawn』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jyamma-games",
+    "name": "Jyamma Games",
+    "nameKana": "じゃんまげーむず",
+    "description": "イタリアの開発・発売会社。イタリア文化を題材にしたソウルライク『Enotria』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sense-games",
+    "name": "SenseGames",
+    "nameKana": "せんすげーむず",
+    "description": "中国の開発スタジオ。ポストアポカリプスのアクションRPG『AI LIMIT』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ce-asia",
+    "name": "CE-Asia",
+    "nameKana": "しーいーあじあ",
+    "description": "アジア圏の発売会社。中国語圏の作品を家庭用機で展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『AI LIMIT』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aggro-crab",
+    "name": "Aggro Crab",
+    "nameKana": "あぐろくらぶ",
+    "description": "米国の小規模開発スタジオ。ヤドカリを主人公にしたソウルライク『Another Crab's Treasure』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "perfect-world-entertainment",
+    "name": "Perfect World Entertainment",
+    "nameKana": "ぱーふぇくとわーるどえんためいめんと",
+    "description": "中国系の発売会社。オンライン作品を中心に展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Remnant: From the Ashes』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "qloc",
+    "name": "QLOC",
+    "nameKana": "きゅーろっく",
+    "description": "ポーランドの開発会社。他社作品の移植・リマスターを多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Dark Souls: Remastered』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "point-blank-games",
+    "name": "Point Blank Games",
+    "nameKana": "ぽいんとぶらんくげーむず",
+    "description": "ドイツの開発スタジオ。異世界を舞台にしたアクションRPG『Stray Blade』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "more8bit",
+    "name": "more8bit",
+    "nameKana": "もあえいとびっと",
+    "description": "スペインの個人開発スタジオ。触感を重視した『Bleak Sword』シリーズを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Bleak Sword DX』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "reply-game-studios",
+    "name": "Reply Game Studios",
+    "nameKana": "りぷらいげーむすたじおず",
+    "description": "イタリアの開発会社。二人一組で戦うアクション『Soulstice』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

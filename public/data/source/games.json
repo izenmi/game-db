@@ -16520,5 +16520,327 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元SUPERHOT Teamを確認。原典は2016年のPC版。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "steelrising",
+    "title": "Steelrising",
+    "titleKana": "すちーるらいじんぐ",
+    "developerIds": [
+      "spiders"
+    ],
+    "publisherId": "nacon",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2022-09-08",
+    "synopsis": "フランス革命期のパリを舞台にした歴史改変ソウルライク。ルイ16世が自動人形の軍勢で民衆を弾圧する世界で、王妃付きの自動人形イージスが革命の側に立って戦う。武器ごとに動きが大きく変わる戦闘と、実在の史跡を歩ける舞台設定が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Spiders・発売元NACONを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "thymesia",
+    "title": "Thymesia",
+    "titleKana": "たいめしあ",
+    "developerIds": [
+      "overborder-studio"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2022-08-18",
+    "synopsis": "疫病に滅ぼされた王国を舞台にしたソウルライク。記憶を失った主人公コルヴスが、爪で敵の力を「奪う」ことで武器として使えるようになる。敵の体力を削っても爪で追い打ちしなければ回復してしまう仕組みが、攻めの継続を強いる作りになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元OverBorder Studio・発売元Team17を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mortal-shell",
+    "title": "Mortal Shell: Enhanced Edition",
+    "titleKana": "もーたるしぇるえんはんすどえでぃしょん",
+    "developerIds": [
+      "cold-symmetry"
+    ],
+    "publisherId": "playstack",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2021-03-04",
+    "synopsis": "朽ちた世界をさまよう「フォールン」となり、他人の遺骸に憑依して戦うソウルライク。憑依する「殻」ごとに耐久力と技能が変わり、被弾直前に硬化して受け流す独自の防御が戦闘の軸になる。PS5版は解像度と読み込みが強化されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Cold Symmetry・発売元Playstackを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "code-vein-2",
+    "title": "CODE VEIN II",
+    "titleKana": "こーどゔぇいんつー",
+    "developerIds": [
+      "bandai-namco-studios",
+      "shift"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2026-01-26",
+    "synopsis": "吸血鬼「レヴナント」を主人公とするアクションRPGの続編。滅びかけた世界で、時を遡る力を得た主人公が過去と現在を行き来しながら惨劇の原因を断とうとする。血を武器に変える「血装」で戦い方を組み替える仕組みは前作から引き継がれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元バンダイナムコスタジオ/シフト・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "salt-and-sacrifice",
+    "title": "Salt and Sacrifice",
+    "titleKana": "そるとあんどさくりふぁいす",
+    "developerIds": [
+      "ska-studios"
+    ],
+    "publisherId": "ska-studios",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "soulslike",
+      "metroidvania",
+      "co-op"
+    ],
+    "releaseDate": "2022-05-10",
+    "synopsis": "2Dのソウルライク『Salt and Sanctuary』の続編。罪人として魔法使い狩りを課された主人公が、逃げる魔法使いを追跡して討ち取る「魔狩り」が進行の軸になる。倒した相手の力を装備に変えられ、協力・対戦のオンライン要素も備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Ska Studiosを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "flintlock-the-siege-of-dawn",
+    "title": "Flintlock: The Siege of Dawn",
+    "titleKana": "ふりんとろっくざしーじおぶどーん",
+    "developerIds": [
+      "a44-games"
+    ],
+    "publisherId": "kepler-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2024-07-18",
+    "synopsis": "神々が死者の軍勢を率いて地上を襲う世界を舞台にしたアクションRPG。工兵のノールと、狐に似た神格の存在エンキが組んで神殺しに挑む。斧・銃・魔法を切り替えて連携を組み立てる戦闘と、跳躍を多用した機動性の高さが持ち味。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元A44・発売元Kepler Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "enotria-the-last-song",
+    "title": "Enotria: The Last Song",
+    "titleKana": "えのとりあざらすとそんぐ",
+    "developerIds": [
+      "jyamma-games"
+    ],
+    "publisherId": "jyamma-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2024-09-16",
+    "synopsis": "イタリアの民間伝承と仮面劇を題材にしたソウルライク。停止した「劇」に支配された世界で、仮面をかぶった主人公が役柄そのものを奪い取って戦う。暗い色調が主流のジャンルの中で、南欧の強い陽光と鮮やかな色彩を前面に出した点が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Jyamma Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "the-first-berserker-khazan",
+    "title": "The First Berserker: Khazan",
+    "titleKana": "ざふぁーすとばーさーかーかざん",
+    "developerIds": [
+      "neople"
+    ],
+    "publisherId": "nexon",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2025-03-24",
+    "synopsis": "『アラド戦記』の世界観を用いた3Dアクションアドベンチャー。反逆の罪を着せられた大将軍カザンが、復讐のために鬼神の力を借りて戦う。手描き調の陰影を付けた描画と、受け流しと体勢崩しを重んじる歯応えのある戦闘が組み合わされている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Neople・発売元Nexonを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ai-limit",
+    "title": "AI LIMIT",
+    "titleKana": "えーあいりみっと",
+    "developerIds": [
+      "sense-games"
+    ],
+    "publisherId": "ce-asia",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2025-03-27",
+    "synopsis": "泥に沈んだ終末都市ハヴィスクを舞台にしたアクションRPG。人造の少女アリサが、失われた記憶をたどりながら廃墟を探索する。スタミナではなく「同調率」を消費して戦う仕組みが特徴で、攻撃を当てるほど強力な技を撃てるようになる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元SenseGames・発売元CE-Asiaを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "another-crabs-treasure",
+    "title": "Another Crab's Treasure",
+    "titleKana": "あなざーくらぶずとれじゃー",
+    "developerIds": [
+      "aggro-crab"
+    ],
+    "publisherId": "aggro-crab",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "soulslike",
+      "action-adventure",
+      "platformer"
+    ],
+    "releaseDate": "2024-04-25",
+    "synopsis": "海洋ごみに埋もれた海底を舞台にしたソウルライク。質入れされた殻を取り戻すヤドカリのクリルが主人公で、拾った空き缶やペットボトルの蓋を殻としてかぶり、種類ごとに異なる必殺技を使う。明るい絵柄の裏で海洋汚染を主題に据えている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Aggro Crabを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "remnant-from-the-ashes",
+    "title": "Remnant: From the Ashes",
+    "titleKana": "れむなんとふろむじあっしゅず",
+    "developerIds": [
+      "gunfire-games"
+    ],
+    "publisherId": "perfect-world-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "soulslike",
+      "co-op"
+    ],
+    "releaseDate": "2021-05-13",
+    "synopsis": "異次元から現れた樹木状の存在ルートに侵略された地球を舞台にした三人称シューター。銃撃を主体にしつつ、篝火に相当する拠点と手強いボス戦というソウルライクの構造を取り入れている。地形と敵配置が生成で変わり、3人での協力に対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Gunfire Games・発売元Perfect World Entertainmentを確認。続編『Remnant II』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dark-souls-remastered",
+    "title": "DARK SOULS REMASTERED",
+    "titleKana": "だーくそうるずりますたーど",
+    "developerIds": [
+      "qloc",
+      "fromsoftware"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2018-10-19",
+    "synopsis": "現在のソウルライクの原型となった2011年の作品を高解像度化した移植版。不死の呪いを受けた主人公が、火の時代の終わりを迎えつつある世界を巡る。緻密に組まれた地形の繋がりと、死を前提とした学習を促す難度設計が高く評価されてきた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元QLOC/フロム・ソフトウェア・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "stray-blade",
+    "title": "Stray Blade",
+    "titleKana": "すとれいぶれいど",
+    "developerIds": [
+      "point-blank-games"
+    ],
+    "publisherId": "505-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2023-04-20",
+    "synopsis": "失われた谷アクライアで死んだ冒険者が、不死の身となって蘇るアクションRPG。相棒の獣人ボーマと二人で遺跡を巡り、死んでも記憶を保ったまま繰り返し挑む。受け流しと反撃を組み合わせた戦闘と、武器を鍛えて特性を伸ばす育成を備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Point Blank Games・発売元505 Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bleak-sword-dx",
+    "title": "Bleak Sword DX",
+    "titleKana": "ぶりーくそーどでぃーえっくす",
+    "developerIds": [
+      "more8bit"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2023-06-08",
+    "synopsis": "ジオラマのような小さな箱庭を1面ずつ攻略していくアクションRPG。極端に低い解像度のドット絵で描かれ、一撃の重さと回避の間合いだけで組み立てられた緊張感の高い戦闘が続く。もとはスマートフォン向けだった作品を大幅に増補している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元more8bit・発売元Devolver Digitalを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "soulstice",
+    "title": "Soulstice",
+    "titleKana": "そうるすてぃす",
+    "developerIds": [
+      "reply-game-studios"
+    ],
+    "publisherId": "modus-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2022-09-20",
+    "synopsis": "一つの体を共有する姉妹「キメラ」を操作するアクション。剣を振るう姉ブライアと、防御と結界を担う霊体の妹ルートを同時に操り、二人の役割を切り替えながら魔物の群れをさばく。日本の伝奇アクションを意識した演出が随所に見られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Reply Game Studios・発売元Modus Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
