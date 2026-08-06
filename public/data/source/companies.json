@@ -3742,5 +3742,95 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Carrion』の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "anshar-studios",
+    "name": "Anshar Studios",
+    "nameKana": "あんしゃーすたじおず",
+    "description": "ポーランドの開発会社。他社作品の共同開発を多く手がけ、『Layers of Fear』(2023年版)に参加した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で共同開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gun-interactive",
+    "name": "Gun Interactive",
+    "nameKana": "がんいんたらくてぃぶ",
+    "description": "米国のパブリッシャー。ホラー映画を題材にした非対称型対戦作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『The Texas Chain Saw Massacre』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "teravision-games",
+    "name": "Teravision Games",
+    "nameKana": "てらびじょんげーむず",
+    "description": "コロンビアの開発会社。『Killer Klowns from Outer Space: The Game』を開発した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "illfonic",
+    "name": "IllFonic",
+    "nameKana": "いるふぉにっく",
+    "description": "米国の開発・発売会社。『Friday the 13th』等、非対称型マルチプレイ作品を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Killer Klowns from Outer Space: The Game』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "boss-team-games",
+    "name": "Boss Team Games",
+    "nameKana": "ぼすちーむげーむず",
+    "description": "米国のパブリッシャー。映画原作の作品を中心に手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Evil Dead: The Game』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lka",
+    "name": "LKA",
+    "nameKana": "えるけーえー",
+    "description": "イタリアの開発スタジオ。実在の土地と歴史を題材にした心理ホラーを制作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Martha Is Dead』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wired-productions",
+    "name": "Wired Productions",
+    "nameKana": "わいやーどぷろだくしょんず",
+    "description": "英国のパブリッシャー。独立系スタジオの作品を家庭用機で展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Martha Is Dead』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ebb-software",
+    "name": "Ebb Software",
+    "nameKana": "えぶそふとうぇあ",
+    "description": "セルビアの開発会社。H・R・ギーガーらの影響が濃い『Scorn』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Scorn』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "creative-assembly",
+    "name": "Creative Assembly",
+    "nameKana": "くりえいてぃぶあせんぶりー",
+    "description": "英国の開発会社。『Total War』シリーズで知られ、『Alien: Isolation』も手がけた。セガ傘下。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Alien: Isolation』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "feral-interactive",
+    "name": "Feral Interactive",
+    "nameKana": "ふぇらるいんたらくてぃぶ",
+    "description": "英国の移植専門会社。他社作品のMac/Linux/家庭用機版を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Alien: Isolation』Switch版の発売元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

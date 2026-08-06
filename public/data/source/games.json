@@ -12610,7 +12610,7 @@
       "adventure"
     ],
     "releaseDate": "2018-09-15",
-    "synopsis": "地下に落ちた人間の子どもが地上を目指すRPG。特徴は「誰も殺さずに クリアできる」点で、敵と戦うか会話で和解するかを毎回選べ、その積み重ねが世界の様子と結末を変える。戦闘は弾幕を避ける操作を伴い、選択の重さを演出する仕掛けが随所に置かれている。",
+    "synopsis": "地下に落ちた人間の子どもが地上を目指すRPG。特徴は「誰も殺さずにクリアできる」点で、敵と戦うか会話で和解するかを毎回選べ、その積み重ねが世界の様子と結末を変える。戦闘は弾幕を避ける操作を伴い、選択の重さを演出する仕掛けが随所に置かれている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元tobyfoxを確認。国内版の発売はハチノヨンが担当。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
@@ -12917,6 +12917,337 @@
     "synopsis": "幕末の京都を舞台にした外伝作のリメイク。坂本龍馬が師の仇を討つため名を偽り新選組に入隊する筋書きで、刀・拳・短銃・二刀を切り替える四つの型が戦闘の軸になる。歓楽街での遊びや畑作りといった寄り道要素もシリーズ同様に豊富に用意されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元龍が如くスタジオ・発売元セガを確認。原典は2014年のPS3/PS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "layers-of-fear-2023",
+    "title": "Layers of Fear",
+    "titleKana": "れいやーずおぶふぃあ",
+    "developerIds": [
+      "bloober-team",
+      "anshar-studios"
+    ],
+    "publisherId": "bloober-team",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2023-06-15",
+    "synopsis": "画家と俳優、それぞれの狂気を描いた過去2作を、新しい枠物語で束ね直した作品。Unreal Engine 5で全面的に作り直され、屋敷の壁や絵画が振り返るたびに姿を変える演出が強化された。戦闘はなく、逃げ場のない空間を歩き回って断片を集める形式をとる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Bloober Team/Anshar Studios・発売元Bloober Teamを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "the-medium",
+    "title": "The Medium",
+    "titleKana": "ざみでぃあむ",
+    "developerIds": [
+      "bloober-team"
+    ],
+    "publisherId": "bloober-team",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2021-09-03",
+    "synopsis": "霊媒の力を持つ女性マリアンヌが、廃墟のリゾートで起きた惨劇の真相を追う心理ホラー。現実世界と霊界を画面分割で同時に表示し、両方の世界に同時に働きかけて謎を解く構造が最大の特徴。音楽は山岡晃とアルカディウシュ・レイコフスキが共作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Bloober Teamを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "observer-system-redux",
+    "title": "Observer: System Redux",
+    "titleKana": "おぶざーばーしすてむりだっくす",
+    "developerIds": [
+      "bloober-team"
+    ],
+    "publisherId": "bloober-team",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "2084年の荒廃したクラクフを舞台にしたサイバーパンク・ホラーの強化版。他人の記憶へ潜入できる捜査官が、息子の失踪を追って集合住宅に立て入る。他者の主観に入り込むたび映像が崩れていく表現が持ち味で、追加ケースと画質改善が施されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Bloober Teamを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dead-by-daylight",
+    "title": "Dead by Daylight",
+    "titleKana": "でっどばいでいらいと",
+    "developerIds": [
+      "behaviour-interactive"
+    ],
+    "publisherId": "behaviour-interactive",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2019-09-24",
+    "synopsis": "1人の殺人鬼と4人の生存者に分かれて戦う非対称型の対戦ホラー。生存者は発電機を修理して脱出を目指し、殺人鬼はそれを妨げて全員を捕らえる。多数のホラー映画とのコラボレーションでキャラクターが継続的に追加されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Behaviour Interactiveを確認。発売日はIGDBの登録値(Switch版)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "texas-chain-saw-massacre",
+    "title": "The Texas Chain Saw Massacre",
+    "titleKana": "ざてきさすちぇーんそーまさかー",
+    "developerIds": [
+      "sumo-digital"
+    ],
+    "publisherId": "gun-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2023-08-18",
+    "synopsis": "1974年の映画を題材にした非対称型の対戦ホラー。3人の殺人一家と4人の被害者に分かれ、前者は屋敷から逃がさないよう、後者は隙を突いて脱出を図る。血液の量や騒音といった資源管理が両陣営の駆け引きを支えている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・発売元Gun Interactiveを確認。IGDB上の開発元はSumo Nottingham表記で、本サイトでは親会社のSumo Digitalとして登録した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "killer-klowns-from-outer-space",
+    "title": "Killer Klowns from Outer Space: The Game",
+    "titleKana": "きらーくらうんずふろむあうたーすぺーすざげーむ",
+    "developerIds": [
+      "teravision-games"
+    ],
+    "publisherId": "illfonic",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2024-05-28",
+    "synopsis": "1988年のカルト映画を原作にした3対7の非対称対戦。宇宙から来たピエロ側は綿菓子の繭に人間を閉じ込め、市民側は武器を探して脱出路を確保する。原作特有の悪ふざけじみた武器と演出が、そのまま対戦の仕掛けとして落とし込まれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Teravision Games・発売元IllFonicを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "evil-dead-the-game",
+    "title": "Evil Dead: The Game",
+    "titleKana": "いーゔぃるでっどざげーむ",
+    "developerIds": [
+      "saber-interactive"
+    ],
+    "publisherId": "boss-team-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "co-op",
+      "shooter"
+    ],
+    "releaseDate": "2022-05-13",
+    "synopsis": "映画『死霊のはらわた』シリーズを題材にした4対1の対戦アクション。生存者側はアッシュらを操作して地図の断片を集め、悪魔側は視界を操り木々や死霊を操って妨害する。原作の名台詞と武器が多数登場し、単独用のミッションも収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Saber Interactive・発売元Boss Team Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "paranormasight",
+    "title": "パラノマサイト FILE23 本所七不思議",
+    "titleKana": "ぱらのまさいとふぁいるにじゅうさんほんじょななふしぎ",
+    "developerIds": [
+      "xeen"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "horror"
+    ],
+    "releaseDate": "2023-03-09",
+    "synopsis": "昭和の東京・本所を舞台にした伝奇ホラーアドベンチャー。七不思議に紐づく「呪術」を手に入れた者たちが、死者蘇生の儀式をめぐって互いの命を狙い合う。複数の視点を切り替えて進み、得た情報を別の人物の場面に持ち込むことで真相に近づく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Xeen・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yomawari-lost-in-the-dark",
+    "title": "夜廻三",
+    "titleKana": "よまわりすりー",
+    "developerIds": [
+      "nippon-ichi-software"
+    ],
+    "publisherId": "nippon-ichi-software",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-04-21",
+    "synopsis": "呪いをかけられた少女が、真夜中の町を懐中電灯ひとつで歩くホラーアドベンチャー。武器はなく、怪異に見つかったら隠れるか走って逃げるしかない。可愛らしい絵柄と、子どもの目線で描かれる理不尽な恐怖との落差がシリーズの持ち味になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本一ソフトウェアであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fatal-frame-maiden-of-black-water",
+    "title": "零 〜濡鴉ノ巫女〜",
+    "titleKana": "ぜろぬれがらすのみこ",
+    "developerIds": [
+      "koei-tecmo"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "adventure"
+    ],
+    "releaseDate": "2021-10-27",
+    "synopsis": "自殺の名所として知られる日上山を舞台にした和風ホラーのリマスター。霊を写して祓う「射影機」を構え、水にまつわる怪異と失踪事件の真相を追う。濡れるほど霊に狙われやすくなる「濡れ」の仕組みが緊張感を生む。原典はWii U版。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元がコーエーテクモゲームスであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dark-pictures-house-of-ashes",
+    "title": "THE DARK PICTURES ANTHOLOGY: HOUSE OF ASHES",
+    "titleKana": "ざだーくぴくちゃーずあんそろじーはうすおぶあっしゅず",
+    "developerIds": [
+      "supermassive-games"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2021-10-22",
+    "synopsis": "イラク戦争中の米軍部隊が地下神殿に落ち、太古の怪物と対峙するホラーアドベンチャー。選択と反射操作の成否で誰が生き残るかが変わり、全滅も全員生存もあり得る。オンライン・オフラインの協力プレイに対応し、視点を分担して進められる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Supermassive Games・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dark-pictures-man-of-medan",
+    "title": "THE DARK PICTURES ANTHOLOGY: MAN OF MEDAN",
+    "titleKana": "ざだーくぴくちゃーずあんそろじーまんおぶめだん",
+    "developerIds": [
+      "supermassive-games"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2022-09-28",
+    "synopsis": "アンソロジー第1作。南太平洋へ潜水旅行に出た若者たちが、漂流する幽霊船に閉じ込められる。何が起きているのかを疑いながら選択を重ね、5人の生死を左右する。1台の本体を回して遊ぶ多人数モードを備え、視点ごとに知る情報が異なる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Supermassive Games・発売元バンダイナムコエンターテインメントを確認。発売日はIGDBの登録値で、原典は2019年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "martha-is-dead",
+    "title": "Martha Is Dead",
+    "titleKana": "まーさいずでっど",
+    "developerIds": [
+      "lka"
+    ],
+    "publisherId": "wired-productions",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2022-02-24",
+    "synopsis": "1944年のトスカーナを舞台にした心理スリラー。湖で溺死した双子の姉マーサになりすました妹ジュリアが、写真を現像しながら真相と自らの記憶に向き合う。実際の写真技法を再現した現像作業が謎解きに組み込まれ、戦時下の空気が全編を覆う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元LKA・発売元Wired Productionsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "scorn",
+    "title": "Scorn",
+    "titleKana": "すこーん",
+    "developerIds": [
+      "ebb-software"
+    ],
+    "publisherId": "kepler-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2023-10-03",
+    "synopsis": "生体組織と機械が融合した異形の世界を、説明もなく歩かされる一人称ホラー。H・R・ギーガーやズジスワフ・ベクシンスキの絵画を思わせる造形が全編を覆い、扉も武器も肉のような手触りで描かれる。台詞はなく、装置の操作そのものが謎解きになる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ebb Software・発売元Kepler Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "alien-isolation",
+    "title": "Alien: Isolation",
+    "titleKana": "えいりあんあいそれーしょん",
+    "developerIds": [
+      "creative-assembly"
+    ],
+    "publisherId": "feral-interactive",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "stealth",
+      "adventure"
+    ],
+    "releaseDate": "2019-12-05",
+    "synopsis": "映画『エイリアン』の15年後を描くステルスホラー。エレン・リプリーの娘アマンダが、母の消息を求めて宇宙ステーション・セヴァストポリへ向かう。ほぼ無敵の1体のゼノモーフが独自の判断で船内を徘徊し、隠れてやり過ごす以外に生き延びる術がない。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Creative Assembly・発売元Feral Interactiveを確認。原典は2014年のPS3/PS4版。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
   }
 ]
