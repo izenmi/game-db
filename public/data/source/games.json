@@ -13249,5 +13249,334 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Creative Assembly・発売元Feral Interactiveを確認。原典は2014年のPS3/PS4版。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ea-sports-fc-25",
+    "title": "EA SPORTS FC 25",
+    "titleKana": "いーえーすぽーつえふしーにじゅうご",
+    "developerIds": [
+      "ea-vancouver"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "sports",
+      "simulation"
+    ],
+    "releaseDate": "2024-09-20",
+    "synopsis": "FIFAとの提携終了後に始まったサッカーシリーズの2作目。5対5の小規模な試合形式「ラッシュ」が全モードに導入され、選手の役割を細かく指定できる戦術設定が刷新された。世界各国のリーグとライセンス選手を収録し、育成モードも継続している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元EA Vancouver・発売元EA SPORTSを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nba-2k25",
+    "title": "NBA 2K25",
+    "titleKana": "えぬびーえーにーけーにじゅうご",
+    "developerIds": [
+      "visual-concepts"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "sports",
+      "simulation"
+    ],
+    "releaseDate": "2024-09-04",
+    "synopsis": "NBAを題材にしたバスケットボールシミュレーションの年次最新作。実選手の動作を細かく取り込んだドリブルとシュートの操作系が改良され、自作選手で街を歩き回る「MyCAREER」やチーム経営モードを収録する。実在の選手・チームを公式ライセンスで再現している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Visual Concepts・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mlb-the-show-25",
+    "title": "MLB The Show 25",
+    "titleKana": "えむえるびーざしょーにじゅうご",
+    "developerIds": [
+      "sie-san-diego-studio"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "sports",
+      "simulation"
+    ],
+    "releaseDate": "2025-03-18",
+    "synopsis": "メジャーリーグ公式の野球シミュレーション。投打の駆け引きを細かく再現し、選手を一から育てる「Road to the Show」や球団運営、カード収集型の「Diamond Dynasty」を収録する。実在球場と選手の動作を丁寧に写し取った描写が売りになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元SIE San Diego Studio・発売元ソニー・インタラクティブエンタテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wwe-2k25",
+    "title": "WWE 2K25",
+    "titleKana": "だぶりゅーだぶりゅーいーにーけーにじゅうご",
+    "developerIds": [
+      "visual-concepts"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "sports",
+      "fighting-game"
+    ],
+    "releaseDate": "2025-03-07",
+    "synopsis": "プロレス団体WWEを題材にした対戦アクション。実在レスラーの技と入場演出を再現し、自作レスラーやオリジナル団体を作る編集機能を備える。本作ではブラッドライン一族を軸にしたストーリーモードと、屋外を含む新しい試合形式が追加された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元Visual Concepts・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "f1-25",
+    "title": "F1 25",
+    "titleKana": "えふわんにじゅうご",
+    "developerIds": [
+      "codemasters"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "sports",
+      "simulation"
+    ],
+    "releaseDate": "2025-05-30",
+    "synopsis": "F1公式のレーシングシミュレーション。実在のドライバー・チーム・サーキットを収録し、シーズンを通して戦うキャリアモードを備える。本作ではレーザースキャンで作り直したコースと、映画と連動したストーリーモードが目玉になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Codemasters・発売元Electronic Artsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ea-sports-wrc",
+    "title": "EA SPORTS WRC",
+    "titleKana": "いーえーすぽーつだぶりゅーあーるしー",
+    "developerIds": [
+      "codemasters"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "simulation",
+      "sports"
+    ],
+    "releaseDate": "2023-10-31",
+    "synopsis": "世界ラリー選手権の公式ライセンス作品。未舗装路・雪道・砂利道といった路面ごとの挙動差を細かく再現し、コ・ドライバーの指示だけを頼りに未知のコースを走り抜ける。車両を一から組み上げる「ビルダー」モードが本作の新要素になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Codemasters・発売元EA SPORTSを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "topspin-2k25",
+    "title": "TopSpin 2K25",
+    "titleKana": "とっぷすぴんにーけーにじゅうご",
+    "developerIds": [
+      "hangar-13"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "sports",
+      "simulation"
+    ],
+    "releaseDate": "2024-04-26",
+    "synopsis": "十数年ぶりに復活したテニスシミュレーション。打つ位置と打点のタイミングを重ねる操作系が核で、ボタンを押す長さでショットの威力と精度が変わる。四大大会のライセンスを持ち、実在選手との対戦や自作選手のキャリアモードを収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Hangar 13・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ride-5",
+    "title": "RIDE 5",
+    "titleKana": "らいどふぁいぶ",
+    "developerIds": [
+      "milestone"
+    ],
+    "publisherId": "milestone",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "simulation"
+    ],
+    "releaseDate": "2023-08-24",
+    "synopsis": "実在のオートバイを集めて走らせるレーシングシミュレーション。市販車からレース仕様まで多数の車種を収録し、部品交換と外装の塗り分けを細かく設定できる。天候の変化が路面のグリップに影響する仕組みが本作で強化されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Milestoneを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "motogp-24",
+    "title": "MotoGP 24",
+    "titleKana": "もーたーじーぴーにじゅうよん",
+    "developerIds": [
+      "milestone"
+    ],
+    "publisherId": "milestone",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "sports",
+      "simulation"
+    ],
+    "releaseDate": "2024-05-02",
+    "synopsis": "ロードレース世界選手権MotoGPの公式作品。実在のライダー・チーム・サーキットを収録し、シーズンを通じて戦うキャリアを遊べる。本作では移籍市場が導入され、成績に応じて他チームから誘いが来るなど選手生活の描写が厚くなった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Milestoneを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "the-crew-motorfest",
+    "title": "The Crew Motorfest",
+    "titleKana": "ざくるーもーたーふぇすと",
+    "developerIds": [
+      "ivory-tower"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "open-world"
+    ],
+    "releaseDate": "2023-07-21",
+    "synopsis": "ハワイのオアフ島をまるごと再現したオープンワールドレーシング。車種やテーマごとに束ねられた「プレイリスト」を選んで催しに参加し、市街地から火山地帯までを自由に走り回れる。車だけでなくボートや飛行機にも乗り換えられる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元Ivory Tower・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "test-drive-unlimited-solar-crown",
+    "title": "Test Drive Unlimited Solar Crown",
+    "titleKana": "てすとどらいぶあんりみてっどそーらーくらうん",
+    "developerIds": [
+      "kt-racing"
+    ],
+    "publisherId": "nacon",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "open-world"
+    ],
+    "releaseDate": "2024-09-05",
+    "synopsis": "香港島を実寸大で再現したオープンワールドレーシング。高級車を買い集めて社交界での地位を上げていく筋書きで、常時オンラインの世界を他プレイヤーと共有する。二つの派閥のいずれかに所属し、勝敗が陣営の勢力に反映される仕組みを持つ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元KT Racing・発売元NACONを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lego-2k-drive",
+    "title": "LEGO 2K ドライブ",
+    "titleKana": "れごにーけーどらいぶ",
+    "developerIds": [
+      "visual-concepts"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "sandbox",
+      "adventure"
+    ],
+    "releaseDate": "2023-05-19",
+    "synopsis": "レゴブロックで作られた世界を走るオープンワールドレーシング。地形に応じて車・ボート・オフロード車へ瞬時に変形しながら進み、集めたブロックで自分の車を一から組み立てられる。破壊しても組み直せるレゴらしい表現が全編に活かされている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Visual Concepts・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "just-dance-2025",
+    "title": "Just Dance 2025 Edition",
+    "titleKana": "じゃすとだんすにせんにじゅうごえでぃしょん",
+    "developerIds": [
+      "ubisoft-paris"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rhythm-action",
+      "party-game",
+      "fitness"
+    ],
+    "releaseDate": "2024-10-15",
+    "synopsis": "画面のダンサーの動きを真似て踊るリズムアクションの年次最新作。コントローラーやスマートフォンを手に持って動作を検出し、採点する。最新のヒット曲を中心に40曲以上を新規収録し、定額サービスで過去作の楽曲も遊べる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Ubisoft Paris・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "super-monkey-ball-banana-rumble",
+    "title": "スーパーモンキーボール バナナランブル",
+    "titleKana": "すーぱーもんきーぼーるばなならんぶる",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "party-game"
+    ],
+    "releaseDate": "2024-06-25",
+    "synopsis": "ボールに入ったサルを、ステージそのものを傾けて転がすアクション。全200種の新規ステージを収録し、勢いをつけて跳ぶ「スピンダッシュ」が新たに加わった。最大16人で遊べるオンライン対戦モードと、4人での協力プレイに対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元龍が如くスタジオ・発売元セガを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wreckfest",
+    "title": "Wreckfest",
+    "titleKana": "れっくふぇすと",
+    "developerIds": [
+      "bugbear-entertainment"
+    ],
+    "publisherId": "thq-nordic",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "sports"
+    ],
+    "releaseDate": "2021-05-04",
+    "synopsis": "車体の破壊表現を前面に押し出したレーシング。ぶつけ合いながら順位を争うバンガーレースが中心で、車体は当たった箇所ごとに歪み、部品が飛んでいく。最後の1台になるまで潰し合うデモリッションダービーや、芝刈り機での競走も収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Bugbear Entertainment・発売元THQ Nordicを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

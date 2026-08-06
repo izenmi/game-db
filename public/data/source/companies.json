@@ -3832,5 +3832,59 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Alien: Isolation』Switch版の発売元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hangar-13",
+    "name": "Hangar 13",
+    "nameKana": "はんがーさーてぃーん",
+    "description": "米国の開発会社。『マフィア』シリーズや『TopSpin 2K25』を手がける2K傘下のスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『TopSpin 2K25』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ivory-tower",
+    "name": "Ivory Tower",
+    "nameKana": "あいゔぉりーたわー",
+    "description": "フランスの開発会社。オープンワールドレーシング『The Crew』シリーズを手がけるUbisoft傘下のスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『The Crew: Motorfest』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kt-racing",
+    "name": "KT Racing",
+    "nameKana": "けーてぃーれーしんぐ",
+    "description": "フランスの開発会社(Kylotonn)。ラリーやドライビング作品を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Test Drive Unlimited Solar Crown』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nacon",
+    "name": "NACON",
+    "nameKana": "なこん",
+    "description": "フランスの発売会社・周辺機器メーカー。複数の開発スタジオを傘下に持つ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Test Drive Unlimited Solar Crown』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ubisoft-paris",
+    "name": "Ubisoft Paris",
+    "nameKana": "ゆーびーあいそふとぱり",
+    "description": "フランスにあるUbisoftの開発スタジオ。『Just Dance』シリーズを主導する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Just Dance 2025 Edition』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bugbear-entertainment",
+    "name": "Bugbear Entertainment",
+    "nameKana": "ばぐべあえんためいめんと",
+    "description": "フィンランドの開発会社。車体の破損表現に特徴のあるレーシング作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Wreckfest』の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
