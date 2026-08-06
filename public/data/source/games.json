@@ -14892,5 +14892,323 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元グラスホッパー・マニファクチュア・発売元マーベラスを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ai-the-somnium-files",
+    "title": "AI: ソムニウムファイル",
+    "titleKana": "えーあいそむにうむふぁいる",
+    "developerIds": [
+      "spike-chunsoft"
+    ],
+    "publisherId": "spike-chunsoft",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2019-09-17",
+    "synopsis": "左目に人工知能を宿した捜査官・伊達鍵が、猟奇的な連続殺人「サイコブロック事件」を追うアドベンチャー。現実の捜査に加え、容疑者の夢へ潜って6分間で手がかりを探す「ソムニウム」パートが特徴で、そこでの選択が結末を大きく分岐させる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元スパイク・チュンソフトを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ai-the-somnium-files-nirvana-initiative",
+    "title": "AI: ソムニウムファイル ニルヴァーナ イニシアチブ",
+    "titleKana": "えーあいそむにうむふぁいるにるゔぁーないにしあちぶ",
+    "developerIds": [
+      "spike-chunsoft"
+    ],
+    "publisherId": "spike-chunsoft",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-06-23",
+    "synopsis": "半身だけの遺体が6年の間隔をおいて発見される「半屍(ハーフボディ)連続殺人事件」を追う続編。新人捜査官の龍木と、前作の伊達の二人の視点を並行して進め、6年の時間差を挟んだ二つの捜査が終盤で噛み合う構成をとっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元スパイク・チュンソフトを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "danganronpa-decadence",
+    "title": "ダンガンロンパ Decadence",
+    "titleKana": "だんがんろんぱでかだんす",
+    "developerIds": [
+      "spike-chunsoft"
+    ],
+    "publisherId": "spike-chunsoft",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2021-11-04",
+    "synopsis": "『ダンガンロンパ』本編3作と新作ボードゲーム『超高校級の南国絶望ジャンボリー』をまとめた合本。閉鎖空間で起きる殺人を、証言の矛盾を弾丸に見立てて撃ち抜く「学級裁判」で暴く。犯人を当てられなければ全員が処刑されるという緊張が全編を支配する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元スパイク・チュンソフトを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "chaos-head-noah",
+    "title": "CHAOS;HEAD NOAH",
+    "titleKana": "かおすへっどのあ",
+    "developerIds": [
+      "mages",
+      "chiyomaru-studio"
+    ],
+    "publisherId": "mages",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "horror"
+    ],
+    "releaseDate": "2022-02-23",
+    "synopsis": "科学アドベンチャーシリーズの第1作。渋谷で起きる猟奇殺人「ニュージェネレーションの狂気」に、引きこもりの高校生・西條拓巳が巻き込まれていく。妄想と現実の区別がつかなくなる主人公の視点で語られ、妄想の方向を選ぶ独自の分岐システムを持つ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元MAGES./チヨマルスタジオを確認。原典は2008年のPC版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "anonymous-code",
+    "title": "ANONYMOUS;CODE",
+    "titleKana": "あのにますこーど",
+    "developerIds": [
+      "mages",
+      "chiyomaru-studio"
+    ],
+    "publisherId": "mages",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2022-07-28",
+    "synopsis": "科学アドベンチャーシリーズの一作。2037年の秋葉原を舞台に、ハッカーの高岡ぽろりが世界のシミュレーションを「セーブ&ロード」する能力を得る。人類の存亡が懸かった選択を、やり直しを前提とした構造そのものを物語に取り込んで描いている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元MAGES./チヨマルスタジオを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "steins-gate-elite",
+    "title": "STEINS;GATE ELITE",
+    "titleKana": "しゅたいんずげーとえりーと",
+    "developerIds": [
+      "mages"
+    ],
+    "publisherId": "mages",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2018-09-20",
+    "synopsis": "秋葉原で偶然タイムマシンを作ってしまった大学生・岡部倫太郎の物語を、テレビアニメの映像をそのまま使って再構成した版。過去へメールを送るたびに世界線が移動し、仲間の運命が変わっていく。原作の分岐に合わせて新規カットも描き下ろされている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元MAGES.を確認。原典は2009年のXbox 360版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "root-film",
+    "title": "Root Film",
+    "titleKana": "るーとふぃるむ",
+    "developerIds": [
+      "kadokawa-games"
+    ],
+    "publisherId": "kadokawa-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2020-07-30",
+    "synopsis": "島根県を舞台にした推理アドベンチャー。打ち切りになったドラマの再始動に呼ばれた新人監督・易通と、女優の理沙が、撮影地で起きた殺人事件に巻き込まれる。人物の言葉から「引っかかり」を拾って推理を組み立てる仕組みで、方言と土地の描写が丁寧に扱われる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元KADOKAWA GAMESを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "raging-loop",
+    "title": "レイジングループ",
+    "titleKana": "れいじんぐるーぷ",
+    "developerIds": [
+      "kemco"
+    ],
+    "publisherId": "kemco",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "horror"
+    ],
+    "releaseDate": "2017-08-03",
+    "synopsis": "山奥の集落に迷い込んだ大学生・房石陽明が、「黄泉忌みの宴」と呼ばれる人狼の儀式に巻き込まれるアドベンチャー。死ぬたびに数日前へ戻る仕組みを使い、村人の役職と嘘を推理していく。人狼ゲームの理屈を筋書きに落とし込んだ構成が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元ケムコを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "case-of-the-golden-idol",
+    "title": "The Case of the Golden Idol",
+    "titleKana": "ざけーすおぶざごーるでんあいどる",
+    "developerIds": [
+      "color-gray-games"
+    ],
+    "publisherId": "playstack",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-05-25",
+    "synopsis": "18世紀の英国を舞台にした推理パズル。事件現場の静止画を調べて単語を拾い集め、「誰が誰に何をしたか」の穴埋めを正しく埋めることで真相を確定させる。章をまたいで黄金の偶像を巡る一族の因縁が浮かび上がる構成をとっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Color Gray Games・発売元Playstackを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "life-is-strange-true-colors",
+    "title": "Life is Strange: True Colors",
+    "titleKana": "らいふいずすとれんじとぅるーからーず",
+    "developerIds": [
+      "deck-nine"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2021-09-10",
+    "synopsis": "他人の強い感情を色として見て、共感できる能力を持つ女性アレックス・チェンが主人公。兄の死の真相を追ううち、鉱山町ヘイヴン・スプリングスが隠す秘密に行き当たる。能力をどう使うかの選択が住民との関係と結末を変えていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Deck Nine・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "life-is-strange-double-exposure",
+    "title": "Life is Strange: Double Exposure",
+    "titleKana": "らいふいずすとれんじだぶるえくすぽーじゃー",
+    "developerIds": [
+      "deck-nine"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2024-10-29",
+    "synopsis": "第1作の主人公マックス・コールフィールドが再登場する続編。親友が殺された後、彼女が生きているもう一つの世界線を行き来できるようになり、二つの現実を突き合わせて犯人を探す。時間ではなく並行世界を移動する形に能力が変化している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Deck Nine・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "slay-the-princess",
+    "title": "Slay the Princess: The Pristine Cut",
+    "titleKana": "すれいざぷりんせすざぷりすてぃんかっと",
+    "developerIds": [
+      "black-tabby-games"
+    ],
+    "publisherId": "serenity-forge",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "horror"
+    ],
+    "releaseDate": "2024-10-24",
+    "synopsis": "「小屋の地下にいる姫を殺せ、さもなくば世界が終わる」とだけ告げられて始まるビジュアルノベル。信じるか疑うかで姫の姿と会話が丸ごと変わり、周回のたびに別の物語が立ち上がる。手描きの鉛筆画と、頭の中で言い争う複数の声が特徴になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Black Tabby Games・発売元Serenity Forgeを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mouthwashing",
+    "title": "Mouthwashing",
+    "titleKana": "まうすうぉっしんぐ",
+    "developerIds": [
+      "wrong-organ"
+    ],
+    "publisherId": "critical-reflex",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2024-09-26",
+    "synopsis": "貨物宇宙船タルサ号の墜落事故を、時系列を前後させながら描くホラーアドベンチャー。閉じ込められた5人の乗員が、救助の見込みがないまま少しずつ壊れていく過程を追う。低解像度の描画と、加害と被害の輪郭が曖昧な語り口が持ち味になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Wrong Organ・発売元Critical Reflexを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sherlock-holmes-chapter-one",
+    "title": "Sherlock Holmes Chapter One",
+    "titleKana": "しゃーろっくほーむずちゃぷたーわん",
+    "developerIds": [
+      "frogwares"
+    ],
+    "publisherId": "frogwares",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "open-world"
+    ],
+    "releaseDate": "2021-11-16",
+    "synopsis": "21歳のシャーロック・ホームズが、母の死の真相を追って地中海の島コルドナへ戻る推理アドベンチャー。証拠を集めて仮説を組み立て、結論を自分で選ぶ形式をとり、誤った推理のまま話を進めることもできる。島を自由に歩き回れる構成になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Frogwaresを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "famicom-detective-club-girl-who-stands-behind",
+    "title": "ファミコン探偵倶楽部 うしろに立つ少女",
+    "titleKana": "ふぁみこんたんていくらぶうしろにたつしょうじょ",
+    "developerIds": [
+      "mages",
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2021-05-14",
+    "synopsis": "1989年のディスクシステム用作品を全面リメイクしたアドベンチャー。前作より前の時系列を描き、主人公が探偵事務所に入る前後の事件を扱う。高校で語り継がれる「うしろに立つ少女」の噂と、15年前の未解決事件が結び付いていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元任天堂/MAGES.・発売元任天堂を確認。同時発売の『消えた後継者』は本サイトに別途登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

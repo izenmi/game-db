@@ -4165,5 +4165,95 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『No More Heroes III』の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "chiyomaru-studio",
+    "name": "チヨマルスタジオ",
+    "nameKana": "ちよまるすたじお",
+    "description": "志倉千代丸が率いる日本の企画会社。科学アドベンチャーシリーズの企画・原作を担う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『CHAOS;HEAD NOAH』『ANONYMOUS;CODE』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kadokawa-games",
+    "name": "KADOKAWA GAMES",
+    "nameKana": "かどかわげーむす",
+    "description": "KADOKAWAグループのゲーム開発・発売会社。『Root』シリーズ等のアドベンチャーを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Root Film』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kemco",
+    "name": "ケムコ",
+    "nameKana": "けむこ",
+    "description": "日本の開発・発売会社(コトブキシステム)。RPGやアドベンチャーを継続的に発売している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『レイジングループ』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "color-gray-games",
+    "name": "Color Gray Games",
+    "nameKana": "からーぐれいげーむず",
+    "description": "ラトビアの小規模開発スタジオ。推理パズル『The Case of the Golden Idol』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "deck-nine",
+    "name": "Deck Nine Games",
+    "nameKana": "でっきないんげーむず",
+    "description": "米国の開発会社。『Life is Strange』シリーズの近作を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『True Colors』『Double Exposure』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "black-tabby-games",
+    "name": "Black Tabby Games",
+    "nameKana": "ぶらっくたびーげーむず",
+    "description": "米国の二人組スタジオ。分岐が語りそのものを変えるビジュアルノベルを制作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Slay the Princess』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "serenity-forge",
+    "name": "Serenity Forge",
+    "nameKana": "せれにてぃふぉーじ",
+    "description": "米国の開発・発売会社。独立系作品の家庭用機版を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Slay the Princess』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wrong-organ",
+    "name": "Wrong Organ",
+    "nameKana": "ろんぐおーがん",
+    "description": "小規模な開発スタジオ。閉塞感の強いホラーアドベンチャー『Mouthwashing』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Mouthwashing』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "critical-reflex",
+    "name": "Critical Reflex",
+    "nameKana": "くりてぃかるりふれっくす",
+    "description": "小規模作品を専門とするパブリッシャー。実験的なホラー作品を多く扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Mouthwashing』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "frogwares",
+    "name": "Frogwares",
+    "nameKana": "ふろぐうぇあ",
+    "description": "ウクライナの開発・発売会社。シャーロック・ホームズを題材にした推理作品を長く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Sherlock Holmes: Chapter One』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
