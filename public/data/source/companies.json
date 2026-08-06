@@ -3355,5 +3355,86 @@
     },
     "sourceNote": "日本語版Wikipedia『ヘキサドライブ』記事(2026-08-03閲覧、WebFetch)で設立年(2007年)・代表作(大神 絶景版含む)・CEDECアワード2014優秀賞受賞を確認。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "tarsier-studios",
+    "name": "Tarsier Studios",
+    "nameKana": "たーしあすたじおず",
+    "description": "スウェーデンの開発会社。『リトルナイトメア』シリーズや『LittleBigPlanet』移植版で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Little Nightmares II』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "one-more-level",
+    "name": "One More Level",
+    "nameKana": "わんもあれべる",
+    "description": "ポーランドの開発会社。高速サイバーパンクアクション『Ghostrunner』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Ghostrunner II』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "flying-wild-hog",
+    "name": "Flying Wild Hog",
+    "nameKana": "ふらいんぐわいるどほっぐ",
+    "description": "ポーランドの開発会社。『Shadow Warrior』シリーズや『Trek to Yomi』などアクション作品を制作。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Trek to Yomi』の開発に関与していることを確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "adglobe",
+    "name": "Adglobe",
+    "nameKana": "あどぐろーぶ",
+    "description": "日本の開発会社。Live Wireと共同で『ENDER LILIES』『ENDER MAGNOLIA』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で両作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "binary-haze-interactive",
+    "name": "Binary Haze Interactive",
+    "nameKana": "ばいなりーへいずいんたらくてぃぶ",
+    "description": "日本のパブリッシャー。『ENDER LILIES』『ENDER MAGNOLIA』のプロデュース・発売を担当。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で両作の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "artplay",
+    "name": "ArtPlay",
+    "nameKana": "あーとぷれい",
+    "description": "五十嵐孝司が設立した日本の開発会社。『Bloodstained』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Bloodstained: Ritual of the Night』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mobius-digital",
+    "name": "Mobius Digital",
+    "nameKana": "めびうすでじたる",
+    "description": "米国の小規模開発会社。太陽系探索アドベンチャー『Outer Wilds』で高い評価を得た。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Outer Wilds』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "daniel-mullins-games",
+    "name": "Daniel Mullins Games",
+    "nameKana": "だにえるまりんずげーむず",
+    "description": "カナダの個人開発スタジオ。メタフィクション的な仕掛けを持つ『Inscryption』等を制作。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Inscryption』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hopoo-games",
+    "name": "Hopoo Games",
+    "nameKana": "ほーぷーげーむず",
+    "description": "米国の開発会社。ローグライトシューター『Risk of Rain』シリーズを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Risk of Rain 2』の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

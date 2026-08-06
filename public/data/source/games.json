@@ -10643,5 +10643,339 @@
     },
     "sourceNote": "日本語版Wikipedia『ディアブロII』記事(2026-08-03閲覧、WebFetch)でPS5・Switch含む対応プラットフォーム・発売日(2021-09-24)・ストーリー概要を確認。開発元・発売元(ブリザード・エンターテイメント)は同社が自社IPを一貫して開発・発売していることを踏まえて採用(リマスター版専属の外部開発元記載は本文になし)。あらすじは自分の言葉で要約。受賞歴は確認できず。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "resident-evil-requiem",
+    "title": "バイオハザード レクイエム",
+    "titleKana": "ばいおはざーどれくいえむ",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5",
+      "switch2"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "action-adventure"
+    ],
+    "releaseDate": "2026-02-27",
+    "synopsis": "『バイオハザード』ナンバリング第9作。FBI分析官グレース・アシュクロフトを主人公に、廃墟と化したラクーンシティ跡地周辺を舞台とする。一人称視点と三人称視点を切り替えて遊べる構成が特徴で、逃走と探索を軸にシリーズ本来の恐怖表現へ回帰した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で発売日・対応機種(PS5/Switch2)・開発元/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。受賞歴は本サイト時点で未調査。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "star-wars-jedi-fallen-order",
+    "title": "Star Wars ジェダイ:フォールン・オーダー",
+    "titleKana": "すたーうぉーずじぇだいふぉーるんおーだー",
+    "developerIds": [
+      "respawn-entertainment"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "adventure"
+    ],
+    "releaseDate": "2021-06-11",
+    "synopsis": "オーダー66を生き延びたパダワン、カル・ケスティスを操作するアクションアドベンチャー。ライトセーバーによる受け流し重視の戦闘と、フォースの能力を得て探索範囲を広げていく惑星探索が組み合わされている。帝国の追跡をかわしながらジェダイ再興の道を探る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で開発元Respawn Entertainment・発売元Electronic Arts・PS5版の存在を確認。PS4版は2019年発売で、PS5ネイティブ版の発売日を採用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "little-nightmares-2",
+    "title": "リトルナイトメア2",
+    "titleKana": "りとるないとめあつー",
+    "developerIds": [
+      "tarsier-studios"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer",
+      "horror",
+      "puzzle"
+    ],
+    "releaseDate": "2021-02-11",
+    "synopsis": "紙袋をかぶった少年モノと前作の主人公シックスが、電波塔に支配された不気味な世界から脱出を目指すホラーアドベンチャー。巨大な敵から逃げ隠れしながら、二人で協力して仕掛けを解く。断片的な演出のみで物語を語る作風は前作から引き継がれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で開発元Tarsier Studios・発売元バンダイナムコエンターテインメント・Switch/PS5版の存在と発売日を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nioh-2-remastered",
+    "title": "仁王2 Remastered ～Complete Edition～",
+    "titleKana": "におうつーりますたーどこんぷりーとえでぃしょん",
+    "developerIds": [
+      "team-ninja"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2021-02-05",
+    "synopsis": "戦国日本を舞台にした高難度アクションRPGの第2作をPS5向けに強化した版。プレイヤーは半妖の主人公を作成し、妖怪化して戦う「妖怪化」や妖怪技を駆使して戦場を進む。全ダウンロードコンテンツを収録し、高解像度・高フレームレートに対応している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Nioh 2 Remastered: The Complete Edition』としてPS5版の発売日・開発元Team NINJA・発売元コーエーテクモゲームスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ghostrunner-2",
+    "title": "Ghostrunner 2",
+    "titleKana": "ごーすとらんなーつー",
+    "developerIds": [
+      "one-more-level"
+    ],
+    "publisherId": "505-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "platformer"
+    ],
+    "releaseDate": "2023-10-26",
+    "synopsis": "サイバーパンク世界を舞台にした一人称アクション。被弾一発で死ぬ緊張感の中、壁走りとワイヤーで空間を跳び回りながら刀で敵を一撃で斬り伏せる。前作から時を経たダルマ・タワーの外へも舞台が広がり、バイクでの高速走行パートが加わった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Ghostrunner II』としてPS5版の発売日・開発元One More Level・発売元505 Gamesを確認。国内パッケージ版の販売代理店は未確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "trek-to-yomi",
+    "title": "Trek to Yomi",
+    "titleKana": "とれっくとうよみ",
+    "developerIds": [
+      "flying-wild-hog"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "adventure"
+    ],
+    "releaseDate": "2022-05-05",
+    "synopsis": "白黒映像と時代劇の演出を全面に押し出した横スクロールアクション。若き剣士ヒロキが、師の仇と荒廃した村の因縁を追って黄泉の世界まで踏み込む。構えの切り替えと受け流しを軸にした重厚な剣戟が特徴で、固定カメラの構図が映画的に演出される。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch/PS5版の発売日・発売元Devolver Digitalを確認。開発はFlying Wild Hogとレオナルド・メンキアーリの共同で、本サイトでは前者を開発元として登録した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ninja-gaiden-2-black",
+    "title": "NINJA GAIDEN 2 Black",
+    "titleKana": "にんじゃがいでんつーぶらっく",
+    "developerIds": [
+      "team-ninja",
+      "koei-tecmo"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2025-01-23",
+    "synopsis": "2008年の高速忍者アクション『NINJA GAIDEN II』をUnreal Engine 5で作り直した作品。主人公リュウ・ハヤブサが世界各地の邪神勢力と戦う筋書きはそのままに、四肢切断を伴う手数の多い戦闘が現行機の描画で再構成された。追加キャラクターも操作できる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Ninja Gaiden II Black』としてPS5版の発売日・開発元Team NINJA/コーエーテクモ・発売元コーエーテクモを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ninja-gaiden-4",
+    "title": "NINJA GAIDEN 4",
+    "titleKana": "にんじゃがいでんふぉー",
+    "developerIds": [
+      "team-ninja",
+      "platinumgames"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2025-10-21",
+    "synopsis": "シリーズ本編としては十数年ぶりとなる新作。黒蜘蛛一族の忍ヤクモを新主人公に据え、暗黒竜の呪いに覆われた東京を舞台とする。Team NINJAとプラチナゲームズの共同開発で、高速な立ち回りと血の力を使った攻撃が組み合わされている。リュウ・ハヤブサも登場する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Team NINJA/PlatinumGamesを確認。IGDB上の発売元はXbox Game Studios表記だが、国内発売元はコーエーテクモゲームスとして登録した(国内流通の詳細は未確認)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ender-lilies",
+    "title": "ENDER LILIES: Quietus of the Knights",
+    "titleKana": "えんだーりりぃずくわいえたすおぶざないつ",
+    "developerIds": [
+      "live-wire",
+      "adglobe"
+    ],
+    "publisherId": "binary-haze-interactive",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "action-rpg"
+    ],
+    "releaseDate": "2021-06-21",
+    "synopsis": "「終焉の雨」によって死者が穢れと化した滅びの国を旅する探索型2Dアクション。白巫女リリィは自ら戦わず、浄化した騎士たちの魂を呼び出して代わりに戦わせる。物悲しいピアノ曲と水彩画のような背景が特徴で、探索の進行に応じて国の顛末が明らかになる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Live Wire/Adglobe・発売元Binary Haze Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ender-magnolia",
+    "title": "ENDER MAGNOLIA: Bloom in the Mist",
+    "titleKana": "えんだーまぐのりあぶるーむいんざみすと",
+    "developerIds": [
+      "live-wire",
+      "adglobe"
+    ],
+    "publisherId": "binary-haze-interactive",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "action-rpg"
+    ],
+    "releaseDate": "2025-01-22",
+    "synopsis": "『ENDER LILIES』の世界観を受け継ぐ続編。有毒の霧に覆われた土地で、人工生命ホムンクルスの暴走を鎮める「調律者」の少女ライラックが旅をする。浄化した仲間を召喚して戦う基本構造は前作と同じだが、装備やスキル編成の自由度が広がっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch/PS5版の発売日・開発元Live Wire/Adglobe・発売元Binary Haze Interactiveを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bloodstained-ritual-of-the-night",
+    "title": "Bloodstained: Ritual of the Night",
+    "titleKana": "ぶらっどすていんどりちゅあるおぶざないと",
+    "developerIds": [
+      "artplay"
+    ],
+    "publisherId": "505-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "action-rpg"
+    ],
+    "releaseDate": "2019-06-25",
+    "synopsis": "『悪魔城ドラキュラ』シリーズを手がけた五十嵐孝司が、クラウドファンディングを経て制作した探索型アクション。18世紀の英国を舞台に、体を結晶に侵された少女ミリアムが悪魔の城へ挑む。倒した敵から能力を得る「シャード」システムで戦い方を自在に組み替えられる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元ArtPlay・発売元505 Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "blasphemous",
+    "title": "ブラスフェマス",
+    "titleKana": "ぶらすふぇます",
+    "developerIds": [
+      "the-game-kitchen"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer"
+    ],
+    "releaseDate": "2019-09-10",
+    "synopsis": "スペインの宗教美術と苦行のイメージを下敷きにした2D探索アクション。「奇跡」と呼ばれる呪いに蝕まれた地で、兜をかぶった無言の巡礼者「悔悟者」が剣メア・クルパを手に旅をする。ドット絵で描かれる凄惨な処刑演出と重い手触りの戦闘が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元The Game Kitchen・発売元Team17を確認。続編『ブラスフェマス2』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "outer-wilds",
+    "title": "Outer Wilds",
+    "titleKana": "あうたーわいるず",
+    "developerIds": [
+      "mobius-digital"
+    ],
+    "publisherId": "annapurna-interactive",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-09-15",
+    "synopsis": "22分で超新星爆発が起き、そのたびに冒険の初日へ巻き戻る太陽系を探索するアドベンチャー。強化されるのはプレイヤー自身の知識だけで、各惑星に残された古代種族ノマイの痕跡を読み解いてループの原因に迫る。時間経過で地形そのものが変化する惑星が多い。",
+    "awardResults": [
+      {
+        "awardId": "bafta-games-awards",
+        "year": 2020,
+        "result": "Best Game"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch/PS5版の発売日・開発元Mobius Digital・発売元Annapurna Interactiveを確認。BAFTA Games Awards 2020のBest Game受賞は既知の情報として記載したが一次ソースは未確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "inscryption",
+    "title": "Inscryption",
+    "titleKana": "いんすくりぷしょん",
+    "developerIds": [
+      "daniel-mullins-games"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "deck-building",
+      "puzzle",
+      "horror"
+    ],
+    "releaseDate": "2022-08-30",
+    "synopsis": "薄暗い小屋に閉じ込められ、正体不明の対戦相手とカードゲームを強いられるところから始まる作品。デッキ構築型のローグライトとして進むうちに、席を立って部屋の仕掛けを調べる脱出ゲーム的要素が挟まり、やがてゲームそのものの枠組みが崩れていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch/PS5版の発売日・開発元Daniel Mullins Games・発売元Devolver Digitalを確認。あらすじは独自要約(コピペなし)。受賞歴は未調査。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "risk-of-rain-2",
+    "title": "Risk of Rain 2",
+    "titleKana": "りすくおぶれいんつー",
+    "developerIds": [
+      "hopoo-games"
+    ],
+    "publisherId": "gearbox-publishing",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2019-08-30",
+    "synopsis": "2D作品だった前作を三人称視点の3Dアクションに作り替えたローグライトシューター。時間経過とともに敵が際限なく強化されるため、アイテムを重ねて自分の火力を指数的に伸ばす競争になる。最大4人の協力プレイに対応し、周回ごとにステージ構成が変わる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch/PS5版の発売日・開発元Hopoo Games・発売元Gearbox Publishingを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
