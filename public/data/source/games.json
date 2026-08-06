@@ -12265,5 +12265,333 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sonic-superstars",
+    "title": "ソニックスーパースターズ",
+    "titleKana": "そにっくすーぱーすたーず",
+    "developerIds": [
+      "sonic-team",
+      "arzest"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2023-10-17",
+    "synopsis": "初期作の横スクロール形式に立ち返ったソニックの新作。北極諸島を舞台に、ソニック・テイルス・ナックルズ・エミーの4人がドクター・エッグマンとフェンジンの計画を追う。カオスエメラルドで得る特殊能力と、最大4人の同時プレイが新要素になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元ソニックチーム/アーゼスト・発売元セガを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sonic-colors-ultimate",
+    "title": "ソニックカラーズ アルティメット",
+    "titleKana": "そにっくからーずあるてぃめっと",
+    "developerIds": [
+      "blind-squirrel-entertainment"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "action-adventure"
+    ],
+    "releaseDate": "2021-09-07",
+    "synopsis": "2010年のWii用作品を高解像度化したリマスター。エッグマンが宇宙に築いた遊園地を舞台に、囚われた宇宙生命体「ウィスプ」を救いながら疾走する。ウィスプの色ごとに変身して地形を突破する仕掛けが多く、追加のウィスプやカスタマイズ要素も収録された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Blind Squirrel Entertainment・発売元セガを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "two-point-campus",
+    "title": "Two Point Campus",
+    "titleKana": "つーぽいんときゃんぱす",
+    "developerIds": [
+      "two-point-studios"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2022-08-09",
+    "synopsis": "風変わりな大学を運営する経営シミュレーション。騎士道学科や巨大料理学科といった珍妙な学部を設置し、講義棟や寮を配置して学生の成績と満足度を上げていく。前作『Two Point Hospital』譲りの皮肉の効いた演出と、細かい配置調整の面白さが持ち味。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Two Point Studios・発売元セガを確認。同シリーズの『Two Point Museum』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "samba-de-amigo-party-central",
+    "title": "サンバDEアミーゴ: パーティーセントラル",
+    "titleKana": "さんばであみーごぱーてぃーせんとらる",
+    "developerIds": [
+      "sonic-team"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rhythm-action",
+      "party-game"
+    ],
+    "releaseDate": "2023-08-29",
+    "synopsis": "マラカスを振るリズムアクションの新作。Joy-Conを両手に持ち、画面の指示に合わせて上中下の位置で振ったりポーズを取ったりして得点を稼ぐ。ラテン系の楽曲に加えポップスやアニメ主題歌も収録し、オンラインで8人が同時に競うモードを備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・発売元セガを確認。IGDBには開発元の登録がないため、本サイトではシリーズを手がけるソニックチームを開発元として登録した(要再確認)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dragon-ball-z-kakarot",
+    "title": "ドラゴンボールZ KAKAROT",
+    "titleKana": "どらごんぼーるぜっとかかろっと",
+    "developerIds": [
+      "cyberconnect2"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2021-09-24",
+    "synopsis": "『ドラゴンボールZ』の物語を孫悟空の視点で追体験するアクションRPG。サイヤ人編から魔人ブウ編までの主要な戦いを再現しつつ、原作の合間の日常—釣りや食事、修行や仲間との交流—も遊べる。空を飛んで世界を巡り、Zパートナーと連携して戦う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元サイバーコネクトツー・発売元バンダイナムコエンターテインメントを確認。原典は2020年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "one-piece-odyssey",
+    "title": "ONE PIECE ODYSSEY",
+    "titleKana": "わんぴーすおでっせい",
+    "developerIds": [
+      "ilca"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2023-01-12",
+    "synopsis": "麦わらの一味が嵐で謎の島ワフルドに漂着するオリジナルストーリーのRPG。能力を奪われた仲間たちが記憶の世界で過去の冒険をたどり直しながら力を取り戻していく。位置取りが結果を左右するターン制の戦闘と、キャラクターごとの探索能力が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元ILCA・発売元バンダイナムコエンターテインメントを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "one-piece-pirate-warriors-4",
+    "title": "ONE PIECE 海賊無双4",
+    "titleKana": "わんぴーすかいぞくむそうふぉー",
+    "developerIds": [
+      "omega-force",
+      "koei-tecmo"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "musou-action"
+    ],
+    "releaseDate": "2020-03-27",
+    "synopsis": "『ONE PIECE』を題材にした一騎当千アクションの第4作。原作の頂上戦争編からホールケーキアイランド編、ワノ国編までを追いながら大群を薙ぎ倒す。巨大化した敵をそのまま操作できる「巨大キャラクター」や空中戦の強化が加わり、4人での協力プレイに対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元コーエーテクモ(ωフォース)・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sd-gundam-battle-alliance",
+    "title": "SDガンダム バトルアライアンス",
+    "titleKana": "えすでぃーがんだむばとるあらいあんす",
+    "developerIds": [
+      "artdink"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "versus-action"
+    ],
+    "releaseDate": "2022-08-25",
+    "synopsis": "SD体型のモビルスーツを操作するアクションRPG。歴史が歪められた「偽史」の世界で、各作品の名場面が本来と異なる形で再現されており、それを正すために3機編成で出撃する。機体は開発・強化でき、歴代シリーズを横断した組み合わせが楽しめる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元アートディンク・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gundam-breaker-4",
+    "title": "ガンダムブレイカー4",
+    "titleKana": "がんだむぶれいかーふぉー",
+    "developerIds": [
+      "crafts-and-meister"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2024-08-29",
+    "synopsis": "ガンプラを自分好みに組み替えて戦わせるアクションの第4作。頭部・胴・腕・脚を機種をまたいで自由に組み合わせ、塗装やデカールまで指定できる。戦闘は空中戦を含む3D近接アクションで、勝利すると相手のパーツが手に入り改造の幅が広がっていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元クラフツ&マイスター・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ace-combat-7",
+    "title": "ACE COMBAT 7: SKIES UNKNOWN",
+    "titleKana": "えーすこんばっとせぶんすかいずあんのうん",
+    "developerIds": [
+      "project-aces"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "shooter"
+    ],
+    "releaseDate": "2024-07-11",
+    "synopsis": "架空の惑星ストレンジリアルを舞台にしたフライトシューティング。オーシア連邦とエルジア王国の全面戦争のさなか、汚名を着せられた部隊の一員として空を飛ぶ。雲による視界と機体制御の変化を取り入れ、無人機との空戦や峡谷の低空飛行など多彩な任務が用意されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版(DELUXE EDITION)の発売日・開発元プロジェクトエイシズ・発売元バンダイナムコエンターテインメントを確認。原典は2019年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "taiko-no-tatsujin-rhythm-festival",
+    "title": "太鼓の達人 ドンダフルフェスティバル",
+    "titleKana": "たいこのたつじんどんだふるふぇすてぃばる",
+    "developerIds": [
+      "bandai-namco-amusement"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rhythm-action",
+      "party-game"
+    ],
+    "releaseDate": "2022-09-22",
+    "synopsis": "和太鼓を叩いて楽曲に合わせるリズムアクションの家庭用最新作。面と縁の打ち分けという基本はそのままに、収録曲を増やしつつ月額制の追加楽曲サービスを導入した。最大4人での同時プレイや、遊ぶほど成長する「どんちゃん道場」モードを備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元バンダイナムコアミューズメント・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "digimon-survive",
+    "title": "デジモンサヴァイブ",
+    "titleKana": "でじもんさゔぁいぶ",
+    "developerIds": [
+      "hyde-inc"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "tactical-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2022-07-28",
+    "synopsis": "キャンプ中に異世界へ飛ばされた中学生たちが、デジモンとともに生き延びる道を探すアドベンチャー。選択肢と会話で仲間との関係と主人公の気質が変わり、その積み重ねで進化先や結末が分岐する。戦闘はマス目上のシミュレーションRPG形式で行われる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Hyde,Inc.・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "digimon-story-time-stranger",
+    "title": "デジモンストーリー タイムストレンジャー",
+    "titleKana": "でじもんすとーりーたいむすとれんじゃー",
+    "developerIds": [
+      "media-vision"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2025-10-03",
+    "synopsis": "『デジモンストーリー』シリーズの完全新作RPG。現実世界とデジタルワールドを行き来しながら、時空の歪みが引き起こす事件を追う。450種以上のデジモンを育成・進化させ、系統樹を辿って好みの姿へ導く育成が中核にある。ターン制の戦闘は編成の相性が重要になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元メディア・ビジョン・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "god-eater-3",
+    "title": "GOD EATER 3",
+    "titleKana": "ごっどいーたーすりー",
+    "developerIds": [
+      "marvelous",
+      "bandai-namco-entertainment"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "co-op"
+    ],
+    "releaseDate": "2019-07-11",
+    "synopsis": "神機を手に「アラガミ」と呼ばれる怪物を狩る共闘アクションRPGの第3作。灰の嵐に覆われた世界で、適合者として使い捨てにされてきた主人公たちが自由を求めて旅立つ。近接と射撃を切り替える戦闘に、二人同時の必殺技「エンゲージ」が加わった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元マーベラス/バンダイナムコ・発売元バンダイナムコエンターテインメントを確認。原典は2018年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yakuza-0-directors-cut",
+    "title": "龍が如く0 ディレクターズカット",
+    "titleKana": "りゅうがごとくぜろでぃれくたーずかっと",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "crime-action",
+      "rpg"
+    ],
+    "releaseDate": "2025-06-05",
+    "synopsis": "バブル期の神室町と蒼天堀を舞台にしたシリーズ前日譚の拡張版。若き日の桐生一馬と真島吾朗が、空き地の権利をめぐる抗争に巻き込まれていく。追加シナリオと日本語音声の新規収録に加え、オンラインの対戦モードが新たに用意された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元龍が如くスタジオ・発売元セガを確認。原典は2015年のPS3/PS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

@@ -3544,5 +3544,59 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Gotham Knights』の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "arzest",
+    "name": "アーゼスト",
+    "nameKana": "あーぜすと",
+    "description": "日本の開発会社。『バルーンファイトGB』等を手がけた開発陣が設立し、『ソニックスーパースターズ』を共同開発した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Sonic Superstars』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "blind-squirrel-entertainment",
+    "name": "Blind Squirrel Entertainment",
+    "nameKana": "ぶらいんどすくうぃれるえんためいめんと",
+    "description": "米国の開発会社。他社作品の移植・リマスターを多く手がけ、『ソニックカラーズ アルティメット』を担当した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Sonic Colors: Ultimate』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "crafts-and-meister",
+    "name": "クラフツ&マイスター",
+    "nameKana": "くらふつあんどまいすたー",
+    "description": "日本の開発会社。『ガンダムブレイカー』シリーズなどキャラクターアクションの開発を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Gundam Breaker 4』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "project-aces",
+    "name": "プロジェクトエイシズ",
+    "nameKana": "ぷろじぇくとえいしず",
+    "description": "バンダイナムコ内のフライトシューティング開発チーム。『エースコンバット』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Ace Combat 7: Skies Unknown』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bandai-namco-amusement",
+    "name": "バンダイナムコアミューズメント",
+    "nameKana": "ばんだいなむこあみゅーずめんと",
+    "description": "バンダイナムコグループのアミューズメント事業会社。『太鼓の達人』等アーケード発の作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『太鼓の達人 ドンダフルフェスティバル』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hyde-inc",
+    "name": "ハ・ン・ド",
+    "nameKana": "はんど",
+    "description": "日本の開発会社(英語表記Hyde)。『デジモンサヴァイブ』などアドベンチャー寄りの作品を開発した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Digimon Survive』の開発元(Hyde,Inc.)として確認。日本語社名の表記は未確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
