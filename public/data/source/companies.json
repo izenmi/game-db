@@ -4066,5 +4066,104 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『My Time at Sandrock』の発売元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "three-rings",
+    "name": "スリーリングス",
+    "nameKana": "すりーりんぐす",
+    "description": "日本の開発会社。『牧場物語』シリーズなど生活シミュレーションの開発を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『牧場物語 オリーブタウンと希望の大地』の開発元(Three Rings Inc.)として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "edelweiss",
+    "name": "えーでるわいす",
+    "nameKana": "えーでるわいす",
+    "description": "日本の同人発の開発サークル。稲作の描写を作り込んだ『天穂のサクナヒメ』で広く知られた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『天穂のサクナヒメ』の開発元(Edelweiss)として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hello-games",
+    "name": "Hello Games",
+    "nameKana": "はろーげーむず",
+    "description": "英国の開発会社。手続き生成で銀河を作る『No Man's Sky』を長期にわたり更新し続けている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『No Man's Sky』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mojang-studios",
+    "name": "Mojang Studios",
+    "nameKana": "もーやんすたじおず",
+    "description": "スウェーデンの開発会社。『Minecraft』の開発元で、現在はマイクロソフト傘下。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Minecraft』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "blackbird-interactive",
+    "name": "Blackbird Interactive",
+    "nameKana": "ぶらっくばーどいんたらくてぃぶ",
+    "description": "カナダの開発会社。『Homeworld』シリーズ等、戦略作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Minecraft Legends』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mediatonic",
+    "name": "Mediatonic",
+    "nameKana": "めでぃあとにっく",
+    "description": "英国の開発会社。多人数参加型のバラエティ番組風アクション『Fall Guys』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Fall Guys』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "innersloth",
+    "name": "Innersloth",
+    "nameKana": "いなーすろす",
+    "description": "米国の小規模開発会社。人狼型の推理ゲーム『Among Us』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Among Us』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "smg-studio",
+    "name": "SMG Studio",
+    "nameKana": "えすえむじーすたじお",
+    "description": "オーストラリアの開発会社。多人数協力型のドタバタ作品を得意とする。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Moving Out 2』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "coffee-stain-studios",
+    "name": "Coffee Stain Studios",
+    "nameKana": "こーひーすていんすたじおず",
+    "description": "スウェーデンの開発・発売会社。『Goat Simulator』『Satisfactory』等を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Goat Simulator 3』の開発元として確認(発売元表記はCoffee Stain Publishing)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gearbox-software",
+    "name": "Gearbox Software",
+    "nameKana": "ぎあぼっくすそふとうぇあ",
+    "description": "米国の開発会社。ルーター系FPS『ボーダーランズ』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Borderlands 4』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "grasshopper-manufacture",
+    "name": "グラスホッパー・マニファクチュア",
+    "nameKana": "ぐらすほっぱーまにふぁくちゅあ",
+    "description": "須田剛一が率いる日本の開発会社。癖の強い作風の『NO MORE HEROES』シリーズ等で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『No More Heroes III』の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

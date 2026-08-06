@@ -14555,5 +14555,342 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Pathea Games・発売元PM Studiosを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "doraemon-story-of-seasons-2",
+    "title": "ドラえもん のび太の牧場物語 大自然の王国とみんなの家",
+    "titleKana": "どらえもんのびたのぼくじょうものがたりだいしぜんのおうこくとみんなのいえ",
+    "developerIds": [
+      "marvelous"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "rpg"
+    ],
+    "releaseDate": "2022-11-02",
+    "synopsis": "『ドラえもん』と『牧場物語』を掛け合わせた生活シミュレーションの第2作。のび太たちが流れ着いた自然豊かな土地で、畑を耕し家畜を育てながら村の暮らしを立て直していく。ひみつ道具を使った作業の効率化と、原作らしい掛け合いが持ち味になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元マーベラス・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "story-of-seasons-olive-town",
+    "title": "牧場物語 オリーブタウンと希望の大地",
+    "titleKana": "ぼくじょうものがたりおりーぶたうんときぼうのだいち",
+    "developerIds": [
+      "three-rings",
+      "marvelous"
+    ],
+    "publisherId": "marvelous",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "rpg"
+    ],
+    "releaseDate": "2021-02-25",
+    "synopsis": "祖父が遺した荒れ果てた牧場を受け継ぎ、開拓して立て直す生活シミュレーション。木を切り岩を砕いて土地を広げ、作物と家畜を育てながら町の住人と交流していく。素材を加工する「メーカー」で加工品を作り、町の発展に貢献する仕組みが加わった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Three Rings/マーベラス・発売元マーベラスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "rune-factory-4-special",
+    "title": "ルーンファクトリー4スペシャル",
+    "titleKana": "るーんふぁくとりーふぉーすぺしゃる",
+    "developerIds": [
+      "hakama",
+      "marvelous"
+    ],
+    "publisherId": "marvelous",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "action-rpg"
+    ],
+    "releaseDate": "2019-07-25",
+    "synopsis": "農業と剣戟を組み合わせたシリーズの代表作を高解像度化した移植版。記憶を失った主人公が街セルフィアの領主代理となり、畑を耕しながらダンジョンの魔物と戦う。住民との交流や結婚も可能で、追加シナリオ「ニューラブテーマ」を収録している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元HAKAMA/マーベラス・発売元マーベラスを確認。原典は2012年のニンテンドー3DS版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sakuna-of-rice-and-ruin",
+    "title": "天穂のサクナヒメ",
+    "titleKana": "てんすいのさくなひめ",
+    "developerIds": [
+      "edelweiss"
+    ],
+    "publisherId": "marvelous",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "life-simulation",
+      "platformer"
+    ],
+    "releaseDate": "2020-11-10",
+    "synopsis": "稲作と横スクロールアクションを組み合わせた作品。天界を追われた武神サクナが、鬼の島で人間たちと稲を育てながら暮らす。田起こしから収穫・精米まで各工程を細かく再現しており、米の出来がそのまま主人公の能力値に反映される点が最大の特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元えーでるわいす・発売元マーベラスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "no-mans-sky",
+    "title": "No Man's Sky",
+    "titleKana": "のーまんずすかい",
+    "developerIds": [
+      "hello-games"
+    ],
+    "publisherId": "hello-games",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "adventure",
+      "simulation"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "手続き生成でつくられた1800京個の惑星を自由に旅する宇宙探索作品。資源を採取して装備と宇宙船を強化し、生態系を記録しながら銀河の中心を目指す。発売後も大型更新が長く続き、基地建設や協力プレイなど遊びの幅が大きく広がっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発/発売元Hello Gamesを確認。原典は2016年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft",
+    "titleKana": "まいんくらふと",
+    "developerIds": [
+      "mojang-studios"
+    ],
+    "publisherId": "mojang-studios",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "sandbox",
+      "adventure",
+      "co-op"
+    ],
+    "releaseDate": "2018-06-21",
+    "synopsis": "立方体のブロックでできた世界を掘り、集めた資源で道具と建物を作るサンドボックス。目的が定められていない「クリエイティブ」と、空腹や敵に備える「サバイバル」を選べる。世界は無限に生成され、複数人での建築や冒険にも対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発/発売元Mojang Studiosを確認。発売日はIGDBの登録値(Switch版の統合版配信)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "minecraft-legends",
+    "title": "Minecraft Legends",
+    "titleKana": "まいんくらふとれじぇんず",
+    "developerIds": [
+      "blackbird-interactive",
+      "mojang-studios"
+    ],
+    "publisherId": "xbox-game-studios",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "strategy",
+      "action-adventure"
+    ],
+    "releaseDate": "2023-04-18",
+    "synopsis": "『Minecraft』の世界観を用いたアクションストラテジー。ネザーから侵攻してきたピグリンから村を守るため、村人やゴーレムを率いて拠点を築き反撃する。自分も戦場を走り回りながら味方に指示を出す形式で、協力・対戦の多人数モードも備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Blackbird Interactive/Mojang Studios・発売元Xbox Game Studiosを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fall-guys",
+    "title": "Fall Guys",
+    "titleKana": "ふぉーるがいず",
+    "developerIds": [
+      "mediatonic"
+    ],
+    "publisherId": "epic-games-publishing",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "party-game",
+      "platformer"
+    ],
+    "releaseDate": "2022-06-21",
+    "synopsis": "最大60人が障害物競走で勝ち残りを競う基本プレイ無料のパーティゲーム。豆のような体型のキャラクターを操作し、転がる玉をかわす、扉を選ぶといった課題を勝ち抜く。競技ごとに脱落者が減っていき、最後の1人になれば優勝となる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Mediatonic・発売元Epic Gamesを確認。原典は2020年のPS4/PC版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "titleKana": "あまんぐあす",
+    "developerIds": [
+      "innersloth"
+    ],
+    "publisherId": "innersloth",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "party-game",
+      "strategy"
+    ],
+    "releaseDate": "2020-12-15",
+    "synopsis": "宇宙船の乗組員に紛れ込んだ「インポスター」を議論で見つけ出す人狼型の作品。クルー側は各所の作業をこなし、インポスター側は妨害と殺害を重ねる。遺体が発見されると会議が開かれ、限られた情報と証言だけで追放する相手を投票で決める。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Innerslothを確認。原典は2018年のスマートフォン/PC版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "moving-out-2",
+    "title": "Moving Out 2",
+    "titleKana": "むーびんぐあうとつー",
+    "developerIds": [
+      "smg-studio"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "co-op",
+      "puzzle",
+      "party-game"
+    ],
+    "releaseDate": "2023-08-15",
+    "synopsis": "引っ越し業者となって家具をトラックへ運び込む協力アクションの続編。ソファを窓から放り投げても構わない大雑把さと、狭い戸口を通すための持ち方の工夫が笑いを生む。最大4人で遊べ、時間制限の中で手際よく運び出すことが求められる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元SMG Studio(DEVM Gamesと共同)・発売元Team17を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "goat-simulator-3",
+    "title": "Goat Simulator 3",
+    "titleKana": "ごーとしみゅれーたーすりー",
+    "developerIds": [
+      "coffee-stain-studios"
+    ],
+    "publisherId": "coffee-stain-studios",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "sandbox",
+      "simulation",
+      "party-game"
+    ],
+    "releaseDate": "2022-11-16",
+    "synopsis": "ヤギを操作して街を破壊し回るおふざけ主体のサンドボックス。舌で物を引っ張る、頭突きで人を吹き飛ばすといった無茶な挙動をわざと残した作りで、島全体が遊び場になっている。最大4人での協力・対戦に対応し、多数の隠し要素が仕込まれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元Coffee Stain Studiosを確認(IGDB上の発売元表記はCoffee Stain Publishing)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "witcher-3-complete-edition",
+    "title": "ウィッチャー3 ワイルドハント コンプリートエディション",
+    "titleKana": "うぃっちゃーすりーわいるどはんとこんぷりーとえでぃしょん",
+    "developerIds": [
+      "cd-projekt-red"
+    ],
+    "publisherId": "cd-projekt-red",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-rpg"
+    ],
+    "releaseDate": "2025-10-10",
+    "synopsis": "怪物退治を生業とするウィッチャーのゲラルトが、義理の娘シリを探して大陸を旅するオープンワールドRPG。剣と魔法印と錬金術を組み合わせた戦闘に加え、選択が国と人々の運命を左右する重厚な筋書きが評価された。2つの大型拡張を収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の存在・開発元CD PROJEKT REDを確認。照会でヒットしたのは10周年記念版(2025-10-10)で、それ以前のPS5版配信日は未確認のためIGDBの登録値をそのまま採用した。原典は2015年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "divinity-original-sin-2",
+    "title": "ディヴィニティ:オリジナル・シン2",
+    "titleKana": "でぃゔぃにてぃおりじなるしんつー",
+    "developerIds": [
+      "larian-studios"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "tactical-rpg"
+    ],
+    "releaseDate": "2019-09-04",
+    "synopsis": "『バルダーズ・ゲート3』のラリアンによる自由度の高いRPG。神の力「ソース」を宿す咎人となり、追放地から逃れて世界の均衡を巡る争いに関わる。地形と属性が組み合わさるターン制戦闘が要で、火を撒いた油に引火させるといった連鎖が起きる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Larian Studios・発売元バンダイナムコエンターテインメント/Larianを確認。発売日はIGDBの登録値(Definitive Edition)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "borderlands-4",
+    "title": "ボーダーランズ4",
+    "titleKana": "ぼーだーらんずふぉー",
+    "developerIds": [
+      "gearbox-software"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-rpg",
+      "co-op"
+    ],
+    "releaseDate": "2025-09-11",
+    "synopsis": "膨大な種類の銃を集めて撃ちまくるルーターシューターの最新作。新たな惑星カイロスを舞台に、4人の新しいヴォルトハンターが「タイムキーパー」の支配に抗う。区切りのない広い地形を移動する仕組みが導入され、4人での協力プレイに対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元Gearbox Software・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "no-more-heroes-3",
+    "title": "NO MORE HEROES 3",
+    "titleKana": "のーもあひーろーずすりー",
+    "developerIds": [
+      "grasshopper-manufacture"
+    ],
+    "publisherId": "marvelous",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2021-08-27",
+    "synopsis": "オタクの暗殺者トラヴィス・タッチダウンが主人公のアクションの第3作。地球侵略に来た宇宙人ヤンパオロと、その配下である「銀河スーパーヒーロー」たちのランキングを駆け上がる。ビームカタナによる戦闘と、須田剛一らしい悪趣味な演出が全編を貫く。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元グラスホッパー・マニファクチュア・発売元マーベラスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
