@@ -13578,5 +13578,332 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Bugbear Entertainment・発売元THQ Nordicを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "saros",
+    "title": "Saros",
+    "titleKana": "さろす",
+    "developerIds": [
+      "housemarque"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "roguelike",
+      "action-adventure"
+    ],
+    "releaseDate": "2026-04-28",
+    "synopsis": "『Returnal』を手がけたハウスマークによる三人称視点のアクション。日食に覆われた惑星カルコサで、消えた入植地を探す捜索員アルジュン・デヴラージが、死ぬたびに変貌する地表へ何度も降りていく。弾幕を避けながら撃ち合う戦闘と周回構造を組み合わせている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Housemarque・発売元ソニー・インタラクティブエンタテインメントを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sword-of-the-sea",
+    "title": "Sword of the Sea",
+    "titleKana": "そーどおぶざしー",
+    "developerIds": [
+      "giant-squid"
+    ],
+    "publisherId": "giant-squid",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "platformer"
+    ],
+    "releaseDate": "2025-08-19",
+    "synopsis": "剣を板のように乗りこなし、干上がった砂の海を滑走するアドベンチャー。訪れた土地に水と生命が戻っていく演出が旅の進行を示し、戦闘よりも移動そのものの心地よさに重心が置かれている。『ABZÛ』『風ノ旅ビト』の系譜に連なる作品。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Giant Squidを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lost-soul-aside",
+    "title": "Lost Soul Aside",
+    "titleKana": "ろすとそうるあさいど",
+    "developerIds": [
+      "ultizero-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2025-08-29",
+    "synopsis": "個人制作の映像が話題を呼び、長期の開発を経て完成したアクションRPG。異次元から現れた怪物に妹を奪われた青年カゼルが、共生する異形の存在アリーナの力を借りて追う。武器を切り替えながら空中で連撃をつなぐ、速度重視の戦闘が中心になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元UltiZero Games・発売元ソニー・インタラクティブエンタテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "where-winds-meet",
+    "title": "Where Winds Meet",
+    "titleKana": "うぇあうぃんずみーと",
+    "developerIds": [
+      "everstone-studio"
+    ],
+    "publisherId": "netease-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-rpg"
+    ],
+    "releaseDate": "2025-11-14",
+    "synopsis": "十国時代末期の中国を舞台にした武侠オープンワールド。記憶を失った剣士となり、乱世の各地で武術の流派を学びながら身の上を探る。軽功による立体的な移動と、流派ごとに構えが変わる剣戟が特徴で、医術や書道といった生活技能も習得できる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Everstone Studio・発売元NetEase Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nioh-3",
+    "title": "仁王3",
+    "titleKana": "におうすりー",
+    "developerIds": [
+      "team-ninja"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2026-02-06",
+    "synopsis": "戦国の日本を舞台にした高難度アクションRPGの第3作。侍としての構え主体の立ち回りと、忍として素早く動く型を戦闘中に切り替えられる仕組みが導入された。広い区域を自由に巡って妖怪と戦い、装備を集めて鍛える構造は前作までを踏襲している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Team NINJA・発売元コーエーテクモゲームスを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "pragmata",
+    "title": "Pragmata",
+    "titleKana": "ぷらぐまた",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-adventure"
+    ],
+    "releaseDate": "2026-04-17",
+    "synopsis": "月面の研究施設を舞台にしたSFアクション。宇宙飛行士のヒューと、人型の少女ダイアナが行動を共にし、銃撃とハッキングを同時に操作して機械の敵に対処する。撃つ手と解析する手を並行して動かす操作系が本作の中心にある。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "007-first-light",
+    "title": "007 First Light",
+    "titleKana": "だぶるおーせぶんふぁーすとらいと",
+    "developerIds": [
+      "io-interactive"
+    ],
+    "publisherId": "io-interactive",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "stealth",
+      "action-adventure",
+      "shooter"
+    ],
+    "releaseDate": "2026-05-27",
+    "synopsis": "『HITMAN』シリーズのIO Interactiveが手がけるジェームズ・ボンドの新作。既存の映画とは独立した筋書きで、若きボンドが00の資格を得るまでを描く。潜入と変装を軸にした自由度の高い任務設計に、カーチェイスや銃撃戦が組み合わされる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発/発売元IO Interactiveを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "crimson-desert",
+    "title": "Crimson Desert",
+    "titleKana": "くりむぞんでざーと",
+    "developerIds": [
+      "pearl-abyss"
+    ],
+    "publisherId": "pearl-abyss",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2026-03-19",
+    "synopsis": "大陸パイウェルを舞台にしたオープンワールドのアクションアドベンチャー。傭兵団を率いる主人公クリフが、群雄が割拠する土地で戦いを重ねていく。格闘・投げ・武器を組み合わせた重量感のある戦闘と、鉤縄や滑空を使った広範囲の移動が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Pearl Abyssを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dragon-quest-7-reimagined",
+    "title": "ドラゴンクエストVII Reimagined",
+    "titleKana": "どらごんくえすとせぶんりいまじんど",
+    "developerIds": [
+      "hexadrive",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2026-02-03",
+    "synopsis": "2000年のPS用作品『ドラゴンクエストVII エデンの戦士たち』を全面的に作り直した版。世界に島がひとつしかない世界で、石版を集めて過去へ渡り、封じられた土地を取り戻していく。膨大な分量の本編を、現代的な進行と描画で再構成している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元ヘキサドライブ/スクウェア・エニックス・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "monster-hunter-stories-3",
+    "title": "モンスターハンターストーリーズ3",
+    "titleKana": "もんすたーはんたーすとーりーずすりー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2026-03-13",
+    "synopsis": "モンスターを狩らずに絆を結ぶライダーの物語、その第3作。卵から孵したオトモンを連れて旅をし、三すくみの読み合いで進むターン制の戦闘に挑む。育てたオトモンの遺伝子を受け継がせて次の世代を強くする育成が、引き続き長期的な軸になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発/発売元がカプコンであることを確認。IGDB上の英語表記は『Monster Hunter Stories 3: Twisted Reflection』で、国内版の副題は未確認のため本サイトでは省いた。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "pokemon-pokopia",
+    "title": "Pokémon ポコピア",
+    "titleKana": "ぽけもんぽこぴあ",
+    "developerIds": [
+      "omega-force",
+      "game-freak"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch2"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "sandbox"
+    ],
+    "releaseDate": "2026-03-05",
+    "synopsis": "ポケモンのメタモンになったプレイヤーが、荒れた島を手入れして暮らしやすくしていく生活シミュレーション。地形を整え植物を育て、集まってきたポケモンたちの力を借りて開拓を進める。それぞれのポケモンが持つ特性が作業の役に立つ仕組みになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch 2版の発売日・開発元ωフォース/ゲームフリーク・発売元任天堂およびポケモンを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "marathon",
+    "title": "Marathon",
+    "titleKana": "まらそん",
+    "developerIds": [
+      "bungie"
+    ],
+    "publisherId": "bungie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2026-03-05",
+    "synopsis": "Bungieが1990年代に手がけた同名FPSを下敷きにした、三人称ではなく一人称視点の探索型シューター。3人1組で惑星タウ・セティに降り、戦利品を持ち帰るまで生き延びることを目指す。他プレイヤーとの遭遇が常に脅威になる構造を持つ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Bungieを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tony-hawks-pro-skater-3-4",
+    "title": "Tony Hawk's Pro Skater 3 + 4",
+    "titleKana": "とにーほーくすぷろすけーたーすりーぷらすふぉー",
+    "developerIds": [
+      "iron-galaxy-studios"
+    ],
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "sports"
+    ],
+    "releaseDate": "2025-07-11",
+    "synopsis": "2001年と2002年のスケートボード作品2本を、現行機向けに作り直した合本。制限時間内に課題をこなす原作の進行に、コンボを途切れさせないリバートの操作が加わる。実在プロスケーターと当時の楽曲を収録し、コース編集機能も備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Iron Galaxy Studios・発売元Activisionを確認(照会時にヒットしたのはDigital Deluxe Edition)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ninja-gaiden-ragebound",
+    "title": "NINJA GAIDEN: Ragebound",
+    "titleKana": "にんじゃがいでんれいじばうんど",
+    "developerIds": [
+      "the-game-kitchen"
+    ],
+    "publisherId": "dotemu",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer",
+      "action-adventure"
+    ],
+    "releaseDate": "2025-07-31",
+    "synopsis": "ファミコン版『忍者龍剣伝』の路線に立ち返った2Dアクション。リュウ・ハヤブサが不在の隼の里を守る若き忍・神谷賢が主人公で、壁を蹴り上がって進む高速の足さばきと、飛燕の魔物の力を借りた攻撃を組み合わせて戦う。開発は『ブラスフェマス』のスタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元The Game Kitchen・発売元DotEmuを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "blue-prince",
+    "title": "Blue Prince",
+    "titleKana": "ぶるーぷりんす",
+    "developerIds": [
+      "dogubomb"
+    ],
+    "publisherId": "raw-fury",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2025-04-10",
+    "synopsis": "相続した屋敷の45番目の部屋を探すパズルアドベンチャー。扉を開けるたびに3枚の間取り札から1枚を選んで部屋を建て増していく仕組みで、屋敷の構造は挑戦のたびに変わる。持ち帰れるのは知識だけという設計が、周回ごとの推理を積み上げていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元Dogubomb・発売元Raw Furyを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

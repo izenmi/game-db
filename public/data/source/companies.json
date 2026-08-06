@@ -3886,5 +3886,59 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Wreckfest』の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "giant-squid",
+    "name": "Giant Squid",
+    "nameKana": "じゃいあんとすくいっど",
+    "description": "米国の開発会社。『風ノ旅ビト』の制作陣が設立し、『ABZÛ』『Sword of the Sea』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Sword of the Sea』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ultizero-games",
+    "name": "UltiZero Games",
+    "nameKana": "あるてぃぜろげーむず",
+    "description": "中国の開発会社。少人数から始まったアクションRPG『Lost Soul Aside』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Lost Soul Aside』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "everstone-studio",
+    "name": "Everstone Studio",
+    "nameKana": "えゔぁーすとーんすたじお",
+    "description": "中国の開発会社。武侠を題材にしたオープンワールド『Where Winds Meet』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Where Winds Meet』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "pearl-abyss",
+    "name": "Pearl Abyss",
+    "nameKana": "ぱーるあびす",
+    "description": "韓国の開発・発売会社。『黒い砂漠』シリーズで知られ、『Crimson Desert』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Crimson Desert』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "iron-galaxy-studios",
+    "name": "Iron Galaxy Studios",
+    "nameKana": "あいあんぎゃらくしーすたじおず",
+    "description": "米国の開発会社。他社作品の移植・リメイクを多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Tony Hawk's Pro Skater 3 + 4』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dogubomb",
+    "name": "Dogubomb",
+    "nameKana": "どぐぼむ",
+    "description": "米国の小規模開発スタジオ。間取りが毎回変わる屋敷を探索するパズル『Blue Prince』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Blue Prince』の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
