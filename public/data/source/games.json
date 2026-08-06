@@ -11622,5 +11622,324 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元アトラスを確認(IGDB上の発売元はセガ表記)。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "resident-evil-re3",
+    "title": "バイオハザード RE:3",
+    "titleKana": "ばいおはざーどりめいくすりー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "action-adventure"
+    ],
+    "releaseDate": "2022-06-13",
+    "synopsis": "1999年の『バイオハザード3 LAST ESCAPE』を現行機向けに作り直した作品。壊滅寸前のラクーンシティで、ジル・バレンタインが執拗に追ってくる追跡者ネメシスから逃れつつ脱出路を探す。緊急回避を軸にした機動力の高い操作と、市街の逃走劇が中心になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の存在・発売日・開発/発売元がカプコンであることを確認。原典のリメイク版はPS4版(2020年)で、日付はPS5版の登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "exoprimal",
+    "title": "Exoprimal",
+    "titleKana": "えぐぞぷらいまる",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2023-07-14",
+    "synopsis": "強化外骨格エグゾスーツをまとい、空から降ってくる恐竜の大群を殲滅するオンライン専用アクション。5人1組の2チームが同じ課題に同時に挑み、進行速度を競う非対称な対戦構造が特徴。役割の異なるスーツを戦闘中に切り替えて状況に対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mega-man-11",
+    "title": "ロックマン11 運命の歯車!!",
+    "titleKana": "ろっくまんいれぶんうんめいのはぐるま",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "shooter"
+    ],
+    "releaseDate": "2018-10-02",
+    "synopsis": "8年ぶりのナンバリング新作となる横スクロールアクション。ボスを倒して特殊武器を得る基本構造はそのままに、攻撃力を上げる「パワーギア」と時間を遅くする「スピードギア」を使い分ける新システムが加わった。ドット絵から手描き調の3Dへ表現が刷新されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "phoenix-wright-trilogy",
+    "title": "逆転裁判123 成歩堂セレクション",
+    "titleKana": "ぎゃくてんさいばんいちにさんなるほどうせれくしょん",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2019-02-21",
+    "synopsis": "新米弁護士・成歩堂龍一を主人公とする法廷アドベンチャー3部作をまとめた移植版。現場での証拠集めと、法廷で証言の矛盾を「異議あり!」と突く尋問パートを繰り返して無実を証明する。原作の携帯機3作を高解像度で収録し、日本語と英語を切り替えて遊べる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "apollo-justice-trilogy",
+    "title": "逆転裁判456 王泥喜セレクション",
+    "titleKana": "ぎゃくてんさいばんよんごろくおどろきせれくしょん",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2024-01-25",
+    "synopsis": "王泥喜法介が主役を務めるシリーズ第4作から第6作を1本にまとめた移植版。証言者の癖を見抜く「みぬく」、法廷に霊媒を持ち込む王国の裁判など、作品ごとに異なる推理システムをそのまま収録する。高解像度化に加えオーケストラ音源やギャラリーも追加された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "great-ace-attorney-chronicles",
+    "title": "大逆転裁判1&2 -成歩堂龍ノ介の冒險と覺悟-",
+    "titleKana": "だいぎゃくてんさいばんいちにーなるほどうりゅうのすけのぼうけんとかくご",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2021-07-26",
+    "synopsis": "明治時代の日本と大英帝国を舞台にした法廷アドベンチャー2作の合本。成歩堂龍一の先祖・龍ノ介が留学先の英国で陪審員制の裁判に挑む。6人の陪審を説得し直す「陪審裁判」や、名探偵シャーロック・ホームズとの推理劇など独自の仕掛けが多い。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ace-attorney-investigations-collection",
+    "title": "逆転検事1&2 御剣セレクション",
+    "titleKana": "ぎゃくてんけんじいちにーみつるぎせれくしょん",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2024-09-06",
+    "synopsis": "検事・御剣怜侍を主人公とするスピンオフ2作をまとめた移植版。法廷ではなく事件現場を歩き回り、証拠を並べて矛盾を導く「ロジック」で真相に迫る。第2作は日本国外で初めて公式に翻訳され、シリーズ全体の伏線を回収する筋書きが遊べるようになった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ghost-trick",
+    "title": "ゴースト トリック",
+    "titleKana": "ごーすととりっく",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-06-30",
+    "synopsis": "『逆転裁判』の巧舟が手がけたパズルアドベンチャーのリマスター。殺されて幽霊になった主人公シッセルが、物に乗り移って動かす「トリック」で人の死を巻き戻し、自分が殺された理由を追う。滑らかなアニメーションと、4分前へ戻って死を防ぐ仕掛けが特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。原典はニンテンドーDS版(2010年)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dead-rising-deluxe-remaster",
+    "title": "デッドライジング デラックスリマスター",
+    "titleKana": "でっどらいじんぐでらっくすりますたー",
+    "developerIds": [
+      "capcom",
+      "neobards-entertainment"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "horror"
+    ],
+    "releaseDate": "2024-09-19",
+    "synopsis": "ゾンビで埋まったショッピングモールを舞台にした作品を、RE ENGINEで一から作り直したリマスター。フリーカメラマンのフランク・ウェストが72時間の制限内で事件の真相を追う。店内の商品を何でも武器にできる自由さはそのままに、操作系と描画が現代化された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元カプコン/NeoBards Entertainment・発売元カプコンを確認。原典はXbox 360版(2006年)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "onimusha-2-samurais-destiny",
+    "title": "鬼武者2",
+    "titleKana": "おにむしゃつー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2025-05-23",
+    "synopsis": "2002年のPS2用作品を現行機向けに移植したアクションアドベンチャー。織田信長が率いる幻魔の軍勢に村を焼かれた柳生十兵衛が、復讐のため各地を巡る。一閃による一撃必殺と、仲間に贈り物をして関係を変える「絆システム」が戦いの展開を左右する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "monster-hunter-stories",
+    "title": "モンスターハンターストーリーズ",
+    "titleKana": "もんすたーはんたーすとーりーず",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2024-06-14",
+    "synopsis": "モンスターを狩るのではなく育てて共に戦うライダーを主人公にしたRPGの移植版。卵から孵したオトモンを連れ、力・速度・技の三すくみで読み合うターン制の戦闘に挑む。遺伝子を組み替えてオトモンの能力を継承させる育成が長期的な軸になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。原典はニンテンドー3DS版(2016年)で、続編『2 破滅の翼』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yu-gi-oh-master-duel",
+    "title": "遊戯王 マスターデュエル",
+    "titleKana": "ゆうぎおうますたーでゅえる",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "deck-building",
+      "strategy"
+    ],
+    "releaseDate": "2022-01-18",
+    "synopsis": "実物のカードゲーム『遊戯王オフィシャルカードゲーム』の最新ルールをそのまま再現した対戦作品。1万種類を超えるカードからデッキを組み、世界中のプレイヤーとランク戦を行う。基本プレイ無料で、定期的に禁止・制限リストが更新され環境が変化していく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "super-bomberman-r-2",
+    "title": "スーパーボンバーマン R 2",
+    "titleKana": "すーぱーぼんばーまんあーるつー",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "party-game",
+      "versus-action",
+      "puzzle"
+    ],
+    "releaseDate": "2023-09-13",
+    "synopsis": "爆弾で敵とブロックを吹き飛ばす対戦アクションの続編。従来のバトルに加え、1人の守り手が15人の攻め手を迎え撃つ非対称モード「キャッスル」を新設し、自分でステージを作って公開できる。ストーリーモードも収録し最大16人のオンライン対戦に対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mgs-master-collection-vol-1",
+    "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+    "titleKana": "めたるぎあそりっどますたーこれくしょんぼりゅーむわん",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "stealth",
+      "action-adventure"
+    ],
+    "releaseDate": "2023-10-24",
+    "synopsis": "『METAL GEAR SOLID』『SONS OF LIBERTY』『SNAKE EATER』の3作に加え、MSX2版の『METAL GEAR』『メタルギア2』などを収録した合本。潜入して敵に見つからずに進む基本設計はそのままに、原作の映像と操作をほぼ忠実に再現している。関連書籍やサントラも同梱する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "momotaro-dentetsu-showa-heisei-reiwa",
+    "title": "桃太郎電鉄 ～昭和 平成 令和も定番！～",
+    "titleKana": "ももたろうでんてつしょうわへいせいれいわもていばん",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game",
+      "simulation"
+    ],
+    "releaseDate": "2020-11-19",
+    "synopsis": "日本地図の上をサイコロで進み、各地の物件を買い集めて総資産を競うすごろく。約10年ぶりの新作となる本作は最大4人での対戦に対応し、貧乏神やボンビラス星といったお馴染みの妨害要素も健在。全国の地名と名産を覚えられる作りが長く支持されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
