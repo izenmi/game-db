@@ -11941,5 +11941,329 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-2-2022",
+    "title": "Call of Duty: Modern Warfare II",
+    "titleKana": "こーるおぶでゅーてぃもだんうぉーふぇあつー",
+    "developerIds": [
+      "infinity-ward"
+    ],
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2022-10-28",
+    "synopsis": "2019年の『Modern Warfare』の続編にあたるミリタリーFPS。タスクフォース141が中東の武装勢力とカルテルの結び付きを追う戦役を描く。水中戦や車両の乗り移りといった新しい状況が加わり、協力プレイの特殊作戦と大規模対戦モードも収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Infinity Ward・発売元Activisionを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-3-2023",
+    "title": "Call of Duty: Modern Warfare III",
+    "titleKana": "こーるおぶでゅーてぃもだんうぉーふぇあすりー",
+    "developerIds": [
+      "sledgehammer-games"
+    ],
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2023-10-08",
+    "synopsis": "リブート版『Modern Warfare』三部作の完結編。宿敵ウラジミール・マカロフの計画を止めるため、タスクフォース141が各地を転戦する。目的地までの経路を自分で決められる開放型のミッションが導入され、ゾンビモードは大規模な野外マップで展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Sledgehammer Games・発売元Activisionを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "battlefield-2042",
+    "title": "Battlefield 2042",
+    "titleKana": "ばとるふぃーるどにせんよんじゅうに",
+    "developerIds": [
+      "ea-dice"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2021-11-19",
+    "synopsis": "気候変動で国家が崩壊した近未来を舞台にした大規模FPS。最大128人が同時に戦う広大なマップで、竜巻や砂嵐といった動的な天候が戦況を変える。従来の兵科に代えて固有装備を持つ「スペシャリスト」を選ぶ方式が採用された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元EA DICE・発売元Electronic Artsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "battlefield-6",
+    "title": "Battlefield 6",
+    "titleKana": "ばとるふぃーるどしっくす",
+    "developerIds": [
+      "ea-dice"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2025-10-10",
+    "synopsis": "近未来の世界的な武力衝突を舞台にしたシリーズ最新作。建物が戦闘によって崩れていく破壊表現を軸に据え、兵科制と分隊行動を重視した設計へ回帰した。歩兵・車両・航空機が入り交じる大規模戦に加え、シングルプレイの戦役も収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元EA DICE・発売元Electronic Artsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "apex-legends",
+    "title": "Apex Legends",
+    "titleKana": "えーぺっくすれじぇんず",
+    "developerIds": [
+      "respawn-entertainment"
+    ],
+    "publisherId": "electronic-arts",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2021-03-09",
+    "synopsis": "3人1組で最後の1チームを目指す基本プレイ無料のバトルロイヤルFPS。「レジェンド」と呼ばれる個性的なキャラクターごとの固有能力を組み合わせる連携が要で、味方に状況を伝える「ピン」機能が音声通話なしの意思疎通を可能にした。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Respawn Entertainment・発売元Electronic Artsを確認。発売日はIGDBの登録値(Switch版)。原典は2019年のPS4/Xbox/PC版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "destiny-2",
+    "title": "Destiny 2",
+    "titleKana": "でぃすてぃにーつー",
+    "developerIds": [
+      "bungie"
+    ],
+    "publisherId": "bungie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "rpg",
+      "co-op"
+    ],
+    "releaseDate": "2020-12-08",
+    "synopsis": "人類最後の都市を守る「ガーディアン」となって太陽系各地を巡るオンラインFPS。射撃の手触りとRPG的な装備収集を組み合わせた設計で、6人で挑む大型の攻略拠点「レイド」が長期的な目標になる。基本プレイ無料化後も拡張が継続して配信されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Bungieを確認(初期の発売元はActivision、後にBungie自社)。原典は2017年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "far-cry-6",
+    "title": "ファークライ6",
+    "titleKana": "ふぁーくらいしっくす",
+    "developerIds": [
+      "ubisoft-toronto"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "open-world"
+    ],
+    "releaseDate": "2021-10-07",
+    "synopsis": "カリブ海の架空の島国ヤーラを舞台にしたオープンワールドFPS。独裁者アントン・カスティロの圧政に対し、ゲリラ「リベルタ」に加わった主人公ダニーが島全土で反攻を進める。手製の火器や背負い式兵器を使い、拠点制圧と破壊工作を重ねていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Toronto・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "watch-dogs-legion",
+    "title": "ウォッチドッグス レギオン",
+    "titleKana": "うぉっちどっぐすれぎおん",
+    "developerIds": [
+      "ubisoft-toronto"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure",
+      "stealth"
+    ],
+    "releaseDate": "2020-11-12",
+    "synopsis": "監視社会と化した近未来のロンドンで、ハッカー集団デッドセックが街を取り戻すオープンワールド作品。街を歩く市民なら誰でも勧誘して操作できる「プレイ・アズ・エニワン」が最大の特徴で、職業ごとに固有の能力と弱点を持つ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Toronto・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "avatar-frontiers-of-pandora",
+    "title": "アバター：フロンティア・オブ・パンドラ",
+    "titleKana": "あばたーふろんてぃあおぶぱんどら",
+    "developerIds": [
+      "massive-entertainment"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure",
+      "shooter"
+    ],
+    "releaseDate": "2023-12-07",
+    "synopsis": "映画『アバター』の惑星パンドラを舞台にした一人称オープンワールド作品。人間に育てられたナヴィの主人公が、故郷の氏族と再会し資源採掘企業RDAに抗う。弓と銃を使い分ける戦闘に加え、動植物の気配を読み取る感覚と飛行生物イクランでの移動が軸になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Massive Entertainment・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "skull-and-bones",
+    "title": "スカル アンド ボーンズ",
+    "titleKana": "すかるあんどぼーんず",
+    "developerIds": [
+      "ubisoft-singapore"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-adventure",
+      "co-op"
+    ],
+    "releaseDate": "2024-02-16",
+    "synopsis": "18世紀のインド洋を舞台にした海賊アクション。難破から生き延びた無名の船乗りが、船を改造しながら悪名を高めて海賊王を目指す。戦闘は帆船同士の砲撃戦が中心で、風向きと積荷の管理、他プレイヤーとの共闘や略奪が航海を左右する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Singapore・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "saints-row-2022",
+    "title": "セインツロウ",
+    "titleKana": "せいんつろう",
+    "developerIds": [
+      "volition"
+    ],
+    "publisherId": "deep-silver",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "crime-action",
+      "shooter"
+    ],
+    "releaseDate": "2022-08-23",
+    "synopsis": "犯罪組織の抗争を描くオープンワールドシリーズの再始動作。南西部の架空都市サント・イレソを舞台に、借金と行き場のなさを抱えた若者4人が自ら「セインツ」を旗揚げする。派手な銃撃戦と車両アクションに、拠点経営の要素が加わっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Volition・発売元Deep Silverを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gotham-knights",
+    "title": "ゴッサム・ナイツ",
+    "titleKana": "ごっさむないつ",
+    "developerIds": [
+      "wb-games-montreal"
+    ],
+    "publisherId": "warner-bros-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "co-op",
+      "open-world"
+    ],
+    "releaseDate": "2022-10-21",
+    "synopsis": "バットマンの死後、残されたナイトウィング・レッドフード・バットガール・ロビンの4人がゴッサムを守るアクションRPG。夜ごとに街を巡回して事件を潰しながら、暗躍する秘密結社フクロウ裁判所を追う。2人協力プレイに対応し、装備を集めて能力を伸ばす。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元WB Games Montréal・発売元WB Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "doom-eternal",
+    "title": "DOOM Eternal",
+    "titleKana": "どぅーむえたーなる",
+    "developerIds": [
+      "id-software"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter"
+    ],
+    "releaseDate": "2020-12-08",
+    "synopsis": "地獄の軍勢に侵略された地球で、ドゥームスレイヤーが悪魔を殲滅していく高速FPS。弾薬・体力・装甲を敵から奪う「チェーンソー」「グローリーキル」「火炎放射」の使い分けが必須で、常に攻め続けることを強いる設計になっている。移動アクションも大幅に増えた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元id Software・発売元Bethesda Softworksを確認。発売日はIGDBの登録値(PS5版)で、原典は2020年3月のPS4/Switch等。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "oblivion-remastered",
+    "title": "The Elder Scrolls IV: オブリビオン リマスター",
+    "titleKana": "じえるだーすくろーるずふぉーおぶりびおんりますたー",
+    "developerIds": [
+      "virtuos"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "open-world"
+    ],
+    "releaseDate": "2025-04-22",
+    "synopsis": "2006年の名作オープンワールドRPGをUnreal Engine 5で描き直したリマスター。皇帝暗殺をきっかけに、異界オブリビオンから溢れ出す軍勢を止める旅が始まる。地形や造形は原作を保ったまま、光の表現・操作感・レベル上昇の仕組みが現代的に調整された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Virtuos・発売元Bethesda Softworksを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "momotaro-dentetsu-world",
+    "title": "桃太郎電鉄ワールド ～地球は希望でまわってる！～",
+    "titleKana": "ももたろうでんてつわーるどちきゅうはきぼうでまわってる",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game",
+      "simulation"
+    ],
+    "releaseDate": "2023-09-28",
+    "synopsis": "日本地図ではなく世界地図を舞台にしたシリーズ作。各国の都市を巡って物件を買い集め、総資産で競う基本は変わらないが、大陸をまたぐ移動や現地の名産にちなんだカードが加わった。世界情勢を学べる仕掛けも多く、最大4人での対戦に対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

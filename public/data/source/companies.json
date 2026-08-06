@@ -3472,5 +3472,77 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Valkyrie Elysium』の共同開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "infinity-ward",
+    "name": "Infinity Ward",
+    "nameKana": "いんふぃにてぃうぉーど",
+    "description": "米国の開発会社。『Call of Duty』シリーズのうち『Modern Warfare』系統を手がける中核スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Call of Duty: Modern Warfare II』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sledgehammer-games",
+    "name": "Sledgehammer Games",
+    "nameKana": "すれっじはんまーげーむず",
+    "description": "米国の開発会社。『Call of Duty』シリーズを輪番で担当するスタジオのひとつ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Call of Duty: Modern Warfare III』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ea-dice",
+    "name": "EA DICE",
+    "nameKana": "いーえーだいす",
+    "description": "スウェーデンの開発会社。大規模マルチプレイFPS『バトルフィールド』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Battlefield 2042』『Battlefield 6』の開発元(EA Digital Illusions CE)として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bungie",
+    "name": "Bungie",
+    "nameKana": "ばんじー",
+    "description": "米国の開発会社。『Halo』シリーズを生み、その後『Destiny』シリーズを手がけた。現在はソニーグループ傘下。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Destiny 2』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ubisoft-toronto",
+    "name": "Ubisoft Toronto",
+    "nameKana": "ゆーびーあいそふととろんと",
+    "description": "カナダにあるUbisoftの開発スタジオ。『ファークライ6』『ウォッチドッグス レギオン』を主導した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で両作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ubisoft-singapore",
+    "name": "Ubisoft Singapore",
+    "nameKana": "ゆーびーあいそふとしんがぽーる",
+    "description": "シンガポールにあるUbisoftの開発スタジオ。海洋描写を得意とし『スカル アンド ボーンズ』を開発した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Skull and Bones』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "volition",
+    "name": "Volition",
+    "nameKana": "ゔぉりしょん",
+    "description": "米国にあった開発会社。オープンワールドの犯罪アクション『セインツロウ』シリーズを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Saints Row』(2022年)の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wb-games-montreal",
+    "name": "WB Games Montréal",
+    "nameKana": "だぶりゅーびーげーむずもんとりおーる",
+    "description": "カナダにあるワーナー・ブラザース傘下の開発スタジオ。『ゴッサム・ナイツ』等バットマン関連作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Gotham Knights』の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
