@@ -6942,6 +6942,7 @@
   {
     "id": "assassins-creed-valhalla",
     "title": "アサシン クリード ヴァルハラ",
+    "titleKana": "あさしんくりーどゔぁるはら",
     "platforms": [
       "ps5"
     ],
@@ -6963,6 +6964,7 @@
   {
     "id": "devil-may-cry-5-special-edition",
     "title": "デビル メイ クライ 5 スペシャルエディション",
+    "titleKana": "でびるめいくらいふぁいぶすぺしゃるえでぃしょん",
     "platforms": [
       "ps5"
     ],
@@ -6982,6 +6984,7 @@
   {
     "id": "dead-island-2",
     "title": "Dead Island 2",
+    "titleKana": "でっどあいらんどつー",
     "platforms": [
       "ps5"
     ],
@@ -7002,6 +7005,7 @@
   {
     "id": "marvels-guardians-of-the-galaxy",
     "title": "Marvel's ガーディアンズ・オブ・ギャラクシー",
+    "titleKana": "まーべるずがーでぃあんずおぶぎゃらくしー",
     "platforms": [
       "ps5"
     ],
@@ -7032,6 +7036,7 @@
   {
     "id": "stray",
     "title": "Stray",
+    "titleKana": "すとれい",
     "platforms": [
       "ps5"
     ],
@@ -7068,6 +7073,7 @@
   {
     "id": "atomic-heart",
     "title": "Atomic Heart",
+    "titleKana": "あとみっくはーと",
     "platforms": [
       "ps5"
     ],
@@ -7088,6 +7094,7 @@
   {
     "id": "remnant-2",
     "title": "Remnant II",
+    "titleKana": "れむなんとつー",
     "platforms": [
       "ps5"
     ],
@@ -7109,6 +7116,7 @@
   {
     "id": "lords-of-the-fallen-2023",
     "title": "Lords of the Fallen",
+    "titleKana": "ろーずおぶざふぉーるん",
     "platforms": [
       "ps5"
     ],
@@ -7129,6 +7137,7 @@
   {
     "id": "nioh",
     "title": "仁王",
+    "titleKana": "におう",
     "platforms": [
       "ps5"
     ],
@@ -7160,6 +7169,7 @@
   {
     "id": "wo-long-fallen-dynasty",
     "title": "Wo Long: Fallen Dynasty",
+    "titleKana": "うぉーろんふぉーるんだいなすてぃ",
     "platforms": [
       "ps5"
     ],
@@ -7180,6 +7190,7 @@
   {
     "id": "dynasty-warriors-origins",
     "title": "真・三國無双 ORIGINS",
+    "titleKana": "しんさんごくむそうおりじんず",
     "platforms": [
       "ps5",
       "switch2"
@@ -7211,6 +7222,7 @@
   {
     "id": "dragon-age-the-veilguard",
     "title": "Dragon Age: The Veilguard",
+    "titleKana": "どらごんえいじざゔぇいるがーど",
     "platforms": [
       "ps5"
     ],
@@ -7230,6 +7242,7 @@
   {
     "id": "kuro-no-kiseki",
     "title": "英雄伝説 黎の軌跡",
+    "titleKana": "えいゆうでんせつくろのきせき",
     "platforms": [
       "ps5",
       "switch"
@@ -7250,6 +7263,7 @@
   {
     "id": "judge-eyes-remastered",
     "title": "JUDGE EYES：死神の遺言 Remastered",
+    "titleKana": "じゃっじあいずしにがみのゆいごんりますたーど",
     "platforms": [
       "ps5"
     ],
@@ -7282,6 +7296,7 @@
   {
     "id": "ea-sports-fc-24",
     "title": "EA SPORTS FC 24",
+    "titleKana": "いーえーすぽーつえふしーにじゅうよん",
     "platforms": [
       "ps5",
       "switch"
@@ -8041,6 +8056,7 @@
   {
     "id": "fate-samurai-remnant",
     "title": "Fate/Samurai Remnant",
+    "titleKana": "ふぇいとさむらいれむなんと",
     "developerIds": [
       "omega-force"
     ],
@@ -8167,6 +8183,7 @@
   {
     "id": "fantasian-neo-dimension",
     "title": "FANTASIAN Neo Dimension",
+    "titleKana": "ふぁんたじあんねおでぃめんしょん",
     "developerIds": [
       "mistwalker",
       "square-enix"
@@ -8260,6 +8277,7 @@
   {
     "id": "fuga-melodies-of-steel-2",
     "title": "Fuga: Melodies of Steel 2",
+    "titleKana": "ふーがめろでぃーずおぶすちーるつー",
     "developerIds": [
       "cyberconnect2"
     ],
@@ -8305,6 +8323,7 @@
   {
     "id": "sand-land",
     "title": "SAND LAND",
+    "titleKana": "さんどらんど",
     "developerIds": [
       "ilca"
     ],
@@ -17174,6 +17193,49 @@
     "synopsis": "深夜喫茶を舞台にしたアドベンチャーの続編。前作の常連に加え、悩みを抱えた新しい客が店を訪れる。飲み物を作って話を聞くという構造は変わらず、種族を越えた共生や創作と生活の折り合いといった主題が静かに語られていく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Toge Productionsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "onimusha-way-of-the-sword",
+    "title": "鬼武者 Way of the Sword",
+    "titleKana": "おにむしゃうぇいおぶざそーど",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "action-rpg"
+    ],
+    "releaseDate": "2026-09-04",
+    "synopsis": "十数年ぶりとなる『鬼武者』シリーズの完全新作。江戸時代初期の京都を舞台に、鬼の籠手を継いだ剣士が幻魔と戦う。倒した敵の魂を吸収して力に変える「魂状(こんじょう)」と、一撃で斬り伏せる「一閃」を軸にした剣戟が引き続き戦闘の中心にある。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売予定日・開発/発売元がカプコンであることを確認。**本サイト更新時点(2026-08-06)で未発売**で、あらすじは発表済み情報に基づく独自要約(コピペなし)。細部の仕様・発売日の変更可能性は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "phantom-blade-zero",
+    "title": "Phantom Blade Zero",
+    "titleKana": "ふぁんとむぶれいどぜろ",
+    "developerIds": [
+      "s-game"
+    ],
+    "publisherId": "s-game",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "action-adventure"
+    ],
+    "releaseDate": "2026-10-29",
+    "synopsis": "中国の武侠と暗黒ファンタジーを混ぜ合わせた「Kung-Fupunk」を掲げるアクションRPG。組織に裏切られ余命を絶たれた暗殺者ソウが、真相を追って戦う。受け流しと連撃を高速でつなぐ剣戟が主軸で、香港武侠映画の殺陣を意識した動きが取り入れられている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売予定日・開発/発売元S-GAMEを確認。**本サイト更新時点(2026-08-06)で未発売**で、あらすじは発表済み情報に基づく独自要約(コピペなし)。IGDB上の表記は『Phantom Blade 0』。細部の仕様・発売日の変更可能性は未確認。",
     "updatedAt": "2026-08-06"
   }
 ]

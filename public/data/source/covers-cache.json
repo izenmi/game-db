@@ -3303,6 +3303,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:53:11.646Z"
   },
+  "onimusha-way-of-the-sword": {
+    "title": "鬼武者 Way of the Sword",
+    "matchedTitle": "Onimusha: Way of the Sword",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocdt3.jpg",
+    "itemUrl": "https://www.igdb.com/games/onimusha-way-of-the-sword",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T08:12:09.430Z"
+  },
   "ori-and-the-blind-forest": {
     "title": "Ori and the Blind Forest: Definitive Edition",
     "matchedTitle": "Ori and the Blind Forest: Definitive Edition",
@@ -3446,6 +3454,14 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4984995906249-54-27073-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:13.886Z"
+  },
+  "phantom-blade-zero": {
+    "title": "Phantom Blade Zero",
+    "matchedTitle": "Phantom Blade 0",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob64v.jpg",
+    "itemUrl": "https://www.igdb.com/games/phantom-blade-0",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T08:12:10.798Z"
   },
   "phantom-brave-the-lost-hero": {
     "title": "ファントム・ブレイブ 幽霊船団と消えた英雄",
