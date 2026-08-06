@@ -689,6 +689,11 @@ h1 {
   border-left-color: #f2a35c;
 }
 
+.sister-site-card--tech {
+  border-left-color: #6fd6c6;
+}
+
+
 .sister-site-card--mystery {
   border-left-color: #9d8ae6;
 }
