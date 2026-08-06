@@ -76,6 +76,10 @@ export interface GameGenerated extends GameSource {
   /** Reserved for future package-art support (see CLAUDE.md「既知の未着手事項」). Always
    *  undefined for now — no cover-fetch pipeline exists yet, callers must render the placeholder. */
   coverUrl?: string;
+  /** Ids of similar games, best first, computed at build time by generate-manifest.mjs.
+   *  Only present in generated/games.json — the copies embedded in the cross-reference lists
+   *  omit it to keep those files small. */
+  relatedGameIds?: string[];
 }
 
 /** A company's role on a given game. Arrayed because the same company can be both

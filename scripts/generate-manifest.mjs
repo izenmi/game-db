@@ -72,8 +72,83 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
+// ---- related works ("このゲームが好きなら") ----
+// Cosine similarity over IDF-weighted genre tags, plus a bonus for sharing a developer.
+// IDF matters because the tag vocabulary is deliberately small and reused (see CLAUDE.md
+// 「ジャンルタグの方針」): a tag carried by hundreds of games says almost nothing about similarity,
+// while a rare one is highly informative. Weighting every shared tag equally would just
+// surface the most generic games on every page.
+const RELATED_COUNT = 6;
+const SAME_DEVELOPER_BONUS = 0.15;
+
+const gamesById = new Map(games.map((x) => [x.id, x]));
+
+const tagsOf = (x) => x.genreIds;
+
+const tagDocFreq = new Map();
+for (const x of games) {
+  for (const t of tagsOf(x)) tagDocFreq.set(t, (tagDocFreq.get(t) ?? 0) + 1);
+}
+// A tag carried by every game gets idf 0 and drops out of the scoring entirely.
+const tagIdf = new Map([...tagDocFreq].map(([t, df]) => [t, Math.log(games.length / df)]));
+
+const tagNorm = new Map(
+  games.map((x) => {
+    let sumSquares = 0;
+    for (const t of tagsOf(x)) sumSquares += tagIdf.get(t) ** 2;
+    return [x.id, Math.sqrt(sumSquares)];
+  }),
+);
+
+const tagToItems = new Map();
+for (const x of games) {
+  for (const t of tagsOf(x)) {
+    if (!tagToItems.has(t)) tagToItems.set(t, []);
+    tagToItems.get(t).push(x);
+  }
+}
+
+function relatedIdsFor(item) {
+  // Accumulate the dot product only over games that share at least one tag, rather than
+  // scanning all N games for each of N games.
+  const dotProducts = new Map();
+  for (const t of tagsOf(item)) {
+    const weight = tagIdf.get(t) ** 2;
+    if (weight === 0) continue;
+    for (const other of tagToItems.get(t)) {
+      if (other.id === item.id) continue;
+      dotProducts.set(other.id, (dotProducts.get(other.id) ?? 0) + weight);
+    }
+  }
+
+  const ownDevelopers = new Set(item.developerIds);
+
+  // Same-developer games are a strong recommendation even with no tag overlap, so seed them in.
+  for (const other of games) {
+    if (other.id === item.id || dotProducts.has(other.id)) continue;
+    if (other.developerIds.some((id) => ownDevelopers.has(id))) dotProducts.set(other.id, 0);
+  }
+
+  const ownNorm = tagNorm.get(item.id);
+  const scored = [];
+  for (const [otherId, dot] of dotProducts) {
+    const other = gamesById.get(otherId);
+    const otherNorm = tagNorm.get(otherId);
+    let score = ownNorm > 0 && otherNorm > 0 ? dot / (ownNorm * otherNorm) : 0;
+    if (other.developerIds.some((id) => ownDevelopers.has(id))) score += SAME_DEVELOPER_BONUS;
+    if (score > 0) scored.push({ id: otherId, score });
+  }
+
+  // Tie-break by id so the output (and therefore the prerendered HTML) is stable across builds.
+  scored.sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
+  return scored.slice(0, RELATED_COUNT).map((s) => s.id);
+}
+
+const relatedById = new Map(games.map((x) => [x.id, relatedIdsFor(x)]));
+
 // ---- generated/games.json ----
 const gamesGenerated = games.map((g) => ({
+  relatedGameIds: relatedById.get(g.id),
   ...g,
   developerNames: g.developerIds.map((id) => companiesById.get(id).name),
   publisherName: companiesById.get(g.publisherId).name,
@@ -92,7 +167,11 @@ const gamesGenerated = games.map((g) => ({
 const gamesGeneratedById = new Map(gamesGenerated.map((g) => [g.id, g]));
 
 function fullGame(g) {
-  return gamesGeneratedById.get(g.id);
+  // Only the game detail page renders related games, and each game is embedded in several of
+  // these cross-reference lists, so keeping relatedGameIds out of the embedded copies avoids a
+  // large amount of duplicated ids across generated/.
+  const { relatedGameIds, ...rest } = gamesGeneratedById.get(g.id);
+  return rest;
 }
 
 // ---- generated/companies.json ----

@@ -1,9 +1,10 @@
+import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getGame } from "../../data/manifest";
+import { getGame, getGames } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCover, amazonSearchUrl } from "../common/GameCover";
-import { PlatformBadges } from "../common/GameCard";
+import { GameCard, PlatformBadges } from "../common/GameCard";
 import { BASE_PATH, DEFAULT_OG_IMAGE, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import type { GameGenerated } from "../../types";
 
@@ -37,6 +38,17 @@ export function GameDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getGame(id!), [id]);
   const game = state.status === "ready" ? state.data : undefined;
+
+  // getGames() resolves from the same cached games.json that getGame() above already pulled,
+  // so this costs no extra request.
+  const allGamesState = useAsyncData(getGames, []);
+  const relatedGames = useMemo(() => {
+    if (allGamesState.status !== "ready" || !game?.relatedGameIds) return [];
+    const byId = new Map(allGamesState.data.map((x) => [x.id, x]));
+    return game.relatedGameIds
+      .map((relatedId) => byId.get(relatedId))
+      .filter((x): x is GameGenerated => Boolean(x));
+  }, [allGamesState, game]);
 
   useSeo({
     title: game?.title,
@@ -128,6 +140,17 @@ export function GameDetailPage() {
                 Wikipediaで見る
               </a>
             </p>
+          )}
+
+          {relatedGames.length > 0 && (
+            <div className="home-section">
+              <h2 className="home-section__heading font-display">このゲームが好きなら</h2>
+              <div className="game-grid">
+                {relatedGames.map((related) => (
+                  <GameCard key={related.id} game={related} />
+                ))}
+              </div>
+            </div>
           )}
 
           <p className="source-note">{state.data.sourceNote}</p>
