@@ -15210,5 +15210,332 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元任天堂/MAGES.・発売元任天堂を確認。同時発売の『消えた後継者』は本サイトに別途登録済み。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ori-and-the-blind-forest",
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "titleKana": "おりあんどざぶらいんどふぉれすとでぃふぃにてぃぶえでぃしょん",
+    "developerIds": [
+      "moon-studios"
+    ],
+    "publisherId": "xbox-game-studios",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer",
+      "adventure"
+    ],
+    "releaseDate": "2019-09-27",
+    "synopsis": "光の精霊オリが、枯れゆく森ニブルを蘇らせるために旅する探索型2Dアクション。手描き調の背景と管弦楽の劇伴で情感を押し出しつつ、精密な操作を要求する高難度の跳躍が待ち受ける。追加区域と難度設定を収録した完全版として移植された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Moon Studios・発売元Xbox Game Studiosを確認。続編『Ori and the Will of the Wisps』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "guacamelee-2",
+    "title": "Guacamelee! 2",
+    "titleKana": "ぐあかめれーつー",
+    "developerIds": [
+      "drinkbox-studios"
+    ],
+    "publisherId": "drinkbox-studios",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2018-12-10",
+    "synopsis": "メキシコのルチャリブレとメソアメリカ神話を混ぜ合わせた探索型アクションの続編。覆面レスラーのフアンが、崩壊しつつあるメキシバースを救うために戦う。生者と死者の世界を切り替えて足場を出現させる仕組みと、投げ技を絡めた戦闘が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元DrinkBox Studiosを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "axiom-verge-2",
+    "title": "Axiom Verge 2",
+    "titleKana": "あくしおむゔぁーじつー",
+    "developerIds": [
+      "thomas-happ-games"
+    ],
+    "publisherId": "thomas-happ-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer"
+    ],
+    "releaseDate": "2021-08-11",
+    "synopsis": "前作と同じ世界を別の主人公から描く探索型2Dアクション。実業家のインドラが、南極で見つかった遺跡を通じて異界へ迷い込む。地形や敵を「破損」させて挙動を狂わせる能力が探索の鍵で、二つの層になった世界を行き来しながら道を開いていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Thomas Happ Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "the-messenger",
+    "title": "The Messenger",
+    "titleKana": "ざめっせんじゃー",
+    "developerIds": [
+      "sabotage-studio"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer",
+      "metroidvania"
+    ],
+    "releaseDate": "2018-08-30",
+    "synopsis": "忍者が巻物を届けるために旅する2Dアクション。前半は8bit調の一本道アクションだが、途中で16bit調の探索型へと様式そのものが切り替わる仕掛けを持つ。空中で敵や物を斬ると再度跳べる「クラウドステップ」が移動の要になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Sabotage Studio・発売元Devolver Digitalを確認。同スタジオの『Sea of Stars』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bloodstained-curse-of-the-moon",
+    "title": "Bloodstained: Curse of the Moon",
+    "titleKana": "ぶらっどすていんどかーすおぶざむーん",
+    "developerIds": [
+      "inti-creates"
+    ],
+    "publisherId": "inti-creates",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "action-adventure"
+    ],
+    "releaseDate": "2018-05-24",
+    "synopsis": "『Bloodstained』の支援者向け特典として作られた、ファミコン風の8bit調2Dアクション。悪魔狩人ジーベルを主人公に、道中で仲間になる3人を切り替えながら悪魔の城を攻略する。当時の『悪魔城ドラキュラ』の手触りを意図的に再現している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元インティ・クリエイツを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bloodstained-curse-of-the-moon-2",
+    "title": "Bloodstained: Curse of the Moon 2",
+    "titleKana": "ぶらっどすていんどかーすおぶざむーんつー",
+    "developerIds": [
+      "inti-creates"
+    ],
+    "publisherId": "inti-creates",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "action-adventure"
+    ],
+    "releaseDate": "2020-07-10",
+    "synopsis": "8bit調2Dアクションの続編。ジーベルに加え、剣を持つ神父ドミニクや犬型の兵器ハチといった新しい仲間が登場し、4人を切り替えて攻略する。前作より演出の幅が広がり、複数の周回を通して物語の全体像が明らかになる構成をとる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元インティ・クリエイツを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "momodora-moonlit-farewell",
+    "title": "Momodora: Moonlit Farewell",
+    "titleKana": "ももどらむーんりっとふぇあうぇる",
+    "developerIds": [
+      "bombservice"
+    ],
+    "publisherId": "playism",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer"
+    ],
+    "releaseDate": "2025-02-06",
+    "synopsis": "巫女モモが村を襲う魔物の群れを止めるために旅する探索型2Dアクション。シリーズ最終作にあたり、葉を模した武器での近接攻撃と弓を組み合わせて戦う。落ち着いた色調のドット絵と、静かな終末感を漂わせる語り口が持ち味になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Bombservice・発売元PLAYISMを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "afterimage",
+    "title": "Afterimage",
+    "titleKana": "あふたーいめーじ",
+    "developerIds": [
+      "aurogon"
+    ],
+    "publisherId": "modus-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "action-rpg"
+    ],
+    "releaseDate": "2023-04-25",
+    "synopsis": "崩壊した世界エングァルディンを旅する手描き背景の探索型2Dアクション。記憶を持たない少女レンフィが、失われた文明の痕跡をたどる。多数の武器種と技能樹を備えており、探索範囲の広さと戦闘の自由度を両立させた作りになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Aurogon・発売元Modus Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "castlevania-advance-collection",
+    "title": "悪魔城ドラキュラ アドバンスコレクション",
+    "titleKana": "あくまじょうどらきゅらあどばんすこれくしょん",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer"
+    ],
+    "releaseDate": "2021-09-23",
+    "synopsis": "ゲームボーイアドバンス用『Circle of the Moon』『白夜の協奏曲』『暁月の円舞曲』に、スーパーファミコン用『XX』を加えた合本。巻き戻し機能や画面設定、資料閲覧といった補助機能を備え、探索型としての完成度が高い3作をまとめて遊べる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "castlevania-dominus-collection",
+    "title": "悪魔城ドラキュラ ドミナスコレクション",
+    "titleKana": "あくまじょうどらきゅらどみなすこれくしょん",
+    "developerIds": [
+      "konami"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer"
+    ],
+    "releaseDate": "2024-08-27",
+    "synopsis": "ニンテンドーDS用の『蒼月の十字架』『ギャラリー オブ ラビリンス』『奪われた刻印』3作に、アーケード版『Haunted Castle』とその新規リメイクを加えた合本。二画面構成だったDS作品を1画面向けに再構成し、補助機能を追加している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "contra-operation-galuga",
+    "title": "魂斗羅 オペレーション ガルガ",
+    "titleKana": "こんとらおぺれーしょんがるが",
+    "developerIds": [
+      "wayforward"
+    ],
+    "publisherId": "konami",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2024-03-12",
+    "synopsis": "1987年の初代『魂斗羅』を下敷きに作り直した横スクロールシューティング。ガルガ諸島に落ちた隕石を巡り、ビルとランスが異星の勢力と戦う。武器を重ねて強化する仕組みと、拾った装備を保管して差し替える要素が新たに加わった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元WayForward・発売元コナミを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shantae-and-the-seven-sirens",
+    "title": "Shantae and the Seven Sirens",
+    "titleKana": "しゃんてぃあんどざせぶんさいれんず",
+    "developerIds": [
+      "wayforward"
+    ],
+    "publisherId": "wayforward",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer"
+    ],
+    "releaseDate": "2020-05-28",
+    "synopsis": "半人半魔人の踊り子シャンティを主人公とする探索型2Dアクションの第5作。南国の島で開かれる祭りに招かれた彼女が、消えた仲間の踊り子たちを追って地下遺跡へ潜る。動物へ変身する能力で行動範囲を広げていく仕組みが遊びの中心にある。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元WayForwardを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "predator-hunting-grounds",
+    "title": "Predator: Hunting Grounds",
+    "titleKana": "ぷれでたーはんてぃんぐぐらうんず",
+    "developerIds": [
+      "illfonic"
+    ],
+    "publisherId": "illfonic",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "versus-action"
+    ],
+    "releaseDate": "2024-10-01",
+    "synopsis": "映画『プレデター』を題材にした4対1の非対称型シューター。4人の傭兵部隊は任務をこなして脱出を目指し、プレデター側は光学迷彩と樹上移動を使って一人ずつ狩っていく。原作の武器と作法が両陣営の駆け引きに落とし込まれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元IllFonicを確認。原典は2020年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "destruction-allstars",
+    "title": "Destruction AllStars",
+    "titleKana": "ですとらくしょんおーるすたーず",
+    "developerIds": [
+      "lucid-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "versus-action",
+      "racing",
+      "party-game"
+    ],
+    "releaseDate": "2021-02-02",
+    "synopsis": "車をぶつけ合って壊し合う多人数対戦アクション。壊れた車から飛び降りて生身で走り、別の車を奪って戦線に戻れる点が独特で、キャラクターごとに固有の能力と専用車両を持つ。PS5の触覚フィードバックを活かした衝突表現が売りになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Lucid Games・発売元ソニー・インタラクティブエンタテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "medievil",
+    "title": "MediEvil",
+    "titleKana": "めでぃーゔぃる",
+    "developerIds": [
+      "sie"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "platformer"
+    ],
+    "releaseDate": "2024-04-16",
+    "synopsis": "骸骨の騎士サー・ダニエル・フォーテスクが、蘇った魔術師ザロック相手に汚名返上を目指すアクションアドベンチャー。腕を引き抜いて武器にするといった諧謔味のある演出と、ハロウィン調の世界観が持ち味。初代PS用作品の系譜に連なる作品。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・発売元ソニー・インタラクティブエンタテインメントを確認(IGDB上の開発元表記は原典を作ったSCE Cambridge Studio)。発売日はIGDBの登録値で、PS Plusのクラシックス配信を指す可能性がある(未確認)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

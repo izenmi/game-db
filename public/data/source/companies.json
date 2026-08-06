@@ -4255,5 +4255,68 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Sherlock Holmes: Chapter One』の開発/発売元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "drinkbox-studios",
+    "name": "DrinkBox Studios",
+    "nameKana": "どりんくぼっくすすたじおず",
+    "description": "カナダの開発会社。ルチャリブレを題材にした『Guacamelee!』シリーズ等を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Guacamelee! 2』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "thomas-happ-games",
+    "name": "Thomas Happ Games",
+    "nameKana": "とーますはっぷげーむず",
+    "description": "米国の個人開発スタジオ。探索型2Dアクション『Axiom Verge』シリーズを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Axiom Verge 2』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "inti-creates",
+    "name": "インティ・クリエイツ",
+    "nameKana": "いんてぃくりえいつ",
+    "description": "日本の開発会社。『ロックマンゼロ』『蒼き雷霆 ガンヴォルト』等、2Dアクションを得意とする。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Bloodstained: Curse of the Moon』シリーズの開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bombservice",
+    "name": "Bombservice",
+    "nameKana": "ぼむさーびす",
+    "description": "ブラジル出身の開発者rdeinによる小規模スタジオ。『Momodora』シリーズを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Momodora: Moonlit Farewell』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "playism",
+    "name": "PLAYISM",
+    "nameKana": "ぷれいずむ",
+    "description": "アクティブゲーミングメディアが運営する日本の発売レーベル。国内外のインディー作品を扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Momodora: Moonlit Farewell』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aurogon",
+    "name": "Aurogon Shanghai",
+    "nameKana": "おーろごんしゃんはい",
+    "description": "中国の開発会社。手描き背景の探索型2Dアクション『Afterimage』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Afterimage』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lucid-games",
+    "name": "Lucid Games",
+    "nameKana": "るしっどげーむず",
+    "description": "英国の開発会社。車両アクション『Destruction AllStars』等を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Destruction AllStars』の開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
