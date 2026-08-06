@@ -4318,5 +4318,140 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Destruction AllStars』の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "petit-depotto",
+    "name": "プチデポット",
+    "nameKana": "ぷちでぽっと",
+    "description": "日本の小規模開発サークル。人狼型SFアドベンチャー『グノーシア』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Gnosia』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "xemono",
+    "name": "にゃるら/xemono",
+    "nameKana": "ぜもの",
+    "description": "『NEEDY GIRL OVERDOSE』を手がけた日本の少人数制作チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元(xemono)として確認。表記の詳細は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wss-playground",
+    "name": "WSS playground",
+    "nameKana": "だぶるえすえすぷれいぐらうんど",
+    "description": "日本の発売レーベル。個人・少人数制作の作品を家庭用機で展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『NEEDY GIRL OVERDOSE』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kotake-create",
+    "name": "KOTAKE CREATE",
+    "nameKana": "こたけくりえいと",
+    "description": "日本の個人開発スタジオ。無限に続く通路の違和感を探す『8番出口』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『8番出口』『8番のりば』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "rabbit-and-bear-studios",
+    "name": "Rabbit & Bear Studios",
+    "nameKana": "らびっとあんどべあすたじおず",
+    "description": "『幻想水滸伝』の制作陣が設立した開発会社。『百英雄伝』シリーズを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で両作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hand-inc",
+    "name": "h.a.n.d.",
+    "nameKana": "はんど",
+    "description": "日本の開発会社。他社作品の開発・移植を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『すばらしきこのせかい』関連作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "alim",
+    "name": "アリム",
+    "nameKana": "ありむ",
+    "description": "日本の開発会社。『Voice of Cards』シリーズの開発を担当した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Voice of Cards: The Isle Dragon Roars』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kouri",
+    "name": "kouri",
+    "nameKana": "こうり",
+    "description": "日本の個人開発者。フリーゲームとして公開した『Ib』が長く支持され、後に商用版が制作された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Ib』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hako-seikatsu",
+    "name": "ハコ生活",
+    "nameKana": "はこせいかつ",
+    "description": "日本の個人開発スタジオ。ドット絵のアドベンチャー『アンリアルライフ』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元(Hako Seikatsu)として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "room6",
+    "name": "Room6",
+    "nameKana": "るーむしっくす",
+    "description": "日本の発売会社。個人・少人数制作のインディー作品を扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『アンリアルライフ』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sukeban-games",
+    "name": "Sukeban Games",
+    "nameKana": "すけばんげーむず",
+    "description": "ベネズエラ出身の開発チーム。サイバーパンク世界のバーを描く『VA-11 Hall-A』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元(SUKEBAN)として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ysbryd-games",
+    "name": "Ysbryd Games",
+    "nameKana": "いすぶりっどげーむず",
+    "description": "シンガポール発のパブリッシャー。個性の強いインディー作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『VA-11 Hall-A』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "toge-productions",
+    "name": "Toge Productions",
+    "nameKana": "とげぷろだくしょんず",
+    "description": "インドネシアの開発・発売会社。『Coffee Talk』シリーズを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同シリーズの開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "keizo",
+    "name": "KEIZO",
+    "nameKana": "けいぞう",
+    "description": "日本の個人開発者。十数年をかけて『ASTLIBRA』を完成させた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Astlibra Revision』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "whispergames",
+    "name": "WhisperGames",
+    "nameKana": "うぃすぱーげーむず",
+    "description": "中国のパブリッシャー。海外インディー作品のローカライズと発売を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Astlibra Revision』の発売元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

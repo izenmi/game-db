@@ -15537,5 +15537,336 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・発売元ソニー・インタラクティブエンタテインメントを確認(IGDB上の開発元表記は原典を作ったSCE Cambridge Studio)。発売日はIGDBの登録値で、PS Plusのクラシックス配信を指す可能性がある(未確認)。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gnosia",
+    "title": "グノーシア",
+    "titleKana": "ぐのーしあ",
+    "developerIds": [
+      "petit-depotto"
+    ],
+    "publisherId": "playism",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "rpg",
+      "strategy"
+    ],
+    "releaseDate": "2020-04-30",
+    "synopsis": "宇宙船に紛れ込んだ人類の敵「グノーシア」を、議論で見つけ出す一人用の人狼型アドベンチャー。ループするたびに役職と人間関係が変わり、周回を重ねて能力値を伸ばしながら乗員たちの事情を少しずつ知っていく。多人数を必要としない設計が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元プチデポットを確認(発売元表記はmebius/PLAYISM)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "needy-girl-overdose",
+    "title": "NEEDY GIRL OVERDOSE",
+    "titleKana": "にーでぃがーるおーばーどーず",
+    "developerIds": [
+      "xemono"
+    ],
+    "publisherId": "wss-playground",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "simulation"
+    ],
+    "releaseDate": "2022-10-27",
+    "synopsis": "承認欲求の強い配信者「あめちゃん」をプロデュースする育成アドベンチャー。配信内容・薬・睡眠を指示して30日間を過ごし、フォロワー数と精神状態の両方を管理する。インターネット文化の暗部を題材にしており、結末は数十通りに分岐する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元xemono・発売元WSS playgroundを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "the-exit-8",
+    "title": "8番出口",
+    "titleKana": "はちばんでぐち",
+    "developerIds": [
+      "kotake-create"
+    ],
+    "publisherId": "playism",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2024-04-17",
+    "synopsis": "地下通路をひたすら歩き、「異変」があれば引き返し、なければ進むという2つのルールだけで構成された短編。同じ景色が繰り返される中でわずかな違いに気づけるかが問われる。日本の地下鉄構内の質感を丁寧に再現した点も話題になった。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元KOTAKE CREATE・発売元PLAYISMを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "platform-8",
+    "title": "8番のりば",
+    "titleKana": "はちばんのりば",
+    "developerIds": [
+      "kotake-create"
+    ],
+    "publisherId": "playism",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2024-11-28",
+    "synopsis": "『8番出口』と同じ作者による、走行中の電車を舞台にした続編。車内で異変を見つけたら次の車両へ進まず引き返すという構造は共通するが、閉じた列車という設定を活かした演出が増えている。前作より不条理さの度合いが強い作りになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元KOTAKE CREATE・発売元PLAYISMを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "eiyuden-chronicle-hundred-heroes",
+    "title": "百英雄伝",
+    "titleKana": "ひゃくえいゆうでん",
+    "developerIds": [
+      "rabbit-and-bear-studios"
+    ],
+    "publisherId": "505-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "strategy"
+    ],
+    "releaseDate": "2024-04-23",
+    "synopsis": "『幻想水滸伝』の制作陣が集って作ったRPG。100人以上の仲間を集めて拠点を育て、帝国の侵攻に抗う。1対1の決闘や軍勢同士の戦いといった複数の戦闘形式を持ち、誰を仲間にしたかが物語と拠点の姿に反映される作りになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Rabbit & Bear Studios・発売元505 Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "eiyuden-chronicle-rising",
+    "title": "百英雄伝 Rising",
+    "titleKana": "ひゃくえいゆうでんらいじんぐ",
+    "developerIds": [
+      "rabbit-and-bear-studios"
+    ],
+    "publisherId": "505-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2022-05-10",
+    "synopsis": "『百英雄伝』の前日譚にあたる横スクロールのアクションRPG。レンズを求めて辺境の町ニューネヴァエへ来た冒険者CJが、町の復興を手伝いながら遺跡へ潜る。3人のキャラクターを瞬時に切り替えて連携する戦闘と、町づくりの要素が組み合わさっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Rabbit & Bear Studios・発売元505 Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "neo-the-world-ends-with-you",
+    "title": "新すばらしきこのせかい",
+    "titleKana": "しんすばらしきこのせかい",
+    "developerIds": [
+      "hand-inc",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2021-07-26",
+    "synopsis": "渋谷を舞台にしたアクションRPGの続編。「死神のゲーム」に巻き込まれた高校生リンドウたちが、生き残りを賭けて1週間ごとの課題に挑む。バッジで得た能力を割り当てて戦うシリーズ独自の戦闘と、実在の街並みを写した渋谷の描写が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元h.a.n.d./スクウェア・エニックス・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "world-ends-with-you-final-remix",
+    "title": "すばらしきこのせかい -Final Remix-",
+    "titleKana": "すばらしきこのせかいふぁいなるりみっくす",
+    "developerIds": [
+      "hand-inc"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2018-09-27",
+    "synopsis": "2007年のニンテンドーDS用作品を移植した版。渋谷で目覚めた少年ネクが、記憶を失ったまま「死神のゲーム」に参加させられる。2画面での同時操作だった原作の戦闘を1画面向けに作り直し、新規シナリオ「A new day」を収録している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元h.a.n.d.・発売元任天堂/スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "voice-of-cards",
+    "title": "Voice of Cards ドラゴンの島",
+    "titleKana": "ゔぉいすおぶかーずどらごんのしま",
+    "developerIds": [
+      "alim",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "deck-building"
+    ],
+    "releaseDate": "2021-10-27",
+    "synopsis": "すべての場面をカードで表現するRPG。地図も敵も仲間もカードとして卓上に並び、進行役の語りに合わせてめくられていく。テーブルトークRPGの体裁をとりつつ、ヨコオタロウが手がける皮肉の効いた筋書きと岡部啓一の音楽が組み合わされている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元アリム/スクウェア・エニックス・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ib",
+    "title": "Ib",
+    "titleKana": "いぶ",
+    "developerIds": [
+      "kouri"
+    ],
+    "publisherId": "playism",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2023-03-09",
+    "synopsis": "美術館を訪れた少女イヴが、絵画の中の異世界に閉じ込められるホラーアドベンチャー。展示作品が動き出す不気味な空間を、少年ギャリーと少女メアリーとともに歩く。仕掛けを解いて出口を探す構成で、同行者への接し方によって結末が変わる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元kouri・発売元PLAYISMを確認。原典は2012年のフリーゲーム。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "unreal-life",
+    "title": "アンリアルライフ",
+    "titleKana": "あんりあるらいふ",
+    "developerIds": [
+      "hako-seikatsu"
+    ],
+    "publisherId": "room6",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2020-05-14",
+    "synopsis": "記憶を失った少女ハルが、触れた物の記憶を読み取る力を頼りに先生を探すドット絵のアドベンチャー。信号機のような相棒195号と夜の街を歩き、断片的な記憶を拾い集めて自分に何が起きたのかを組み立てていく。静かな語り口と色彩設計が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元ハコ生活・発売元Room6等を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "va-11-hall-a",
+    "title": "VA-11 Hall-A",
+    "titleKana": "ばるはら",
+    "developerIds": [
+      "sukeban-games"
+    ],
+    "publisherId": "ysbryd-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "simulation"
+    ],
+    "releaseDate": "2019-05-02",
+    "synopsis": "企業に支配されたディストピア都市の場末のバーで、バーテンダーのジルが客の話を聞くアドベンチャー。操作するのはカクテルを作ることだけで、何をどう出すかによって客の口が軽くなったり話が逸れたりする。事件は語られる噂の形でのみ届く。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元SUKEBAN・発売元Ysbryd Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "coffee-talk",
+    "title": "Coffee Talk",
+    "titleKana": "こーひーとーく",
+    "developerIds": [
+      "toge-productions"
+    ],
+    "publisherId": "toge-productions",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "simulation"
+    ],
+    "releaseDate": "2020-01-29",
+    "synopsis": "エルフや吸血鬼が人間と共存するシアトルの深夜喫茶を舞台にしたアドベンチャー。店主として飲み物を作り、悩みを抱えた常連の話に耳を傾ける。ラテアートを描く操作以外に難しい要素はなく、雨音とローファイな音楽が全編を覆っている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Toge Productionsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wandersong",
+    "title": "Wandersong",
+    "titleKana": "わんだーそんぐ",
+    "developerIds": [
+      "wishes-unlimited"
+    ],
+    "publisherId": "humble-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "platformer",
+      "rhythm-action"
+    ],
+    "releaseDate": "2018-09-27",
+    "synopsis": "世界の終わりを止めるため、勇者ではなく吟遊詩人が旅立つアドベンチャー。戦う手段はなく、方角を選んで歌うことだけが唯一の操作で、歌によって扉を開き人の心を動かす。明るい絵柄の裏で、英雄になれない者の物語が丁寧に語られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Wishes Ultd.・発売元Humble Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "astlibra-revision",
+    "title": "ASTLIBRA Revision",
+    "titleKana": "あすとりぶらりゔぃじょん",
+    "developerIds": [
+      "keizo"
+    ],
+    "publisherId": "whispergames",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "platformer"
+    ],
+    "releaseDate": "2023-11-16",
+    "synopsis": "個人が十数年をかけて作り上げた横スクロールのアクションRPG。故郷を失った青年が、しゃべるカラスとともに時を巡る旅に出る。装備を組み合わせて能力を継承する独自の成長システムと、章を追うごとに規模が膨らんでいく筋書きが特徴になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元KEIZO・発売元WhisperGamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
