@@ -1,4 +1,20 @@
 {
+  "007-first-light": {
+    "title": "007 First Light",
+    "matchedTitle": "007 First Light",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaoiz.jpg",
+    "itemUrl": "https://www.igdb.com/games/007-first-light",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:39.709Z"
+  },
+  "1-2-switch": {
+    "title": "1-2-Switch",
+    "matchedTitle": "1-2-Switch",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co21q3.jpg",
+    "itemUrl": "https://www.igdb.com/games/1-2-switch",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:21.145Z"
+  },
   "2xko": {
     "title": "2XKO",
     "matchedTitle": "2XKO",
@@ -6,6 +22,14 @@
     "itemUrl": "https://www.igdb.com/games/2xko",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:36.801Z"
+  },
+  "a-little-to-the-left": {
+    "title": "A Little to the Left",
+    "matchedTitle": "A Little to the Left",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co887d.jpg",
+    "itemUrl": "https://www.igdb.com/games/a-little-to-the-left",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:07.280Z"
   },
   "a-plague-tale-requiem": {
     "title": "A Plague Tale: Requiem",
@@ -15,6 +39,38 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:44.682Z"
   },
+  "a-short-hike": {
+    "title": "A Short Hike",
+    "matchedTitle": "A Short Hike",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6e83.jpg",
+    "itemUrl": "https://www.igdb.com/games/a-short-hike",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:36.363Z"
+  },
+  "absolum": {
+    "title": "Absolum",
+    "matchedTitle": "Absolum",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coatin.jpg",
+    "itemUrl": "https://www.igdb.com/games/absolum",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:20.479Z"
+  },
+  "ace-attorney-investigations-collection": {
+    "title": "逆転検事1&2 御剣セレクション",
+    "matchedTitle": "カプコン 【Switch】逆転検事1＆2 御剣セレクション [HAC-P-BG9VA NSW ギャクテンケンジ1＆2]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0376/4976219128681.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4976219128681-54-46584-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:44:19.942Z"
+  },
+  "ace-combat-7": {
+    "title": "ACE COMBAT 7: SKIES UNKNOWN",
+    "matchedTitle": "Ace Combat 7: Skies Unknown",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1ilk.jpg",
+    "itemUrl": "https://www.igdb.com/games/ace-combat-7-skies-unknown",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:16.639Z"
+  },
   "advance-wars-1-2-reboot-camp": {
     "title": "アドバンスウォーズ1+2 リブートキャンプ",
     "matchedTitle": "Nintendo Switch ソフト アドバンスウォーズ1+2 リブートキャンプ ターン制戦略シミュレーションゲーム 陸海空軍ユニット指揮 2つのキャンペーン収録 最大4人対戦対応 陣取り 戦略ゲーム スイッ",
@@ -22,6 +78,14 @@
     "itemUrl": "https://item.rakuten.co.jp/formira88/mnd-3osdjyn1nrvt6hzv/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:43.654Z"
+  },
+  "afterimage": {
+    "title": "Afterimage",
+    "matchedTitle": "Afterimage",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8o70.jpg",
+    "itemUrl": "https://www.igdb.com/games/afterimage",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:49.071Z"
   },
   "age-of-wonders-4": {
     "title": "Age of Wonders 4",
@@ -31,6 +95,30 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:30.991Z"
   },
+  "ai-limit": {
+    "title": "AI LIMIT",
+    "matchedTitle": "AI Limit",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8yk3.jpg",
+    "itemUrl": "https://www.igdb.com/games/ai-limit",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:20.849Z"
+  },
+  "ai-the-somnium-files": {
+    "title": "AI: ソムニウムファイル",
+    "matchedTitle": "AI: The Somnium Files",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobbvz.jpg",
+    "itemUrl": "https://www.igdb.com/games/ai-the-somnium-files",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:12.569Z"
+  },
+  "ai-the-somnium-files-nirvana-initiative": {
+    "title": "AI: ソムニウムファイル ニルヴァーナ イニシアチブ",
+    "matchedTitle": "AI: The Somnium Files - Nirvana Initiative",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobbw0.jpg",
+    "itemUrl": "https://www.igdb.com/games/ai-the-somnium-files-nirvana-initiative",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:15.933Z"
+  },
   "alan-wake-2": {
     "title": "Alan Wake 2",
     "matchedTitle": "Alan Wake II",
@@ -38,6 +126,14 @@
     "itemUrl": "https://www.igdb.com/games/alan-wake-ii",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:53.980Z"
+  },
+  "alien-isolation": {
+    "title": "Alien: Isolation",
+    "matchedTitle": "Alien: Isolation",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1vzu.jpg",
+    "itemUrl": "https://www.igdb.com/games/alien-isolation",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:09.409Z"
   },
   "alone-in-the-dark-2024": {
     "title": "Alone in the Dark",
@@ -55,6 +151,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:47.057Z"
   },
+  "among-us": {
+    "title": "Among Us",
+    "matchedTitle": "Among Us",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6kqt.jpg",
+    "itemUrl": "https://www.igdb.com/games/among-us",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:59.342Z"
+  },
   "animal-crossing-new-horizons": {
     "title": "あつまれ どうぶつの森",
     "matchedTitle": "Animal Crossing: New Horizons",
@@ -70,6 +174,62 @@
     "itemUrl": "https://www.igdb.com/games/animal-well",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:36.931Z"
+  },
+  "anno-1800-console": {
+    "title": "Anno 1800 Console Edition",
+    "matchedTitle": "Anno 1800: Console Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co69jr.jpg",
+    "itemUrl": "https://www.igdb.com/games/anno-1800-console-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:32.765Z"
+  },
+  "anonymous-code": {
+    "title": "ANONYMOUS;CODE",
+    "matchedTitle": "Anonymous;Code",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co71xq.jpg",
+    "itemUrl": "https://www.igdb.com/games/anonymous-code",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:22.550Z"
+  },
+  "another-code-recollection": {
+    "title": "Another Code: リコレクション 2つの記憶",
+    "matchedTitle": "Another Code: Recollection",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co72z3.jpg",
+    "itemUrl": "https://www.igdb.com/games/another-code-recollection",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:28.126Z"
+  },
+  "another-crabs-treasure": {
+    "title": "Another Crab's Treasure",
+    "matchedTitle": "Another Crab's Treasure",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6mrs.jpg",
+    "itemUrl": "https://www.igdb.com/games/another-crabs-treasure",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:22.324Z"
+  },
+  "apex-legends": {
+    "title": "Apex Legends",
+    "matchedTitle": "Apex Legends",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc1di.jpg",
+    "itemUrl": "https://www.igdb.com/games/apex-legends",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:42.224Z"
+  },
+  "apollo-justice-trilogy": {
+    "title": "逆転裁判456 王泥喜セレクション",
+    "matchedTitle": "カプコン 【Switch】逆転裁判456 王泥喜セレクション [HAC-P-BC9UA NSW ギャクテンサイバン456]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0116/4976219125420.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4976219125420-54-46584-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:44:14.804Z"
+  },
+  "arma-reforger": {
+    "title": "Arma Reforger",
+    "matchedTitle": "Arma Reforger",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa97g.jpg",
+    "itemUrl": "https://www.igdb.com/games/arma-reforger",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:39.731Z"
   },
   "armored-core-6-fires-of-rubicon": {
     "title": "アーマード・コアVI ファイアーズ オブ ルビコン",
@@ -119,6 +279,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:56.613Z"
   },
+  "astlibra-revision": {
+    "title": "ASTLIBRA Revision",
+    "matchedTitle": "Astlibra Revision",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4wvq.jpg",
+    "itemUrl": "https://www.igdb.com/games/astlibra-revision",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:22.917Z"
+  },
   "astral-chain": {
     "title": "アストラルチェイン",
     "matchedTitle": "Astral Chain",
@@ -151,6 +319,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:09.070Z"
   },
+  "atelier-ryza-dx": {
+    "title": "ライザのアトリエ ～常闇の女王と秘密の隠れ家～ DX",
+    "matchedTitle": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob9id.jpg",
+    "itemUrl": "https://www.igdb.com/games/atelier-ryza-3-alchemist-of-the-end-and-the-secret-key",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:50.034Z"
+  },
   "atelier-yumia": {
     "title": "ユミアのアトリエ 〜追憶の錬金術士と幻創の地〜",
     "matchedTitle": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
@@ -166,6 +342,38 @@
     "itemUrl": "https://www.igdb.com/games/atomic-heart",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:03.144Z"
+  },
+  "avatar-frontiers-of-pandora": {
+    "title": "アバター：フロンティア・オブ・パンドラ",
+    "matchedTitle": "Avatar: Frontiers of Pandora",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9oe3.jpg",
+    "itemUrl": "https://www.igdb.com/games/avatar-frontiers-of-pandora",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:47.177Z"
+  },
+  "axiom-verge-2": {
+    "title": "Axiom Verge 2",
+    "matchedTitle": "Axiom Verge 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3k3x.jpg",
+    "itemUrl": "https://www.igdb.com/games/axiom-verge-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:41.761Z"
+  },
+  "baba-is-you": {
+    "title": "Baba Is You",
+    "matchedTitle": "Baba Is You",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2hqt.jpg",
+    "itemUrl": "https://www.igdb.com/games/baba-is-you",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:29.607Z"
+  },
+  "back-4-blood": {
+    "title": "Back 4 Blood",
+    "matchedTitle": "Back 4 Blood",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2mhj.jpg",
+    "itemUrl": "https://www.igdb.com/games/back-4-blood",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:28.555Z"
   },
   "balatro": {
     "title": "Balatro",
@@ -199,6 +407,30 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:25:51.447Z"
   },
+  "battlefield-2042": {
+    "title": "Battlefield 2042",
+    "matchedTitle": "Battlefield 2042",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7dfn.jpg",
+    "itemUrl": "https://www.igdb.com/games/battlefield-2042",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:39.541Z"
+  },
+  "battlefield-6": {
+    "title": "Battlefield 6",
+    "matchedTitle": "Battlefield 6",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa5zt.jpg",
+    "itemUrl": "https://www.igdb.com/games/battlefield-6",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:40.888Z"
+  },
+  "bayonetta-2": {
+    "title": "ベヨネッタ2",
+    "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[Switch] ベヨネッタ2(BAYONETTA 2) 通常版 任天堂 (20180217)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediaworldkaitoriworld/cabinet/1046/0/cg10460081.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10460081001/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:43:18.160Z"
+  },
   "bayonetta-3": {
     "title": "ベヨネッタ3",
     "matchedTitle": "Bayonetta 3",
@@ -231,6 +463,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:04:30.384Z"
   },
+  "blasphemous": {
+    "title": "ブラスフェマス",
+    "matchedTitle": "Blasphemous",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob0xj.jpg",
+    "itemUrl": "https://www.igdb.com/games/blasphemous",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:57.654Z"
+  },
   "blasphemous-2": {
     "title": "ブラスフェマス2",
     "matchedTitle": "Blasphemous II",
@@ -247,6 +487,46 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:25.233Z"
   },
+  "bleak-sword-dx": {
+    "title": "Bleak Sword DX",
+    "matchedTitle": "Bleak Sword DX",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co65c8.jpg",
+    "itemUrl": "https://www.igdb.com/games/bleak-sword-dx",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:27.911Z"
+  },
+  "bloodstained-curse-of-the-moon": {
+    "title": "Bloodstained: Curse of the Moon",
+    "matchedTitle": "Bloodstained: Curse of the Moon",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cockca.jpg",
+    "itemUrl": "https://www.igdb.com/games/bloodstained-curse-of-the-moon",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:44.585Z"
+  },
+  "bloodstained-curse-of-the-moon-2": {
+    "title": "Bloodstained: Curse of the Moon 2",
+    "matchedTitle": "Bloodstained: Curse of the Moon 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobax6.jpg",
+    "itemUrl": "https://www.igdb.com/games/bloodstained-curse-of-the-moon-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:46.083Z"
+  },
+  "bloodstained-ritual-of-the-night": {
+    "title": "Bloodstained: Ritual of the Night",
+    "matchedTitle": "Bloodstained: Ritual of the Night",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobc4a.jpg",
+    "itemUrl": "https://www.igdb.com/games/bloodstained-ritual-of-the-night",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:56.319Z"
+  },
+  "blue-prince": {
+    "title": "Blue Prince",
+    "matchedTitle": "Blue Prince",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9mzd.jpg",
+    "itemUrl": "https://www.igdb.com/games/blue-prince",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:57.635Z"
+  },
   "bomb-rush-cyberfunk": {
     "title": "Bomb Rush Cyberfunk",
     "matchedTitle": "Bomb Rush Cyberfunk",
@@ -254,6 +534,14 @@
     "itemUrl": "https://www.igdb.com/games/bomb-rush-cyberfunk",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:40.881Z"
+  },
+  "borderlands-4": {
+    "title": "ボーダーランズ4",
+    "matchedTitle": "[メール便OK]【新品】【PS5】ボーダーランズ4[在庫品]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/machida/cabinet/img10860000/10867016.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/machida/4571304479244/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:48:09.901Z"
   },
   "botany-manor": {
     "title": "Botany Manor",
@@ -303,6 +591,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:28.566Z"
   },
+  "call-of-duty-modern-warfare-2-2022": {
+    "title": "Call of Duty: Modern Warfare II",
+    "matchedTitle": "Call of Duty: Modern Warfare II",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4sbw.jpg",
+    "itemUrl": "https://www.igdb.com/games/call-of-duty-modern-warfare-ii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:37.055Z"
+  },
+  "call-of-duty-modern-warfare-3-2023": {
+    "title": "Call of Duty: Modern Warfare III",
+    "matchedTitle": "Call of Duty: Modern Warfare III",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7ctx.jpg",
+    "itemUrl": "https://www.igdb.com/games/call-of-duty-modern-warfare-iii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:38.209Z"
+  },
   "capcom-fighting-collection-2": {
     "title": "カプコン ファイティング コレクション2",
     "matchedTitle": "Capcom Fighting Collection 2",
@@ -327,6 +631,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:55.009Z"
   },
+  "carrion": {
+    "title": "CARRION",
+    "matchedTitle": "Carrion",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2eau.jpg",
+    "itemUrl": "https://www.igdb.com/games/carrion",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:44.544Z"
+  },
+  "case-of-the-golden-idol": {
+    "title": "The Case of the Golden Idol",
+    "matchedTitle": "The Case of the Golden Idol",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9tog.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-case-of-the-golden-idol",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:28.488Z"
+  },
   "cassette-beasts": {
     "title": "カセットビースト",
     "matchedTitle": "Cassette Beasts",
@@ -334,6 +654,22 @@
     "itemUrl": "https://www.igdb.com/games/cassette-beasts",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:24:11.862Z"
+  },
+  "castlevania-advance-collection": {
+    "title": "悪魔城ドラキュラ アドバンスコレクション",
+    "matchedTitle": "【中古】（新古品） 悪魔城ドラキュラ アドバンス コレクション switchパッケージ版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bearhomes/cabinet/11669407/3567eb704781eb4.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bearhomes/2025-04-01-473/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:48:51.360Z"
+  },
+  "castlevania-dominus-collection": {
+    "title": "悪魔城ドラキュラ ドミナスコレクション",
+    "matchedTitle": "Castlevania Dominus Collection",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob9xk.jpg",
+    "itemUrl": "https://www.igdb.com/games/castlevania-dominus-collection",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:42.035Z"
   },
   "celeste": {
     "title": "Celeste",
@@ -358,6 +694,14 @@
     "itemUrl": "https://www.igdb.com/games/chants-of-sennaar",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:39.548Z"
+  },
+  "chaos-head-noah": {
+    "title": "CHAOS;HEAD NOAH",
+    "matchedTitle": "Chaos;Head Noah",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3gu4.jpg",
+    "itemUrl": "https://www.igdb.com/games/chaos-head-noah",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:21.068Z"
   },
   "chicory-a-colorful-tale": {
     "title": "Chicory: A Colorful Tale",
@@ -391,6 +735,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:25:00.003Z"
   },
+  "cities-skylines-2": {
+    "title": "Cities: Skylines II",
+    "matchedTitle": "Cities: Skylines II",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaasz.jpg",
+    "itemUrl": "https://www.igdb.com/games/cities-skylines-ii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:24.595Z"
+  },
   "civilization-6": {
     "title": "シヴィライゼーションVI",
     "matchedTitle": "Nintendo Switch ソフト Civilization VI シヴィライゼーション6 北米版 海外版 シミュレーション ストラテジー ゲーム スイッチ スイッチソフト ターン制 戦略 帝国建設 拡張 資源管理 領土拡大 箱庭",
@@ -423,6 +775,46 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:30.928Z"
   },
+  "code-vein-2": {
+    "title": "CODE VEIN II",
+    "matchedTitle": "Code Vein II",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xhi.jpg",
+    "itemUrl": "https://www.igdb.com/games/code-vein-ii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:13.707Z"
+  },
+  "coffee-talk": {
+    "title": "Coffee Talk",
+    "matchedTitle": "Coffee Talk",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co55rx.jpg",
+    "itemUrl": "https://www.igdb.com/games/coffee-talk",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:20.145Z"
+  },
+  "coffee-talk-episode-2": {
+    "title": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "matchedTitle": "Coffee Talk: Episode 2 - Hibiscus & Butterfly",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4p7r.jpg",
+    "itemUrl": "https://www.igdb.com/games/coffee-talk-episode-2-hibiscus-and-butterfly",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:55.776Z"
+  },
+  "contra-operation-galuga": {
+    "title": "魂斗羅 オペレーション ガルガ",
+    "matchedTitle": "Contra: Operation Galuga",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co72z7.jpg",
+    "itemUrl": "https://www.igdb.com/games/contra-operation-galuga",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:56.503Z"
+  },
+  "crash-bandicoot-4": {
+    "title": "クラッシュ・バンディクー4 とんでもマルチバース",
+    "matchedTitle": "【中古】(非常に良い)クラッシュ・バンディクー4: とんでもマルチバース -Switch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/goodlifestore/cabinet/25072400-1/b08wd8khgc.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/goodlifestore/hb08wd8khgc/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:50:38.824Z"
+  },
   "crash-bandicoot-n-sane-trilogy": {
     "title": "クラッシュ・バンディクー ブッとび3段もり！",
     "matchedTitle": "Crash Bandicoot N. Sane Trilogy: Bonus Edition",
@@ -430,6 +822,38 @@
     "itemUrl": "https://www.igdb.com/games/crash-bandicoot-n-sane-trilogy-bonus-edition",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:39:44.853Z"
+  },
+  "crash-team-racing-nitro-fueled": {
+    "title": "クラッシュ・バンディクー ブッとびレーシング",
+    "matchedTitle": "Crash Team Racing Nitro-Fueled",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2wvy.jpg",
+    "itemUrl": "https://www.igdb.com/games/crash-team-racing-nitro-fueled",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:43.522Z"
+  },
+  "crash-team-rumble": {
+    "title": "Crash Team Rumble",
+    "matchedTitle": "Crash Team Rumble",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7zhi.jpg",
+    "itemUrl": "https://www.igdb.com/games/crash-team-rumble",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:39.915Z"
+  },
+  "crimson-desert": {
+    "title": "Crimson Desert",
+    "matchedTitle": "Crimson Desert",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaqai.jpg",
+    "itemUrl": "https://www.igdb.com/games/crimson-desert",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:41.029Z"
+  },
+  "crisis-core-ff7-reunion": {
+    "title": "クライシス コア -ファイナルファンタジーVII- リユニオン",
+    "matchedTitle": "クライシス コア -ファイナルファンタジーVII- リユニオン -Switch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/eitoshop07/cabinet/onesell195/mdc3a1039885.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/eitoshop07/mdc3a1039885/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:43:35.331Z"
   },
   "crow-country": {
     "title": "Crow Country",
@@ -471,6 +895,38 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:34:37.365Z"
   },
+  "danganronpa-decadence": {
+    "title": "ダンガンロンパ Decadence",
+    "matchedTitle": "Danganronpa: Decadence",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob82e.jpg",
+    "itemUrl": "https://www.igdb.com/games/danganronpa-decadence",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:40.577Z"
+  },
+  "dark-pictures-house-of-ashes": {
+    "title": "THE DARK PICTURES ANTHOLOGY: HOUSE OF ASHES",
+    "matchedTitle": "The Dark Pictures Anthology: House of Ashes",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coamyk.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-dark-pictures-anthology-house-of-ashes",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:03.909Z"
+  },
+  "dark-pictures-man-of-medan": {
+    "title": "THE DARK PICTURES ANTHOLOGY: MAN OF MEDAN",
+    "matchedTitle": "The Dark Pictures Anthology: Man of Medan",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1omz.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-dark-pictures-anthology-man-of-medan",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:05.270Z"
+  },
+  "dark-souls-remastered": {
+    "title": "DARK SOULS REMASTERED",
+    "matchedTitle": "Dark Souls: Remastered",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobazz.jpg",
+    "itemUrl": "https://www.igdb.com/games/dark-souls-remastered",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:25.136Z"
+  },
   "dave-the-diver": {
     "title": "Dave the Diver",
     "matchedTitle": "Dave the Diver",
@@ -495,6 +951,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:25:50.040Z"
   },
+  "dead-by-daylight": {
+    "title": "Dead by Daylight",
+    "matchedTitle": "Dead by Daylight",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5zky.jpg",
+    "itemUrl": "https://www.igdb.com/games/dead-by-daylight",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:52.400Z"
+  },
   "dead-cells": {
     "title": "Dead Cells",
     "matchedTitle": "Dead Cells",
@@ -510,6 +974,14 @@
     "itemUrl": "https://www.igdb.com/games/dead-island-2",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:59.278Z"
+  },
+  "dead-rising-deluxe-remaster": {
+    "title": "デッドライジング デラックスリマスター",
+    "matchedTitle": "Dead Rising Deluxe Remaster",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8h05.jpg",
+    "itemUrl": "https://www.igdb.com/games/dead-rising-deluxe-remaster",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:22.736Z"
   },
   "dead-space-2023": {
     "title": "Dead Space",
@@ -551,6 +1023,46 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:44.635Z"
   },
+  "deep-rock-galactic": {
+    "title": "Deep Rock Galactic",
+    "matchedTitle": "Deep Rock Galactic",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaat4.jpg",
+    "itemUrl": "https://www.igdb.com/games/deep-rock-galactic",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:24.239Z"
+  },
+  "delta-force-2025": {
+    "title": "Delta Force",
+    "matchedTitle": "Delta Force",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa98y.jpg",
+    "itemUrl": "https://www.igdb.com/games/delta-force--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:53.291Z"
+  },
+  "deltarune": {
+    "title": "DELTARUNE",
+    "matchedTitle": "Deltarune",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9m71.jpg",
+    "itemUrl": "https://www.igdb.com/games/deltarune",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:28.483Z"
+  },
+  "demon-slayer-hinokami-chronicles": {
+    "title": "鬼滅の刃 ヒノカミ血風譚",
+    "matchedTitle": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3dlc.jpg",
+    "itemUrl": "https://www.igdb.com/games/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:02.959Z"
+  },
+  "demon-slayer-hinokami-chronicles-2": {
+    "title": "鬼滅の刃 ヒノカミ血風譚2",
+    "matchedTitle": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa6vz.jpg",
+    "itemUrl": "https://www.igdb.com/games/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:04.447Z"
+  },
   "demons-souls": {
     "title": "Demon's Souls",
     "matchedTitle": "Demon's Souls",
@@ -558,6 +1070,22 @@
     "itemUrl": "https://www.igdb.com/games/demons-souls",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:32.633Z"
+  },
+  "destiny-2": {
+    "title": "Destiny 2",
+    "matchedTitle": "Destiny 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc89g.jpg",
+    "itemUrl": "https://www.igdb.com/games/destiny-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:43.360Z"
+  },
+  "destruction-allstars": {
+    "title": "Destruction AllStars",
+    "matchedTitle": "Destruction AllStars",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2gw6.jpg",
+    "itemUrl": "https://www.igdb.com/games/destruction-allstars",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:00.502Z"
   },
   "detective-pikachu-returns": {
     "title": "帰ってきた名探偵ピカチュウ",
@@ -591,6 +1119,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:09.747Z"
   },
+  "digimon-story-time-stranger": {
+    "title": "デジモンストーリー タイムストレンジャー",
+    "matchedTitle": "Digimon Story: Time Stranger",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coakzr.jpg",
+    "itemUrl": "https://www.igdb.com/games/digimon-story-time-stranger",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:20.629Z"
+  },
+  "digimon-survive": {
+    "title": "デジモンサヴァイブ",
+    "matchedTitle": "Digimon Survive",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co527f.jpg",
+    "itemUrl": "https://www.igdb.com/games/digimon-survive",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:19.313Z"
+  },
   "diofield-chronicle": {
     "title": "The DioField Chronicle",
     "matchedTitle": "The DioField Chronicle",
@@ -606,6 +1150,14 @@
     "itemUrl": "https://www.igdb.com/games/disco-elysium-the-final-cut",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:25.743Z"
+  },
+  "disgaea-5-complete": {
+    "title": "魔界戦記ディスガイア5",
+    "matchedTitle": "Disgaea 5 Complete",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6jcb.jpg",
+    "itemUrl": "https://www.igdb.com/games/disgaea-5-complete",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:45.003Z"
   },
   "disgaea-6": {
     "title": "魔界戦記ディスガイア6",
@@ -623,6 +1175,46 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:01.699Z"
   },
+  "disney-dreamlight-valley": {
+    "title": "ディズニー ドリームライトバレー",
+    "matchedTitle": "Disney Dreamlight Valley",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4p0c.jpg",
+    "itemUrl": "https://www.igdb.com/games/disney-dreamlight-valley",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:34.935Z"
+  },
+  "disney-illusion-island": {
+    "title": "Disney Illusion Island",
+    "matchedTitle": "Disney Illusion Island",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6vch.jpg",
+    "itemUrl": "https://www.igdb.com/games/disney-illusion-island",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:36.234Z"
+  },
+  "disney-speedstorm": {
+    "title": "Disney Speedstorm",
+    "matchedTitle": "Disney Speedstorm",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6dth.jpg",
+    "itemUrl": "https://www.igdb.com/games/disney-speedstorm",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:41.387Z"
+  },
+  "divinity-original-sin-2": {
+    "title": "ディヴィニティ:オリジナル・シン2",
+    "matchedTitle": "ディヴィニティ:オリジナル・シン 2 ディフィニティブエディション",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/denkichiweb/cabinet/09000934/1713_6219e1256d7.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/denkichiweb/4940261516420/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:48:07.312Z"
+  },
+  "dnf-duel": {
+    "title": "DNF Duel",
+    "matchedTitle": "DNF Duel",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4kpk.jpg",
+    "itemUrl": "https://www.igdb.com/games/dnf-duel",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:07.283Z"
+  },
   "donkey-kong-bananza": {
     "title": "ドンキーコング バナンザ",
     "matchedTitle": "Donkey Kong Bananza",
@@ -631,6 +1223,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:05.944Z"
   },
+  "donkey-kong-country-returns-hd": {
+    "title": "ドンキーコング リターンズ HD",
+    "matchedTitle": "Donkey Kong Country Returns HD",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob9sh.jpg",
+    "itemUrl": "https://www.igdb.com/games/donkey-kong-country-returns-hd",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:24.131Z"
+  },
+  "doom-eternal": {
+    "title": "DOOM Eternal",
+    "matchedTitle": "Doom Eternal",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3p5n.jpg",
+    "itemUrl": "https://www.igdb.com/games/doom-eternal",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:53.871Z"
+  },
   "doom-the-dark-ages": {
     "title": "DOOM: The Dark Ages",
     "matchedTitle": "Doom: The Dark Ages",
@@ -638,6 +1246,14 @@
     "itemUrl": "https://www.igdb.com/games/doom-the-dark-ages",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:42.939Z"
+  },
+  "doraemon-story-of-seasons-2": {
+    "title": "ドラえもん のび太の牧場物語 大自然の王国とみんなの家",
+    "matchedTitle": "Doraemon Story of Seasons: Friends of the Great Kingdom",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4x7s.jpg",
+    "itemUrl": "https://www.igdb.com/games/doraemon-story-of-seasons-friends-of-the-great-kingdom",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:47.432Z"
   },
   "drag-x-drive": {
     "title": "Drag x Drive",
@@ -655,6 +1271,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:11.358Z"
   },
+  "dragon-ball-fighterz": {
+    "title": "ドラゴンボール ファイターズ",
+    "matchedTitle": "Dragon Ball FighterZ",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1nih.jpg",
+    "itemUrl": "https://www.igdb.com/games/dragon-ball-fighterz",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:00.303Z"
+  },
   "dragon-ball-sparking-zero": {
     "title": "ドラゴンボール Sparking! ZERO",
     "matchedTitle": "Dragon Ball: Sparking! Zero",
@@ -662,6 +1286,14 @@
     "itemUrl": "https://www.igdb.com/games/dragon-ball-sparking-zero",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:54.408Z"
+  },
+  "dragon-ball-z-kakarot": {
+    "title": "ドラゴンボールZ KAKAROT",
+    "matchedTitle": "バンダイナムコエンターテインメント 【Switch】ドラゴンボールZ KAKAROT + 新たなる覚醒セット [HAC-P-A2APA ドラゴンボールZ カカロット アラタナルカクセイセット]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1606/4582528473574.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4582528473574-54-40560-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:45:09.629Z"
   },
   "dragon-quest-1-2-hd-2d-remake": {
     "title": "ドラゴンクエストI＆II HD-2D リメイク",
@@ -678,6 +1310,22 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4988601010825-54-40561-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-04T01:26:14.870Z"
+  },
+  "dragon-quest-7-reimagined": {
+    "title": "ドラゴンクエストVII Reimagined",
+    "matchedTitle": "【Switch2専用】ドラゴンクエストVII Reimagined [POT-P-AASVA NSW2 ドラゴンクエスト 7 リイマジンド]　メール便",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/alljapan-online-shop/cabinet/switch2set/softimg/1932_87083.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/alljapan-online-shop/4988601012089/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:46:43.582Z"
+  },
+  "dragon-quest-builders-2": {
+    "title": "ドラゴンクエストビルダーズ2 破壊神シドーとからっぽの島",
+    "matchedTitle": "【中古】Switch ドラゴンクエストビルダーズ2　破壊神シドーとからっぽの島 (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/12/00058/0012843646.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet3/0012843646/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:43:43.194Z"
   },
   "dragon-quest-iii-hd-2d-remake": {
     "title": "ドラゴンクエストIII そして伝説へ…",
@@ -751,6 +1399,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:15.174Z"
   },
+  "ea-sports-fc-25": {
+    "title": "EA SPORTS FC 25",
+    "matchedTitle": "EA Sports FC 25",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa755.jpg",
+    "itemUrl": "https://www.igdb.com/games/ea-sports-fc-25",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:10.491Z"
+  },
+  "ea-sports-wrc": {
+    "title": "EA SPORTS WRC",
+    "matchedTitle": "EA Sports WRC",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7aqn.jpg",
+    "itemUrl": "https://www.igdb.com/games/ea-sports-wrc",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:17.366Z"
+  },
   "efootball": {
     "title": "eFootball",
     "matchedTitle": "eFootball",
@@ -758,6 +1422,22 @@
     "itemUrl": "https://www.igdb.com/games/efootball",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:09.536Z"
+  },
+  "eiyuden-chronicle-hundred-heroes": {
+    "title": "百英雄伝",
+    "matchedTitle": "Eiyuden Chronicle: Hundred Heroes",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co72zh.jpg",
+    "itemUrl": "https://www.igdb.com/games/eiyuden-chronicle-hundred-heroes",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:08.939Z"
+  },
+  "eiyuden-chronicle-rising": {
+    "title": "百英雄伝 Rising",
+    "matchedTitle": "Eiyuden Chronicle: Rising",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4sxy.jpg",
+    "itemUrl": "https://www.igdb.com/games/eiyuden-chronicle-rising",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:10.226Z"
   },
   "elden-ring": {
     "title": "ELDEN RING",
@@ -775,6 +1455,30 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:19.229Z"
   },
+  "emio-the-smiling-man": {
+    "title": "笑み男 ファミコン探偵倶楽部",
+    "matchedTitle": "Emio: The Smiling Man - Famicom Detective Club",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8ixy.jpg",
+    "itemUrl": "https://www.igdb.com/games/emio-the-smiling-man-famicom-detective-club--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:26.717Z"
+  },
+  "ender-lilies": {
+    "title": "ENDER LILIES: Quietus of the Knights",
+    "matchedTitle": "Ender Lilies: Quietus of the Knights",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9s9e.jpg",
+    "itemUrl": "https://www.igdb.com/games/ender-lilies-quietus-of-the-knights",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:53.552Z"
+  },
+  "ender-magnolia": {
+    "title": "ENDER MAGNOLIA: Bloom in the Mist",
+    "matchedTitle": "Ender Magnolia: Bloom in the Mist",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8gk1.jpg",
+    "itemUrl": "https://www.igdb.com/games/ender-magnolia-bloom-in-the-mist",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:55.036Z"
+  },
   "endless-ocean-luminous": {
     "title": "エンドレスオーシャン Luminous",
     "matchedTitle": "Endless Ocean: Luminous",
@@ -783,6 +1487,30 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:24:18.758Z"
   },
+  "enotria-the-last-song": {
+    "title": "Enotria: The Last Song",
+    "matchedTitle": "Enotria: The Last Song",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7nng.jpg",
+    "itemUrl": "https://www.igdb.com/games/enotria-the-last-song",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:17.927Z"
+  },
+  "enter-the-gungeon": {
+    "title": "Enter the Gungeon",
+    "matchedTitle": "Enter the Gungeon",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobl6c.jpg",
+    "itemUrl": "https://www.igdb.com/games/enter-the-gungeon",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:39.043Z"
+  },
+  "escape-academy": {
+    "title": "Escape Academy",
+    "matchedTitle": "Escape Academy",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4kjz.jpg",
+    "itemUrl": "https://www.igdb.com/games/escape-academy",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:54.571Z"
+  },
   "etrian-odyssey-origins-collection": {
     "title": "世界樹の迷宮 Origins Collection",
     "matchedTitle": "Etrian Odyssey: Origins Collection",
@@ -790,6 +1518,22 @@
     "itemUrl": "https://www.igdb.com/games/etrian-odyssey-origins-collection",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:25:02.890Z"
+  },
+  "evil-dead-the-game": {
+    "title": "Evil Dead: The Game",
+    "matchedTitle": "Evil Dead: The Game",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4nqj.jpg",
+    "itemUrl": "https://www.igdb.com/games/evil-dead-the-game--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:56.725Z"
+  },
+  "exoprimal": {
+    "title": "Exoprimal",
+    "matchedTitle": "Exoprimal",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co692f.jpg",
+    "itemUrl": "https://www.igdb.com/games/exoprimal",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:08.473Z"
   },
   "f-zero-99": {
     "title": "F-ZERO 99",
@@ -807,6 +1551,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:04.217Z"
   },
+  "f1-25": {
+    "title": "F1 25",
+    "matchedTitle": "F1 25",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9mk6.jpg",
+    "itemUrl": "https://www.igdb.com/games/f1-25",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:15.877Z"
+  },
   "faith-the-unholy-trinity": {
     "title": "FAITH: The Unholy Trinity",
     "matchedTitle": "Faith: The Unholy Trinity",
@@ -814,6 +1566,30 @@
     "itemUrl": "https://www.igdb.com/games/faith-the-unholy-trinity",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:38:42.324Z"
+  },
+  "fall-guys": {
+    "title": "Fall Guys",
+    "matchedTitle": "Fall Guys",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa7cs.jpg",
+    "itemUrl": "https://www.igdb.com/games/fall-guys",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:58.010Z"
+  },
+  "famicom-detective-club-girl-who-stands-behind": {
+    "title": "ファミコン探偵倶楽部 うしろに立つ少女",
+    "matchedTitle": "Famicom Detective Club: The Girl Who Stands Behind",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co30dh.jpg",
+    "itemUrl": "https://www.igdb.com/games/famicom-detective-club-the-girl-who-stands-behind",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:36.996Z"
+  },
+  "famicom-detective-club-missing-heir": {
+    "title": "ファミコン探偵倶楽部 消えた後継者",
+    "matchedTitle": "Famicom Detective Club: The Missing Heir",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co30df.jpg",
+    "itemUrl": "https://www.igdb.com/games/famicom-detective-club-the-missing-heir",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:11.810Z"
   },
   "fantasian-neo-dimension": {
     "title": "FANTASIAN Neo Dimension",
@@ -831,6 +1607,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:57:48.912Z"
   },
+  "far-cry-6": {
+    "title": "ファークライ6",
+    "matchedTitle": "Far Cry 6",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2npg.jpg",
+    "itemUrl": "https://www.igdb.com/games/far-cry-6",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:44.505Z"
+  },
   "farming-simulator-25": {
     "title": "Farming Simulator 25",
     "matchedTitle": "Farming Simulator 25",
@@ -846,6 +1630,14 @@
     "itemUrl": "https://www.igdb.com/games/fast-fusion",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:46.045Z"
+  },
+  "fatal-frame-maiden-of-black-water": {
+    "title": "零 〜濡鴉ノ巫女〜",
+    "matchedTitle": "Fatal Frame: Maiden of Black Water",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3zdo.jpg",
+    "itemUrl": "https://www.igdb.com/games/fatal-frame-maiden-of-black-water--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:02.605Z"
   },
   "fatal-frame-mask-of-the-lunar-eclipse": {
     "title": "零 〜月蝕の仮面〜",
@@ -943,6 +1735,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:47.613Z"
   },
+  "flintlock-the-siege-of-dawn": {
+    "title": "Flintlock: The Siege of Dawn",
+    "matchedTitle": "Flintlock: The Siege of Dawn",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co84rp.jpg",
+    "itemUrl": "https://www.igdb.com/games/flintlock-the-siege-of-dawn",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:16.371Z"
+  },
   "foamstars": {
     "title": "FOAMSTARS(フォームスターズ)",
     "matchedTitle": "Foamstars",
@@ -974,6 +1774,14 @@
     "itemUrl": "https://www.igdb.com/games/front-mission-2-remake",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:20.564Z"
+  },
+  "frostpunk-2": {
+    "title": "Frostpunk 2",
+    "matchedTitle": "Frostpunk 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8yrc.jpg",
+    "itemUrl": "https://www.igdb.com/games/frostpunk-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:27.392Z"
   },
   "fuga-melodies-of-steel-2": {
     "title": "Fuga: Melodies of Steel 2",
@@ -1007,6 +1815,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:07.009Z"
   },
+  "ghost-trick": {
+    "title": "ゴースト トリック",
+    "matchedTitle": "Ghost Trick: Phantom Detective",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob9sm.jpg",
+    "itemUrl": "https://www.igdb.com/games/ghost-trick-phantom-detective--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:21.260Z"
+  },
+  "ghostrunner-2": {
+    "title": "Ghostrunner 2",
+    "matchedTitle": "Ghostrunner II",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co97mh.jpg",
+    "itemUrl": "https://www.igdb.com/games/ghostrunner-ii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:48.179Z"
+  },
   "ghostwire-tokyo": {
     "title": "Ghostwire: Tokyo",
     "matchedTitle": "Ghostwire: Tokyo",
@@ -1015,6 +1839,30 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:16.506Z"
   },
+  "gnosia": {
+    "title": "グノーシア",
+    "matchedTitle": "Gnosia",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9458.jpg",
+    "itemUrl": "https://www.igdb.com/games/gnosia",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:03.466Z"
+  },
+  "goat-simulator-3": {
+    "title": "Goat Simulator 3",
+    "matchedTitle": "Goat Simulator 3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4uks.jpg",
+    "itemUrl": "https://www.igdb.com/games/goat-simulator-3",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:02.170Z"
+  },
+  "god-eater-3": {
+    "title": "GOD EATER 3",
+    "matchedTitle": "God Eater 3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1hg9.jpg",
+    "itemUrl": "https://www.igdb.com/games/god-eater-3",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:22.117Z"
+  },
   "god-of-war-ragnarok": {
     "title": "ゴッド・オブ・ウォー ラグナロク",
     "matchedTitle": "God of War Ragnarök: Digital Deluxe Edition",
@@ -1022,6 +1870,14 @@
     "itemUrl": "https://www.igdb.com/games/god-of-war-ragnarok-digital-deluxe-edition",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:03.598Z"
+  },
+  "gotham-knights": {
+    "title": "ゴッサム・ナイツ",
+    "matchedTitle": "Gotham Knights",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3s9z.jpg",
+    "itemUrl": "https://www.igdb.com/games/gotham-knights",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:52.504Z"
   },
   "gran-turismo-7": {
     "title": "グランツーリスモ7",
@@ -1055,6 +1911,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:04:49.940Z"
   },
+  "great-ace-attorney-chronicles": {
+    "title": "大逆転裁判1&2 -成歩堂龍ノ介の冒險と覺悟-",
+    "matchedTitle": "大逆転裁判1＆2　-成歩堂龍ノ介の冒險と覺悟ー Switch版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8484/4976219118484.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/16722349/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:44:17.308Z"
+  },
+  "gris": {
+    "title": "GRIS",
+    "matchedTitle": "Gris",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1qv5.jpg",
+    "itemUrl": "https://www.igdb.com/games/gris",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:32.440Z"
+  },
   "grounded": {
     "title": "Grounded",
     "matchedTitle": "Grounded",
@@ -1063,6 +1935,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:50.026Z"
   },
+  "guacamelee-2": {
+    "title": "Guacamelee! 2",
+    "matchedTitle": "Guacamelee! 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob232.jpg",
+    "itemUrl": "https://www.igdb.com/games/guacamelee-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:40.416Z"
+  },
   "guilty-gear-strive": {
     "title": "GUILTY GEAR -STRIVE-",
     "matchedTitle": "Guilty Gear: Strive",
@@ -1070,6 +1950,14 @@
     "itemUrl": "https://www.igdb.com/games/guilty-gear-strive",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:58.253Z"
+  },
+  "gundam-breaker-4": {
+    "title": "ガンダムブレイカー4",
+    "matchedTitle": "Gundam Breaker 4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co92s8.jpg",
+    "itemUrl": "https://www.igdb.com/games/gundam-breaker-4",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:15.272Z"
   },
   "hades": {
     "title": "Hades",
@@ -1102,6 +1990,14 @@
     "itemUrl": "https://www.igdb.com/games/have-a-nice-death",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:51.388Z"
+  },
+  "hell-let-loose": {
+    "title": "Hell Let Loose",
+    "matchedTitle": "Hell Let Loose",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc4gc.jpg",
+    "itemUrl": "https://www.igdb.com/games/hell-let-loose",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:38.601Z"
   },
   "helldivers-2": {
     "title": "HELLDIVERS 2",
@@ -1191,6 +2087,54 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:26.879Z"
   },
+  "humanity": {
+    "title": "Humanity",
+    "matchedTitle": "Humanity",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co66z7.jpg",
+    "itemUrl": "https://www.igdb.com/games/humanity",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:48.973Z"
+  },
+  "hunter-x-hunter-nen-impact": {
+    "title": "HUNTER×HUNTER NEN×IMPACT",
+    "matchedTitle": "Hunter x Hunter: Nen x Impact",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co84xx.jpg",
+    "itemUrl": "https://www.igdb.com/games/hunter-x-hunter-nen-x-impact",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:16.241Z"
+  },
+  "hyper-light-drifter": {
+    "title": "Hyper Light Drifter: Special Edition",
+    "matchedTitle": "Hyper Light Drifter: Special Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4dwx.jpg",
+    "itemUrl": "https://www.igdb.com/games/hyper-light-drifter-special-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:43.206Z"
+  },
+  "hyrule-warriors-age-of-calamity": {
+    "title": "ゼルダ無双 厄災の黙示録",
+    "matchedTitle": "Hyrule Warriors: Age of Calamity",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob22n.jpg",
+    "itemUrl": "https://www.igdb.com/games/hyrule-warriors-age-of-calamity",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:02.957Z"
+  },
+  "hyrule-warriors-age-of-imprisonment": {
+    "title": "ゼルダ無双 封印戦記",
+    "matchedTitle": "Hyrule Warriors: Age of Imprisonment",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob9n1.jpg",
+    "itemUrl": "https://www.igdb.com/games/hyrule-warriors-age-of-imprisonment",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:04.740Z"
+  },
+  "ib": {
+    "title": "Ib",
+    "matchedTitle": "Ib",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6nn3.jpg",
+    "itemUrl": "https://www.igdb.com/games/ib--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:16.188Z"
+  },
   "indiana-jones-and-the-great-circle": {
     "title": "Indiana Jones and the Great Circle",
     "matchedTitle": "Indiana Jones and the Great Circle",
@@ -1199,6 +2143,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:54.145Z"
   },
+  "inscryption": {
+    "title": "Inscryption",
+    "matchedTitle": "Inscryption",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co401c.jpg",
+    "itemUrl": "https://www.igdb.com/games/inscryption",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:00.457Z"
+  },
   "inside": {
     "title": "INSIDE",
     "matchedTitle": "Inside",
@@ -1206,6 +2158,14 @@
     "itemUrl": "https://www.igdb.com/games/inside",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:54.901Z"
+  },
+  "insurgency-sandstorm": {
+    "title": "Insurgency: Sandstorm",
+    "matchedTitle": "Insurgency: Sandstorm",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9m28.jpg",
+    "itemUrl": "https://www.igdb.com/games/insurgency-sandstorm",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:41.076Z"
   },
   "into-the-breach": {
     "title": "Into the Breach",
@@ -1231,6 +2191,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:13.584Z"
   },
+  "jojo-all-star-battle-r": {
+    "title": "ジョジョの奇妙な冒険 オールスターバトル R",
+    "matchedTitle": "JoJo’s Bizarre Adventure: All-Star Battle R",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4w41.jpg",
+    "itemUrl": "https://www.igdb.com/games/jojos-bizarre-adventure-all-star-battle-r",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:01.661Z"
+  },
   "judge-eyes-remastered": {
     "title": "JUDGE EYES：死神の遺言 Remastered",
     "matchedTitle": "【新品】PS5 JUDGE EYES:死神の遺言 Remastered【メール便】",
@@ -1239,6 +2207,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:02:22.586Z"
   },
+  "jujutsu-kaisen-cursed-clash": {
+    "title": "呪術廻戦 戦華双乱",
+    "matchedTitle": "Jujutsu Kaisen: Cursed Clash",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co77pe.jpg",
+    "itemUrl": "https://www.igdb.com/games/jujutsu-kaisen-cursed-clash",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:19.147Z"
+  },
+  "jurassic-world-evolution-2": {
+    "title": "Jurassic World Evolution 2",
+    "matchedTitle": "Jurassic World Evolution 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coabod.jpg",
+    "itemUrl": "https://www.igdb.com/games/jurassic-world-evolution-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:30.043Z"
+  },
   "jusant": {
     "title": "Jusant",
     "matchedTitle": "Jusant",
@@ -1246,6 +2230,14 @@
     "itemUrl": "https://www.igdb.com/games/jusant",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:42.004Z"
+  },
+  "just-dance-2025": {
+    "title": "Just Dance 2025 Edition",
+    "matchedTitle": "Just Dance 2025 Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8fhy.jpg",
+    "itemUrl": "https://www.igdb.com/games/just-dance-2025-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:26.478Z"
   },
   "katamari-damacy-reroll": {
     "title": "塊魂 リローデッド",
@@ -1271,6 +2263,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:50.129Z"
   },
+  "killer-klowns-from-outer-space": {
+    "title": "Killer Klowns from Outer Space: The Game",
+    "matchedTitle": "Killer Klowns from Outer Space: The Game",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co546i.jpg",
+    "itemUrl": "https://www.igdb.com/games/killer-klowns-from-outer-space-the-game",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:55.116Z"
+  },
+  "killing-floor-3": {
+    "title": "Killing Floor 3",
+    "matchedTitle": "Killing Floor III",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9f9j.jpg",
+    "itemUrl": "https://www.igdb.com/games/killing-floor-iii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:43.657Z"
+  },
   "kingdom-come-deliverance-2": {
     "title": "Kingdom Come: Deliverance II",
     "matchedTitle": "Kingdom Come: Deliverance II",
@@ -1294,6 +2302,14 @@
     "itemUrl": "https://www.igdb.com/games/kirby-and-the-forgotten-land",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:16.246Z"
+  },
+  "kirby-fighters-2": {
+    "title": "カービィファイターズ2",
+    "matchedTitle": "Kirby Fighters 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2xex.jpg",
+    "itemUrl": "https://www.igdb.com/games/kirby-fighters-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:29.340Z"
   },
   "kirby-star-allies": {
     "title": "星のカービィ スターアライズ",
@@ -1343,6 +2359,62 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:08:52.924Z"
   },
+  "labyrinth-of-galleria": {
+    "title": "ガレリアの地下迷宮と魔女ノ旅団",
+    "matchedTitle": "Labyrinth of Galleria: The Moon Society",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co68ur.jpg",
+    "itemUrl": "https://www.igdb.com/games/labyrinth-of-galleria-the-moon-society",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:43.700Z"
+  },
+  "layers-of-fear-2023": {
+    "title": "Layers of Fear",
+    "matchedTitle": "Layers of Fear",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6lnj.jpg",
+    "itemUrl": "https://www.igdb.com/games/layers-of-fear--2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:48.626Z"
+  },
+  "legend-of-mana": {
+    "title": "聖剣伝説 レジェンド オブ マナ",
+    "matchedTitle": "Legend of Mana",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2us6.jpg",
+    "itemUrl": "https://www.igdb.com/games/legend-of-mana--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:53:54.381Z"
+  },
+  "lego-2k-drive": {
+    "title": "LEGO 2K ドライブ",
+    "matchedTitle": "LEGO 2K Drive",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6ajx.jpg",
+    "itemUrl": "https://www.igdb.com/games/lego-2k-drive",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:25.181Z"
+  },
+  "lego-horizon-adventures": {
+    "title": "LEGO Horizon Adventures",
+    "matchedTitle": "LEGO Horizon Adventures",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8juk.jpg",
+    "itemUrl": "https://www.igdb.com/games/lego-horizon-adventures",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:33.326Z"
+  },
+  "lego-marvel-super-heroes-2": {
+    "title": "LEGO マーベル スーパー・ヒーローズ2",
+    "matchedTitle": "【中古】 LEGO　マーベル　スーパー・ヒーローズ2　ザ・ゲーム／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2360/0018983911l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0018983911/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:50:45.463Z"
+  },
+  "lego-star-wars-skywalker-saga": {
+    "title": "LEGO スター・ウォーズ/スカイウォーカー・サーガ",
+    "matchedTitle": "【中古】 LEGO　スター・ウォーズ／スカイウォーカー・サーガ／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/477/0019810228l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019810228/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:50:32.025Z"
+  },
   "lies-of-p": {
     "title": "Lies of P",
     "matchedTitle": "Lies of P",
@@ -1350,6 +2422,22 @@
     "itemUrl": "https://www.igdb.com/games/lies-of-p",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:46.081Z"
+  },
+  "life-is-strange-double-exposure": {
+    "title": "Life is Strange: Double Exposure",
+    "matchedTitle": "Life is Strange: Double Exposure",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8bp9.jpg",
+    "itemUrl": "https://www.igdb.com/games/life-is-strange-double-exposure",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:31.338Z"
+  },
+  "life-is-strange-true-colors": {
+    "title": "Life is Strange: True Colors",
+    "matchedTitle": "Life is Strange: True Colors",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2vpp.jpg",
+    "itemUrl": "https://www.igdb.com/games/life-is-strange-true-colors",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:29.844Z"
   },
   "like-a-dragon-7": {
     "title": "龍が如く7 光と闇の行方",
@@ -1375,6 +2463,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:57.813Z"
   },
+  "like-a-dragon-ishin": {
+    "title": "龍が如く 維新! 極",
+    "matchedTitle": "【中古】PS5龍が如く　維新！　極",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/zisyar1/0013654887.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet20/r0013654887/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:45:47.146Z"
+  },
   "like-a-dragon-pirate-yakuza-in-hawaii": {
     "title": "龍が如く 海賊たちのハワイ",
     "matchedTitle": "Like a Dragon: Pirate Yakuza in Hawaii",
@@ -1390,6 +2486,14 @@
     "itemUrl": "https://www.igdb.com/games/limbo",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:56.029Z"
+  },
+  "little-nightmares-2": {
+    "title": "リトルナイトメア2",
+    "matchedTitle": "リトルナイトメア2 Nintendo Switch 【ネコポス便】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/lcs-live/cabinet/living/07009866/08284617/4582528436494.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/lcs-live/10014480/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:42:43.152Z"
   },
   "little-nightmares-3": {
     "title": "Little Nightmares III",
@@ -1407,6 +2511,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-04T00:33:42.160Z"
   },
+  "loop-hero": {
+    "title": "Loop Hero",
+    "matchedTitle": "Loop Hero",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2mfy.jpg",
+    "itemUrl": "https://www.igdb.com/games/loop-hero",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:37.707Z"
+  },
   "lords-of-the-fallen-2023": {
     "title": "Lords of the Fallen",
     "matchedTitle": "Lords of the Fallen",
@@ -1422,6 +2534,14 @@
     "itemUrl": "https://www.igdb.com/games/lost-judgment",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:00.070Z"
+  },
+  "lost-soul-aside": {
+    "title": "Lost Soul Aside",
+    "matchedTitle": "Lost Soul Aside",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9ph5.jpg",
+    "itemUrl": "https://www.igdb.com/games/lost-soul-aside",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:33.272Z"
   },
   "luigis-mansion-2-hd": {
     "title": "ルイージマンション2 HD",
@@ -1439,6 +2559,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:23.207Z"
   },
+  "lumines-remastered": {
+    "title": "ルミネス リマスター",
+    "matchedTitle": "Lumines Remastered",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co26qs.jpg",
+    "itemUrl": "https://www.igdb.com/games/lumines-remastered",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:47.477Z"
+  },
   "madison": {
     "title": "MADiSON",
     "matchedTitle": "Madison",
@@ -1446,6 +2574,22 @@
     "itemUrl": "https://www.igdb.com/games/madison",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:40.703Z"
+  },
+  "mafia-the-old-country": {
+    "title": "Mafia: The Old Country",
+    "matchedTitle": "Mafia: The Old Country",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa9dq.jpg",
+    "itemUrl": "https://www.igdb.com/games/mafia-the-old-country",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:58.774Z"
+  },
+  "marathon": {
+    "title": "Marathon",
+    "matchedTitle": "Marathon",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc5yb.jpg",
+    "itemUrl": "https://www.igdb.com/games/marathon--2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:51.135Z"
   },
   "mario-golf-super-rush": {
     "title": "マリオゴルフ スーパーラッシュ",
@@ -1535,6 +2679,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:19.671Z"
   },
+  "martha-is-dead": {
+    "title": "Martha Is Dead",
+    "matchedTitle": "Martha Is Dead",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2or1.jpg",
+    "itemUrl": "https://www.igdb.com/games/martha-is-dead",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:06.740Z"
+  },
+  "marvel-cosmic-invasion": {
+    "title": "Marvel Cosmic Invasion",
+    "matchedTitle": "Marvel Cosmic Invasion",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coakkw.jpg",
+    "itemUrl": "https://www.igdb.com/games/marvel-cosmic-invasion",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:54.618Z"
+  },
   "marvel-rivals": {
     "title": "Marvel Rivals",
     "matchedTitle": "Marvel Rivals",
@@ -1567,6 +2727,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:06.382Z"
   },
+  "medievil": {
+    "title": "MediEvil",
+    "matchedTitle": "MediEvil",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co84x3.jpg",
+    "itemUrl": "https://www.igdb.com/games/medievil--2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:01.985Z"
+  },
+  "mega-man-11": {
+    "title": "ロックマン11 運命の歯車!!",
+    "matchedTitle": "Mega Man 11",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1zyu.jpg",
+    "itemUrl": "https://www.igdb.com/games/mega-man-11",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:09.771Z"
+  },
   "mega-man-battle-network-legacy-collection": {
     "title": "ロックマンエグゼ アドバンスドコレクション",
     "matchedTitle": "Mega Man Battle Network Legacy Collection",
@@ -1574,6 +2750,14 @@
     "itemUrl": "https://www.igdb.com/games/mega-man-battle-network-legacy-collection",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:39:36.233Z"
+  },
+  "melatonin": {
+    "title": "Melatonin",
+    "matchedTitle": "Melatonin",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3nsn.jpg",
+    "itemUrl": "https://www.igdb.com/games/melatonin",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:04.311Z"
   },
   "melty-blood-type-lumina": {
     "title": "MELTY BLOOD: TYPE LUMINA",
@@ -1631,6 +2815,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:00.514Z"
   },
+  "metroid-prime-remastered": {
+    "title": "メトロイドプライム リマスタード",
+    "matchedTitle": "Metroid Prime Remastered",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobbn9.jpg",
+    "itemUrl": "https://www.igdb.com/games/metroid-prime-remastered",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:08.738Z"
+  },
+  "mgs-master-collection-vol-1": {
+    "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+    "matchedTitle": "METAL GEAR SOLID: MASTER COLLECTION Vol.1　Nintendo Switch　HAC-P-BCK4A",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000319/2819083014.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/yamada-denki/2819083014/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:44:33.076Z"
+  },
   "miitopia-switch": {
     "title": "ミートピア",
     "matchedTitle": "Miitopia",
@@ -1638,6 +2838,22 @@
     "itemUrl": "https://www.igdb.com/games/miitopia--1",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:23.333Z"
+  },
+  "minecraft": {
+    "title": "Minecraft",
+    "matchedTitle": "Minecraft",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8fu7.jpg",
+    "itemUrl": "https://www.igdb.com/games/minecraft--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:55.537Z"
+  },
+  "minecraft-legends": {
+    "title": "Minecraft Legends",
+    "matchedTitle": "Minecraft: Legends",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4v2s.jpg",
+    "itemUrl": "https://www.igdb.com/games/minecraft-legends",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:56.865Z"
   },
   "mlb-the-show-24": {
     "title": "MLB The Show 24",
@@ -1647,6 +2863,38 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:10.909Z"
   },
+  "mlb-the-show-25": {
+    "title": "MLB The Show 25",
+    "matchedTitle": "MLB The Show 25",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9c8d.jpg",
+    "itemUrl": "https://www.igdb.com/games/mlb-the-show-25",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:13.103Z"
+  },
+  "momodora-moonlit-farewell": {
+    "title": "Momodora: Moonlit Farewell",
+    "matchedTitle": "Momodora: Moonlit Farewell",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7mxs.jpg",
+    "itemUrl": "https://www.igdb.com/games/momodora-moonlit-farewell",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:47.568Z"
+  },
+  "momotaro-dentetsu-showa-heisei-reiwa": {
+    "title": "桃太郎電鉄 ～昭和 平成 令和も定番！～",
+    "matchedTitle": "Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban!",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3gls.jpg",
+    "itemUrl": "https://www.igdb.com/games/momotaro-dentetsu-showa-heisei-reiwa-mo-teiban",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:35.558Z"
+  },
+  "momotaro-dentetsu-world": {
+    "title": "桃太郎電鉄ワールド ～地球は希望でまわってる！～",
+    "matchedTitle": "Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru!",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co64rn.jpg",
+    "itemUrl": "https://www.igdb.com/games/momotaro-dentetsu-world-chikyuu-ha-kibou-de-mawatteru",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:00.359Z"
+  },
   "monster-hunter-rise": {
     "title": "モンスターハンターライズ",
     "matchedTitle": "Monster Hunter Rise",
@@ -1654,6 +2902,14 @@
     "itemUrl": "https://www.igdb.com/games/monster-hunter-rise",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:22.182Z"
+  },
+  "monster-hunter-stories": {
+    "title": "モンスターハンターストーリーズ",
+    "matchedTitle": "Monster Hunter Stories",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1tv.jpg",
+    "itemUrl": "https://www.igdb.com/games/monster-hunter-stories--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:25.362Z"
   },
   "monster-hunter-stories-2": {
     "title": "モンスターハンターストーリーズ2 破滅の翼",
@@ -1663,6 +2919,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:04:38.895Z"
   },
+  "monster-hunter-stories-3": {
+    "title": "モンスターハンターストーリーズ3",
+    "matchedTitle": "【中古】Switch2 モンスターハンターストーリーズ3　−運命の双竜−",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/zisya27/0014178860.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet20/r0014178860/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:46:46.079Z"
+  },
   "monster-hunter-wilds": {
     "title": "モンスターハンターワイルズ",
     "matchedTitle": "Monster Hunter Wilds",
@@ -1671,6 +2935,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:20.602Z"
   },
+  "monster-train": {
+    "title": "Monster Train",
+    "matchedTitle": "Monster Train",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8tqp.jpg",
+    "itemUrl": "https://www.igdb.com/games/monster-train",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:41.703Z"
+  },
   "mortal-kombat-1": {
     "title": "Mortal Kombat 1",
     "matchedTitle": "Mortal Kombat 1",
@@ -1678,6 +2950,62 @@
     "itemUrl": "https://www.igdb.com/games/mortal-kombat-1--1",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:56.898Z"
+  },
+  "mortal-shell": {
+    "title": "Mortal Shell: Enhanced Edition",
+    "matchedTitle": "Mortal Shell: Enhanced Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2yhh.jpg",
+    "itemUrl": "https://www.igdb.com/games/mortal-shell-enhanced-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:12.360Z"
+  },
+  "motogp-24": {
+    "title": "MotoGP 24",
+    "matchedTitle": "MotoGP 24",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co80e3.jpg",
+    "itemUrl": "https://www.igdb.com/games/motogp-24",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:21.623Z"
+  },
+  "mouthwashing": {
+    "title": "Mouthwashing",
+    "matchedTitle": "Mouthwashing",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co70oi.jpg",
+    "itemUrl": "https://www.igdb.com/games/mouthwashing",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:33.985Z"
+  },
+  "moving-out-2": {
+    "title": "Moving Out 2",
+    "matchedTitle": "Moving Out 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8zgy.jpg",
+    "itemUrl": "https://www.igdb.com/games/moving-out-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:00.833Z"
+  },
+  "multiversus": {
+    "title": "MultiVersus",
+    "matchedTitle": "MultiVersus",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7yle.jpg",
+    "itemUrl": "https://www.igdb.com/games/multiversus",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:05.971Z"
+  },
+  "my-hero-ones-justice-2": {
+    "title": "僕のヒーローアカデミア One's Justice2",
+    "matchedTitle": "My Hero One's Justice 2: Deluxe Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3k3v.jpg",
+    "itemUrl": "https://www.igdb.com/games/my-hero-ones-justice-2-deluxe-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:17.540Z"
+  },
+  "my-time-at-sandrock": {
+    "title": "My Time at Sandrock",
+    "matchedTitle": "My Time at Sandrock",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coab00.jpg",
+    "itemUrl": "https://www.igdb.com/games/my-time-at-sandrock",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:46.121Z"
   },
   "naraka-bladepoint": {
     "title": "NARAKA: BLADEPOINT",
@@ -1695,6 +3023,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:23.907Z"
   },
+  "nba-2k25": {
+    "title": "NBA 2K25",
+    "matchedTitle": "NBA 2K25",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8te0.jpg",
+    "itemUrl": "https://www.igdb.com/games/nba-2k25",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:11.817Z"
+  },
   "need-for-speed-unbound": {
     "title": "Need for Speed Unbound",
     "matchedTitle": "Need for Speed: Unbound",
@@ -1702,6 +3038,22 @@
     "itemUrl": "https://www.igdb.com/games/need-for-speed-unbound",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:32.253Z"
+  },
+  "needy-girl-overdose": {
+    "title": "NEEDY GIRL OVERDOSE",
+    "matchedTitle": "Needy Streamer Overload",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co57rh.jpg",
+    "itemUrl": "https://www.igdb.com/games/needy-streamer-overload",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:04.659Z"
+  },
+  "neo-the-world-ends-with-you": {
+    "title": "新すばらしきこのせかい",
+    "matchedTitle": "NEO: The World Ends with You",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8kzv.jpg",
+    "itemUrl": "https://www.igdb.com/games/neo-the-world-ends-with-you",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:11.715Z"
   },
   "neon-white": {
     "title": "Neon White",
@@ -1727,6 +3079,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:00.731Z"
   },
+  "ni-no-kuni-2": {
+    "title": "二ノ国II レヴァナントキングダム",
+    "matchedTitle": "Ni no Kuni II: Revenant Kingdom - The Prince's Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5ahh.jpg",
+    "itemUrl": "https://www.igdb.com/games/ni-no-kuni-ii-revenant-kingdom-the-princes-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:44.773Z"
+  },
+  "ni-no-kuni-remastered": {
+    "title": "二ノ国 白き聖灰の女王",
+    "matchedTitle": "Ni no Kuni: Wrath of the White Witch Remastered",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob235.jpg",
+    "itemUrl": "https://www.igdb.com/games/ni-no-kuni-wrath-of-the-white-witch-remastered",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:45.783Z"
+  },
   "nickelodeon-all-star-brawl-2": {
     "title": "Nickelodeon All-Star Brawl 2",
     "matchedTitle": "Nickelodeon All-Star Brawl 2",
@@ -1734,6 +3102,14 @@
     "itemUrl": "https://www.igdb.com/games/nickelodeon-all-star-brawl-2",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:27.751Z"
+  },
+  "nickelodeon-kart-racers-3": {
+    "title": "Nickelodeon Kart Racers 3: Slime Speedway",
+    "matchedTitle": "Nickelodeon Kart Racers 3: Slime Speedway",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5frp.jpg",
+    "itemUrl": "https://www.igdb.com/games/nickelodeon-kart-racers-3-slime-speedway",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:46.791Z"
   },
   "nier-automata-end-of-yorha-edition": {
     "title": "NieR:Automata The End of YoRHa Edition",
@@ -1751,6 +3127,38 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:24:17.516Z"
   },
+  "ninja-gaiden-2-black": {
+    "title": "NINJA GAIDEN 2 Black",
+    "matchedTitle": "Ninja Gaiden II Black",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9b3s.jpg",
+    "itemUrl": "https://www.igdb.com/games/ninja-gaiden-ii-black",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:50.854Z"
+  },
+  "ninja-gaiden-4": {
+    "title": "NINJA GAIDEN 4",
+    "matchedTitle": "Ninja Gaiden 4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9b3p.jpg",
+    "itemUrl": "https://www.igdb.com/games/ninja-gaiden-4",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:52.210Z"
+  },
+  "ninja-gaiden-ragebound": {
+    "title": "NINJA GAIDEN: Ragebound",
+    "matchedTitle": "Ninja Gaiden: Ragebound",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9qrg.jpg",
+    "itemUrl": "https://www.igdb.com/games/ninja-gaiden-ragebound",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:56.314Z"
+  },
+  "nintendo-switch-2-welcome-tour": {
+    "title": "Nintendo Switch 2 のひみつ展",
+    "matchedTitle": "Nintendo Switch 2 Welcome Tour",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobcnv.jpg",
+    "itemUrl": "https://www.igdb.com/games/nintendo-switch-2-welcome-tour",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:25.464Z"
+  },
   "nintendo-switch-sports": {
     "title": "Nintendo Switch Sports",
     "matchedTitle": "Nintendo Switch Sports",
@@ -1758,6 +3166,14 @@
     "itemUrl": "https://www.igdb.com/games/nintendo-switch-sports",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:22.108Z"
+  },
+  "nintendo-world-championships-nes-edition": {
+    "title": "Nintendo World Championships ファミコン世界大会",
+    "matchedTitle": "Nintendo World Championships: NES Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co86hd.jpg",
+    "itemUrl": "https://www.igdb.com/games/nintendo-world-championships-nes-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:22.645Z"
   },
   "nioh": {
     "title": "仁王",
@@ -1767,6 +3183,38 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:42:09.901Z"
   },
+  "nioh-2-remastered": {
+    "title": "仁王2 Remastered ～Complete Edition～",
+    "matchedTitle": "コーエーテクモゲームス 【PS5】仁王2 Remastered Complete Edition [ELJM-30025 PS5 ニオウ2 Remastered Complete Edition]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/1491/4988615142567.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4988615142567-54-71484-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:42:46.985Z"
+  },
+  "nioh-3": {
+    "title": "仁王3",
+    "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[PS5] 仁王3 通常版 コーエーテクモゲームス(20260206)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediaworldkaitoriworld/cabinet/1048/1/cg10481037.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10481037001/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:46:37.070Z"
+  },
+  "no-mans-sky": {
+    "title": "No Man's Sky",
+    "matchedTitle": "No Man's Sky",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coacrk.jpg",
+    "itemUrl": "https://www.igdb.com/games/no-man-s-sky",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:54.142Z"
+  },
+  "no-more-heroes-3": {
+    "title": "NO MORE HEROES 3",
+    "matchedTitle": "No More Heroes III",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2th2.jpg",
+    "itemUrl": "https://www.igdb.com/games/no-more-heroes-iii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:11.407Z"
+  },
   "nobunaga-ambition-shinsei": {
     "title": "信長の野望・新生",
     "matchedTitle": "コーエーテクモゲームス 【Switch】信長の野望・新生 with パワーアップキット 通常版 [HAC-P-AYYVE NSW ノブナガノヤボウ シンセイ PK ツウジョウ]",
@@ -1774,6 +3222,22 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4988615183812-54-40562-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:04:20.954Z"
+  },
+  "oblivion-remastered": {
+    "title": "The Elder Scrolls IV: オブリビオン リマスター",
+    "matchedTitle": "The Elder Scrolls IV: Oblivion Remastered",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9pul.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-elder-scrolls-iv-oblivion-remastered",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:33.334Z"
+  },
+  "observer-system-redux": {
+    "title": "Observer: System Redux",
+    "matchedTitle": "Observer: System Redux",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cockn3.jpg",
+    "itemUrl": "https://www.igdb.com/games/observer-system-redux",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:51.237Z"
   },
   "octopath-traveler": {
     "title": "オクトパストラベラー",
@@ -1807,6 +3271,30 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:32.834Z"
   },
+  "one-piece-odyssey": {
+    "title": "ONE PIECE ODYSSEY",
+    "matchedTitle": "One Piece Odyssey",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5x13.jpg",
+    "itemUrl": "https://www.igdb.com/games/one-piece-odyssey",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:10.998Z"
+  },
+  "one-piece-pirate-warriors-4": {
+    "title": "ONE PIECE 海賊無双4",
+    "matchedTitle": "One Piece: Pirate Warriors 4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2m9q.jpg",
+    "itemUrl": "https://www.igdb.com/games/one-piece-pirate-warriors-4",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:12.481Z"
+  },
+  "onimusha-2-samurais-destiny": {
+    "title": "鬼武者2",
+    "matchedTitle": "Onimusha 2: Samurai's Destiny",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1u1.jpg",
+    "itemUrl": "https://www.igdb.com/games/onimusha-2-samurais-destiny--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:24.212Z"
+  },
   "onimusha-warlords": {
     "title": "鬼武者",
     "matchedTitle": "Onimusha: Warlords",
@@ -1815,6 +3303,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:53:11.646Z"
   },
+  "ori-and-the-blind-forest": {
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "matchedTitle": "Ori and the Blind Forest: Definitive Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2s0m.jpg",
+    "itemUrl": "https://www.igdb.com/games/ori-and-the-blind-forest-definitive-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:38.484Z"
+  },
   "ori-and-the-will-of-the-wisps": {
     "title": "Ori and the Will of the Wisps",
     "matchedTitle": "Ori and the Will of the Wisps",
@@ -1822,6 +3318,14 @@
     "itemUrl": "https://www.igdb.com/games/ori-and-the-will-of-the-wisps",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:05.361Z"
+  },
+  "outer-wilds": {
+    "title": "Outer Wilds",
+    "matchedTitle": "Outer Wilds",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co65ac.jpg",
+    "itemUrl": "https://www.igdb.com/games/outer-wilds",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:58.984Z"
   },
   "overcooked-all-you-can-eat": {
     "title": "Overcooked! All You Can Eat",
@@ -1863,6 +3367,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:45.995Z"
   },
+  "paranormasight": {
+    "title": "パラノマサイト FILE23 本所七不思議",
+    "matchedTitle": "Paranormasight: The Seven Mysteries of Honjo",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co64ro.jpg",
+    "itemUrl": "https://www.igdb.com/games/paranormasight-the-seven-mysteries-of-honjo",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:58.241Z"
+  },
   "path-of-exile-2": {
     "title": "Path of Exile 2",
     "matchedTitle": "Path of Exile 2",
@@ -1870,6 +3382,14 @@
     "itemUrl": "https://www.igdb.com/games/path-of-exile-2",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:55.747Z"
+  },
+  "payday-3": {
+    "title": "PAYDAY 3",
+    "matchedTitle": "Payday 3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6m2i.jpg",
+    "itemUrl": "https://www.igdb.com/games/payday-3",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:35.635Z"
   },
   "persona-3-portable": {
     "title": "ペルソナ3 ポータブル",
@@ -1886,6 +3406,14 @@
     "itemUrl": "https://www.igdb.com/games/persona-3-reload-digital-deluxe-edition",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:02.774Z"
+  },
+  "persona-4-arena-ultimax": {
+    "title": "ペルソナ4 ジ・アルティマックス ウルトラスープレックスホールド",
+    "matchedTitle": "【中古】 ペルソナ4　ジ・アルティマックス　ウルトラスープレックスホールド　リマスター版／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1/r_noimg.gif",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019798087/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:47:23.090Z"
   },
   "persona-4-golden": {
     "title": "ペルソナ4 ザ・ゴールデン",
@@ -1919,6 +3447,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:13.886Z"
   },
+  "phantom-brave-the-lost-hero": {
+    "title": "ファントム・ブレイブ 幽霊船団と消えた英雄",
+    "matchedTitle": "Phantom Brave: The Lost Hero",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8idq.jpg",
+    "itemUrl": "https://www.igdb.com/games/phantom-brave-the-lost-hero",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:42.095Z"
+  },
+  "phoenix-wright-trilogy": {
+    "title": "逆転裁判123 成歩堂セレクション",
+    "matchedTitle": "逆転裁判123 成歩堂セレクション 通常版 Nintendo Switch版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0093/4976219000093.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/book/15702390/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:44:12.312Z"
+  },
   "pikmin-1-2": {
     "title": "ピクミン1+2",
     "matchedTitle": "任天堂 【Switch】Pikmin 1+2 [HAC-P-BAMEA NSW ピクミン1+2]",
@@ -1950,6 +3494,22 @@
     "itemUrl": "https://www.igdb.com/games/pizza-tower",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:24:10.453Z"
+  },
+  "planet-coaster-2": {
+    "title": "Planet Coaster 2",
+    "matchedTitle": "Planet Coaster 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8jj5.jpg",
+    "itemUrl": "https://www.igdb.com/games/planet-coaster-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:31.553Z"
+  },
+  "platform-8": {
+    "title": "8番のりば",
+    "matchedTitle": "Platform 8",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8akc.jpg",
+    "itemUrl": "https://www.igdb.com/games/platform-8",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:07.601Z"
   },
   "pokemon-brilliant-diamond": {
     "title": "ポケットモンスター ブリリアントダイヤモンド",
@@ -1983,6 +3543,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:16.764Z"
   },
+  "pokemon-pokopia": {
+    "title": "Pokémon ポコピア",
+    "matchedTitle": "Pokémon Pokopia",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobbur.jpg",
+    "itemUrl": "https://www.igdb.com/games/pokemon-pokopia",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:36.263Z"
+  },
   "pokemon-scarlet-violet": {
     "title": "ポケットモンスター スカーレット・バイオレット",
     "matchedTitle": "ポケットモンスター スカーレット（単体版パッケージ。スカーレット・バイオレットは同一パッケージの2バージョン制のため、代表としてスカーレット版のパッケージ画像を採用)",
@@ -2015,6 +3583,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:12.269Z"
   },
+  "pragmata": {
+    "title": "Pragmata",
+    "matchedTitle": "Pragmata",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobxnx.jpg",
+    "itemUrl": "https://www.igdb.com/games/pragmata",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:38.396Z"
+  },
+  "predator-hunting-grounds": {
+    "title": "Predator: Hunting Grounds",
+    "matchedTitle": "Predator: Hunting Grounds",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co235f.jpg",
+    "itemUrl": "https://www.igdb.com/games/predator-hunting-grounds",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:59.295Z"
+  },
   "prince-of-persia-the-lost-crown": {
     "title": "Prince of Persia: The Lost Crown",
     "matchedTitle": "Prince of Persia: The Lost Crown",
@@ -2022,6 +3606,22 @@
     "itemUrl": "https://www.igdb.com/games/prince-of-persia-the-lost-crown",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:15.618Z"
+  },
+  "princess-peach-showtime": {
+    "title": "プリンセスピーチ Showtime!",
+    "matchedTitle": "Princess Peach: Showtime!",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobaup.jpg",
+    "itemUrl": "https://www.igdb.com/games/princess-peach-showtime",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:10.227Z"
+  },
+  "puyo-puyo-champions": {
+    "title": "ぷよぷよeスポーツ",
+    "matchedTitle": "Puyo Puyo Champions",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1u59.jpg",
+    "itemUrl": "https://www.igdb.com/games/puyo-puyo-champions",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:02.833Z"
   },
   "puyo-puyo-tetris-2": {
     "title": "ぷよぷよテトリス2",
@@ -2031,6 +3631,46 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-04T00:33:32.880Z"
   },
+  "puzzle-bobble-everybubble": {
+    "title": "パズルボブル エブリバブル!",
+    "matchedTitle": "Puzzle Bobble Everybubble!",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6nwf.jpg",
+    "itemUrl": "https://www.igdb.com/games/puzzle-bobble-everybubble",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:56.055Z"
+  },
+  "raging-loop": {
+    "title": "レイジングループ",
+    "matchedTitle": "Raging Loop",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1tzv.jpg",
+    "itemUrl": "https://www.igdb.com/games/raging-loop",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:27.120Z"
+  },
+  "raidou-remastered": {
+    "title": "デビルサマナー 葛葉ライドウ対超力兵団 RAIDOU Remastered",
+    "matchedTitle": "Raidou Remastered: The Mystery of the Soulless Army",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9l0l.jpg",
+    "itemUrl": "https://www.igdb.com/games/raidou-remastered-the-mystery-of-the-soulless-army",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:30.740Z"
+  },
+  "rainbow-six-extraction": {
+    "title": "レインボーシックス エクストラクション",
+    "matchedTitle": "Tom Clancy's Rainbow Six Extraction",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6pxw.jpg",
+    "itemUrl": "https://www.igdb.com/games/tom-clancys-rainbow-six-extraction",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:32.960Z"
+  },
+  "rainbow-six-siege": {
+    "title": "レインボーシックス シージ",
+    "matchedTitle": "Rainbow Six Siege",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9yqs.jpg",
+    "itemUrl": "https://www.igdb.com/games/rainbow-six-siege",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:34.314Z"
+  },
   "ratchet-clank-rift-apart": {
     "title": "ラチェット&クランク パラレル・トラブル",
     "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[PS5] ラチェット&クランク パラレル・トラブル ソニー・インタラクティブエンタテインメント (20210611)",
@@ -2039,6 +3679,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:30.316Z"
   },
+  "ready-or-not": {
+    "title": "Ready or Not",
+    "matchedTitle": "Ready or Not",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocld8.jpg",
+    "itemUrl": "https://www.igdb.com/games/ready-or-not",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:37.116Z"
+  },
   "remnant-2": {
     "title": "Remnant II",
     "matchedTitle": "Remnant II",
@@ -2046,6 +3694,14 @@
     "itemUrl": "https://www.igdb.com/games/remnant-ii",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:04.570Z"
+  },
+  "remnant-from-the-ashes": {
+    "title": "Remnant: From the Ashes",
+    "matchedTitle": "Remnant: From the Ashes",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1m4w.jpg",
+    "itemUrl": "https://www.igdb.com/games/remnant-from-the-ashes",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:23.808Z"
   },
   "resident-evil-7-biohazard": {
     "title": "バイオハザード7 レジデント イービル",
@@ -2063,6 +3719,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:45.335Z"
   },
+  "resident-evil-re3": {
+    "title": "バイオハザード RE:3",
+    "matchedTitle": "【中古】PS5ソフト バイオハザード RE：3 Z Version (18歳以上対象)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/surugaya-a-too/cabinet/8975/110001308m.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/surugaya-a-too/145161906-1/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:44:06.867Z"
+  },
   "resident-evil-re4": {
     "title": "バイオハザード RE:4",
     "matchedTitle": "Resident Evil 4",
@@ -2070,6 +3734,14 @@
     "itemUrl": "https://www.igdb.com/games/resident-evil-4--1",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:44.012Z"
+  },
+  "resident-evil-requiem": {
+    "title": "バイオハザード レクイエム",
+    "matchedTitle": "Resident Evil Requiem",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobmj0.jpg",
+    "itemUrl": "https://www.igdb.com/games/resident-evil-requiem",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:37.932Z"
   },
   "resident-evil-village": {
     "title": "バイオハザード ヴィレッジ",
@@ -2095,6 +3767,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:29.948Z"
   },
+  "ride-5": {
+    "title": "RIDE 5",
+    "matchedTitle": "Ride 5",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6e0o.jpg",
+    "itemUrl": "https://www.igdb.com/games/ride-5--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:20.135Z"
+  },
   "ring-fit-adventure": {
     "title": "リングフィット アドベンチャー",
     "matchedTitle": "Ring Fit Adventure",
@@ -2110,6 +3790,22 @@
     "itemUrl": "https://www.igdb.com/games/rise-of-the-ronin",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:55.330Z"
+  },
+  "risk-of-rain-2": {
+    "title": "Risk of Rain 2",
+    "matchedTitle": "Risk of Rain 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaavb.jpg",
+    "itemUrl": "https://www.igdb.com/games/risk-of-rain-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:01.801Z"
+  },
+  "river-city-girls-2": {
+    "title": "リバーシティガールズ2",
+    "matchedTitle": "River City Girls 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9ph4.jpg",
+    "itemUrl": "https://www.igdb.com/games/river-city-girls-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:39.164Z"
   },
   "rocket-league": {
     "title": "Rocket League",
@@ -2135,6 +3831,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:56.003Z"
   },
+  "romance-of-the-three-kingdoms-8-remake": {
+    "title": "三國志8 Remake",
+    "matchedTitle": "【店内全品P10倍 8/4〜要エントリー】【中古】[PS5] 三國志8 REMAKE(三国志 リメイク) 通常版 コーエーテクモゲームス (20241024)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mediaworldkaitoriworld/cabinet/1048/0/cg10480690.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480690001/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:47:35.400Z"
+  },
   "romancing-saga-2-revenge-of-the-seven": {
     "title": "ロマンシング サガ2 リベンジ オブ ザ セブン",
     "matchedTitle": "【中古】Switch ロマンシング　サガ2　リベンジオブザセブン (ニンテンドースイッチ)",
@@ -2151,6 +3855,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:25:55.539Z"
   },
+  "root-film": {
+    "title": "Root Film",
+    "matchedTitle": "Root Film",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1s2n.jpg",
+    "itemUrl": "https://www.igdb.com/games/root-film",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:25.642Z"
+  },
+  "rune-factory-4-special": {
+    "title": "ルーンファクトリー4スペシャル",
+    "matchedTitle": "【中古】 ルーンファクトリー4スペシャル／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/705/0019257432l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019257432/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:47:51.338Z"
+  },
   "rune-factory-5": {
     "title": "ルーンファクトリー5",
     "matchedTitle": "【中古】Switch ルーンファクトリー5 (ニンテンドースイッチ)",
@@ -2166,6 +3886,14 @@
     "itemUrl": "https://www.igdb.com/games/rune-factory-guardians-of-azuma--1",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:05.502Z"
+  },
+  "sable": {
+    "title": "Sable",
+    "matchedTitle": "Sable",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3yzs.jpg",
+    "itemUrl": "https://www.igdb.com/games/sable",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:33.762Z"
   },
   "sackboy-a-big-adventure": {
     "title": "Sackboy: A Big Adventure",
@@ -2191,6 +3919,46 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:25:01.479Z"
   },
+  "saints-row-2022": {
+    "title": "セインツロウ",
+    "matchedTitle": "Saints Row: The Third Remastered",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co22r7.jpg",
+    "itemUrl": "https://www.igdb.com/games/saints-row-the-third-remastered",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:51.205Z"
+  },
+  "sakuna-of-rice-and-ruin": {
+    "title": "天穂のサクナヒメ",
+    "matchedTitle": "Sakuna: Of Rice and Ruin",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1u5.jpg",
+    "itemUrl": "https://www.igdb.com/games/sakuna-of-rice-and-ruin",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:52.817Z"
+  },
+  "salt-and-sacrifice": {
+    "title": "Salt and Sacrifice",
+    "matchedTitle": "Salt and Sacrifice",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobwoi.jpg",
+    "itemUrl": "https://www.igdb.com/games/salt-and-sacrifice",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:15.042Z"
+  },
+  "samba-de-amigo-party-central": {
+    "title": "サンバDEアミーゴ: パーティーセントラル",
+    "matchedTitle": "セガ 【Switch】サンバDEアミーゴ：パーティーセントラル [HAC-P-A8WLA NSW サンバデアミ-ゴ パ-ティ-セントラル]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0063/4974365863128.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4974365863128-54-40560-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:45:07.124Z"
+  },
+  "samurai-shodown-2019": {
+    "title": "SAMURAI SPIRITS",
+    "matchedTitle": "【中古】 SAMURAI　SPIRITS／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/767/0019351482l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019351482/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:47:14.725Z"
+  },
   "sand-land": {
     "title": "SAND LAND",
     "matchedTitle": "Sand Land",
@@ -2198,6 +3966,30 @@
     "itemUrl": "https://www.igdb.com/games/sand-land",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:12.303Z"
+  },
+  "saros": {
+    "title": "Saros",
+    "matchedTitle": "Saros",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coajye.jpg",
+    "itemUrl": "https://www.igdb.com/games/saros",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:30.425Z"
+  },
+  "scorn": {
+    "title": "Scorn",
+    "matchedTitle": "Scorn",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4v5c.jpg",
+    "itemUrl": "https://www.igdb.com/games/scorn",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:08.083Z"
+  },
+  "sd-gundam-battle-alliance": {
+    "title": "SDガンダム バトルアライアンス",
+    "matchedTitle": "SD Gundam Battle Alliance",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co52s2.jpg",
+    "itemUrl": "https://www.igdb.com/games/sd-gundam-battle-alliance",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:13.782Z"
   },
   "sea-of-stars": {
     "title": "Sea of Stars",
@@ -2223,6 +4015,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:35.037Z"
   },
+  "shantae-and-the-seven-sirens": {
+    "title": "Shantae and the Seven Sirens",
+    "matchedTitle": "Shantae and the Seven Sirens",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7csj.jpg",
+    "itemUrl": "https://www.igdb.com/games/shantae-and-the-seven-sirens",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:58.001Z"
+  },
+  "sherlock-holmes-chapter-one": {
+    "title": "Sherlock Holmes Chapter One",
+    "matchedTitle": "Sherlock Holmes: Chapter One",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co48pg.jpg",
+    "itemUrl": "https://www.igdb.com/games/sherlock-holmes-chapter-one",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:35.484Z"
+  },
   "shin-megami-tensei-3-nocturne-hd-remaster": {
     "title": "真・女神転生III NOCTURNE HD REMASTER",
     "matchedTitle": "Shin Megami Tensei III: Nocturne - HD Remaster",
@@ -2238,6 +4046,22 @@
     "itemUrl": "https://www.igdb.com/games/shin-megami-tensei-v-vengeance",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:46.460Z"
+  },
+  "shin-megami-tensei-5-vengeance": {
+    "title": "真・女神転生V Vengeance",
+    "matchedTitle": "Shin Megami Tensei V: Vengeance",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7sv4.jpg",
+    "itemUrl": "https://www.igdb.com/games/shin-megami-tensei-v-vengeance",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:00.672Z"
+  },
+  "shiren-6": {
+    "title": "不思議のダンジョン 風来のシレン6 とぐろ島探検録",
+    "matchedTitle": "【中古】Switch 不思議のダンジョン　風来のシレン6　とぐろ島探検録 (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/zisya10/0013857468.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet3/0013857468/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:43:59.336Z"
   },
   "shovel-knight-treasure-trove": {
     "title": "Shovel Knight: Treasure Trove",
@@ -2279,6 +4103,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:42.800Z"
   },
+  "skul-the-hero-slayer": {
+    "title": "Skul: The Hero Slayer",
+    "matchedTitle": "Skul: The Hero Slayer",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1xh4.jpg",
+    "itemUrl": "https://www.igdb.com/games/skul-the-hero-slayer",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:40.374Z"
+  },
+  "skull-and-bones": {
+    "title": "スカル アンド ボーンズ",
+    "matchedTitle": "【中古】 スカル　アンド　ボーンズ／PS5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1245/0019902058l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019902058/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:44:49.759Z"
+  },
   "skullgirls-2nd-encore": {
     "title": "Skullgirls 2nd Encore",
     "matchedTitle": "Skullgirls: 2nd Encore",
@@ -2286,6 +4126,14 @@
     "itemUrl": "https://www.igdb.com/games/skullgirls-2nd-encore",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:26.598Z"
+  },
+  "slay-the-princess": {
+    "title": "Slay the Princess: The Pristine Cut",
+    "matchedTitle": "Slay the Princess: The Pristine Cut",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8boa.jpg",
+    "itemUrl": "https://www.igdb.com/games/slay-the-princess-the-pristine-cut",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:32.658Z"
   },
   "slay-the-spire": {
     "title": "Slay the Spire",
@@ -2303,6 +4151,38 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:50.452Z"
   },
+  "sniper-elite-5": {
+    "title": "Sniper Elite 5",
+    "matchedTitle": "Sniper Elite 5",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4ehj.jpg",
+    "itemUrl": "https://www.igdb.com/games/sniper-elite-5",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:30.037Z"
+  },
+  "sniper-elite-resistance": {
+    "title": "Sniper Elite: Resistance",
+    "matchedTitle": "Sniper Elite: Resistance",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9brt.jpg",
+    "itemUrl": "https://www.igdb.com/games/sniper-elite-resistance",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:31.391Z"
+  },
+  "snipperclips": {
+    "title": "いっしょにチョキッと スニッパーズ",
+    "matchedTitle": "Snipperclips: Cut It Out, Together!",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co27vu.jpg",
+    "itemUrl": "https://www.igdb.com/games/snipperclips-cut-it-out-together",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:19.676Z"
+  },
+  "sonic-colors-ultimate": {
+    "title": "ソニックカラーズ アルティメット",
+    "matchedTitle": "Sonic Colors: Ultimate",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co31a0.jpg",
+    "itemUrl": "https://www.igdb.com/games/sonic-colors-ultimate",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:03.265Z"
+  },
   "sonic-frontiers": {
     "title": "ソニックフロンティア",
     "matchedTitle": "Sonic Frontiers",
@@ -2310,6 +4190,14 @@
     "itemUrl": "https://www.igdb.com/games/sonic-frontiers",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:15.411Z"
+  },
+  "sonic-mania": {
+    "title": "ソニックマニア",
+    "matchedTitle": "Sonic Mania",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1t0.jpg",
+    "itemUrl": "https://www.igdb.com/games/sonic-mania",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:51.967Z"
   },
   "sonic-origins": {
     "title": "ソニックオリジンズ",
@@ -2327,6 +4215,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:57.577Z"
   },
+  "sonic-superstars": {
+    "title": "ソニックスーパースターズ",
+    "matchedTitle": "Sonic Superstars",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobbw4.jpg",
+    "itemUrl": "https://www.igdb.com/games/sonic-superstars",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:01.708Z"
+  },
   "sonic-x-shadow-generations": {
     "title": "ソニック×シャドウ ジェネレーションズ",
     "matchedTitle": "【中古】Switch ソニック×シャドウ　ジェネレーションズ (ニンテンドースイッチ)",
@@ -2342,6 +4238,14 @@
     "itemUrl": "https://www.igdb.com/games/soul-hackers-2",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:14.138Z"
+  },
+  "soulstice": {
+    "title": "Soulstice",
+    "matchedTitle": "Soulstice",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co39sa.jpg",
+    "itemUrl": "https://www.igdb.com/games/soulstice",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:29.436Z"
   },
   "spider-man-2": {
     "title": "Marvel's Spider-Man 2",
@@ -2366,6 +4270,14 @@
     "itemUrl": "https://www.igdb.com/games/marvels-spider-man-remastered",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:48.728Z"
+  },
+  "spiritfarer": {
+    "title": "Spiritfarer",
+    "matchedTitle": "Spiritfarer",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2fe7.jpg",
+    "itemUrl": "https://www.igdb.com/games/spiritfarer",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:31.077Z"
   },
   "splatoon-2": {
     "title": "スプラトゥーン2",
@@ -2415,6 +4327,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:03:06.605Z"
   },
+  "star-wars-jedi-fallen-order": {
+    "title": "Star Wars ジェダイ:フォールン・オーダー",
+    "matchedTitle": "Star Wars Jedi: Fallen Order",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1rbi.jpg",
+    "itemUrl": "https://www.igdb.com/games/star-wars-jedi-fallen-order",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:53:52.972Z"
+  },
   "star-wars-jedi-survivor": {
     "title": "Star Wars Jedi: Survivor",
     "matchedTitle": "Star Wars Jedi: Survivor",
@@ -2439,6 +4359,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:59.601Z"
   },
+  "steelrising": {
+    "title": "Steelrising",
+    "matchedTitle": "Steelrising",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8yz2.jpg",
+    "itemUrl": "https://www.igdb.com/games/steelrising",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:09.588Z"
+  },
+  "steins-gate-elite": {
+    "title": "STEINS;GATE ELITE",
+    "matchedTitle": "Steins;Gate Elite",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3g9p.jpg",
+    "itemUrl": "https://www.igdb.com/games/steins-gate-elite",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:24.031Z"
+  },
   "stellar-blade": {
     "title": "Stellar Blade",
     "matchedTitle": "Stellar Blade",
@@ -2455,6 +4391,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:52.202Z"
   },
+  "story-of-seasons-olive-town": {
+    "title": "牧場物語 オリーブタウンと希望の大地",
+    "matchedTitle": "Story of Seasons: Pioneers of Olive Town",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2kjz.jpg",
+    "itemUrl": "https://www.igdb.com/games/story-of-seasons-pioneers-of-olive-town",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:48.764Z"
+  },
   "stray": {
     "title": "Stray",
     "matchedTitle": "Stray",
@@ -2462,6 +4406,14 @@
     "itemUrl": "https://www.igdb.com/games/stray",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:01.810Z"
+  },
+  "stray-blade": {
+    "title": "Stray Blade",
+    "matchedTitle": "Stray Blade",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3p78.jpg",
+    "itemUrl": "https://www.igdb.com/games/stray-blade",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:26.614Z"
   },
   "street-fighter-6": {
     "title": "ストリートファイター6",
@@ -2494,6 +4446,22 @@
     "itemUrl": "https://item.rakuten.co.jp/home-carpentry/1350012850/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-04T01:20:58.672Z"
+  },
+  "super-bomberman-r-2": {
+    "title": "スーパーボンバーマン R 2",
+    "matchedTitle": "Super Bomberman R 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4x7j.jpg",
+    "itemUrl": "https://www.igdb.com/games/super-bomberman-r-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:30.549Z"
+  },
+  "super-mario-3d-all-stars": {
+    "title": "スーパーマリオ 3Dコレクション",
+    "matchedTitle": "【中古】 スーパーマリオ　3Dコレクション／NintendoSwitch",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/866/0019515635l.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019515635/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:43:07.404Z"
   },
   "super-mario-3d-world-fury-world": {
     "title": "スーパーマリオ 3Dワールド + フューリーワールド",
@@ -2543,6 +4511,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:46.946Z"
   },
+  "super-monkey-ball-banana-rumble": {
+    "title": "スーパーモンキーボール バナナランブル",
+    "matchedTitle": "Super Monkey Ball: Banana Rumble",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobbw9.jpg",
+    "itemUrl": "https://www.igdb.com/games/super-monkey-ball-banana-rumble",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:27.828Z"
+  },
   "super-robot-wars-30": {
     "title": "スーパーロボット大戦30",
     "matchedTitle": "在庫あり☆[メール便OK]【新品】【NS】スーパーロボット大戦30★蔵出し★ご注文後のキャンセル不可★",
@@ -2550,6 +4526,14 @@
     "itemUrl": "https://item.rakuten.co.jp/machida/4582528473611/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:04:29.200Z"
+  },
+  "super-robot-wars-y": {
+    "title": "スーパーロボット大戦Y",
+    "matchedTitle": "Super Robot Wars Y",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coajkv.jpg",
+    "itemUrl": "https://www.igdb.com/games/super-robot-wars-y",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:40.790Z"
   },
   "super-smash-bros-ultimate": {
     "title": "大乱闘スマッシュブラザーズ SPECIAL",
@@ -2559,6 +4543,30 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:18.528Z"
   },
+  "superhot": {
+    "title": "SUPERHOT",
+    "matchedTitle": "SuperHot",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7ybp.jpg",
+    "itemUrl": "https://www.igdb.com/games/superhot",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:08.453Z"
+  },
+  "superliminal": {
+    "title": "Superliminal",
+    "matchedTitle": "Superliminal",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1uqz.jpg",
+    "itemUrl": "https://www.igdb.com/games/superliminal",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:51.759Z"
+  },
+  "sword-of-the-sea": {
+    "title": "Sword of the Sea",
+    "matchedTitle": "Sword of the Sea",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9xx2.jpg",
+    "itemUrl": "https://www.igdb.com/games/sword-of-the-sea",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:31.944Z"
+  },
   "tactics-ogre-reborn": {
     "title": "タクティクスオウガ リボーン",
     "matchedTitle": "Tactics Ogre: Reborn",
@@ -2566,6 +4574,22 @@
     "itemUrl": "https://www.igdb.com/games/tactics-ogre-reborn",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:19.417Z"
+  },
+  "taiko-no-tatsujin-rhythm-festival": {
+    "title": "太鼓の達人 ドンダフルフェスティバル",
+    "matchedTitle": "Taiko no Tatsujin: Rhythm Festival",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8sq0.jpg",
+    "itemUrl": "https://www.igdb.com/games/taiko-no-tatsujin-rhythm-festival",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:17.784Z"
+  },
+  "taikou-risshiden-5-dx": {
+    "title": "太閤立志伝V DX",
+    "matchedTitle": "【中古】Switch 太閤立志伝V　DX (ニンテンドースイッチ)",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/13/00065/0013479005.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/renet3/0013479005/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:47:37.926Z"
   },
   "tales-of-arise": {
     "title": "テイルズ オブ アライズ",
@@ -2591,6 +4615,38 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:53:01.302Z"
   },
+  "tales-of-vesperia-definitive": {
+    "title": "テイルズ オブ ヴェスペリア REMASTER",
+    "matchedTitle": "Tales of Vesperia: Definitive Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5gb5.jpg",
+    "itemUrl": "https://www.igdb.com/games/tales-of-vesperia-definitive-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:47.371Z"
+  },
+  "talos-principle-2": {
+    "title": "The Talos Principle II",
+    "matchedTitle": "The Talos Principle II",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6jbl.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-talos-principle-ii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:50.434Z"
+  },
+  "tchia": {
+    "title": "Tchia",
+    "matchedTitle": "Tchia",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co62l2.jpg",
+    "itemUrl": "https://www.igdb.com/games/tchia--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:35.246Z"
+  },
+  "team-sonic-racing": {
+    "title": "チームソニックレーシング",
+    "matchedTitle": "Team Sonic Racing",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1upm.jpg",
+    "itemUrl": "https://www.igdb.com/games/team-sonic-racing",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:42.877Z"
+  },
   "tekken-8": {
     "title": "鉄拳8",
     "matchedTitle": "Tekken 8",
@@ -2607,6 +4663,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:24.569Z"
   },
+  "test-drive-unlimited-solar-crown": {
+    "title": "Test Drive Unlimited Solar Crown",
+    "matchedTitle": "Test Drive Unlimited Solar Crown",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7my1.jpg",
+    "itemUrl": "https://www.igdb.com/games/test-drive-unlimited-solar-crown",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:24.056Z"
+  },
   "tetris-99": {
     "title": "TETRIS 99",
     "matchedTitle": "Tetris 99",
@@ -2614,6 +4678,22 @@
     "itemUrl": "https://www.igdb.com/games/tetris-99",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:19.139Z"
+  },
+  "tetris-effect-connected": {
+    "title": "テトリス エフェクト・コネクテッド",
+    "matchedTitle": "【新品】Switch テトリス エフェクト・コネクテッド【メール便】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gamearc/cabinet/shohin05/4570101050076.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/gamearc/4570101050076n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:49:46.138Z"
+  },
+  "texas-chain-saw-massacre": {
+    "title": "The Texas Chain Saw Massacre",
+    "matchedTitle": "The Texas Chain Saw Massacre",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6y15.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-texas-chain-saw-massacre",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:53.782Z"
   },
   "the-callisto-protocol": {
     "title": "The Callisto Protocol",
@@ -2630,6 +4710,38 @@
     "itemUrl": "https://www.igdb.com/games/the-casting-of-frank-stone",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:56.226Z"
+  },
+  "the-crew-motorfest": {
+    "title": "The Crew Motorfest",
+    "matchedTitle": "The Crew: Motorfest",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6pe2.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-crew-motorfest",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:22.765Z"
+  },
+  "the-exit-8": {
+    "title": "8番出口",
+    "matchedTitle": "The Exit 8",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7fw1.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-exit-8",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:06.123Z"
+  },
+  "the-first-berserker-khazan": {
+    "title": "The First Berserker: Khazan",
+    "matchedTitle": "The First Berserker: Khazan",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8roc.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-first-berserker-khazan",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:19.415Z"
+  },
+  "the-first-descendant": {
+    "title": "The First Descendant",
+    "matchedTitle": "The First Descendant",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobfqh.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-first-descendant",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:42.366Z"
   },
   "the-king-of-fighters-xv": {
     "title": "THE KING OF FIGHTERS XV",
@@ -2655,6 +4767,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:25.955Z"
   },
+  "the-medium": {
+    "title": "The Medium",
+    "matchedTitle": "The Medium",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cockn5.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-medium",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:49.926Z"
+  },
+  "the-messenger": {
+    "title": "The Messenger",
+    "matchedTitle": "The Messenger",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1th.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-messenger",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:48:43.095Z"
+  },
   "the-mortuary-assistant": {
     "title": "The Mortuary Assistant",
     "matchedTitle": "The Mortuary Assistant",
@@ -2679,6 +4807,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:54.877Z"
   },
+  "theatrhythm-final-bar-line": {
+    "title": "シアトリズム ファイナルバーライン",
+    "matchedTitle": "Theatrhythm Final Bar Line",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7dnm.jpg",
+    "itemUrl": "https://www.igdb.com/games/theatrhythm-final-bar-line",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:57.408Z"
+  },
   "thems-fightin-herds": {
     "title": "Them's Fightin' Herds",
     "matchedTitle": "Them's Fightin' Herds",
@@ -2694,6 +4830,22 @@
     "itemUrl": "https://www.igdb.com/games/13-sentinels-aegis-rim",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:49:23.508Z"
+  },
+  "thymesia": {
+    "title": "Thymesia",
+    "matchedTitle": "Thymesia",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2w5c.jpg",
+    "itemUrl": "https://www.igdb.com/games/thymesia",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:10.874Z"
+  },
+  "tmnt-shredders-revenge": {
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "matchedTitle": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4w87.jpg",
+    "itemUrl": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-shredders-revenge",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:08.252Z"
   },
   "toem": {
     "title": "トーエム",
@@ -2719,6 +4871,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:38:55.739Z"
   },
+  "tony-hawks-pro-skater-3-4": {
+    "title": "Tony Hawk's Pro Skater 3 + 4",
+    "matchedTitle": "Tony Hawk's Pro Skater 3 + 4: Digital Deluxe Edition",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9hxo.jpg",
+    "itemUrl": "https://www.igdb.com/games/tony-hawks-pro-skater-3-plus-4-digital-deluxe-edition",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:37.756Z"
+  },
+  "topspin-2k25": {
+    "title": "TopSpin 2K25",
+    "matchedTitle": "TopSpin 2K25",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co84fw.jpg",
+    "itemUrl": "https://www.igdb.com/games/topspin-2k25",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:18.656Z"
+  },
   "tormented-souls": {
     "title": "Tormented Souls",
     "matchedTitle": "Tormented Souls",
@@ -2726,6 +4894,22 @@
     "itemUrl": "https://www.igdb.com/games/tormented-souls",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:38.151Z"
+  },
+  "trails-into-reverie": {
+    "title": "英雄伝説 創の軌跡",
+    "matchedTitle": "The Legend of Heroes: Trails into Reverie",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3bb2.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-legend-of-heroes-trails-into-reverie",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:56.807Z"
+  },
+  "trek-to-yomi": {
+    "title": "Trek to Yomi",
+    "matchedTitle": "Trek to Yomi",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4p88.jpg",
+    "itemUrl": "https://www.igdb.com/games/trek-to-yomi",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:42:49.514Z"
   },
   "trials-of-mana": {
     "title": "聖剣伝説3 トライアルズ オブ マナ",
@@ -2743,6 +4927,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:46:41.103Z"
   },
+  "trombone-champ": {
+    "title": "Trombone Champ",
+    "matchedTitle": "Trombone Champ",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co44zl.jpg",
+    "itemUrl": "https://www.igdb.com/games/trombone-champ",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:50:05.786Z"
+  },
+  "tropico-6": {
+    "title": "Tropico 6",
+    "matchedTitle": "Tropico 6",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1idx.jpg",
+    "itemUrl": "https://www.igdb.com/games/tropico-6",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:28.672Z"
+  },
   "tunic": {
     "title": "TUNIC",
     "matchedTitle": "Tunic",
@@ -2750,6 +4950,22 @@
     "itemUrl": "https://www.igdb.com/games/tunic",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:31.560Z"
+  },
+  "two-point-campus": {
+    "title": "Two Point Campus",
+    "matchedTitle": "Two Point Campus",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co31nr.jpg",
+    "itemUrl": "https://www.igdb.com/games/two-point-campus",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:04.591Z"
+  },
+  "two-point-hospital": {
+    "title": "Two Point Hospital",
+    "matchedTitle": "Two Point Hospital",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co235d.jpg",
+    "itemUrl": "https://www.igdb.com/games/two-point-hospital",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:26.075Z"
   },
   "two-point-museum": {
     "title": "Two Point Museum",
@@ -2775,6 +4991,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:18.723Z"
   },
+  "undertale": {
+    "title": "UNDERTALE",
+    "matchedTitle": "Undertale",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1t2.jpg",
+    "itemUrl": "https://www.igdb.com/games/undertale",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:27.166Z"
+  },
   "unicorn-overlord": {
     "title": "ユニコーンオーバーロード",
     "matchedTitle": "Unicorn Overlord",
@@ -2790,6 +5014,14 @@
     "itemUrl": "https://www.igdb.com/games/unpacking",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:29.580Z"
+  },
+  "unreal-life": {
+    "title": "アンリアルライフ",
+    "matchedTitle": "Unreal Life",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2ot5.jpg",
+    "itemUrl": "https://www.igdb.com/games/unreal-life",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:17.681Z"
   },
   "until-dawn-remake": {
     "title": "Until Dawn",
@@ -2807,6 +5039,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:48:57.365Z"
   },
+  "va-11-hall-a": {
+    "title": "VA-11 Hall-A",
+    "matchedTitle": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2z8k.jpg",
+    "itemUrl": "https://www.igdb.com/games/va-11-hall-a-cyberpunk-bartender-action",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:18.814Z"
+  },
   "valkyria-chronicles-4": {
     "title": "戦場のヴァルキュリア4",
     "matchedTitle": "【新品】Switch 戦場のヴァルキュリア4〔新価格版〕【メール便】",
@@ -2814,6 +5054,14 @@
     "itemUrl": "https://item.rakuten.co.jp/gamearc/4974365862077n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:08:49.568Z"
+  },
+  "valkyrie-elysium": {
+    "title": "ヴァルキリーエリュシオン",
+    "matchedTitle": "Valkyrie Elysium",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4k5c.jpg",
+    "itemUrl": "https://www.igdb.com/games/valkyrie-elysium",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:40.643Z"
   },
   "vampire-survivors": {
     "title": "Vampire Survivors",
@@ -2823,6 +5071,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:28.231Z"
   },
+  "viewfinder": {
+    "title": "Viewfinder",
+    "matchedTitle": "Viewfinder",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaev1.jpg",
+    "itemUrl": "https://www.igdb.com/games/viewfinder",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:53.090Z"
+  },
   "visage": {
     "title": "Visage",
     "matchedTitle": "Visage",
@@ -2831,6 +5087,38 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:51:52.196Z"
   },
+  "visions-of-mana": {
+    "title": "聖剣伝説 VISIONS of MANA",
+    "matchedTitle": "Visions of Mana",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob7na.jpg",
+    "itemUrl": "https://www.igdb.com/games/visions-of-mana",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:43:36.725Z"
+  },
+  "voice-of-cards": {
+    "title": "Voice of Cards ドラゴンの島",
+    "matchedTitle": "Voice of Cards: The Isle Dragon Roars",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4vmh.jpg",
+    "itemUrl": "https://www.igdb.com/games/voice-of-cards-the-isle-dragon-roars",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:14.696Z"
+  },
+  "wandersong": {
+    "title": "Wandersong",
+    "matchedTitle": "Wandersong",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1oey.jpg",
+    "itemUrl": "https://www.igdb.com/games/wandersong",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:21.441Z"
+  },
+  "warhammer-40k-darktide": {
+    "title": "Warhammer 40,000: Darktide",
+    "matchedTitle": "Warhammer 40,000: Darktide",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5j6u.jpg",
+    "itemUrl": "https://www.igdb.com/games/warhammer-40000-darktide",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:25.577Z"
+  },
   "warhammer-40k-space-marine-2": {
     "title": "Warhammer 40,000: Space Marine 2",
     "matchedTitle": "Warhammer 40,000: Space Marine II",
@@ -2838,6 +5126,14 @@
     "itemUrl": "https://www.igdb.com/games/warhammer-40000-space-marine-ii",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:38.922Z"
+  },
+  "warhammer-vermintide-2": {
+    "title": "Warhammer: Vermintide 2",
+    "matchedTitle": "Warhammer: Vermintide 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co20u8.jpg",
+    "itemUrl": "https://www.igdb.com/games/warhammer-vermintide-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:27.067Z"
   },
   "warioware-get-it-together": {
     "title": "おすそわける メイド イン ワリオ",
@@ -2863,6 +5159,46 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:29.665Z"
   },
+  "watch-dogs-legion": {
+    "title": "ウォッチドッグス レギオン",
+    "matchedTitle": "Watch Dogs: Legion",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2oyq.jpg",
+    "itemUrl": "https://www.igdb.com/games/watch-dogs-legion",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:44:45.846Z"
+  },
+  "we-love-katamari-reroll": {
+    "title": "みんな大好き塊魂アンコール +ロイヤルリバース",
+    "matchedTitle": "We Love Katamari Reroll + Royal Reverie",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6589.jpg",
+    "itemUrl": "https://www.igdb.com/games/we-love-katamari-reroll-plus-royal-reverie",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:44.730Z"
+  },
+  "where-winds-meet": {
+    "title": "Where Winds Meet",
+    "matchedTitle": "Where Winds Meet",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coauhs.jpg",
+    "itemUrl": "https://www.igdb.com/games/where-winds-meet",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:34.751Z"
+  },
+  "winning-post-10": {
+    "title": "Winning Post 10",
+    "matchedTitle": "Winning Post 10",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6cdd.jpg",
+    "itemUrl": "https://www.igdb.com/games/winning-post-10",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:47:39.459Z"
+  },
+  "witcher-3-complete-edition": {
+    "title": "ウィッチャー3 ワイルドハント コンプリートエディション",
+    "matchedTitle": "【新品】PS5 ウィッチャー3 ワイルドハント コンプリートエディション【CERO:Z】【メール便】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gamearc/cabinet/shohin06/4940261518639.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/gamearc/4940261518639n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:48:04.819Z"
+  },
   "withering-rooms": {
     "title": "Withering Rooms",
     "matchedTitle": "Withering Rooms",
@@ -2879,6 +5215,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:08.541Z"
   },
+  "world-ends-with-you-final-remix": {
+    "title": "すばらしきこのせかい -Final Remix-",
+    "matchedTitle": "The World Ends with You: Final Remix",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1n68.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-world-ends-with-you-final-remix",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:49:13.209Z"
+  },
+  "wreckfest": {
+    "title": "Wreckfest",
+    "matchedTitle": "Wreckfest",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3vof.jpg",
+    "itemUrl": "https://www.igdb.com/games/wreckfest",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:29.301Z"
+  },
   "wuchang-fallen-feathers": {
     "title": "Wuchang: Fallen Feathers",
     "matchedTitle": "Wuchang: Fallen Feathers",
@@ -2894,6 +5246,14 @@
     "itemUrl": "https://www.igdb.com/games/wwe-2k24",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:52:08.193Z"
+  },
+  "wwe-2k25": {
+    "title": "WWE 2K25",
+    "matchedTitle": "WWE 2K25",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9c1v.jpg",
+    "itemUrl": "https://www.igdb.com/games/wwe-2k25",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:46:14.395Z"
   },
   "xcom-2-collection": {
     "title": "XCOM 2 コレクション",
@@ -2935,6 +5295,22 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:11.038Z"
   },
+  "yakuza-0-directors-cut": {
+    "title": "龍が如く0 ディレクターズカット",
+    "matchedTitle": "Yakuza 0: Director's Cut",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocbuz.jpg",
+    "itemUrl": "https://www.igdb.com/games/yakuza-0-directors-cut",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:34.847Z"
+  },
+  "yomawari-lost-in-the-dark": {
+    "title": "夜廻三",
+    "matchedTitle": "Yomawari: Lost in the Dark",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co59il.jpg",
+    "itemUrl": "https://www.igdb.com/games/yomawari-lost-in-the-dark",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:45:59.711Z"
+  },
   "yoshis-crafted-world": {
     "title": "ヨッシー クラフトワールド",
     "matchedTitle": "ヨッシークラフトワールド",
@@ -2943,6 +5319,22 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T06:56:32.672Z"
   },
+  "ys-8-lacrimosa-of-dana": {
+    "title": "イースVIII -Lacrimosa of DANA-",
+    "matchedTitle": "イースVIII -Lacrimosa of DANA- 【PS5】 ELJM-30699",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000436/2820596015.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/yamada-denki/2820596015/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:43:55.153Z"
+  },
+  "ys-9-monstrum-nox": {
+    "title": "イースIX -Monstrum NOX-",
+    "matchedTitle": "日本ファルコム 【PS5】イースIX -Monstrum NOX- [ELJM-30700 PS5 イ-ス9 モンストルム ノクス]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0495/4956027132186.jpg",
+    "itemUrl": "https://item.rakuten.co.jp/jism/4956027132186-54-71484-n/",
+    "source": "rakuten-ichiba",
+    "resolvedAt": "2026-08-06T07:43:52.556Z"
+  },
   "ys-x-nordics": {
     "title": "イースX -NORDICS-",
     "matchedTitle": "日本ファルコム 【Switch】イースX -NORDICS-　通常版 [HAC-P-BBCEA NSW イース10 ノーディクス ツウジョウ]",
@@ -2950,6 +5342,14 @@
     "itemUrl": "https://item.rakuten.co.jp/jism/4956027129285-54-40561-n/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T12:03:10.170Z"
+  },
+  "yu-gi-oh-master-duel": {
+    "title": "遊戯王 マスターデュエル",
+    "matchedTitle": "Yu-Gi-Oh! Master Duel",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaarj.jpg",
+    "itemUrl": "https://www.igdb.com/games/yu-gi-oh-master-duel",
+    "source": "igdb",
+    "resolvedAt": "2026-08-06T07:52:32.142Z"
   },
   "yuppie-psycho-executive-edition": {
     "title": "Yuppie Psycho: Executive Edition",
