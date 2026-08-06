@@ -16842,5 +16842,338 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Reply Game Studios・発売元Modus Gamesを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lego-star-wars-skywalker-saga",
+    "title": "LEGO スター・ウォーズ/スカイウォーカー・サーガ",
+    "titleKana": "れごすたーうぉーずすかいうぉーかーさーが",
+    "developerIds": [
+      "travellers-tales"
+    ],
+    "publisherId": "warner-bros-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "puzzle",
+      "co-op"
+    ],
+    "releaseDate": "2022-04-05",
+    "synopsis": "映画『スター・ウォーズ』全9部作をレゴで再現したアクションアドベンチャー。どの三部作からでも始められ、300体以上のキャラクターを使い分けて惑星を巡る。従来作から操作系が刷新され、射撃時の照準や近接戦闘が細かく作り直された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Traveller's Tales・発売元WB Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lego-horizon-adventures",
+    "title": "LEGO Horizon Adventures",
+    "titleKana": "れごほらいぞんあどべんちゃーず",
+    "developerIds": [
+      "guerrilla-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "co-op",
+      "platformer"
+    ],
+    "releaseDate": "2024-11-14",
+    "synopsis": "『Horizon Zero Dawn』の物語をレゴ世界に置き換えた作品。狩人アーロイが機械獣に覆われた大地を旅する筋書きはそのままに、明るく親しみやすい語り口に作り替えられている。2人での協力プレイと、拠点を飾り付ける要素を備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Guerrilla Games・発売元ソニー・インタラクティブエンタテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "disney-dreamlight-valley",
+    "title": "ディズニー ドリームライトバレー",
+    "titleKana": "でぃずにーどりーむらいとばれー",
+    "developerIds": [
+      "gameloft"
+    ],
+    "publisherId": "gameloft",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "life-simulation",
+      "adventure",
+      "sandbox"
+    ],
+    "releaseDate": "2022-09-06",
+    "synopsis": "ディズニーとピクサーのキャラクターが暮らす谷を舞台にした生活シミュレーション。「忘却」に覆われた谷を、畑仕事や釣り、家の飾り付けを通して蘇らせていく。ミッキーやウッディらの願いを叶えて交流を深め、住民として呼び戻していく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発/発売元Gameloftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "disney-illusion-island",
+    "title": "Disney Illusion Island",
+    "titleKana": "でぃずにーいりゅーじょんあいらんど",
+    "developerIds": [
+      "dlala-studios"
+    ],
+    "publisherId": "disney-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "metroidvania",
+      "platformer",
+      "co-op"
+    ],
+    "releaseDate": "2023-07-28",
+    "synopsis": "ミッキー・ミニー・ドナルド・グーフィーの4人が主人公の探索型2Dアクション。島モノスに散らばった3冊の本を取り戻すため、能力を得ながら行動範囲を広げていく。敵を倒す手段を持たない設計で、跳躍と回避で切り抜ける構成になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Dlala Studios・発売元Disney Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "crash-bandicoot-4",
+    "title": "クラッシュ・バンディクー4 とんでもマルチバース",
+    "titleKana": "くらっしゅばんでぃくーふぉーとんでもまるちばーす",
+    "developerIds": [
+      "toys-for-bob"
+    ],
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2021-03-11",
+    "synopsis": "オリジナル三部作の正統な続編にあたる横スクロール主体のアクション。時空に穴を開けたネオ・コルテックスを追い、クラッシュとココが複数の世界を渡り歩く。時間を遅くする、重力を反転させるといった仮面の能力が新たな仕掛けになっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Toys for Bob・発売元Activisionを確認。原典は2020年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "crash-team-rumble",
+    "title": "Crash Team Rumble",
+    "titleKana": "くらっしゅちーむらんぶる",
+    "developerIds": [
+      "toys-for-bob"
+    ],
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "party-game",
+      "versus-action",
+      "co-op"
+    ],
+    "releaseDate": "2023-06-20",
+    "synopsis": "『クラッシュ・バンディクー』の登場人物による4対4のオンライン対戦。ウンパフルーツを集めて自陣へ運ぶ得点競争が基本で、運び役・守り役・妨害役といった役割分担が勝敗を分ける。跳躍を活かした地形移動はシリーズの手触りを保っている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Toys for Bob・発売元Activisionを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "disney-speedstorm",
+    "title": "Disney Speedstorm",
+    "titleKana": "でぃずにーすぴーどすとーむ",
+    "developerIds": [
+      "gameloft"
+    ],
+    "publisherId": "gameloft",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "party-game"
+    ],
+    "releaseDate": "2023-09-28",
+    "synopsis": "ディズニー・ピクサー作品のキャラクターが走る基本プレイ無料のカートレース。作品世界を再現したコースを走り、キャラクターごとの固有スキルを使って順位を争う。ドリフトで加速を溜める操作系と、育成による性能強化を備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発/発売元Gameloftを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "team-sonic-racing",
+    "title": "チームソニックレーシング",
+    "titleKana": "ちーむそにっくれーしんぐ",
+    "developerIds": [
+      "sumo-digital"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "racing",
+      "party-game",
+      "co-op"
+    ],
+    "releaseDate": "2019-05-21",
+    "synopsis": "3人1組のチーム戦を主眼に置いたカートレース。個人順位ではなくチーム合計で勝敗が決まるため、アイテムを味方に譲る、後方の味方を加速させるといった協調行動が組み込まれている。車体は速度・技術・パワーの3系統に分かれる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Sumo Digital・発売元セガを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lego-marvel-super-heroes-2",
+    "title": "LEGO マーベル スーパー・ヒーローズ2",
+    "titleKana": "れごまーべるすーぱーひーろーずつー",
+    "developerIds": [
+      "travellers-tales"
+    ],
+    "publisherId": "warner-bros-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "puzzle",
+      "co-op"
+    ],
+    "releaseDate": "2017-11-14",
+    "synopsis": "マーベル作品のヒーローがレゴになって戦うアクションアドベンチャーの第2作。時空を支配するカーンが各時代の都市を継ぎ合わせた「クロノポリス」が舞台で、200体以上のキャラクターを切り替えて謎を解く。2人での協力プレイに対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Traveller's Tales・発売元WB Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nickelodeon-kart-racers-3",
+    "title": "Nickelodeon Kart Racers 3: Slime Speedway",
+    "titleKana": "にころでおんかーとれーさーずすりーすらいむすぴーどうぇい",
+    "developerIds": [
+      "bamtang-games"
+    ],
+    "publisherId": "gamemill-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "party-game"
+    ],
+    "releaseDate": "2022-10-13",
+    "synopsis": "ニコロデオンのアニメキャラクターが登場するカートレースの第3作。『スポンジ・ボブ』『TMNT』等の作品世界を模したコースを走り、番組ごとの仕掛けが道中に配置される。車両を部品単位で組み替えて性能を調整できる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Bamtang Games・発売元GameMill Entertainmentを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "crash-team-racing-nitro-fueled",
+    "title": "クラッシュ・バンディクー ブッとびレーシング",
+    "titleKana": "くらっしゅばんでぃくーぶっとびれーしんぐ",
+    "developerIds": [
+      "beenox"
+    ],
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "racing",
+      "party-game"
+    ],
+    "releaseDate": "2019-06-21",
+    "synopsis": "1999年の初代PS用カートレース『クラッシュ・バンディクー レーシング』を全面的に作り直した作品。ドリフト中に3回加速を重ねる独特の操作系を忠実に再現しつつ、後続作のコースやキャラクターも収録した。オンライン対戦にも対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Beenox・発売元Activisionを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sonic-mania",
+    "title": "ソニックマニア",
+    "titleKana": "そにっくまにあ",
+    "developerIds": [
+      "headcannon"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2017-08-15",
+    "synopsis": "メガドライブ期の作風を徹底して再現した2Dソニック。ファンとして長年ソニックを研究してきた制作陣が手がけ、往年のステージの再構成と完全新規のステージを織り交ぜている。ドット絵と当時の挙動を復元しつつ、新しい技も追加された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Headcannon等・発売元セガを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "delta-force-2025",
+    "title": "Delta Force",
+    "titleKana": "でるたふぉーす",
+    "developerIds": [
+      "timi-studio-group"
+    ],
+    "publisherId": "garena",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op",
+      "versus-action"
+    ],
+    "releaseDate": "2025-08-19",
+    "synopsis": "1990年代のPC用軍事FPSシリーズを現代的に作り直した基本プレイ無料のシューター。大人数が入り乱れる制圧戦と、装備を持ち込んで戦利品ごと生還を目指す抽出型モードを備える。兵科ごとの装備と車両運用が戦況を左右する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元TiMi Studio Group・発売元Garenaを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "marvel-cosmic-invasion",
+    "title": "Marvel Cosmic Invasion",
+    "titleKana": "まーべるこずみっくいんべーじょん",
+    "developerIds": [
+      "tribute-games"
+    ],
+    "publisherId": "dotemu",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "co-op"
+    ],
+    "releaseDate": "2025-12-01",
+    "synopsis": "『TMNT: Shredder's Revenge』の制作陣によるドット絵のベルトスクロールアクション。アニヒラスの侵攻に対し、スパイダーマンやウルヴァリンら15人以上のヒーローが立ち向かう。2人を選んで戦闘中に交代する「タッグ」が本作の主軸になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元Tribute Games・発売元DotEmuを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "coffee-talk-episode-2",
+    "title": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "titleKana": "こーひーとーくえぴそーどつーはいびすかすあんどばたふらい",
+    "developerIds": [
+      "toge-productions"
+    ],
+    "publisherId": "toge-productions",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "simulation"
+    ],
+    "releaseDate": "2023-04-20",
+    "synopsis": "深夜喫茶を舞台にしたアドベンチャーの続編。前作の常連に加え、悩みを抱えた新しい客が店を訪れる。飲み物を作って話を聞くという構造は変わらず、種族を越えた共生や創作と生活の折り合いといった主題が静かに語られていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Toge Productionsを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

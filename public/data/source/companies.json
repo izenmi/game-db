@@ -4831,5 +4831,95 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "travellers-tales",
+    "name": "Traveller's Tales",
+    "nameKana": "とらべらーずている",
+    "description": "英国の開発会社。レゴを題材にした一連のアクションアドベンチャーを長年手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『LEGO Star Wars: The Skywalker Saga』等の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gameloft",
+    "name": "Gameloft",
+    "nameKana": "げーむろふと",
+    "description": "フランスの開発・発売会社。スマートフォン向けから家庭用機まで幅広く展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Disney Dreamlight Valley』『Disney Speedstorm』の開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dlala-studios",
+    "name": "Dlala Studios",
+    "nameKana": "どららすたじおず",
+    "description": "英国の開発スタジオ。手描きアニメーション調の『Disney Illusion Island』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "disney-games",
+    "name": "Disney Games",
+    "nameKana": "でぃずにーげーむす",
+    "description": "ウォルト・ディズニー・カンパニーのゲーム事業部門。自社IPを用いた作品を発売する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Disney Illusion Island』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "toys-for-bob",
+    "name": "Toys for Bob",
+    "nameKana": "といずふぉーぼぶ",
+    "description": "米国の開発会社。『クラッシュ・バンディクー』『Spyro』シリーズの近作を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Crash Bandicoot 4』『Crash Team Rumble』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bamtang-games",
+    "name": "Bamtang Games",
+    "nameKana": "ばむたんげーむず",
+    "description": "ペルーの開発会社。キャラクターIPを用いたカジュアル作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Nickelodeon Kart Racers 3』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "beenox",
+    "name": "Beenox",
+    "nameKana": "びーのっくす",
+    "description": "カナダの開発会社。Activision傘下で移植やレースゲームを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Crash Team Racing Nitro-Fueled』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "headcannon",
+    "name": "Headcannon",
+    "nameKana": "へっどきゃのん",
+    "description": "米国の開発スタジオ。『ソニックマニア』の共同開発を担当した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で同作の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "timi-studio-group",
+    "name": "TiMi Studio Group",
+    "nameKana": "てぃーみーすたじおぐるーぷ",
+    "description": "中国テンセント傘下の開発会社。大規模なオンライン作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Delta Force』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "garena",
+    "name": "Garena",
+    "nameKana": "がりーな",
+    "description": "シンガポールの発売会社。アジア圏でオンライン作品の展開を担う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Delta Force』の発売元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
