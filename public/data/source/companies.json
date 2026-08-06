@@ -3454,5 +3454,23 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Nintendo World Championships ファミコン世界大会』の共同開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "m2",
+    "name": "エムツー",
+    "nameKana": "えむつー",
+    "description": "日本の開発会社。旧作の移植・復刻の精度に定評があり、『聖剣伝説 レジェンド オブ マナ』等の移植を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Legend of Mana』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "soleil",
+    "name": "ソレイユ",
+    "nameKana": "それいゆ",
+    "description": "日本の開発会社。アクションゲームの受託開発を多く手がけ、『ヴァルキリーエリュシオン』の共同開発を担当した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Valkyrie Elysium』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

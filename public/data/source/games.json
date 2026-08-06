@@ -11294,5 +11294,333 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元HAL研究所・発売元任天堂を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "crisis-core-ff7-reunion",
+    "title": "クライシス コア -ファイナルファンタジーVII- リユニオン",
+    "titleKana": "くらいしすこあふぁいなるふぁんたじーせぶんりゆにおん",
+    "developerIds": [
+      "tose",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "rpg"
+    ],
+    "releaseDate": "2022-12-13",
+    "synopsis": "PSP用作品を全面リメイクした『ファイナルファンタジーVII』の前日譚。ソルジャーの青年ザックス・フェアが、失踪した英雄ジェネシスを追う任務からニブルヘイムの惨劇へと巻き込まれていく。戦闘はコマンド式からリアルタイム制へ刷新され、全編がフルボイス化された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch/PS5)・発売日・開発元トーセ/スクウェア・エニックス・発売元スクウェア・エニックスを確認。発売日はIGDBの登録値を採用した。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "visions-of-mana",
+    "title": "聖剣伝説 VISIONS of MANA",
+    "titleKana": "せいけんでんせつゔぃじょんずおぶまな",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2024-08-28",
+    "synopsis": "完全新作としては十数年ぶりとなる『聖剣伝説』シリーズのアクションRPG。マナの樹に生贄を捧げる風習を持つ世界で、魂の守り人ヴァルとその幼馴染ヒナが聖地への旅に出る。精霊の器を切り替えて戦い方を変える「エレメンタルベッセル」が戦闘の軸になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の存在・発売日・発売元スクウェア・エニックスを確認。IGDB上の開発元はOuka Studio表記だが、本サイトではスクウェア・エニックスを開発元として登録した。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "legend-of-mana",
+    "title": "聖剣伝説 レジェンド オブ マナ",
+    "titleKana": "せいけんでんせつれじぇんどおぶまな",
+    "developerIds": [
+      "m2",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2021-06-24",
+    "synopsis": "1999年のPS用作品をHD化した移植版。プレイヤーが地図上に土地を配置して世界そのものを作っていく「ランドメイクシステム」が最大の特徴で、置き方によって発生するイベントや訪れる住人が変わる。手描き背景の美しさと自由度の高い進行が支持された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発にエムツーが関与していること・発売元スクウェア・エニックスを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "valkyrie-elysium",
+    "title": "ヴァルキリーエリュシオン",
+    "titleKana": "ゔぁるきりーえりゅしおん",
+    "developerIds": [
+      "soleil",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2022-09-28",
+    "synopsis": "北欧神話を下敷きにした『ヴァルキリープロファイル』の系譜に連なるアクションRPG。ラグナロクが迫る世界で、主神オーディンに生み出されたヴァルキリーが地上の魂を救済していく。エインフェリアを召喚して共闘させる連携と、属性を突く空中戦が戦闘の中心。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・共同開発元Soleil・発売元スクウェア・エニックスを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dragon-quest-builders-2",
+    "title": "ドラゴンクエストビルダーズ2 破壊神シドーとからっぽの島",
+    "titleKana": "どらごんくえすとびるだーずつーはかいしんしどーとからっぽのしま",
+    "developerIds": [
+      "omega-force",
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "sandbox",
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2018-12-20",
+    "synopsis": "ブロックを積んで町を作るビルドとRPGの冒険を組み合わせた作品の第2作。破壊神の教団に囚われたビルダーの主人公が、記憶のない少年シドーとともに荒れ果てた島々を復興していく。住人が自発的に生活し畑を耕すなど、作った町が動く仕掛けが強化された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・共同開発元ωフォース・発売元スクウェア・エニックスを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ni-no-kuni-2",
+    "title": "二ノ国II レヴァナントキングダム",
+    "titleKana": "にのくにつーれゔぁなんときんぐだむ",
+    "developerIds": [
+      "level-5"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "simulation"
+    ],
+    "releaseDate": "2021-09-17",
+    "synopsis": "クーデターで王位を追われた少年王エバンが、異世界から来た青年ロウランとともに新しい国を興していくRPG。アクション主体の戦闘に加え、住民を勧誘して施設を建てる王国作りと、軍勢を率いる戦略パートが並行して進む。スタジオジブリ出身の作画陣が手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元レベルファイブ・発売元バンダイナムコエンターテインメントを確認。原典はPS4版(2018年)。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ni-no-kuni-remastered",
+    "title": "二ノ国 白き聖灰の女王",
+    "titleKana": "にのくにしろきせいはいのじょおう",
+    "developerIds": [
+      "level-5"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure"
+    ],
+    "releaseDate": "2019-09-20",
+    "synopsis": "母を亡くした少年オリバーが、もう一つの世界「二ノ国」へ渡って母の魂を取り戻そうとするRPGのリマスター版。イマージェンと呼ばれる使い魔を育てて戦わせる仕組みが特徴で、スタジオジブリが手がけたアニメーションと久石譲の音楽が世界観を支えている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元レベルファイブ・発売元バンダイナムコエンターテインメントを確認。原典はPS3版(2011年)。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tales-of-vesperia-definitive",
+    "title": "テイルズ オブ ヴェスペリア REMASTER",
+    "titleKana": "ているずおぶゔぇすぺりありますたー",
+    "developerIds": [
+      "bandai-namco-studios"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "rpg"
+    ],
+    "releaseDate": "2019-01-11",
+    "synopsis": "2008年の作品を高解像度化し、後年の追加要素も収録したリマスター版。元騎士の青年ユーリ・ローウェルが、盗まれた魔導器を追ううちに世界を巡る陰謀に踏み込んでいく。秘奥義を狙う爽快な戦闘と、正義のあり方を問う筋書きがシリーズ内でも高く評価されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元バンダイナムコスタジオ・発売元バンダイナムコエンターテインメントを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "atelier-ryza-dx",
+    "title": "ライザのアトリエ ～常闇の女王と秘密の隠れ家～ DX",
+    "titleKana": "らいざのあとりえとこやみのじょおうとひみつのかくれがでぃーえっくす",
+    "developerIds": [
+      "gust"
+    ],
+    "publisherId": "koei-tecmo",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "simulation",
+      "adventure"
+    ],
+    "releaseDate": "2025-11-13",
+    "synopsis": "島の田舎で退屈していた少女ライザが、錬金術と出会ってひと夏の冒険に踏み出すRPGのDX版。素材の性質をつなげてアイテムを作る調合が中核で、作った道具が探索と戦闘の両方を広げていく。追加コンテンツを収録し、現行機向けに画質と操作性が改善されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『Atelier Ryza: Ever Darkness & the Secret Hideout DX』としてSwitch 2/Switch/PS5版の発売日・開発元ガスト・発売元コーエーテクモを確認。原典は2019年のPS4/Switch版。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ys-9-monstrum-nox",
+    "title": "イースIX -Monstrum NOX-",
+    "titleKana": "いーすないんもんすとるむのくす",
+    "developerIds": [
+      "nihon-falcom"
+    ],
+    "publisherId": "nihon-falcom",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2021-07-06",
+    "synopsis": "冒険家アドル・クリスティンが監獄都市バルドゥークに囚われ、怪人「Monstrum」の力を得て街の異界化に立ち向かうアクションRPG。壁を駆け上がる、遠くへ飛ぶといった怪人ごとの能力で立体的に街を探索でき、仲間と切り替えながら高速の戦闘を行う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本ファルコムであることを確認。発売日はIGDBの登録値で、原典はPS4版(2019年)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ys-8-lacrimosa-of-dana",
+    "title": "イースVIII -Lacrimosa of DANA-",
+    "titleKana": "いーすえいとらくりもさおぶだーな",
+    "developerIds": [
+      "nihon-falcom"
+    ],
+    "publisherId": "nihon-falcom",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2018-06-26",
+    "synopsis": "航海中に難破し、絶海の孤島セイレン島に流れ着いたアドルの冒険を描くアクションRPG。漂流者を集めて拠点を築きながら島を開拓し、並行して青髪の少女ダーナの夢を通じて島の過去が語られる。二つの時代の物語が交差する構成と探索の密度 が評価された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本ファルコムであることを確認。発売日はIGDBの登録値で、原典はPS Vita版(2016年)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "trails-into-reverie",
+    "title": "英雄伝説 創の軌跡",
+    "titleKana": "えいゆうでんせつはじまりのきせき",
+    "developerIds": [
+      "nihon-falcom"
+    ],
+    "publisherId": "nihon-falcom",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "tactical-rpg"
+    ],
+    "releaseDate": "2021-08-26",
+    "synopsis": "『閃の軌跡』と『空の軌跡』『零・碧の軌跡』の登場人物が集う軌跡シリーズの節目となる作品。リィン、ロイド、そして仮面の男Cという3つのルートを任意に切り替えて進行し、それぞれの視点から同じ動乱を追う。総勢50人規模のキャラクターが操作可能になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本ファルコムであることを確認。発売日はIGDBの登録値で、原典はPS4版(2020年)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shiren-6",
+    "title": "不思議のダンジョン 風来のシレン6 とぐろ島探検録",
+    "titleKana": "ふしぎのだんじょんふうらいのしれんしっくすとぐろじまたんけんろく",
+    "developerIds": [
+      "spike-chunsoft"
+    ],
+    "publisherId": "spike-chunsoft",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "roguelike",
+      "rpg"
+    ],
+    "releaseDate": "2024-01-25",
+    "synopsis": "入るたびに地形が変わるダンジョンに挑むローグライクRPG。約15年ぶりの完全新作となる本作では、南国のとぐろ島を舞台にシレンと相棒コッパが秘宝を探す。倒れると持ち物を失う厳しい設計はそのままに、道中の情報を仲間へ引き継ぐ仕組みなどが追加された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がスパイク・チュンソフトであることを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shin-megami-tensei-5-vengeance",
+    "title": "真・女神転生V Vengeance",
+    "titleKana": "しんめがみてんせいふぁいゔゔぇんじぇんす",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg"
+    ],
+    "releaseDate": "2024-06-14",
+    "synopsis": "荒廃した東京「ダアト」を舞台にしたRPGの拡張版。従来の筋書きに加え、女神リリスら「ヨコハマ」勢力を軸にした新ルート「復讐の女神編」が収録された。悪魔を仲間にし合体させて育てるシリーズの根幹はそのままに、シナリオ量と戦闘バランスが大きく増補されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元アトラスを確認(IGDB上の発売元はセガ表記)。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "raidou-remastered",
+    "title": "デビルサマナー 葛葉ライドウ対超力兵団 RAIDOU Remastered",
+    "titleKana": "でびるさまなーくずのはらいどうたいちょうりきへいだんらいどうりますたーど",
+    "developerIds": [
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2025-06-19",
+    "synopsis": "2006年のPS2用作品を現行機向けに作り直したアクションRPG。大正時代の帝都を舞台に、悪魔召喚師の14代目葛葉ライドウが探偵として怪事件を追う。悪魔を呼び出して共闘させるリアルタイム戦闘が全面的に改修され、操作性と画質が刷新された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元アトラスを確認(IGDB上の発売元はセガ表記)。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]
