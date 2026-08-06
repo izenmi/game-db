@@ -13905,5 +13905,329 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元Dogubomb・発売元Raw Furyを確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mafia-the-old-country",
+    "title": "Mafia: The Old Country",
+    "titleKana": "まふぃあじおーるどかんとりー",
+    "developerIds": [
+      "hangar-13"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "crime-action",
+      "action-adventure",
+      "shooter"
+    ],
+    "releaseDate": "2025-08-08",
+    "synopsis": "20世紀初頭のシチリアを舞台にしたシリーズ前日譚。硫黄鉱山から逃れた青年エンツォ・ファヴァラが、地元の一族に拾われてマフィアの世界へ足を踏み入れる。開放型ではなく物語主導の構成をとり、当時の農村と港町の風景が細かく作り込まれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Hangar 13・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dragon-ball-fighterz",
+    "title": "ドラゴンボール ファイターズ",
+    "titleKana": "どらごんぼーるふぁいたーず",
+    "developerIds": [
+      "arc-system-works"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2018-09-27",
+    "synopsis": "アークシステムワークスが開発した3対3のチーム制対戦格闘。原作アニメの絵柄をそのまま動かしたような描画が最大の特徴で、簡単な操作で連続技がつながる設計になっている。交代や援護攻撃を絡めた組み立てが競技シーンでも支持された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日を確認(IGDB側に開発/発売元の登録がなかったため、本サイトではアークシステムワークス開発・バンダイナムコ発売として登録した)。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jojo-all-star-battle-r",
+    "title": "ジョジョの奇妙な冒険 オールスターバトル R",
+    "titleKana": "じょじょのきみょうなぼうけんおーるすたーばとるあーる",
+    "developerIds": [
+      "cyberconnect2"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2022-09-02",
+    "synopsis": "2013年の対戦格闘を現行機向けに作り直した版。第1部から第8部までのキャラクター50人以上を収録し、原作の擬音や決め台詞を再現した演出が持ち味になっている。スタンドの切り替えや波紋といった部ごとの特性が、そのまま戦闘の型に反映されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元サイバーコネクトツー・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "demon-slayer-hinokami-chronicles",
+    "title": "鬼滅の刃 ヒノカミ血風譚",
+    "titleKana": "きめつのやいばひのかみけっぷうたん",
+    "developerIds": [
+      "cyberconnect2"
+    ],
+    "publisherId": "aniplex",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "adventure"
+    ],
+    "releaseDate": "2021-10-15",
+    "synopsis": "『鬼滅の刃』を題材にした対戦アクション。竈門炭治郎が家族を殺した鬼を追う物語を追体験する一人用の章と、2対2で戦う対戦モードで構成される。呼吸の型ごとに異なる大技が用意され、アニメの原画に近い演出でそのまま再現されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元サイバーコネクトツー・発売元アニプレックス/セガを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "demon-slayer-hinokami-chronicles-2",
+    "title": "鬼滅の刃 ヒノカミ血風譚2",
+    "titleKana": "きめつのやいばひのかみけっぷうたんつー",
+    "developerIds": [
+      "cyberconnect2"
+    ],
+    "publisherId": "aniplex",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "adventure"
+    ],
+    "releaseDate": "2025-07-31",
+    "synopsis": "前作の続きにあたる対戦アクション。刀鍛冶の里編から柱稽古編までの物語を収録し、操作キャラクターは40人以上に増えた。対戦は引き続き2対2で、上弦の鬼との戦いを再現した演出重視のバトルが多数用意されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元サイバーコネクトツー・発売元セガ/アニプレックスを確認。あらすじは独自要約(コピペなし)。収録範囲の詳細は未確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "multiversus",
+    "title": "MultiVersus",
+    "titleKana": "まるちばーさす",
+    "developerIds": [
+      "player-first-games"
+    ],
+    "publisherId": "warner-bros-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "party-game"
+    ],
+    "releaseDate": "2022-07-26",
+    "synopsis": "ワーナー作品のキャラクターが一堂に会する基本プレイ無料の対戦アクション。バットマンやトムとジェリー、スティーブン・ユニバースらが同じ舞台で戦う。相手を場外へ吹き飛ばす形式で、2対2のタッグ戦を主眼に置いた連携設計が特徴になっている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Player First Games・発売元WB Gamesを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dnf-duel",
+    "title": "DNF Duel",
+    "titleKana": "でぃーえぬえふでゅえる",
+    "developerIds": [
+      "arc-system-works",
+      "neople",
+      "eighting"
+    ],
+    "publisherId": "nexon",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2022-06-28",
+    "synopsis": "韓国のオンラインRPG『アラド戦記』を原作にした2D対戦格闘。原作の職業がそのまま操作キャラクターになっており、MP消費で強力な技を撃つ「MPスキル」と、体力が減るほど攻撃力が上がる仕組みが独特の駆け引きを生む。開発にアークシステムワークスが参加した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元アークシステムワークス/Neople/エイティング・発売元ネクソンを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tmnt-shredders-revenge",
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "titleKana": "てぃーんえいじみゅーたんとにんじゃたーとるずしゅれっだーずりべんじ",
+    "developerIds": [
+      "tribute-games"
+    ],
+    "publisherId": "dotemu",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "co-op"
+    ],
+    "releaseDate": "2022-06-16",
+    "synopsis": "1980年代のアニメ版を下敷きにしたドット絵のベルトスクロールアクション。4匹の亀とスプリンター、エイプリルらを操作し、シュレッダー一味が支配する街を横切って進む。最大6人での同時プレイに対応し、当時のアーケード作品の手触りを狙って作られている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Tribute Games・発売元DotEmuを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "river-city-girls-2",
+    "title": "リバーシティガールズ2",
+    "titleKana": "りばーしてぃがーるずつー",
+    "developerIds": [
+      "wayforward"
+    ],
+    "publisherId": "arc-system-works",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "co-op",
+      "rpg"
+    ],
+    "releaseDate": "2022-12-15",
+    "synopsis": "『くにおくん』シリーズの流れを汲むベルトスクロールアクションの続編。ミサコとキョウコに加え、くにお・りき・プロヴィーらも操作でき、最大4人での協力プレイに対応する。街を歩き回って店で装備を買い、経験値で技を覚えるRPG的な要素を備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元WayForward・発売元アークシステムワークスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "samurai-shodown-2019",
+    "title": "SAMURAI SPIRITS",
+    "titleKana": "さむらいすぴりっつ",
+    "developerIds": [
+      "snk"
+    ],
+    "publisherId": "snk",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2019-12-12",
+    "synopsis": "武器を持って戦う対戦格闘シリーズの再始動作。一撃の重さを重視した設計で、大振りの斬撃が当たれば体力を大きく奪える。江戸時代を舞台に、覇王丸や十兵衛らお馴染みの剣士が集う。攻めの読み合いを促す「怒り」や一閃といった要素が引き継がれている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元SNKを確認。原典は2019年のPS4版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hunter-x-hunter-nen-impact",
+    "title": "HUNTER×HUNTER NEN×IMPACT",
+    "titleKana": "はんたーはんたーねんいんぱくと",
+    "developerIds": [
+      "eighting",
+      "bushiroad-games"
+    ],
+    "publisherId": "arc-system-works",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2025-07-15",
+    "synopsis": "『HUNTER×HUNTER』を題材にした3対3のチーム制対戦格闘。原作の「念能力」を系統ごとに再現し、キャラクターの組み合わせで戦い方が変わる設計になっている。天空闘技場編やヨークシンシティ編の登場人物が操作でき、開発はエイティングが担当した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元エイティング/ブシロードゲームズ・発売元アークシステムワークスを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "my-hero-ones-justice-2",
+    "title": "僕のヒーローアカデミア One's Justice2",
+    "titleKana": "ぼくのひーろーあかでみあわんずじゃすてぃすつー",
+    "developerIds": [
+      "byking"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2020-03-12",
+    "synopsis": "『僕のヒーローアカデミア』を題材にした3D対戦アクションの第2作。個性ごとに攻撃範囲や移動が大きく異なるキャラクターを操作し、広い舞台を立体的に動き回って戦う。原作の雄英体育祭編以降の展開を追うストーリーモードを収録する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元バイキング・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jujutsu-kaisen-cursed-clash",
+    "title": "呪術廻戦 戦華双乱",
+    "titleKana": "じゅじゅつかいせんせんかそうらん",
+    "developerIds": [
+      "byking"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2024-02-02",
+    "synopsis": "『呪術廻戦』を題材にした2対2のチーム制対戦アクション。相棒と交代しながら連携技をつなぐ設計で、原作の呪術や領域展開が必殺技として再現されている。虎杖悠仁ら呪術高専の面々に加え、呪詛師側の人物も操作できる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元バイキング・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "absolum",
+    "title": "Absolum",
+    "titleKana": "あぶそるむ",
+    "developerIds": [
+      "dotemu"
+    ],
+    "publisherId": "dotemu",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "roguelike",
+      "co-op"
+    ],
+    "releaseDate": "2025-10-09",
+    "synopsis": "『ベア・ナックルIV』の制作陣が手がけた、ファンタジー世界のベルトスクロールアクション。魔法使いの王が支配する土地を舞台に、4人の主人公から1人を選んで進む。挑戦のたびに道筋と入手する能力が変わるローグライト構造を取り入れている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発/発売元DotEmuを確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "persona-4-arena-ultimax",
+    "title": "ペルソナ4 ジ・アルティマックス ウルトラスープレックスホールド",
+    "titleKana": "ぺるそなふぉーじあるてぃまっくすうるとらすぷれっくすほーるど",
+    "developerIds": [
+      "arc-system-works",
+      "atlus"
+    ],
+    "publisherId": "atlus",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "adventure"
+    ],
+    "releaseDate": "2022-03-17",
+    "synopsis": "『ペルソナ4』の登場人物が戦う2D対戦格闘の移植版。ペルソナを呼び出して攻撃する二段構えの操作が特徴で、格闘ゲームに不慣れでも技を出しやすい補助操作を備える。『ペルソナ3』勢も参戦し、長編のストーリーモードを収録している。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元アークシステムワークス/アトラス・発売元セガ/アトラスを確認。原典は2013年のアーケード/PS3版。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-06"
   }
 ]

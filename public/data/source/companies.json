@@ -3940,5 +3940,59 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Blue Prince』の開発元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "player-first-games",
+    "name": "Player First Games",
+    "nameKana": "ぷれいやーふぁーすとげーむず",
+    "description": "米国の開発会社。ワーナー作品のキャラクターが集う対戦アクション『MultiVersus』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『MultiVersus』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "neople",
+    "name": "Neople",
+    "nameKana": "ねおぷる",
+    "description": "韓国の開発会社。『アラド戦記(Dungeon & Fighter)』を手がけ、その対戦格闘版に参加した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『DNF Duel』の共同開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nexon",
+    "name": "ネクソン",
+    "nameKana": "ねくそん",
+    "description": "韓国発の発売会社。オンラインゲームを中心に多数のタイトルを展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『DNF Duel』の発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tribute-games",
+    "name": "Tribute Games",
+    "nameKana": "とりびゅーとげーむず",
+    "description": "カナダの開発会社。ドット絵のベルトスクロールアクションを得意とする。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『TMNT: Shredder's Revenge』『Marvel Cosmic Invasion』の開発元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bushiroad-games",
+    "name": "ブシロードゲームズ",
+    "nameKana": "ぶしろーどげーむず",
+    "description": "日本の発売会社。ブシロードグループのゲーム事業を担う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『HUNTER×HUNTER NEN×IMPACT』の共同開発/発売元として確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "byking",
+    "name": "バイキング",
+    "nameKana": "ばいきんぐ",
+    "description": "日本の開発会社。漫画・アニメ原作の対戦アクションを多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-06照会)で『僕のヒーローアカデミア One's Justice2』『呪術廻戦 戦華双乱』の開発元(Byking Inc.)として確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
