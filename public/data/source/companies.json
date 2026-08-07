@@ -7387,5 +7387,671 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "blue-tongue",
+    "name": "Blue Tongue Entertainment",
+    "nameKana": "ぶるーたんぐえんためいんめんと",
+    "description": "オーストラリアにあった開発会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "happy-juice-games",
+    "name": "Happy Juice Games",
+    "nameKana": "はっぴーじゅーすげーむす",
+    "description": "イスラエルの開発チーム。手描きの謎解きアドベンチャーを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "megawobble",
+    "name": "MegaWobble",
+    "nameKana": "めがうぉぶる",
+    "description": "アメリカの個人開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "playtonic-friends",
+    "name": "Playtonic Friends",
+    "nameKana": "ぷれいとにっくふれんず",
+    "description": "イギリスの発売レーベル。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fntastic",
+    "name": "Fntastic",
+    "nameKana": "ふぁんたすてぃっく",
+    "description": "ロシア出身の開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mytona",
+    "name": "MYTONA",
+    "nameKana": "まいとな",
+    "description": "ロシアの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "big-huge-games",
+    "name": "Big Huge Games",
+    "nameKana": "びっぐひゅーじげーむす",
+    "description": "アメリカにあった開発会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shinen",
+    "name": "Shin'en Multimedia",
+    "nameKana": "しねんまるちめでぃあ",
+    "description": "ドイツの開発会社。任天堂機で高い技術力の作品を出し続けている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "norsfell",
+    "name": "Norsfell",
+    "nameKana": "のーすふぇる",
+    "description": "カナダの開発会社。北欧神話の協力サバイバルを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "colepowered-games",
+    "name": "ColePowered Games",
+    "nameKana": "こーるぱわーどげーむす",
+    "description": "イギリスの個人開発スタジオ。手続き生成の探偵作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fireshine-games",
+    "name": "Fireshine Games",
+    "nameKana": "ふぁいあしゃいんげーむす",
+    "description": "イギリスの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tom-create",
+    "name": "トムクリエイト",
+    "nameKana": "とむくりえいと",
+    "description": "日本の開発会社。ガンダム関連作品の開発を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kunos-simulazioni",
+    "name": "Kunos Simulazioni",
+    "nameKana": "くのすしみゅらつぃおーに",
+    "description": "イタリアの開発会社。実車の挙動を再現するレース作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "blue-brain-games",
+    "name": "Blue Brain Games",
+    "nameKana": "ぶるーぶれいんげーむす",
+    "description": "スロバキアの開発チーム。立体的な仕掛け箱パズルを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "stormind-games",
+    "name": "Stormind Games",
+    "nameKana": "すとーみんどげーむす",
+    "description": "イタリアの開発会社。ホラー作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "darril-arts",
+    "name": "Darril Arts",
+    "nameKana": "だりるあーつ",
+    "description": "イタリアの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kairosoft",
+    "name": "カイロソフト",
+    "nameKana": "かいろそふと",
+    "description": "日本の開発会社。ドット絵の経営シミュレーションを多数展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sand-sailor",
+    "name": "Sand Sailor Studio",
+    "nameKana": "さんどせいらーすたじお",
+    "description": "ルーマニアの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dark-seas",
+    "name": "Dark Seas Interactive",
+    "nameKana": "だーくしーずいんたらくてぃぶ",
+    "description": "アメリカの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "vagabond-dog",
+    "name": "Vagabond Dog",
+    "nameKana": "ばがぼんどどっぐ",
+    "description": "カナダの開発チーム。選択の重みを扱うRPGを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "big-loop-studios",
+    "name": "Big Loop Studios",
+    "nameKana": "びっぐるーぷすたじおず",
+    "description": "スウェーデンの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "snapbreak",
+    "name": "Snapbreak",
+    "nameKana": "すなっぷぶれいく",
+    "description": "スウェーデンの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "streum-on",
+    "name": "Streum On Studio",
+    "nameKana": "すとぅるーむおんすたじお",
+    "description": "フランスの開発会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "red-nexus-games",
+    "name": "Red Nexus Games",
+    "nameKana": "れっどねくさすげーむす",
+    "description": "アメリカの開発チーム。ピンボールとローグライトを掛け合わせた作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "indieark",
+    "name": "IndieArk",
+    "nameKana": "いんでぃーあーく",
+    "description": "中国の発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kong-studios",
+    "name": "KONG STUDIOS",
+    "nameKana": "こんぐすたじおず",
+    "description": "韓国の開発会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kakao-games",
+    "name": "Kakao Games",
+    "nameKana": "かかおげーむす",
+    "description": "韓国の発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ycjy-games",
+    "name": "YCJY Games",
+    "nameKana": "わいしーじぇいわいげーむす",
+    "description": "スウェーデンの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "casey-donnellan",
+    "name": "Casey Donnellan Games",
+    "nameKana": "けーしーどねらんげーむす",
+    "description": "アメリカの個人開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "next-studios",
+    "name": "NExT Studios",
+    "nameKana": "ねくすとすたじおず",
+    "description": "中国の開発会社。テンセント傘下で実験的な作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meta-publishing",
+    "name": "META Publishing",
+    "nameKana": "めたぱぶりっしんぐ",
+    "description": "キプロスの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "we-create-stuff",
+    "name": "We Create Stuff",
+    "nameKana": "うぃーくりえいとすたっふ",
+    "description": "イスラエルの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "herobeat-studios",
+    "name": "Herobeat Studios",
+    "nameKana": "ひーろーびーとすたじおず",
+    "description": "スペインの開発チーム。環境問題を扱う作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "handygames",
+    "name": "HandyGames",
+    "nameKana": "はんでぃげーむす",
+    "description": "ドイツの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "backwoods-entertainment",
+    "name": "Backwoods Entertainment",
+    "nameKana": "ばっくうっずえんためいんめんと",
+    "description": "ドイツの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "application-systems",
+    "name": "Application Systems Heidelberg",
+    "nameKana": "あぷりけーしょんしすてむず",
+    "description": "ドイツの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "blackmuffin",
+    "name": "BlackMuffin Studio",
+    "nameKana": "ぶらっくまふぃんすたじお",
+    "description": "フランスの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kingsisle",
+    "name": "KingsIsle Entertainment",
+    "nameKana": "きんぐずあいるえんためいんめんと",
+    "description": "アメリカの開発・運営会社。児童向けのオンラインRPGを運営する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gaming-minds",
+    "name": "Gaming Minds Studios",
+    "nameKana": "げーみんぐまいんずすたじおず",
+    "description": "ドイツの開発会社。経営シミュレーションを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "christian-west",
+    "name": "Playsport Games",
+    "nameKana": "ぷれいすぽーとげーむす",
+    "description": "イギリスの開発チーム。モータースポーツ経営を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "caged-element",
+    "name": "Caged Element",
+    "nameKana": "けーじどえれめんと",
+    "description": "カナダの開発チーム。重力を無視して走るレースを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tendershoot",
+    "name": "Tendershoot",
+    "nameKana": "てんだーしゅーと",
+    "description": "アメリカの個人開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fourattic",
+    "name": "Fourattic",
+    "nameKana": "ふぉーあてぃっく",
+    "description": "スペインの開発チーム。1980年代を題材にした作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "surgent-studios",
+    "name": "Surgent Studios",
+    "nameKana": "さーじぇんとすたじおず",
+    "description": "イギリスの開発会社。アフリカの神話を題材にした作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "summerfall-studios",
+    "name": "Summerfall Studios",
+    "nameKana": "さまーふぉーるすたじおず",
+    "description": "オーストラリアの開発会社。歌で進む物語作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "soulgame-studio",
+    "name": "SoulGame Studio",
+    "nameKana": "そうるげーむすたじお",
+    "description": "フランスの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "byte-barrel",
+    "name": "Byte Barrel",
+    "nameKana": "ばいとばれる",
+    "description": "ポーランドの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fulqrum",
+    "name": "Fulqrum Publishing",
+    "nameKana": "ふるくらむぱぶりっしんぐ",
+    "description": "キプロスの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "greylock-studio",
+    "name": "Greylock Studio",
+    "nameKana": "ぐれいろっくすたじお",
+    "description": "アメリカの個人開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "digerati",
+    "name": "Digerati Distribution",
+    "nameKana": "でぃじらーてぃでぃすとりびゅーしょん",
+    "description": "アメリカの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "alkimia-interactive",
+    "name": "Alkimia Interactive",
+    "nameKana": "あるきみあいんたらくてぃぶ",
+    "description": "スペインの開発会社。THQ Nordic傘下でリメイクを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "stairway-games",
+    "name": "Stairway Games",
+    "nameKana": "すてあうぇいげーむす",
+    "description": "インドネシアの開発会社。生活シミュレーションを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "balor-games",
+    "name": "Balor Games",
+    "nameKana": "ばろーげーむす",
+    "description": "発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "awe-interactive",
+    "name": "Awe Interactive",
+    "nameKana": "おーいんたらくてぃぶ",
+    "description": "イギリスの開発チーム。音楽に同期するシューターを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "douze-dixiemes",
+    "name": "Douze Dixièmes",
+    "nameKana": "どぅーずでぃずぃえむ",
+    "description": "フランスの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "flight-school-studio",
+    "name": "Flight School Studio",
+    "nameKana": "ふらいとすくーるすたじお",
+    "description": "アメリカの開発会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "torpor-games",
+    "name": "Torpor Games",
+    "nameKana": "とーぽーげーむす",
+    "description": "トルコの開発チーム。架空国家の政治劇を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "steel-wool",
+    "name": "Steel Wool Studios",
+    "nameKana": "すちーるうーるすたじおず",
+    "description": "アメリカの開発会社。『Five Nights at Freddy's』の3D作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "e-line-media",
+    "name": "E-Line Media",
+    "nameKana": "いーらいんめでぃあ",
+    "description": "アメリカの開発・発売会社。教育的な題材を扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pixelhive",
+    "name": "PixelHive",
+    "nameKana": "ぴくせるはいぶ",
+    "description": "ブラジルの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "die-gute-fabrik",
+    "name": "Die Gute Fabrik",
+    "nameKana": "でぃぐーてふぁぶりーく",
+    "description": "デンマークの開発会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akupara-games",
+    "name": "Akupara Games",
+    "nameKana": "あくぱらげーむす",
+    "description": "アメリカの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "steel-mantis",
+    "name": "Steel Mantis",
+    "nameKana": "すちーるまんてぃす",
+    "description": "イギリスの開発チーム。金属質な世界観の2Dアクションを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doborog-games",
+    "name": "Doborog Games",
+    "nameKana": "どぼろぐげーむす",
+    "description": "アメリカの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "7th-beat-games",
+    "name": "7th Beat Games",
+    "nameKana": "せぶんすびーとげーむす",
+    "description": "国際的な開発チーム。音楽ゲームを制作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "long-hat-house",
+    "name": "Long Hat House",
+    "nameKana": "ろんぐはっとはうす",
+    "description": "ブラジルの開発チーム。『Dandara』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "team-shifty",
+    "name": "Team Shifty",
+    "nameKana": "ちーむしふてぃ",
+    "description": "オーストラリアの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "creativeforge",
+    "name": "CreativeForge Games",
+    "nameKana": "くりえいてぃぶふぉーじげーむす",
+    "description": "ポーランドの開発会社。西部劇の戦術作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "good-shepherd",
+    "name": "Good Shepherd Entertainment",
+    "nameKana": "ぐっどしぇぱーどえんためいんめんと",
+    "description": "アメリカの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "h2-interactive",
+    "name": "H2 Interactive",
+    "nameKana": "えいちつーいんたらくてぃぶ",
+    "description": "韓国の発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "grizzlygames",
+    "name": "GrizzlyGames",
+    "nameKana": "ぐりずりーげーむす",
+    "description": "ドイツの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "cloak-and-dagger",
+    "name": "Cloak and Dagger Games",
+    "nameKana": "くろーくあんどだがーげーむす",
+    "description": "イギリスの開発チーム。民俗的な題材の指差し型作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wadjet-eye",
+    "name": "Wadjet Eye Games",
+    "nameKana": "わじぇっとあいげーむす",
+    "description": "アメリカの発売・開発会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "stubby-games",
+    "name": "Stubby Games",
+    "nameKana": "すたびーげーむす",
+    "description": "イギリスの個人開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
   }
 ]
