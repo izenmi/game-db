@@ -6694,5 +6694,419 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "starward-industries",
+    "name": "Starward Industries",
+    "nameKana": "すたーわーどいんだすとりーず",
+    "description": "ポーランドの開発会社。スタニスワフ・レムの小説を原作にした作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "coconut-island",
+    "name": "Coconut Island Games",
+    "nameKana": "ここなついすらんどげーむす",
+    "description": "中国の発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "phoenix-labs",
+    "name": "Phoenix Labs",
+    "nameKana": "ふぇにっくすらぼ",
+    "description": "カナダの開発会社。基本無料の協力型狩猟アクションを運営した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "quantum-astrophysicists",
+    "name": "The Quantum Astrophysicists Guild",
+    "nameKana": "くぉんたむあすとろふぃじしすつぎるど",
+    "description": "アメリカの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "deconstructeam",
+    "name": "Deconstructeam",
+    "nameKana": "でこんすとらくてぃーむ",
+    "description": "スペインの開発チーム。会話と選択を軸にした短編を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "acid-wizard",
+    "name": "Acid Wizard Studio",
+    "nameKana": "あしっどうぃざーどすたじお",
+    "description": "ポーランドの開発チーム。見下ろし型のサバイバルホラー『Darkwood』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "crunching-koalas",
+    "name": "Crunching Koalas",
+    "nameKana": "くらんちんぐこあらず",
+    "description": "ポーランドの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eleventh-hour-games",
+    "name": "Eleventh Hour Games",
+    "nameKana": "いれぶんすあわーげーむす",
+    "description": "アメリカの開発会社。ハックアンドスラッシュ『Last Epoch』を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ovosonico",
+    "name": "Ovosonico",
+    "nameKana": "おぼそにこ",
+    "description": "イタリアにあった開発会社。物語重視の作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asteroid-base",
+    "name": "Asteroid Base",
+    "nameKana": "あすてろいどべーす",
+    "description": "カナダの開発チーム。宇宙船を協力操作する対戦作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "my-games",
+    "name": "MY.GAMES",
+    "nameKana": "まいげーむす",
+    "description": "キプロスに拠点を置く発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "capybara-games",
+    "name": "Capybara Games",
+    "nameKana": "かぴばらげーむす",
+    "description": "カナダの開発会社。実験的なインディー作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "stunlock-studios",
+    "name": "Stunlock Studios",
+    "nameKana": "すたんろっくすたじおず",
+    "description": "スウェーデンの開発会社。吸血鬼のサバイバル『V Rising』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "weirdbeard",
+    "name": "WeirdBeard Games",
+    "nameKana": "うぃあどびあどげーむす",
+    "description": "オランダの開発チーム。物理落ち物パズルを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jackbox-games",
+    "name": "Jackbox Games",
+    "nameKana": "じゃっくぼっくすげーむす",
+    "description": "アメリカの開発会社。スマートフォンで参加する多人数パーティー作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "aquiris",
+    "name": "Aquiris Game Studio",
+    "nameKana": "あきりすげーむすたじお",
+    "description": "ブラジルの開発会社。往年の雰囲気のレース作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ironoak-games",
+    "name": "IronOak Games",
+    "nameKana": "あいあんおーくげーむす",
+    "description": "カナダの開発チーム。盤上を旅する協力RPGを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "starry-studio",
+    "name": "Starry Studio",
+    "nameKana": "すたりーすたじお",
+    "description": "中国の開発会社。基本無料のサバイバル作品を運営する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pinokl-games",
+    "name": "Pinokl Games",
+    "nameKana": "ぴのくるげーむす",
+    "description": "ウクライナの開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "just-add-water",
+    "name": "Just Add Water",
+    "nameKana": "じゃすとあどうぉーたー",
+    "description": "イギリスの開発会社。『Oddworld』の作り直しを担当した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oddworld-inhabitants",
+    "name": "Oddworld Inhabitants",
+    "nameKana": "おっどわーるどいんはびたんつ",
+    "description": "アメリカの開発・発売会社。『Oddworld』シリーズを展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "peropero-games",
+    "name": "PeroPeroGames",
+    "nameKana": "ぺろぺろげーむす",
+    "description": "中国の開発チーム。音楽ゲーム『Muse Dash』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "xd-network",
+    "name": "X.D. Network",
+    "nameKana": "えっくすでぃーねっとわーく",
+    "description": "中国の発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jump-over-the-age",
+    "name": "Jump Over the Age",
+    "nameKana": "じゃんぷおーばーじえいじ",
+    "description": "イギリスの個人開発スタジオ。『Citizen Sleeper』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dimfrost-studio",
+    "name": "Dimfrost Studio",
+    "nameKana": "でぃむふろすとすたじお",
+    "description": "スウェーデンの開発会社。北欧の民話を題材にした作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "iron-lore",
+    "name": "Iron Lore Entertainment",
+    "nameKana": "あいあんろあえんためいんめんと",
+    "description": "アメリカにあった開発会社。神話を題材にしたハックアンドスラッシュを作った。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nokta-games",
+    "name": "Nokta Games",
+    "nameKana": "のくたげーむす",
+    "description": "トルコの開発チーム。店舗経営シミュレーションを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "irregular-corporation",
+    "name": "The Irregular Corporation",
+    "nameKana": "ざいれぎゅらーこーぽれーしょん",
+    "description": "イギリスの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ctrlmovie",
+    "name": "CtrlMovie",
+    "nameKana": "こんとろーるむーびー",
+    "description": "スイスの開発会社。実写映像を分岐させる作品を制作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wales-interactive",
+    "name": "Wales Interactive",
+    "nameKana": "うぇーるずいんたらくてぃぶ",
+    "description": "イギリスの発売会社。実写分岐ものを多く扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "critical-hit-games",
+    "name": "Critical Hit Games",
+    "nameKana": "くりてぃかるひっとげーむす",
+    "description": "ポーランドの開発会社。近未来の探偵ものを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "plaion",
+    "name": "PLAION",
+    "nameKana": "ぷらいおん",
+    "description": "オーストリアの発売会社。旧Koch Media。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "typhoon-studios",
+    "name": "Typhoon Studios",
+    "nameKana": "たいふーんすたじおず",
+    "description": "カナダにあった開発会社。惑星探査アクションを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "thatgamecompany",
+    "name": "thatgamecompany",
+    "nameKana": "ざっとげーむかんぱにー",
+    "description": "アメリカの開発会社。『風ノ旅ビト』などで知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "robot-gentleman",
+    "name": "Robot Gentleman",
+    "nameKana": "ろぼっとじぇんとるまん",
+    "description": "ポーランドの開発チーム。核シェルターの生存を扱う作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "cyberdreams",
+    "name": "Cyberdreams",
+    "nameKana": "さいばーどりーむす",
+    "description": "アメリカにあった開発・発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nightdive-studios",
+    "name": "Nightdive Studios",
+    "nameKana": "ないとだいぶすたじおず",
+    "description": "アメリカの開発・発売会社。古い作品の復刻と改修を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "plausible-concept",
+    "name": "Plausible Concept",
+    "nameKana": "ぷろーじぶるこんせぷと",
+    "description": "スウェーデンの開発チーム。島の防衛戦術『Bad North』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "spiderling-games",
+    "name": "Spiderling Games",
+    "nameKana": "すぱいだーりんぐげーむす",
+    "description": "イギリスの開発チーム。攻城兵器を組み立てる物理サンドボックスを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "forgotten-key",
+    "name": "Forgotten Key",
+    "nameKana": "ふぉーごっとんきー",
+    "description": "スウェーデンにあった開発チーム。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "imgn-pro",
+    "name": "IMGN.PRO",
+    "nameKana": "いめーじぷろ",
+    "description": "ポーランドの開発・発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "black-forest-games",
+    "name": "Black Forest Games",
+    "nameKana": "ぶらっくふぉれすとげーむす",
+    "description": "ドイツの開発会社。過去作の作り直しを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hotta-studio",
+    "name": "Hotta Studio",
+    "nameKana": "ほったすたじお",
+    "description": "中国の開発会社。オープンワールドのオンラインRPGを制作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "snoozy-kazoo",
+    "name": "Snoozy Kazoo",
+    "nameKana": "すぬーじーかずー",
+    "description": "アメリカの開発チーム。皮肉の効いた短編アクションを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "graffiti-games",
+    "name": "Graffiti Games",
+    "nameKana": "ぐらふぃてぃげーむす",
+    "description": "アメリカの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pendulo-studios",
+    "name": "Pendulo Studios",
+    "nameKana": "ぺんどぅろすたじおず",
+    "description": "スペインの開発会社。指差し型アドベンチャーを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
   }
 ]
