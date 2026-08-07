@@ -4930,5 +4930,284 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Phantom Blade 0』の開発/発売元として確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sunset-visitor",
+    "name": "sunset visitor 斜陽過客",
+    "nameKana": "さんせっとびじたー",
+    "description": "カナダ・バンクーバーのインディー開発チーム。移民の記憶をテーマにしたアドベンチャーを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で『1000xRESIST』の開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fellow-traveller",
+    "name": "Fellow Traveller",
+    "nameKana": "ふぇろーとらべらー",
+    "description": "物語性の強いインディー作品を専門に扱うイギリスのパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "simogo",
+    "name": "Simogo",
+    "nameKana": "しもご",
+    "description": "スウェーデンの小規模スタジオ。『Year Walk』『Sayonara Wild Hearts』など実験的な作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で『Lorelei and the Laser Eyes』の開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "freehold-games",
+    "name": "Freehold Games",
+    "nameKana": "ふりーほーるどげーむす",
+    "description": "アメリカのインディー開発チーム。長期開発のローグライク『Caves of Qud』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kitfox-games",
+    "name": "Kitfox Games",
+    "nameKana": "きっとふぉっくすげーむす",
+    "description": "カナダ・モントリオールの開発・発売会社。個性的なインディー作品の発売も手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "happy-broccoli-games",
+    "name": "Happy Broccoli Games",
+    "nameKana": "はっぴーぶろっこりーげーむす",
+    "description": "ドイツの小規模スタジオ。アヒルの探偵が主人公のアドベンチャーで注目された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ironwood-studios",
+    "name": "Ironwood Studios",
+    "nameKana": "あいあんうっどすたじおず",
+    "description": "アメリカの開発スタジオ。運転とサバイバルを組み合わせた『Pacific Drive』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-chinese-room",
+    "name": "The Chinese Room",
+    "nameKana": "ざちゃいにーずるーむ",
+    "description": "イギリスの開発スタジオ。『Dear Esther』『Everybody's Gone to the Rapture』など物語主導の作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "odd-meter",
+    "name": "Odd Meter",
+    "nameKana": "おっどめーたー",
+    "description": "セルビアを拠点とする開発スタジオ。宗教とユーモアを扱う『INDIKA』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "slow-bros",
+    "name": "Slow Bros.",
+    "nameKana": "すろーぶらざーず",
+    "description": "ドイツの開発スタジオ。実物の模型を撮影したストップモーション表現で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で『Harold Halibut』の開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "evening-star",
+    "name": "Evening Star",
+    "nameKana": "いぶにんぐすたー",
+    "description": "『ソニックマニア』の制作陣が設立したアメリカの開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で『Penny's Big Breakaway』の開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "private-division",
+    "name": "Private Division",
+    "nameKana": "ぷらいべーとでぃびじょん",
+    "description": "独立系スタジオの作品を扱うアメリカのパブリッシャーレーベル。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "berserkboy-games",
+    "name": "BerserkBoy Games",
+    "nameKana": "ばーさーくぼーいげーむす",
+    "description": "アメリカのインディー開発チーム。高速アクション『Berserk Boy』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "telltale-games",
+    "name": "Telltale Games",
+    "nameKana": "てるている げーむす",
+    "description": "アメリカの開発・発売会社。選択が物語を左右するエピソード形式のアドベンチャーで知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "crystal-dynamics",
+    "name": "Crystal Dynamics",
+    "nameKana": "くりすたるだいなみくす",
+    "description": "アメリカの開発会社。『トゥームレイダー』シリーズの近作を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "4a-games",
+    "name": "4A Games",
+    "nameKana": "ふぉーえーげーむす",
+    "description": "ウクライナ発の開発会社。『メトロ』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "frictional-games",
+    "name": "Frictional Games",
+    "nameKana": "ふりくしょなるげーむす",
+    "description": "スウェーデンの開発会社。『Amnesia』『SOMA』など一人称ホラーを専門に作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hoyoverse",
+    "name": "HoYoverse",
+    "nameKana": "ほよばーす",
+    "description": "中国発の開発・運営会社。『原神』など基本無料の大型オンラインRPGを展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "unknown-worlds",
+    "name": "Unknown Worlds Entertainment",
+    "nameKana": "あんのうんわーるず",
+    "description": "アメリカの開発会社。海洋サバイバル『Subnautica』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fullbright",
+    "name": "Fullbright",
+    "nameKana": "ふるぶらいと",
+    "description": "アメリカの小規模スタジオ。探索と語りに絞った『Gone Home』で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "digital-extremes",
+    "name": "Digital Extremes",
+    "nameKana": "でじたるえくすとりーむす",
+    "description": "カナダの開発・運営会社。基本無料のオンラインアクション『Warframe』を運営する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "overkill-software",
+    "name": "Overkill Software",
+    "nameKana": "おーばーきるそふとうぇあ",
+    "description": "スウェーデンの開発会社。強盗を題材にした協力プレイ『PAYDAY』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "polytron",
+    "name": "Polytron Corporation",
+    "nameKana": "ぽりとろん",
+    "description": "カナダの小規模スタジオ。次元をひねるパズル『FEZ』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "red-hook-studios",
+    "name": "Red Hook Studios",
+    "nameKana": "れっどふっくすたじおず",
+    "description": "カナダの開発会社。精神状態を管理するローグライク『Darkest Dungeon』を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "freebird-games",
+    "name": "Freebird Games",
+    "nameKana": "ふりーばーどげーむす",
+    "description": "カナダの小規模スタジオ。記憶を巡る物語重視の作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dennaton-games",
+    "name": "Dennaton Games",
+    "nameKana": "でんなとんげーむす",
+    "description": "スウェーデンの二人組スタジオ。『Hotline Miami』シリーズを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gsc-game-world",
+    "name": "GSC Game World",
+    "nameKana": "じーえすしーげーむわーるど",
+    "description": "ウクライナの開発会社。『S.T.A.L.K.E.R.』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "lucasarts",
+    "name": "LucasArts",
+    "nameKana": "るーかすあーつ",
+    "description": "アメリカの開発・発売会社。『スター・ウォーズ』題材の作品やアドベンチャーの名作を残した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "team-meat",
+    "name": "Team Meat",
+    "nameKana": "ちーむみーと",
+    "description": "アメリカの二人組スタジオ。高難度アクション『Super Meat Boy』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "giant-sparrow",
+    "name": "Giant Sparrow",
+    "nameKana": "じゃいあんとすぱろー",
+    "description": "アメリカの小規模スタジオ。『What Remains of Edith Finch』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "campo-santo",
+    "name": "Campo Santo",
+    "nameKana": "かんぽさんと",
+    "description": "アメリカの小規模スタジオ。無線越しの会話が主役の『Firewatch』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
+    "updatedAt": "2026-08-07"
   }
 ]
