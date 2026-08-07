@@ -5740,5 +5740,428 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "digital-sun",
+    "name": "Digital Sun",
+    "nameKana": "でじたるさん",
+    "description": "スペインの開発会社。店の経営とダンジョン探索を組み合わせた作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "axolot-games",
+    "name": "Axolot Games",
+    "nameKana": "あくそろっとげーむす",
+    "description": "スウェーデンの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "redbeet-interactive",
+    "name": "Redbeet Interactive",
+    "nameKana": "れっどびーといんたらくてぃぶ",
+    "description": "スウェーデンの開発チーム。漂流サバイバル『Raft』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mojang",
+    "name": "Mojang Studios",
+    "nameKana": "もーやんすたじおず",
+    "description": "スウェーデンの開発会社。『Minecraft』を開発する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tomorrow-corporation",
+    "name": "Tomorrow Corporation",
+    "nameKana": "とぅもろーこーぽれーしょん",
+    "description": "アメリカの小規模スタジオ。皮肉の効いたパズル作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ninja-kiwi",
+    "name": "Ninja Kiwi",
+    "nameKana": "にんじゃきうい",
+    "description": "ニュージーランドの開発会社。防衛戦略『Bloons TD』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "boneloaf",
+    "name": "Boneloaf",
+    "nameKana": "ぼーんろーふ",
+    "description": "イギリスの小規模スタジオ。ぐにゃぐにゃした物理挙動の対戦『Gang Beasts』を作った。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dead-mage",
+    "name": "Dead Mage",
+    "nameKana": "でっどめいじ",
+    "description": "イランの開発会社。家族を主人公にしたローグライト『Children of Morta』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "taleworlds",
+    "name": "TaleWorlds Entertainment",
+    "nameKana": "ているわーるず",
+    "description": "トルコの開発会社。中世の戦場を再現する『Mount & Blade』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "modern-storyteller",
+    "name": "Modern Storyteller",
+    "nameKana": "もだんすとーりーてらー",
+    "description": "オーストラリアの小規模スタジオ。時間ループの探偵劇『The Forgotten City』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dear-villagers",
+    "name": "Dear Villagers",
+    "nameKana": "でぃあびれっじゃーず",
+    "description": "フランスのインディーパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "motive-studios",
+    "name": "Motive Studios",
+    "nameKana": "もーてぃぶすたじおず",
+    "description": "カナダの開発会社。Electronic Arts傘下で大型作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "total-mayhem-games",
+    "name": "Total Mayhem Games",
+    "nameKana": "とーたるめいへむげーむす",
+    "description": "オランダの開発会社。会話で協力する謎解き『We Were Here』シリーズを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "cyanide-studio",
+    "name": "Cyanide Studio",
+    "nameKana": "しあないどすたじお",
+    "description": "フランスの開発会社。原作もののアドベンチャーやスポーツ経営を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mike-klubnika",
+    "name": "Mike Klubnika",
+    "nameKana": "まいくくるぶにか",
+    "description": "ラトビアの個人開発者。低解像度の映像表現によるホラーを制作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sectordub",
+    "name": "Sectordub",
+    "nameKana": "せくたーだぶ",
+    "description": "ヨーロッパのインディー開発チーム。『Pikuniku』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ubisoft-annecy",
+    "name": "Ubisoft Annecy",
+    "nameKana": "ゆーびーあいそふとあねしー",
+    "description": "Ubisoft傘下のフランスの開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "digixart",
+    "name": "DigixArt",
+    "nameKana": "でぃじくすあーと",
+    "description": "フランスの開発会社。音楽と旅を主題にした作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ravenscourt",
+    "name": "Ravenscourt",
+    "nameKana": "れいう゛んすこーと",
+    "description": "ドイツの発売レーベル。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "surprise-attack",
+    "name": "Surprise Attack Games",
+    "nameKana": "さぷらいずあたっくげーむす",
+    "description": "オーストラリアの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "osmotic-studios",
+    "name": "Osmotic Studios",
+    "nameKana": "おすもてぃっくすたじおず",
+    "description": "ドイツの小規模スタジオ。監視社会を扱う『Orwell』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "terrible-toybox",
+    "name": "Terrible Toybox",
+    "nameKana": "てりぶるといぼっくす",
+    "description": "アメリカの開発会社。ロン・ギルバートらによる指差し型アドベンチャーを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dimps",
+    "name": "ディンプス",
+    "nameKana": "でぃんぷす",
+    "description": "日本の開発会社。対戦格闘やアクションの開発を数多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "d-pad-studio",
+    "name": "D-Pad Studio",
+    "nameKana": "でぃーぱっどすたじお",
+    "description": "ノルウェーの開発チーム。ドット絵の探索アクション『Owlboy』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "soedesco",
+    "name": "SOEDESCO",
+    "nameKana": "そえですこ",
+    "description": "オランダの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "teyon",
+    "name": "Teyon",
+    "nameKana": "ているん",
+    "description": "ポーランドの開発会社。映画原作のシューターを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dinosaur-polo-club",
+    "name": "Dinosaur Polo Club",
+    "nameKana": "だいなそーぽろくらぶ",
+    "description": "ニュージーランドの開発会社。路線図を描くパズル『Mini Metro』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "playdigious",
+    "name": "Playdigious",
+    "nameKana": "ぷれいでぃじあす",
+    "description": "フランスの発売会社。インディー作品の移植を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okomotive",
+    "name": "Okomotive",
+    "nameKana": "おこもてぃぶ",
+    "description": "スイスの開発会社。荒野を進む乗り物を扱う『FAR』シリーズを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "assemble-entertainment",
+    "name": "Assemble Entertainment",
+    "nameKana": "あせんぶるえんためいんめんと",
+    "description": "ドイツの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "killmonday-games",
+    "name": "Killmonday Games",
+    "nameKana": "きるまんでーげーむす",
+    "description": "スウェーデンの開発チーム。不気味さと愛らしさが同居するアドベンチャーを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "blacklight-interactive",
+    "name": "Blacklight Interactive",
+    "nameKana": "ぶらっくらいといんたらくてぃぶ",
+    "description": "オーストラリアの開発チーム。多人数のミニゴルフ作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "reikon-games",
+    "name": "Reikon Games",
+    "nameKana": "れいこんげーむす",
+    "description": "ポーランドの開発会社。近未来を舞台にした見下ろし型アクションを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "out-of-the-blue",
+    "name": "Out of the Blue Games",
+    "nameKana": "あうとおぶざぶるーげーむす",
+    "description": "スペインの開発会社。1930年代を舞台にした探索アドベンチャーを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "system-era",
+    "name": "System Era Softworks",
+    "nameKana": "しすてむえらそふとわーくす",
+    "description": "アメリカの開発会社。惑星探査サンドボックス『Astroneer』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "moppin",
+    "name": "Moppin",
+    "nameKana": "もっぴん",
+    "description": "日本の個人開発者。縦に落ちていくアクション『Downwell』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "weappy-studio",
+    "name": "Weappy Studio",
+    "nameKana": "うぃーあっぴーすたじお",
+    "description": "ベラルーシの開発会社。警察署長を演じる管理シミュレーションを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mountains-studio",
+    "name": "Mountains",
+    "nameKana": "まうんてんず",
+    "description": "オーストラリアの小規模スタジオ。短編アドベンチャー『Florence』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "playtonic-games",
+    "name": "Playtonic Games",
+    "nameKana": "ぷれいとにっくげーむす",
+    "description": "イギリスの開発会社。往年のレア社出身者が設立した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "landfall-games",
+    "name": "Landfall Games",
+    "nameKana": "らんどふぉーるげーむす",
+    "description": "スウェーデンの開発会社。物理挙動を活かした対戦・シミュレーションを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "blobfish",
+    "name": "Blobfish",
+    "nameKana": "ぶろぶふぃっしゅ",
+    "description": "フランスの個人開発スタジオ。『Brotato』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "team-salvato",
+    "name": "Team Salvato",
+    "nameKana": "ちーむさるばーと",
+    "description": "アメリカの開発チーム。恋愛ものの体裁を借りた作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "clever-endeavour",
+    "name": "Clever Endeavour Games",
+    "nameKana": "くればーえんでばーげーむす",
+    "description": "カナダの開発チーム。罠を仕掛け合う対戦『Ultimate Chicken Horse』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "steel-crate-games",
+    "name": "Steel Crate Games",
+    "nameKana": "すちーるくれーとげーむす",
+    "description": "カナダの開発チーム。二人一組の爆弾解除ゲームを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaiko",
+    "name": "Kaiko",
+    "nameKana": "かいこ",
+    "description": "ドイツの開発会社。移植とリマスターを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wishfully",
+    "name": "Wishfully Studios",
+    "nameKana": "うぃっしゅふりーすたじおず",
+    "description": "スウェーデンの開発チーム。『Planet of Lana』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bulkhead",
+    "name": "Bulkhead Interactive",
+    "nameKana": "ばるくへっどいんたらくてぃぶ",
+    "description": "イギリスの開発会社。一人称パズルとシューターを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
   }
 ]
