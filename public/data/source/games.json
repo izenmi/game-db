@@ -18614,5 +18614,1297 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "machinarium",
+    "title": "Machinarium",
+    "titleKana": "まきなりうむ",
+    "developerIds": [
+      "amanita-design"
+    ],
+    "publisherId": "amanita-design",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2018-11-01",
+    "synopsis": "ゴミ捨て場に放り出された小さなロボットが、街に戻って恋人を助けようとする。台詞を使わず、手描きの背景と絵の吹き出しだけで進むパズルアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oxenfree",
+    "title": "Oxenfree",
+    "titleKana": "おっくせんふりー",
+    "developerIds": [
+      "night-school-studio"
+    ],
+    "publisherId": "night-school-studio",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2017-10-06",
+    "synopsis": "無人島に渡った高校生たちが、電波の向こうから届く声によって時間の歪みに巻き込まれる。歩きながら途切れずに続く会話が特徴のアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-division",
+    "title": "ディビジョン",
+    "titleKana": "でぃびじょん",
+    "developerIds": [
+      "massive-entertainment"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-rpg",
+      "co-op"
+    ],
+    "releaseDate": "2016-03-08",
+    "synopsis": "伝染病で機能停止したニューヨークを舞台に、休眠状態の工作員が秩序回復に動く。装備を集めて強化する協力プレイ主体のシューター。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-division-2",
+    "title": "ディビジョン2",
+    "titleKana": "でぃびじょんつー",
+    "developerIds": [
+      "massive-entertainment"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-rpg",
+      "co-op"
+    ],
+    "releaseDate": "2019-03-15",
+    "synopsis": "舞台をワシントンD.C.に移した続編。荒廃した首都で各派閥と争いながら拠点を取り返していく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "borderlands-the-pre-sequel",
+    "title": "ボーダーランズ プリシークエル",
+    "titleKana": "ぼーだーらんずぷりしーくえる",
+    "developerIds": [
+      "2k-australia",
+      "gearbox-software"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-rpg"
+    ],
+    "releaseDate": "2020-05-29",
+    "synopsis": "前作の登場人物ハンサム・ジャックの過去を描く外伝。低重力の月面が舞台で、跳躍と酸素の管理が加わる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "overwatch-2",
+    "title": "オーバーウォッチ2",
+    "titleKana": "おーばーうぉっちつー",
+    "developerIds": [
+      "blizzard-entertainment"
+    ],
+    "publisherId": "blizzard-entertainment",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "versus-action"
+    ],
+    "releaseDate": "2022-10-04",
+    "synopsis": "個性の異なるヒーローを選んで5対5で戦う基本無料のシューター。役割ごとの連携と拠点の攻防が中心になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fallout-shelter",
+    "title": "Fallout Shelter",
+    "titleKana": "ふぉーるあうとしぇるたー",
+    "developerIds": [
+      "bethesda-softworks"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2018-06-10",
+    "synopsis": "核シェルターの管理人となり、住人を配置して電力と食料を確保しながら地下施設を広げる経営シミュレーション。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-vanishing-of-ethan-carter",
+    "title": "The Vanishing of Ethan Carter",
+    "titleKana": "ざう゛ぁにっしんぐおぶいーさんかーたー",
+    "developerIds": [
+      "the-astronauts"
+    ],
+    "publisherId": "the-astronauts",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2019-08-15",
+    "synopsis": "超常現象を扱う探偵が、消えた少年の手がかりを求めて田舎町を歩く。実写取り込みによる風景描写と、順路を決めない探索が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "batman-the-telltale-series",
+    "title": "Batman: The Telltale Series",
+    "titleKana": "ばっとまんざてるているしりーず",
+    "developerIds": [
+      "telltale-games"
+    ],
+    "publisherId": "telltale-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2017-11-14",
+    "synopsis": "ブルース・ウェインとバットマン、二つの立場を行き来しながら選択を重ねるエピソード形式のアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dont-starve",
+    "title": "Don't Starve",
+    "titleKana": "どんとすたーぶ",
+    "developerIds": [
+      "klei-entertainment"
+    ],
+    "publisherId": "klei-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "roguelike"
+    ],
+    "releaseDate": "2021-04-04",
+    "synopsis": "見知らぬ荒野に放り込まれた科学者が、食料と正気度を管理しながら夜を越えるサバイバル。死ぬと最初からやり直す作り。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "devil-may-cry-3",
+    "title": "デビル メイ クライ 3",
+    "titleKana": "でびるめいくらいすりー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure"
+    ],
+    "releaseDate": "2020-02-20",
+    "synopsis": "若きダンテと兄バージルの因縁を描くシリーズの前日譚。武器と型を切り替えて連撃をつなぐ戦闘がシリーズの基礎を固めた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "broforce",
+    "title": "Broforce",
+    "titleKana": "ぶろふぉーす",
+    "developerIds": [
+      "free-lives"
+    ],
+    "publisherId": "devolver-digital",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer",
+      "shooter"
+    ],
+    "releaseDate": "2018-09-06",
+    "synopsis": "アクション映画の主人公をもじった兵士たちで敵地を壊しながら進む横スクロールアクション。地形がほぼ全て破壊できる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-elder-scrolls-online",
+    "title": "The Elder Scrolls Online",
+    "titleKana": "じえるだーすくろーるずおんらいん",
+    "developerIds": [
+      "zenimax-online"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "open-world"
+    ],
+    "releaseDate": "2014-04-04",
+    "synopsis": "『エルダースクロールズ』の世界を舞台にしたオンラインRPG。職業と種族の縛りが緩く、好きな地域から始められる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "metro-2033-redux",
+    "title": "メトロ2033 リダックス",
+    "titleKana": "めとろにーぜろさんさんりだっくす",
+    "developerIds": [
+      "4a-games"
+    ],
+    "publisherId": "deep-silver",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "adventure"
+    ],
+    "releaseDate": "2020-02-27",
+    "synopsis": "核戦争後のモスクワの地下鉄で暮らす人々を描くシリーズ第一作の改修版。弾薬が通貨を兼ねる緊張感が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "metro-last-light-redux",
+    "title": "メトロ ラストライト リダックス",
+    "titleKana": "めとろらすとらいとりだっくす",
+    "developerIds": [
+      "4a-games"
+    ],
+    "publisherId": "deep-silver",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "adventure"
+    ],
+    "releaseDate": "2020-02-28",
+    "synopsis": "前作の続きを描く第二作の改修版。潜入と戦闘のどちらでも進められる作りが強化されている。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "overcooked",
+    "title": "Overcooked!",
+    "titleKana": "おーばーくっくと",
+    "developerIds": [
+      "ghost-town-games"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "party-game",
+      "co-op"
+    ],
+    "releaseDate": "2021-03-22",
+    "synopsis": "動き続ける厨房で仲間と手分けして注文をさばく協力アクション。声を掛け合わないと成立しない設計が笑いを生む。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "overcooked-2",
+    "title": "Overcooked! 2",
+    "titleKana": "おーばーくっくとつー",
+    "developerIds": [
+      "ghost-town-games"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "switch2",
+      "switch"
+    ],
+    "genreIds": [
+      "party-game",
+      "co-op"
+    ],
+    "releaseDate": "2018-08-07",
+    "synopsis": "投げる動作やオンライン協力を加えた続編。より意地悪な厨房が次々と登場する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "south-park-fractured-but-whole",
+    "title": "South Park: The Fractured But Whole",
+    "titleKana": "さうすぱーくざふらくちゃーどばっとほーる",
+    "developerIds": [
+      "ubisoft-san-francisco"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "tactical-rpg"
+    ],
+    "releaseDate": "2018-04-24",
+    "synopsis": "アニメそのままの見た目で進むターン制RPG。ヒーローごっこを題材に、原作らしい笑いを詰め込んでいる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rogue-legacy",
+    "title": "Rogue Legacy",
+    "titleKana": "ろーぐれがしー",
+    "developerIds": [
+      "cellar-door-games"
+    ],
+    "publisherId": "cellar-door-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "roguelike",
+      "platformer"
+    ],
+    "releaseDate": "2018-11-06",
+    "synopsis": "死ぬたびに子孫へ受け継いで挑み直す横スクロール型ローグライト。遺伝する特徴が毎回の遊びを変える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "call-of-juarez-gunslinger",
+    "title": "Call of Juarez: Gunslinger",
+    "titleKana": "こーるおぶふあれすがんすりんがー",
+    "developerIds": [
+      "techland"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter"
+    ],
+    "releaseDate": "2019-12-09",
+    "synopsis": "老いた賞金稼ぎの語りに合わせて場面が変わる西部劇シューター。話の食い違いがそのまま舞台の変化になる演出が楽しい。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "titleKana": "ふぉるつぁほらいぞんふぁいぶ",
+    "developerIds": [
+      "playground-games"
+    ],
+    "publisherId": "xbox-game-studios",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "open-world"
+    ],
+    "releaseDate": "2021-11-09",
+    "synopsis": "メキシコを模した広大な土地を自由に走るオープンワールドレース。季節の変化とともに路面と催しが移り変わる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-walking-dead-a-new-frontier",
+    "title": "The Walking Dead: A New Frontier",
+    "titleKana": "うぉーきんぐでっどあにゅーふろんてぃあ",
+    "developerIds": [
+      "telltale-games"
+    ],
+    "publisherId": "telltale-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2018-12-31",
+    "synopsis": "新たな主人公ハビエルの視点で進むシリーズ第三作。成長したクレメンタインとの関係が物語の軸になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-walking-dead-final-season",
+    "title": "The Walking Dead: The Final Season",
+    "titleKana": "うぉーきんぐでっどざふぁいなるしーずん",
+    "developerIds": [
+      "telltale-games"
+    ],
+    "publisherId": "telltale-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2018-08-14",
+    "synopsis": "クレメンタインを主人公に据えた完結編。子どもたちだけの寄宿学校を舞台に、守る側になった彼女の選択を描く。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "starfield",
+    "title": "Starfield",
+    "titleKana": "すたーふぃーるど",
+    "developerIds": [
+      "bethesda-softworks"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-rpg",
+      "shooter"
+    ],
+    "releaseDate": "2023-09-06",
+    "synopsis": "24世紀の宇宙を舞台にしたRPG。船を組み立てて星系を渡り、人類が広がった辺境で自分の立場を選んでいく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "game-dev-tycoon",
+    "title": "Game Dev Tycoon",
+    "titleKana": "げーむでぶたいくーん",
+    "developerIds": [
+      "greenheart-games"
+    ],
+    "publisherId": "greenheart-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2020-10-08",
+    "synopsis": "ガレージから始めてゲーム会社を育てる経営シミュレーション。題材と機種の組み合わせを試しながら会社を大きくしていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "world-of-goo",
+    "title": "World of Goo",
+    "titleKana": "わーるどおぶぐー",
+    "developerIds": [
+      "2d-boy"
+    ],
+    "publisherId": "2d-boy",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle"
+    ],
+    "releaseDate": "2017-03-16",
+    "synopsis": "粘着質の玉をつないで塔や橋を組み、出口へ導く物理パズル。重さと張力を体感的に扱う設計で高く評価された。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mortal-kombat-11",
+    "title": "Mortal Kombat 11",
+    "titleKana": "もーたるこんばっといれぶん",
+    "developerIds": [
+      "netherrealm-studios"
+    ],
+    "publisherId": "wb-games-montreal",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game"
+    ],
+    "releaseDate": "2019-04-23",
+    "synopsis": "過激な演出で知られる対戦格闘の第11作。時間を巡る物語モードと、細かく調整できるカスタマイズを備える。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "torchlight-2",
+    "title": "Torchlight II",
+    "titleKana": "とーちらいとつー",
+    "developerIds": [
+      "runic-games"
+    ],
+    "publisherId": "runic-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2019-09-02",
+    "synopsis": "装備を集めて敵の群れをなぎ倒す見下ろし型アクションRPG。ペットに買い物を任せられる仕組みが特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "life-is-strange-2",
+    "title": "Life Is Strange 2",
+    "titleKana": "らいふいずすとれんじつー",
+    "developerIds": [
+      "dont-nod"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2023-02-02",
+    "synopsis": "事件をきっかけに逃避行に出る兄弟の物語。兄の選択が弟の価値観を形づくっていく構成が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "pillars-of-eternity",
+    "title": "Pillars of Eternity",
+    "titleKana": "ぴらーずおぶえたにてぃ",
+    "developerIds": [
+      "obsidian-entertainment"
+    ],
+    "publisherId": "paradox-interactive",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "tactical-rpg"
+    ],
+    "releaseDate": "2019-08-08",
+    "synopsis": "古典的なパソコンRPGの様式を現代に蘇らせた作品。魂の輪廻を主題に、会話と一時停止つきの戦闘で進む。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "syberia",
+    "title": "Syberia",
+    "titleKana": "しべりあ",
+    "developerIds": [
+      "microids"
+    ],
+    "publisherId": "microids",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2017-10-20",
+    "synopsis": "自動人形の工場を買収するため欧州の小さな町を訪れた弁護士が、旅の中で自分の人生を見つめ直す。静かな語り口のアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jedi-outcast",
+    "title": "Star Wars: Jedi Knight II - Jedi Outcast",
+    "titleKana": "すたーうぉーずじぇだいないとつー",
+    "developerIds": [
+      "raven-software"
+    ],
+    "publisherId": "aspyr-media",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-adventure"
+    ],
+    "releaseDate": "2019-09-24",
+    "synopsis": "ライトセーバーとフォースを使い分けて戦う一人称・三人称アクション。剣戟の手応えで長く語り継がれる作品。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jedi-academy",
+    "title": "Star Wars: Jedi Knight - Jedi Academy",
+    "titleKana": "すたーうぉーずじぇだいあかでみー",
+    "developerIds": [
+      "raven-software",
+      "vicarious-visions"
+    ],
+    "publisherId": "aspyr-media",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "action-adventure"
+    ],
+    "releaseDate": "2020-03-26",
+    "synopsis": "ジェダイ養成所の訓練生となり、任務の順番や技を自分で選んで成長させる続編。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "night-in-the-woods",
+    "title": "Night in the Woods",
+    "titleKana": "ないといんざうっず",
+    "developerIds": [
+      "infinite-fall"
+    ],
+    "publisherId": "finji",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "platformer"
+    ],
+    "releaseDate": "2018-02-01",
+    "synopsis": "大学を中退して故郷に戻った猫のメイが、変わってしまった町と友人たちに向き合う。会話と日常描写が中心のアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "factorio",
+    "title": "Factorio",
+    "titleKana": "ふぁくとりお",
+    "developerIds": [
+      "wube-software"
+    ],
+    "publisherId": "wube-software",
+    "platforms": [
+      "switch2",
+      "switch"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy"
+    ],
+    "releaseDate": "2022-10-28",
+    "synopsis": "異星に不時着した技術者が資源を掘り、搬送と生産を自動化して工場を広げていく。効率を突き詰める設計遊びが中心。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "vampyr",
+    "title": "Vampyr",
+    "titleKana": "う゛ぁんぱいあ",
+    "developerIds": [
+      "dont-nod"
+    ],
+    "publisherId": "focus-entertainment",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2019-10-29",
+    "synopsis": "スペイン風邪の流行するロンドンで、吸血鬼になった医師が住民を救うか糧にするかを選ぶ。選択が街の状態に跳ね返る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "valheim",
+    "title": "Valheim",
+    "titleKana": "う゛ぁるへいむ",
+    "developerIds": [
+      "iron-gate-studios"
+    ],
+    "publisherId": "coffee-stain",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "co-op"
+    ],
+    "releaseDate": "2026-09-09",
+    "synopsis": "北欧神話をもとにした死後の世界で、拠点を建てて武具を整え、地域ごとの主に挑むサバイバル。協力プレイに対応する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fallout-76",
+    "title": "Fallout 76",
+    "titleKana": "ふぉーるあうとせぶんてぃしっくす",
+    "developerIds": [
+      "bethesda-softworks"
+    ],
+    "publisherId": "bethesda-softworks",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2018-11-14",
+    "synopsis": "核戦争後のウェストバージニアを他のプレイヤーと共有するオンライン作品。拠点を建てながら荒野を復興していく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yakuza-kiwami",
+    "title": "龍が如く 極",
+    "titleKana": "りゅうがごとくきわみ",
+    "developerIds": [
+      "ryu-ga-gotoku-studio"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "crime-action",
+      "action-adventure"
+    ],
+    "releaseDate": "2016-01-21",
+    "synopsis": "シリーズ第一作を作り直した作品。刑務所から戻った桐生一馬が、失われた大金と幼馴染の行方を追う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-finals",
+    "title": "THE FINALS",
+    "titleKana": "ざふぁいなるず",
+    "developerIds": [
+      "embark-studios"
+    ],
+    "publisherId": "embark-studios",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "versus-action"
+    ],
+    "releaseDate": "2023-12-08",
+    "synopsis": "建物をほぼ丸ごと壊せる架空の賞金番組を模した対戦シューター。三人一組で現金を奪い合う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "for-honor",
+    "title": "フォーオナー",
+    "titleKana": "ふぉーおなー",
+    "developerIds": [
+      "ubisoft-montreal"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "versus-action",
+      "fighting-game"
+    ],
+    "releaseDate": "2017-02-14",
+    "synopsis": "騎士・武士・ヴァイキングが戦う対戦アクション。構えの向きを読み合う独特の斬り合いが軸になる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "stellaris",
+    "title": "Stellaris",
+    "titleKana": "すてらりす",
+    "developerIds": [
+      "paradox-development-studio"
+    ],
+    "publisherId": "paradox-interactive",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "strategy",
+      "simulation"
+    ],
+    "releaseDate": "2025-11-06",
+    "synopsis": "銀河に広がる種族を導く大規模ストラテジー。探査から外交、戦争まで長期の統治を扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wuthering-waves",
+    "title": "鳴潮",
+    "titleKana": "めいちょう",
+    "developerIds": [
+      "kuro-games"
+    ],
+    "publisherId": "kuro-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "action-rpg"
+    ],
+    "releaseDate": "2024-05-22",
+    "synopsis": "災厄後の世界を旅する基本無料のオープンワールドアクションRPG。回避と反撃を軸にした手応えのある戦闘が特徴。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "paladins",
+    "title": "Paladins",
+    "titleKana": "ぱらでぃんず",
+    "developerIds": [
+      "hi-rez-studios"
+    ],
+    "publisherId": "hi-rez-studios",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "versus-action"
+    ],
+    "releaseDate": "2018-06-12",
+    "synopsis": "能力の異なるチャンピオンを選んで5対5で拠点を争う基本無料のシューター。カードで性能を組み替えられる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "stalker-call-of-pripyat",
+    "title": "S.T.A.L.K.E.R.: Call of Pripyat",
+    "titleKana": "すとーかーこーるおぶぷりぴゃち",
+    "developerIds": [
+      "gsc-game-world"
+    ],
+    "publisherId": "gsc-game-world",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "open-world"
+    ],
+    "releaseDate": "2024-10-31",
+    "synopsis": "立入禁止区域の奥、廃墟の街プリピャチを目指すシリーズ第三作。三つの広い地域を自由な順で調べていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dispatch",
+    "title": "Dispatch",
+    "titleKana": "でぃすぱっち",
+    "developerIds": [
+      "adhoc-studio"
+    ],
+    "publisherId": "adhoc-studio",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "strategy"
+    ],
+    "releaseDate": "2025-10-22",
+    "synopsis": "ヒーロー派遣会社の管制官となり、問題のある超人たちを現場に割り振る。会話の選択と人材配置が絡み合う作品。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "danganronpa-2",
+    "title": "スーパーダンガンロンパ2 さよなら絶望学園",
+    "titleKana": "すーぱーだんがんろんぱつー",
+    "developerIds": [
+      "spike-chunsoft"
+    ],
+    "publisherId": "spike-chunsoft",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2021-11-04",
+    "synopsis": "南の島に閉じ込められた高校生たちが、殺人と裁判を繰り返す推理アドベンチャー。学級裁判での言葉の応酬が見どころ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ark-survival-evolved",
+    "title": "ARK: Survival Evolved",
+    "titleKana": "あーくさばいばるえぼるぶど",
+    "developerIds": [
+      "studio-wildcard"
+    ],
+    "publisherId": "studio-wildcard",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "open-world",
+      "simulation",
+      "co-op"
+    ],
+    "releaseDate": "2018-11-22",
+    "synopsis": "恐竜の生息する島で拠点を築き、生物を手なずけて生き延びるサバイバル。建築と繁殖の要素が深い。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "lego-marvel-super-heroes",
+    "title": "LEGO マーベル スーパー・ヒーローズ",
+    "titleKana": "れごまーべるすーぱーひーろーず",
+    "developerIds": [
+      "travellers-tales"
+    ],
+    "publisherId": "warner-bros-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "co-op"
+    ],
+    "releaseDate": "2021-10-05",
+    "synopsis": "レゴで再現されたマーベル世界を、多数のヒーローで冒険する。仕掛けを壊して集める気軽な協力アクション。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arc-raiders",
+    "title": "ARC Raiders",
+    "titleKana": "あーくれいだーず",
+    "developerIds": [
+      "embark-studios"
+    ],
+    "publisherId": "embark-studios",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter",
+      "co-op"
+    ],
+    "releaseDate": "2025-10-30",
+    "synopsis": "機械兵器に地上を追われた人類が、物資を求めて地表へ出る脱出型シューター。他のプレイヤーとの遭遇が緊張を生む。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "star-wars-republic-commando",
+    "title": "Star Wars: Republic Commando",
+    "titleKana": "すたーうぉーずりぱぶりっくこまんど",
+    "developerIds": [
+      "lucasarts"
+    ],
+    "publisherId": "aspyr-media",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "shooter"
+    ],
+    "releaseDate": "2021-04-06",
+    "synopsis": "クローン特殊部隊の隊長として、三人の部下に指示を出しながら任務を進める一人称シューター。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "far-cry-new-dawn",
+    "title": "ファークライ ニュードーン",
+    "titleKana": "ふぁーくらいにゅーどーん",
+    "developerIds": [
+      "ubisoft-montreal"
+    ],
+    "publisherId": "ubisoft",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "open-world",
+      "shooter"
+    ],
+    "releaseDate": "2019-02-15",
+    "synopsis": "『ファークライ5』の十七年後を描く続編。核の後に再生し始めた土地で、双子の姉妹が率いる集団と争う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bioshock-remastered",
+    "title": "BioShock Remastered",
+    "titleKana": "ばいおしょっくりますたーど",
+    "developerIds": [
+      "2k-australia"
+    ],
+    "publisherId": "2k",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "adventure"
+    ],
+    "releaseDate": "2020-05-29",
+    "synopsis": "海底都市ラプチャーを舞台にした一人称シューターの高解像度版。理想主義の果てに崩壊した都市の造形で知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "outlast-2",
+    "title": "Outlast II",
+    "titleKana": "あうとらすとつー",
+    "developerIds": [
+      "red-barrels"
+    ],
+    "publisherId": "red-barrels",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2018-03-27",
+    "synopsis": "アリゾナの奥地に迷い込んだ記者が、狂信的な集落から逃げる続編。カメラの暗視と音声記録を頼りに進む。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "amnesia-a-machine-for-pigs",
+    "title": "Amnesia: A Machine for Pigs",
+    "titleKana": "あむねじああましんふぉーぴっぐす",
+    "developerIds": [
+      "the-chinese-room"
+    ],
+    "publisherId": "frictional-games",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2019-09-12",
+    "synopsis": "19世紀末のロンドンで、実業家が地下の巨大機械へ降りていく。前作とは別の制作陣による物語重視の続編。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "a-hat-in-time",
+    "title": "A Hat in Time",
+    "titleKana": "あはっといんたいむ",
+    "developerIds": [
+      "gears-for-breakfast"
+    ],
+    "publisherId": "gears-for-breakfast",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer",
+      "adventure"
+    ],
+    "releaseDate": "2019-10-18",
+    "synopsis": "時間を集める少女が惑星を巡る3Dアクション。帽子を変えて能力を切り替え、章ごとに雰囲気が大きく変わる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kingdom-hearts-3",
+    "title": "キングダム ハーツIII",
+    "titleKana": "きんぐだむはーつすりー",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg"
+    ],
+    "releaseDate": "2019-01-25",
+    "synopsis": "ディズニーとスクウェア・エニックスの世界が交わるシリーズの完結編。各作品の世界を巡りながら闇との決着に向かう。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "resident-evil-revelations-2",
+    "title": "バイオハザード リベレーションズ2",
+    "titleKana": "ばいおはざーどりべれーしょんずつー",
+    "developerIds": [
+      "capcom"
+    ],
+    "publisherId": "capcom",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "survival-horror",
+      "action-adventure"
+    ],
+    "releaseDate": "2017-11-30",
+    "synopsis": "孤島の収容施設に囚われたクレアとモイラを描く連続形式の作品。二人一組で切り替えながら進む。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sonic-generations",
+    "title": "ソニック ジェネレーションズ",
+    "titleKana": "そにっくじぇねれーしょんず",
+    "developerIds": [
+      "sonic-team"
+    ],
+    "publisherId": "sega",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "platformer",
+      "action-adventure"
+    ],
+    "releaseDate": "2011-11-03",
+    "synopsis": "歴代の名場面を2Dと3Dの両方で作り直した記念作。クラシックソニックとモダンソニックを操作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "final-fantasy-14",
+    "title": "ファイナルファンタジーXIV",
+    "titleKana": "ふぁいなるふぁんたじーふぉーてぃーん",
+    "developerIds": [
+      "square-enix"
+    ],
+    "publisherId": "square-enix",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "rpg",
+      "open-world"
+    ],
+    "releaseDate": "2013-08-27",
+    "synopsis": "エオルゼアを舞台にしたオンラインRPG。一人のキャラクターで全ての職業を担え、拡張のたびに物語が続いていく。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "grim-fandango-remastered",
+    "title": "Grim Fandango Remastered",
+    "titleKana": "ぐりむふぁんだんごりますたーど",
+    "developerIds": [
+      "double-fine"
+    ],
+    "publisherId": "double-fine",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2018-11-01",
+    "synopsis": "死後の世界で旅行代理店員として働く骸骨が、大きな陰謀に巻き込まれる。中南米の死者の祭りと1940年代の探偵映画を掛け合わせた古典的アドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
   }
 ]

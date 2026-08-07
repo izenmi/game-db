@@ -5209,5 +5209,239 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発元として確認。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "amanita-design",
+    "name": "Amanita Design",
+    "nameKana": "あまにたでざいん",
+    "description": "チェコの開発会社。手描きの絵と台詞のない演出によるパズルアドベンチャーで知られる。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "night-school-studio",
+    "name": "Night School Studio",
+    "nameKana": "ないとすくーるすたじお",
+    "description": "アメリカの開発会社。会話が途切れず進むアドベンチャー『Oxenfree』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "2k-australia",
+    "name": "2K Australia",
+    "nameKana": "つーけーおーすとらりあ",
+    "description": "オーストラリアにあった2K傘下の開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-astronauts",
+    "name": "The Astronauts",
+    "nameKana": "ざあすとろのーつ",
+    "description": "ポーランドの開発会社。写実的な風景の探索ミステリを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "klei-entertainment",
+    "name": "Klei Entertainment",
+    "nameKana": "くらいえんためいんめんと",
+    "description": "カナダの開発会社。『Don't Starve』『Oxygen Not Included』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "free-lives",
+    "name": "Free Lives",
+    "nameKana": "ふりーらいう゛ず",
+    "description": "南アフリカの開発会社。破壊の派手なアクションを得意とする。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zenimax-online",
+    "name": "ZeniMax Online Studios",
+    "nameKana": "ぜにまっくすおんらいん",
+    "description": "アメリカの開発会社。『The Elder Scrolls Online』を開発・運営する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ubisoft-san-francisco",
+    "name": "Ubisoft San Francisco",
+    "nameKana": "ゆーびーあいそふとさんふらんしすこ",
+    "description": "Ubisoft傘下のアメリカの開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "playground-games",
+    "name": "Playground Games",
+    "nameKana": "ぷれいぐらうんどげーむす",
+    "description": "イギリスの開発会社。『Forza Horizon』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "greenheart-games",
+    "name": "Greenheart Games",
+    "nameKana": "ぐりーんはーとげーむす",
+    "description": "オーストラリアの小規模スタジオ。ゲーム会社経営シミュレーションを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "2d-boy",
+    "name": "2D Boy",
+    "nameKana": "つーでぃーぼーい",
+    "description": "アメリカの二人組スタジオ。物理パズル『World of Goo』を作った。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "runic-games",
+    "name": "Runic Games",
+    "nameKana": "るーにっくげーむす",
+    "description": "アメリカにあった開発会社。ハックアンドスラッシュ『Torchlight』シリーズを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "paradox-development-studio",
+    "name": "Paradox Development Studio",
+    "nameKana": "ぱらどっくすでう゛ぇろっぷめんとすたじお",
+    "description": "Paradox傘下の開発スタジオ。長期運営型のストラテジーを開発する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "microids",
+    "name": "Microïds",
+    "nameKana": "みくろいず",
+    "description": "フランスの開発・発売会社。アドベンチャー作品を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "infinite-fall",
+    "name": "Infinite Fall",
+    "nameKana": "いんふぃにっとふぉーる",
+    "description": "アメリカの小規模チーム。『Night in the Woods』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wube-software",
+    "name": "Wube Software",
+    "nameKana": "う゛ーべそふとうぇあ",
+    "description": "チェコの開発会社。工場自動化シミュレーション『Factorio』を作った。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "iron-gate-studios",
+    "name": "Iron Gate Studios",
+    "nameKana": "あいあんげーとすたじおず",
+    "description": "スウェーデンの開発会社。北欧神話のサバイバル『Valheim』を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "coffee-stain",
+    "name": "Coffee Stain Publishing",
+    "nameKana": "こーひーすていん",
+    "description": "スウェーデンの発売会社。インディー作品を広く扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "embark-studios",
+    "name": "Embark Studios",
+    "nameKana": "えんばーくすたじおず",
+    "description": "スウェーデンの開発会社。破壊表現を売りにしたオンラインシューターを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuro-games",
+    "name": "Kuro Games",
+    "nameKana": "くろげーむす",
+    "description": "中国の開発・運営会社。基本無料のアクションRPGを展開する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hi-rez-studios",
+    "name": "Hi-Rez Studios",
+    "nameKana": "はいれずすたじおず",
+    "description": "アメリカの開発・運営会社。基本無料の対戦作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "adhoc-studio",
+    "name": "AdHoc Studio",
+    "nameKana": "あどほっくすたじお",
+    "description": "元Telltaleの開発者が設立したアメリカのスタジオ。会話主体の物語作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "studio-wildcard",
+    "name": "Studio Wildcard",
+    "nameKana": "すたじおわいるどかーど",
+    "description": "アメリカの開発会社。恐竜サバイバル『ARK』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gears-for-breakfast",
+    "name": "Gears for Breakfast",
+    "nameKana": "ぎあずふぉーぶれっくふぁーすと",
+    "description": "オランダ発の開発チーム。3Dアクション『A Hat in Time』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tequila-works",
+    "name": "Tequila Works",
+    "nameKana": "てきーらわーくす",
+    "description": "スペインの開発会社。台詞に頼らない演出の作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "double-fine",
+    "name": "Double Fine Productions",
+    "nameKana": "だぶるふぁいん",
+    "description": "アメリカの開発会社。ユーモアのあるアドベンチャーとアクションを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
   }
 ]
