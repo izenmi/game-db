@@ -6163,5 +6163,536 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "villa-gorilla",
+    "name": "Villa Gorilla",
+    "nameKana": "びらごりら",
+    "description": "スウェーデンの小規模スタジオ。ピンボールと探索を融合した作品を作った。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "curve-digital",
+    "name": "Curve Games",
+    "nameKana": "かーぶげーむす",
+    "description": "イギリスの発売会社。インディー作品の移植と発売を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fiddlesticks",
+    "name": "Fiddlesticks",
+    "nameKana": "ふぃどるすてぃっくす",
+    "description": "イギリスの小規模スタジオ。色を使ったパズル『Hue』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doubledutch-games",
+    "name": "DoubleDutch Games",
+    "nameKana": "だぶるだっちげーむす",
+    "description": "オランダの開発チーム。対戦型の横スクロールレースを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tinybuild",
+    "name": "tinyBuild",
+    "nameKana": "たいにーびるど",
+    "description": "アメリカの発売会社。個性的なインディー作品を幅広く扱う。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "scs-software",
+    "name": "SCS Software",
+    "nameKana": "えすしーえすそふとうぇあ",
+    "description": "チェコの開発会社。トラック運転シミュレーションを専門に作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gabe-cuzzillo",
+    "name": "Gabe Cuzzillo",
+    "nameKana": "げいぶかじーろ",
+    "description": "アメリカの個人開発者。『Ape Out』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "radical-fish-games",
+    "name": "Radical Fish Games",
+    "nameKana": "らでぃかるふぃっしゅげーむす",
+    "description": "ドイツの開発チーム。ドット絵のアクションRPG『CrossCode』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "deck13",
+    "name": "Deck13 Interactive",
+    "nameKana": "でっきさーてぃーんいんたらくてぃぶ",
+    "description": "ドイツの開発・発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "frozenbyte",
+    "name": "Frozenbyte",
+    "nameKana": "ふろーずんばいと",
+    "description": "フィンランドの開発会社。『Trine』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ironhide",
+    "name": "Ironhide Game Studio",
+    "nameKana": "あいあんはいどげーむすたじお",
+    "description": "ウルグアイの開発会社。タワーディフェンス『Kingdom Rush』シリーズを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "armor-games",
+    "name": "Armor Games Studios",
+    "nameKana": "あーまーげーむすすたじおず",
+    "description": "アメリカの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ubisoft-barcelona",
+    "name": "Ubisoft Barcelona",
+    "nameKana": "ゆーびーあいそふとばるせろな",
+    "description": "Ubisoft傘下のスペインの開発スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "david-szymanski",
+    "name": "David Szymanski",
+    "nameKana": "でいう゛ぃっどしまんすき",
+    "description": "アメリカの個人開発者。1990年代風のシューターを制作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "superjoebob",
+    "name": "SuperJoeBob Games",
+    "nameKana": "すーぱーじょーぼぶげーむす",
+    "description": "アメリカの個人開発スタジオ。対戦アクション『Duck Game』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "adult-swim-games",
+    "name": "Adult Swim Games",
+    "nameKana": "あだるとすいむげーむす",
+    "description": "アメリカの発売レーベル。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "vlambeer",
+    "name": "Vlambeer",
+    "nameKana": "ぶらんべーる",
+    "description": "オランダの二人組スタジオ。手触り重視の小品を数多く作った。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bearded-ladies",
+    "name": "The Bearded Ladies",
+    "nameKana": "ざびあでっどれでぃーす",
+    "description": "スウェーデンの開発会社。潜入要素のあるターン制戦術を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "studio-zero",
+    "name": "スタジオ・ゼロ",
+    "nameKana": "すたじおぜろ",
+    "description": "アトラス内の開発スタジオ。『メタファー：リファンタジオ』を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dynamic-pixels",
+    "name": "DYNAMIC PIXELS",
+    "nameKana": "だいなみっくぴくせるず",
+    "description": "ロシアの開発会社。隣家に忍び込むホラー『Hello Neighbor』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "purple-lamp",
+    "name": "Purple Lamp Studios",
+    "nameKana": "ぱーぷるらんぷすたじおず",
+    "description": "オーストリアの開発会社。海外アニメ原作の3Dアクションを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "amazon-games",
+    "name": "Amazon Games",
+    "nameKana": "あまぞんげーむす",
+    "description": "アマゾンのゲーム部門。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rising-star-games",
+    "name": "Rising Star Games",
+    "nameKana": "らいじんぐすたーげーむす",
+    "description": "イギリスの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "young-horses",
+    "name": "Young Horses",
+    "nameKana": "やんぐほーせす",
+    "description": "アメリカの開発チーム。操作の不自由さで笑わせる『Octodad』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nicalis",
+    "name": "Nicalis",
+    "nameKana": "にからす",
+    "description": "アメリカの発売・開発会社。インディー作品の家庭用機移植を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "almost-human",
+    "name": "Almost Human",
+    "nameKana": "おーるもすとひゅーまん",
+    "description": "フィンランドの開発チーム。一人称のダンジョン探索を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ubisoft-nadeo",
+    "name": "Ubisoft Nadeo",
+    "nameKana": "ゆーびーあいそふとなでお",
+    "description": "Ubisoft傘下のフランスのスタジオ。レース作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "interior-night",
+    "name": "INTERIOR/NIGHT",
+    "nameKana": "いんてりあないと",
+    "description": "イギリスの開発会社。実写に近い演出の物語作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "lazy-bear-games",
+    "name": "Lazy Bear Games",
+    "nameKana": "れいじーべあげーむす",
+    "description": "ロシアの開発チーム。ドット絵の経営・育成作品を手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "voxel-agents",
+    "name": "The Voxel Agents",
+    "nameKana": "ざぼくせるえーじぇんつ",
+    "description": "オーストラリアの開発会社。時間を巻き戻すパズルを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "vigil-games",
+    "name": "Vigil Games",
+    "nameKana": "う゛ぃじるげーむす",
+    "description": "アメリカにあった開発会社。『Darksiders』シリーズを立ち上げた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "orteil",
+    "name": "Orteil",
+    "nameKana": "おるてぃーゆ",
+    "description": "フランスの個人開発者。放置型ゲームの原型を作った。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "drool",
+    "name": "Drool",
+    "nameKana": "どぅるーる",
+    "description": "アメリカの開発チーム。音楽アクション『Thumper』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "timi-studio",
+    "name": "TiMi Studio Group",
+    "nameKana": "てぃーみーすたじおぐるーぷ",
+    "description": "中国の開発会社。テンセント傘下で大型の対戦作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "airship-syndicate",
+    "name": "Airship Syndicate",
+    "nameKana": "えあしっぷしんじけーと",
+    "description": "アメリカの開発会社。アメコミ調のアクションRPGを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hopfrog",
+    "name": "HopFrog",
+    "nameKana": "ほっぷふろっぐ",
+    "description": "アルゼンチンの個人開発者。『Forager』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "studio-pixel",
+    "name": "開発室Pixel",
+    "nameKana": "かいはつしつぴくせる",
+    "description": "日本の個人開発者。『洞窟物語』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "people-can-fly",
+    "name": "People Can Fly",
+    "nameKana": "ぴーぷるきゃんふらい",
+    "description": "ポーランドの開発会社。撃ち合いの手触りに強いシューターを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "experiment-101",
+    "name": "Experiment 101",
+    "nameKana": "えくすぺりめんといちまるいち",
+    "description": "スウェーデンの開発会社。動物風の主人公が旅する『Biomutant』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-gentlebros",
+    "name": "The Gentlebros",
+    "nameKana": "ざじぇんとるぶろす",
+    "description": "シンガポールの開発チーム。猫が主人公のRPGを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "joakim-sandberg",
+    "name": "Joakim Sandberg",
+    "nameKana": "よあきむさんどべり",
+    "description": "スウェーデンの個人開発者。『Iconoclasts』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dangen-entertainment",
+    "name": "DANGEN Entertainment",
+    "nameKana": "だんげんえんためいんめんと",
+    "description": "日本を拠点とするインディーパブリッシャー。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nikita-kryukov",
+    "name": "Nikita Kryukov",
+    "nameKana": "にきーたくりゅーこふ",
+    "description": "ロシアの個人開発者。実験的な短編作品を制作する。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "neon-giant",
+    "name": "Neon Giant",
+    "nameKana": "ねおんじゃいあんと",
+    "description": "スウェーデンの開発会社。見下ろし型のサイバーパンクシューターを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "broken-rules",
+    "name": "Broken Rules",
+    "nameKana": "ぶろーくんるーるず",
+    "description": "オーストリアの開発会社。手描き調の小品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "overhaul-games",
+    "name": "Overhaul Games",
+    "nameKana": "おーばーほーるげーむす",
+    "description": "カナダの開発チーム。古典RPGの改修版を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "beamdog",
+    "name": "Beamdog",
+    "nameKana": "びーむどっぐ",
+    "description": "カナダの開発・発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "videocult",
+    "name": "Videocult",
+    "nameKana": "びでおかると",
+    "description": "アメリカの開発チーム。生態系を再現した『Rain World』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "owlcat-games",
+    "name": "Owlcat Games",
+    "nameKana": "あうるきゃっとげーむす",
+    "description": "キプロスに拠点を置く開発会社。卓上RPGを原作にした作品を作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "keoken-interactive",
+    "name": "KeokeN Interactive",
+    "nameKana": "けおけんいんたらくてぃぶ",
+    "description": "オランダの開発会社。宇宙を舞台にした物語作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mouldy-toof",
+    "name": "Mouldy Toof Studios",
+    "nameKana": "もーるでぃとぅーふすたじおず",
+    "description": "イギリスの開発チーム。脱獄を題材にした作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "beamng",
+    "name": "BeamNG",
+    "nameKana": "びーむえぬじー",
+    "description": "ドイツの開発会社。車体の変形を精密に計算する運転シミュレーションを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "lince-works",
+    "name": "Lince Works",
+    "nameKana": "りんせわーくす",
+    "description": "スペインの開発会社。影に潜む忍者の潜入アクションを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "merge-games",
+    "name": "Merge Games",
+    "nameKana": "まーじげーむす",
+    "description": "イギリスの発売会社。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "no-code",
+    "name": "No Code",
+    "nameKana": "のーこーど",
+    "description": "イギリスの開発会社。実験的な語り口のホラー・アドベンチャーを作る。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "noio",
+    "name": "Noio",
+    "nameKana": "のいお",
+    "description": "オランダの個人開発者。横スクロールの王国運営作品を制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "revolution-software",
+    "name": "Revolution Software",
+    "nameKana": "れぼりゅーしょんそふとうぇあ",
+    "description": "イギリスの開発会社。『Broken Sword』シリーズを手がける。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "snowblind-studios",
+    "name": "Snowblind Studios",
+    "nameKana": "すのーぶらいんどすたじおず",
+    "description": "アメリカにあった開発会社。見下ろし型のアクションRPGを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "blindside-interactive",
+    "name": "Blindside Interactive",
+    "nameKana": "ぶらいんどさいどいんたらくてぃぶ",
+    "description": "アメリカの開発会社。サメを操るアクションRPGを制作した。",
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
+    "updatedAt": "2026-08-07"
   }
 ]
