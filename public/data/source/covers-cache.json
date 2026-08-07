@@ -1707,6 +1707,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:50.071Z"
   },
+  "cyberpunk-2077": {
+    "title": "サイバーパンク2077",
+    "matchedTitle": "Cyberpunk 2077",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaih8.jpg",
+    "itemUrl": "https://www.igdb.com/games/cyberpunk-2077",
+    "source": "igdb",
+    "resolvedAt": "2026-08-07T16:19:04.853Z"
+  },
   "cyberpunk-2077-ultimate-edition": {
     "title": "サイバーパンク2077 アルティメットエディション",
     "matchedTitle": "Cyberpunk 2077: Ultimate Edition",
@@ -1786,6 +1794,14 @@
     "itemUrl": "https://www.igdb.com/games/the-dark-pictures-anthology-man-of-medan",
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:46:05.270Z"
+  },
+  "dark-souls": {
+    "title": "ダークソウル",
+    "matchedTitle": "Dark Souls",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1x78.jpg",
+    "itemUrl": "https://www.igdb.com/games/dark-souls",
+    "source": "igdb",
+    "resolvedAt": "2026-08-07T16:19:03.506Z"
   },
   "dark-souls-remastered": {
     "title": "DARK SOULS REMASTERED",
@@ -3713,6 +3729,14 @@
     "itemUrl": "https://www.igdb.com/games/horizon-forbidden-west",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:08.752Z"
+  },
+  "horizon-zero-dawn": {
+    "title": "Horizon Zero Dawn",
+    "matchedTitle": "Horizon Zero Dawn",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2una.jpg",
+    "itemUrl": "https://www.igdb.com/games/horizon-zero-dawn",
+    "source": "igdb",
+    "resolvedAt": "2026-08-07T16:19:00.855Z"
   },
   "horizon-zero-dawn-remastered": {
     "title": "Horizon Zero Dawn Remastered",
@@ -8294,6 +8318,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:45:25.955Z"
   },
+  "the-last-of-us-part-ii": {
+    "title": "The Last of Us Part II",
+    "matchedTitle": "The Last of Us Part II",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5ziw.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-last-of-us-part-ii",
+    "source": "igdb",
+    "resolvedAt": "2026-08-07T16:19:02.084Z"
+  },
   "the-long-dark": {
     "title": "The Long Dark",
     "matchedTitle": "The Long Dark",
@@ -8445,6 +8477,14 @@
     "itemUrl": "https://item.rakuten.co.jp/umibose/b00eom369m/",
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-07T06:17:50.578Z"
+  },
+  "the-witcher-3-wild-hunt": {
+    "title": "ウィッチャー3 ワイルドハント",
+    "matchedTitle": "The Witcher 3: Wild Hunt",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaarl.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-witcher-3-wild-hunt",
+    "source": "igdb",
+    "resolvedAt": "2026-08-07T16:18:59.711Z"
   },
   "theatrhythm-final-bar-line": {
     "title": "シアトリズム ファイナルバーライン",

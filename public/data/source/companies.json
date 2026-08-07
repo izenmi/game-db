@@ -8053,5 +8053,14 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "valve",
+    "name": "Valve",
+    "nameKana": "ばるぶ",
+    "description": "『Half-Life』『Portal』シリーズやSteamの運営で知られるアメリカのゲーム開発・配信企業。",
+    "externalLinks": {},
+    "sourceNote": "IGDBの登録情報で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]

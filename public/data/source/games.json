@@ -28185,5 +28185,131 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-witcher-3-wild-hunt",
+    "title": "ウィッチャー3 ワイルドハント",
+    "titleKana": "うぃっちゃーすりーわいるどはんと",
+    "developerIds": [
+      "cd-projekt-red"
+    ],
+    "publisherId": "cd-projekt-red",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world",
+      "adventure"
+    ],
+    "releaseDate": "2021-01-28",
+    "synopsis": "魔物退治を生業とする「ウィッチャー」のゲラルトが、行方を追う少女を捜して戦乱の大陸を旅する。膨大なサブクエストが本編と同等のの密度を持つオープンワールドRPG。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2015,
+        "result": "ゲーム・オブ・ザ・イヤー"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "titleKana": "ほらいずんぜろどーん",
+    "developerIds": [
+      "guerrilla-games"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world"
+    ],
+    "releaseDate": "2021-04-25",
+    "synopsis": "機械の獣が跋扈する遥か未来の地球で、狩人アーロイが自らの出自と文明崩壊の理由を追う。弓と罠を組み合わせた狩りが特徴。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-last-of-us-part-ii",
+    "title": "The Last of Us Part II",
+    "titleKana": "ざらすとおぶあすぱーとつー",
+    "developerIds": [
+      "naughty-dog"
+    ],
+    "publisherId": "sie",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-adventure",
+      "survival-horror"
+    ],
+    "releaseDate": "2021-05-19",
+    "synopsis": "パンデミック後のアメリカを舞台に、復讐の連鎖に飲み込まれていく二人の女性を交互に描く。",
+    "awardResults": [
+      {
+        "awardId": "the-game-awards",
+        "year": 2020,
+        "result": "ゲーム・オブ・ザ・イヤー"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dark-souls",
+    "title": "ダークソウル",
+    "titleKana": "だーくそうる",
+    "developerIds": [
+      "fromsoftware"
+    ],
+    "publisherId": "bandai-namco-entertainment",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "soulslike",
+      "action-rpg"
+    ],
+    "releaseDate": "2011-09-22",
+    "synopsis": "亡者があふれる呪われた世界で、篝火を頼りに歩を進める高難度アクションRPG。死と再挑戦を前提にした設計がジャンルを生んだ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "cyberpunk-2077",
+    "title": "サイバーパンク2077",
+    "titleKana": "さいばーぱんく2077",
+    "developerIds": [
+      "cd-projekt-red"
+    ],
+    "publisherId": "cd-projekt-red",
+    "platforms": [
+      "switch2",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "open-world",
+      "shooter"
+    ],
+    "releaseDate": "2022-02-15",
+    "synopsis": "巨大企業が支配するナイトシティで、傭兵Vが不死の技術をめぐる陰謀に巻き込まれる。義体化とサイバーウェアで自分の戦い方を組み立てる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
   }
 ]
