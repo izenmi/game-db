@@ -4,6 +4,7 @@ import { getGenre } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCard, PLATFORM_LABEL } from "../common/GameCard";
+import { matchesKeyword, genreOptionsOf } from "../common/useGameFilter";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import type { GamePlatform } from "../../types";
 
@@ -39,16 +40,27 @@ export function GenreDetailPage() {
   });
 
   const [params, setParams] = useSearchParams();
+  const q = params.get("q") ?? "";
+  // このページ自身のジャンルは全作品が持っていて絞り込みにならないので選択肢から外す
+  const other = params.get("genre") ?? "";
   const platform = params.get("platform") ?? "";
   const sort = params.get("sort") ?? "release-desc";
 
+  const options = useMemo(
+    () => genreOptionsOf(state.status === "ready" ? state.data?.games : undefined, id),
+    [state, id],
+  );
+
   const filtered = useMemo(() => {
     if (state.status !== "ready" || !state.data) return [];
+    const keyword = q.trim().toLowerCase();
     return state.data.games.filter((g) => {
+      if (!matchesKeyword(g, keyword)) return false;
+      if (other && !g.genreIds.includes(other)) return false;
       if (platform && !g.platforms.includes(platform as GamePlatform)) return false;
       return true;
     });
-  }, [state, platform]);
+  }, [state, platform, q, other]);
 
   const sorted = useMemo(() => {
     if (sort === "release-asc") return [...filtered].sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));
@@ -72,7 +84,7 @@ export function GenreDetailPage() {
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(platform);
+  const hasActiveFilters = Boolean(q || other || platform);
 
   return (
     <div className="page">
@@ -85,6 +97,23 @@ export function GenreDetailPage() {
           <p className="page-subtitle">{state.data.gameCount}本</p>
           {state.data.description && <p>{state.data.description}</p>}
           <div className="filter-row">
+            <input
+              type="search"
+              value={q}
+              placeholder="タイトル・作者で絞り込み"
+              aria-label="タイトル・作者で絞り込み"
+              onChange={(e) => updateParam("q", e.target.value)}
+            />
+            {options.length > 0 && (
+              <select value={other} onChange={(e) => updateParam("genre", e.target.value)}>
+                <option value="">他のジャンルで絞り込み</option>
+                {options.map((o) => (
+                  <option value={o.value} key={o.value}>
+                    {o.label}
+                  </option>
+                ))}
+              </select>
+            )}
             <select value={platform} onChange={(e) => updateParam("platform", e.target.value)}>
               <option value="">対応機種で絞り込み</option>
               {PLATFORM_OPTIONS.map((o) => (
