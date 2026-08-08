@@ -4,7 +4,16 @@
  * 候補を人力で思いつく方式より当たり率が高く、DUPで捨てる無駄も出ない。
  *
  *   IGDB_CLIENT_ID=xxx IGDB_CLIENT_SECRET=yyy \
- *     node scripts/suggest-candidates.mjs [--offset 0] [--limit 500] [--min-follows 20] [--platform switch|ps5|switch2]
+ *     node scripts/suggest-candidates.mjs [--offset 0] [--limit 500] [--min-count 40] [--platform switch|ps5|switch2]
+ *
+ * **マイナーなタイトルは登録しない**(2026-08-08にユーザーと合意)。この方針は候補列挙の段階で
+ * 効かせる。既存分に遡って適用する手段が見つからなかったため(CLAUDE.mdの「マイナー判定に
+ * 使えなかった指標」を参照)、入口で絞るのが唯一機能する運用になっている。
+ *   - `--min-count`(= total_rating_count の下限)の既定を 5 から 40 に上げた。5 だと評価が
+ *     数件しか付いていない小規模タイトルまで並ぶ。**この値で落ちるのは「候補に出ない」だけで
+ *     既存データは消えない**ので、多少きつくても実害が小さい側に倒している
+ *   - **未発売のタイトルを出さない**。IGDBの発売日は発表時点の予定日のまま更新されないことが
+ *     あるので、日付が未来のものに加えて日付を持たないものも落とす
  *
  * 出力は1行1候補(verify-candidates.mjsと同じ並び)。
  *   <IGDB名> | <ps5,switch,switch2> | <発売日> | D:<開発> | P:<発売> | G:<IGDBジャンル>
@@ -24,6 +33,10 @@ const PLATFORM_MAP = [
   ["PlayStation 5", "ps5"],
 ];
 const ALLOWED_TYPES = new Set([0, 8, 9, 10, 11]);
+/** 発売済みだけを候補にする。IGDBは発表時の予定日を残したままのことがあるため、
+ *  実際には未発売でも過去日付になっている場合がある(『Gothic 1 Remake』などで実際に踏んだ)。
+ *  ここで落とせるのは「日付が未来」「日付が無い」ものだけなので、最終確認は人が行う。 */
+const TODAY_SEC = Math.floor(Date.now() / 1000);
 
 function normalize(s) {
   return s
@@ -114,7 +127,7 @@ async function main() {
   }
   const offset = Number(arg("offset", 0));
   const limit = Number(arg("limit", 300));
-  const minCount = Number(arg("min-count", 5));
+  const minCount = Number(arg("min-count", 40));
   const platform = arg("platform", null);
 
   const games = JSON.parse(
@@ -141,6 +154,7 @@ async function main() {
     for (const g of rows) {
       if (!ALLOWED_TYPES.has(g.game_type ?? 0)) continue;
       if (existing.has(normalize(g.name || ""))) continue;
+      if (!g.first_release_date || g.first_release_date > TODAY_SEC) continue;
       const p = sitePlatforms(g);
       if (!p.length) continue;
       out.push(
