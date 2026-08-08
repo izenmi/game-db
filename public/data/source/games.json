@@ -11431,7 +11431,7 @@
     "synopsis": "航海中に難破し、絶海の孤島セイレン島に流れ着いたアドルの冒険を描くアクションRPG。漂流者を集めて拠点を築きながら島を開拓し、並行して青髪の少女ダーナの夢を通じて島の過去が語られる。二つの時代の物語が交差する構成と探索の密度 が評価された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本ファルコムであることを確認。発売日はIGDBの登録値で、原典はPS Vita版(2016年)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-08"
   },
   {
     "id": "trails-into-reverie",
@@ -24046,27 +24046,6 @@
     ],
     "releaseDate": "2019-10-07",
     "synopsis": "横スクロールに戻したシリーズ第四作。三人の能力を組み合わせて仕掛けを解く。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "ys-8",
-    "title": "イースVIII -Lacrimosa of DANA-",
-    "titleKana": "いーすはちらくりもさおぶだーな",
-    "developerIds": [
-      "nihon-falcom"
-    ],
-    "publisherId": "nihon-falcom",
-    "platforms": [
-      "switch",
-      "ps5"
-    ],
-    "genreIds": [
-      "action-rpg"
-    ],
-    "releaseDate": "2016-07-21",
-    "synopsis": "漂流した孤島で仲間を集め、拠点を築きながら島の謎を解くアクションRPG。快適な戦闘と探索が評価された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
