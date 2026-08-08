@@ -1,13 +1,4 @@
 {
-  "007-first-light": {
-    "title": "007 First Light",
-    "matchedTitle": "007 First Light",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaoiz.jpg",
-    "itemUrl": "https://www.igdb.com/games/007-first-light",
-    "source": "igdb",
-    "resolvedAt": "2026-08-06T07:46:39.709Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0725-5495/"
-  },
   "1-2-switch": {
     "title": "1-2-Switch",
     "matchedTitle": "1-2-Switch",
@@ -136,14 +127,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:45:16.639Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/bookoffonline/0020331665/"
-  },
-  "ace-combat-zero": {
-    "title": "ACE COMBAT ZERO THE BELKAN WAR",
-    "matchedTitle": "Ace Combat Zero: The Belkan War",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6o8z.jpg",
-    "itemUrl": "https://www.igdb.com/games/ace-combat-zero-the-belkan-war",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:30:25.971Z"
   },
   "achilles-legends-untold": {
     "title": "Achilles: Legends Untold",
@@ -890,14 +873,6 @@
     "resolvedAt": "2026-08-04T01:53:10.316Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/yamada-denki/2818287017/"
   },
-  "beamng-drive": {
-    "title": "BeamNG.drive",
-    "matchedTitle": "BeamNG.drive",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1sym.jpg",
-    "itemUrl": "https://www.igdb.com/games/beamng-dot-drive",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:25:33.187Z"
-  },
   "berserk-boy": {
     "title": "Berserk Boy",
     "matchedTitle": "Berserk Boy",
@@ -1245,14 +1220,6 @@
     "itemUrl": "https://www.igdb.com/games/brothers-a-tale-of-two-sons",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:18:04.471Z"
-  },
-  "buckshot-roulette": {
-    "title": "Buckshot Roulette",
-    "matchedTitle": "Buckshot Roulette",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co85h5.jpg",
-    "itemUrl": "https://www.igdb.com/games/buckshot-roulette",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:22:30.124Z"
   },
   "bugsnax": {
     "title": "Bugsnax",
@@ -2309,15 +2276,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:58.885Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/renet20/r0013561754/"
-  },
-  "directive-8020": {
-    "title": "Directive 8020",
-    "matchedTitle": "Directive 8020",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8t96.jpg",
-    "itemUrl": "https://www.igdb.com/games/directive-8020",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:30:32.033Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0725-5645/"
   },
   "dirt-5": {
     "title": "DIRT 5",
@@ -3409,14 +3367,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:19:35.047Z"
   },
-  "forza-horizon-6": {
-    "title": "Forza Horizon 6",
-    "matchedTitle": "Forza Horizon 6",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobc5n.jpg",
-    "itemUrl": "https://www.igdb.com/games/forza-horizon-6",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:25:50.033Z"
-  },
   "fran-bow": {
     "title": "Fran Bow",
     "matchedTitle": "Fran Bow",
@@ -3680,15 +3630,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:44:52.504Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/e-wellness/2818125012/"
-  },
-  "gothic-1-remake": {
-    "title": "Gothic 1 Remake",
-    "matchedTitle": "Gothic 1 Remake",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9lfu.jpg",
-    "itemUrl": "https://www.igdb.com/games/gothic-1-remake",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:30:39.033Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0719-5602/"
   },
   "gran-turismo-7": {
     "title": "グランツーリスモ7",
@@ -4476,11 +4417,6 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-07T06:20:26.959Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/denkichiweb/4988601010160/"
-  },
-  "kingdom-hearts-rechain": {
-    "title": "キングダム ハーツ Re:チェイン オブ メモリーズ",
-    "coverUrl": null,
-    "resolvedAt": "2026-08-07T06:29:17.044Z"
   },
   "kingdom-new-lands": {
     "title": "Kingdom: New Lands",
@@ -5382,14 +5318,6 @@
     "resolvedAt": "2026-08-04T01:50:23.333Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/yamada-denki/2817181019/"
   },
-  "mina-the-hollower": {
-    "title": "Mina the Hollower",
-    "matchedTitle": "Mina the Hollower",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4g15.jpg",
-    "itemUrl": "https://www.igdb.com/games/mina-the-hollower",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:29:18.494Z"
-  },
   "minecraft": {
     "title": "Minecraft",
     "matchedTitle": "Minecraft",
@@ -6077,14 +6005,6 @@
     "resolvedAt": "2026-08-07T06:23:58.186Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/book/16439349/"
   },
-  "nte-neverness-to-everness": {
-    "title": "NTE: Neverness to Everness",
-    "matchedTitle": "NTE: Neverness to Everness",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocirk.jpg",
-    "itemUrl": "https://www.igdb.com/games/nte-neverness-to-everness",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:27:07.827Z"
-  },
   "nuclear-throne": {
     "title": "Nuclear Throne",
     "matchedTitle": "Nuclear Throne",
@@ -6189,14 +6109,6 @@
     "resolvedAt": "2026-08-07T06:21:39.550Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/es-toys/10910958/"
   },
-  "once-human": {
-    "title": "Once Human",
-    "matchedTitle": "Once Human",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocleq.jpg",
-    "itemUrl": "https://www.igdb.com/games/once-human",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:26:13.974Z"
-  },
   "one-piece-odyssey": {
     "title": "ONE PIECE ODYSSEY",
     "matchedTitle": "One Piece Odyssey",
@@ -6232,15 +6144,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:53:11.646Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/bookoffonline/0019164473/"
-  },
-  "onimusha-way-of-the-sword": {
-    "title": "鬼武者 Way of the Sword",
-    "matchedTitle": "Onimusha: Way of the Sword",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cocdt3.jpg",
-    "itemUrl": "https://www.igdb.com/games/onimusha-way-of-the-sword",
-    "source": "igdb",
-    "resolvedAt": "2026-08-06T08:12:09.430Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/edion/4976219137751/"
   },
   "ori-and-the-blind-forest": {
     "title": "Ori and the Blind Forest: Definitive Edition",
@@ -6578,14 +6481,6 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:05:13.886Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/jism/4984995906249-54-27073-n/"
-  },
-  "phantom-blade-zero": {
-    "title": "Phantom Blade Zero",
-    "matchedTitle": "Phantom Blade 0",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob64v.jpg",
-    "itemUrl": "https://www.igdb.com/games/phantom-blade-0",
-    "source": "igdb",
-    "resolvedAt": "2026-08-06T08:12:10.798Z"
   },
   "phantom-brave-the-lost-hero": {
     "title": "ファントム・ブレイブ 幽霊船団と消えた英雄",
@@ -8025,14 +7920,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:50:29.436Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/bookoffonline/0019902042/"
-  },
-  "south-of-midnight": {
-    "title": "South of Midnight",
-    "matchedTitle": "South of Midnight",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8bot.jpg",
-    "itemUrl": "https://www.igdb.com/games/south-of-midnight",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:27:52.479Z"
   },
   "speedrunners": {
     "title": "SpeedRunners",
@@ -9757,14 +9644,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:30:55.684Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/skymarketplus/b07z8nblbq/"
-  },
-  "valheim": {
-    "title": "Valheim",
-    "matchedTitle": "Valheim",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob24q.jpg",
-    "itemUrl": "https://www.igdb.com/games/valheim",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:19:55.362Z"
   },
   "valiant-hearts": {
     "title": "Valiant Hearts: The Great War",

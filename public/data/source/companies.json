@@ -4901,15 +4901,6 @@
     "updatedAt": "2026-08-06"
   },
   {
-    "id": "s-game",
-    "name": "S-GAME",
-    "nameKana": "えすげーむ",
-    "description": "中国の開発・発売会社。武侠アクション『Phantom Blade』シリーズを手がける。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-06照会)で『Phantom Blade 0』の開発/発売元として確認。",
-    "updatedAt": "2026-08-06"
-  },
-  {
     "id": "sunset-visitor",
     "name": "sunset visitor 斜陽過客",
     "nameKana": "さんせっとびじたー",
@@ -5328,15 +5319,6 @@
     "name": "Wube Software",
     "nameKana": "う゛ーべそふとうぇあ",
     "description": "チェコの開発会社。工場自動化シミュレーション『Factorio』を作った。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "iron-gate-studios",
-    "name": "Iron Gate Studios",
-    "nameKana": "あいあんげーとすたじおず",
-    "description": "スウェーデンの開発会社。北欧神話のサバイバル『Valheim』を手がける。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
@@ -5832,15 +5814,6 @@
     "name": "Cyanide Studio",
     "nameKana": "しあないどすたじお",
     "description": "フランスの開発会社。原作もののアドベンチャーやスポーツ経営を手がける。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "mike-klubnika",
-    "name": "Mike Klubnika",
-    "nameKana": "まいくくるぶにか",
-    "description": "ラトビアの個人開発者。低解像度の映像表現によるホラーを制作する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
@@ -6575,15 +6548,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "beamng",
-    "name": "BeamNG",
-    "nameKana": "びーむえぬじー",
-    "description": "ドイツの開発会社。車体の変形を精密に計算する運転シミュレーションを作る。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "lince-works",
     "name": "Lince Works",
     "nameKana": "りんせわーくす",
@@ -6777,15 +6741,6 @@
     "name": "IronOak Games",
     "nameKana": "あいあんおーくげーむす",
     "description": "カナダの開発チーム。盤上を旅する協力RPGを制作した。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "starry-studio",
-    "name": "Starry Studio",
-    "nameKana": "すたりーすたじお",
-    "description": "中国の開発会社。基本無料のサバイバル作品を運営する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
@@ -7007,15 +6962,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "hotta-studio",
-    "name": "Hotta Studio",
-    "nameKana": "ほったすたじお",
-    "description": "中国の開発会社。オープンワールドのオンラインRPGを制作する。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "snoozy-kazoo",
     "name": "Snoozy Kazoo",
     "nameKana": "すぬーじーかずー",
@@ -7038,15 +6984,6 @@
     "name": "Trion Worlds",
     "nameKana": "とらいおんわーるず",
     "description": "アメリカにあった開発・運営会社。基本無料のオンライン作品を手がけた。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "compulsion-games",
-    "name": "Compulsion Games",
-    "nameKana": "こんぱるしょんげーむす",
-    "description": "カナダの開発会社。独特の美術と語り口の作品を作る。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
@@ -7731,15 +7668,6 @@
     "name": "Digerati Distribution",
     "nameKana": "でぃじらーてぃでぃすとりびゅーしょん",
     "description": "アメリカの発売会社。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "alkimia-interactive",
-    "name": "Alkimia Interactive",
-    "nameKana": "あるきみあいんたらくてぃぶ",
-    "description": "スペインの開発会社。THQ Nordic傘下でリメイクを手がける。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
