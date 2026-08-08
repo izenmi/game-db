@@ -291,27 +291,6 @@ writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8")
 
 console.log(`generate-manifest: wrote ${games.length} games, ${companies.length} companies, ${genres.length} genres, ${awards.length} awards`);
 
-// ---- generated/search-index.json ----
-// Compact index for the cross-site search page. All four sister sites are served from
-// izenmi.github.io, so in production each site can fetch the others' index with a plain
-// same-origin request — no CORS setup and no backend. Keys are one letter because this file is
-// downloaded whole by /search: i=id, t=title, c=creators, y=year.
-// The index is self-describing (siteName/baseUrl/itemPath) so a consumer can build links into it
-// without hardcoding another site's routing.
-const searchIndex = {
-  site: "game",
-  siteName: "ゲームDB",
-  baseUrl: "https://izenmi.github.io/game-db",
-  itemPath: "games",
-  items: games.map((g) => ({
-    i: g.id,
-    t: g.title,
-    c: g.developerIds.map((id) => companiesById.get(id).name).join("・"),
-    y: Number(g.releaseDate.slice(0, 4)),
-  })),
-};
-writeFileSync(path.join(outDir, "search-index.json"), JSON.stringify(searchIndex), "utf-8");
-console.log(`generate-manifest: wrote search-index.json with ${searchIndex.items.length} items`);
 
 // ---- sitemap.xml ----
 // Lives at the site root (not data/generated/) so it's served at /game-db/sitemap.xml, but is
@@ -333,8 +312,6 @@ const sitemapEntries = [
   ...companies.map((c) => urlEntry(`/companies/${c.id}`, c.updatedAt?.slice(0, 10))),
   urlEntry("/awards"),
   ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
-  urlEntry("/timeline"),
-  urlEntry("/search"),
   urlEntry("/about"),
 ];
 
