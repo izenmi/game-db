@@ -160,6 +160,7 @@ const gamesGenerated = games.map((g) => ({
     result: r.result,
   })),
   coverUrl: coversCache[g.id]?.coverUrl ?? undefined,
+  rakutenItemUrl: coversCache[g.id]?.rakutenItemUrl ?? undefined,
 }));
 
 // Cross-reference lists (company/genre/award pages) embed the full denormalized game — same

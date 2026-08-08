@@ -5,6 +5,7 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { colorForYear } from "../common/yearColor";
 import { GameCard } from "../common/GameCard";
+import { useGameFilter } from "../common/useGameFilter";
 
 export function AwardDetailPage() {
   const { id } = useParams<{ id: string }>();
@@ -32,8 +33,17 @@ export function AwardDetailPage() {
 
   // winners は generate-manifest 側で「年の降順 → 部門 → 順位の昇順」に並べてあるので、
   // ここでは年ごとに切り出すだけでよい。
+  // 絞り込みは「受賞作に対応するゲーム」にかける。winners をゲームへ解決したものを渡し、
+  // 返ってきた集合で winners 側を絞り直す。
+  const winnerGames = (award?.winners ?? [])
+    .map((w) => byId.get(w.gameId))
+    .filter((g): g is NonNullable<typeof g> => Boolean(g));
+  const { sorted, controls, hasActiveFilters } = useGameFilter(winnerGames);
+  const keptIds = new Set(sorted.map((g) => g.id));
+
   const byYear = new Map<number, NonNullable<typeof award>["winners"]>();
   for (const w of award?.winners ?? []) {
+    if (!keptIds.has(w.gameId)) continue;
     if (!byYear.has(w.year)) byYear.set(w.year, []);
     byYear.get(w.year)!.push(w);
   }

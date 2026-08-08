@@ -3,6 +3,7 @@ import { getCompany } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCard } from "../common/GameCard";
+import { useGameFilter } from "../common/useGameFilter";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 
 export function CompanyDetailPage() {
@@ -33,8 +34,15 @@ export function CompanyDetailPage() {
       : undefined,
   });
 
-  const developerGames = company?.games.filter((e) => e.roles.includes("developer")) ?? [];
-  const publisherGames = company?.games.filter((e) => e.roles.includes("publisher")) ?? [];
+  // 開発作品・発売作品の2セクションがあるので、会社が関わる全ゲームでフィルタを組み、
+  // 残ったidで各セクションを絞る。フィルタUIを2つ出すとどちらに効くのか分からなくなるため。
+  const allGames = company?.games.map((e) => e.game) ?? [];
+  const { sorted, controls, hasActiveFilters } = useGameFilter(allGames);
+  const keptIds = new Set(sorted.map((g) => g.id));
+  const developerGames =
+    company?.games.filter((e) => e.roles.includes("developer") && keptIds.has(e.game.id)) ?? [];
+  const publisherGames =
+    company?.games.filter((e) => e.roles.includes("publisher") && keptIds.has(e.game.id)) ?? [];
 
   return (
     <div className="page">
@@ -54,6 +62,10 @@ export function CompanyDetailPage() {
             </p>
           )}
 
+          {controls}
+          {hasActiveFilters && (
+            <p className="page-subtitle">絞り込み結果 {keptIds.size}件 / 全{allGames.length}件</p>
+          )}
           {developerGames.length > 0 && (
             <>
               <h2>開発作品</h2>

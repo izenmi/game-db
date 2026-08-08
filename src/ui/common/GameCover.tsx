@@ -52,29 +52,14 @@ export function amazonSearchUrl(title: string, platform?: GamePlatform): string 
  *  accessKey とは別物。あちらは秘匿情報なので絶対にここへ置かない)。 */
 const RAKUTEN_AFFILIATE_ID = "563a399e.14e18d72.563a399f.79fc1b6e";
 
-/** ISBN-13(978始まり)をISBN-10へ変換する。書籍のAmazon ASINはISBN-10と一致するので、
- *  これで商品ページへ直リンクできる。979始まり(ISBN-10が存在しない)は undefined を返す。 */
-function isbn13to10(isbn13?: string): string | undefined {
-  if (!isbn13) return undefined;
-  const d = isbn13.replace(/[^0-9Xx]/g, "");
-  if (d.length !== 13 || !d.startsWith("978")) return undefined;
-  const core = d.slice(3, 12);
-  let sum = 0;
-  for (let i = 0; i < 9; i++) sum += (10 - i) * Number(core[i]);
-  const check = (11 - (sum % 11)) % 11;
-  return core + (check === 10 ? "X" : String(check));
-}
-
-/** 楽天ブックスへの購入リンク。ISBNがあればISBN検索(その本に直行する)、なければタイトル+著者検索。
- *  RAKUTEN_AFFILIATE_ID が設定されていれば hb.afl.rakuten.co.jp のアフィリエイトリンクで包む。 */
-export function rakutenBooksUrl(title: string, extra?: string, isbn?: string, itemUrl?: string): string {
-  // 商品ページURL(scripts/fetch-rakuten-links.mjs が covers-cache に保存したもの)があれば直リンク。
-  // 無ければISBN検索 → タイトル+著者検索の順に落とす。
-  const target =
-    itemUrl ??
-    `https://books.rakuten.co.jp/search?sitem=${encodeURIComponent(
-      isbn ? isbn.replace(/[^0-9Xx]/g, "") : extra ? `${title} ${extra}` : title,
-    )}`;
+/** 楽天市場への購入リンク。scripts/fetch-rakuten-links.mjs が covers-cache に保存した
+ *  商品ページURL(rakutenItemUrl)があればそこへ直リンクし、無ければタイトル+機種の検索URLに落とす。
+ *
+ *  姉妹サイト(書籍)は ISBN で商品を一意に引けるが、ゲームには相当する共通コードが無いため
+ *  検索フォールバックが必要になる。RAKUTEN_AFFILIATE_ID があればアフィリエイトリンクで包む。 */
+export function rakutenIchibaUrl(title: string, platform?: GamePlatform, itemUrl?: string): string {
+  const query = platform ? `${title} ${PLATFORM_LABEL[platform]}` : title;
+  const target = itemUrl ?? `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(query)}/`;
   if (!RAKUTEN_AFFILIATE_ID) return target;
   const encoded = encodeURIComponent(target);
   return `https://hb.afl.rakuten.co.jp/hgc/${RAKUTEN_AFFILIATE_ID}/?pc=${encoded}&m=${encoded}`;

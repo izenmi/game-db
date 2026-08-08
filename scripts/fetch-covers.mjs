@@ -63,7 +63,7 @@
 // coverUrl is null and leaves every resolved entry alone. (Historically, re-running the whole
 // fetch re-introduced the same false matches that had just been cleaned out.)
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath , pathToFileURL } from "node:url";
 import path from "node:path";
 
 const rootDir = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
@@ -109,7 +109,7 @@ function sleep(ms) {
 // NFKC folds the fullwidth/halfwidth variants that Rakuten sellers mix freely (ＰＳ５ vs PS5,
 // （） vs ()). The explicit class then drops punctuation that differs between our titles and a
 // shop's item name — including the wave dash U+301C 〜, which NFKC does NOT fold into U+FF5E.
-function normalize(title) {
+export function normalize(title) {
   return title
     .normalize("NFKC")
     // "&" is in the list because compilation titles disagree about it constantly: this site has
@@ -128,7 +128,7 @@ function normalize(title) {
 // 「Metal: Hellsinger」→「METAL GEAR SOLID」, 「Hollow Knight: Silksong」→「Hollow Knight」,
 // 「Dying Light: The Beast」→「Dying Light 2」, 「グランブルーファンタジー ヴァーサス: ライジング」
 // →無印「ヴァーサス」 were all produced this way.
-function coreTitle(title) {
+export function coreTitle(title) {
   return title.split(/[~〜～(（【]/)[0].replace(/[「」『』"“”]/g, "").trim();
 }
 
@@ -193,7 +193,7 @@ const DECLARED_PLATFORM_PATTERNS = [
 ];
 
 /** The platform an item name advertises, or undefined when it doesn't mention one. */
-function detectPlatform(itemName) {
+export function detectPlatform(itemName) {
   return DECLARED_PLATFORM_PATTERNS.find((p) => p.re.test(itemName))?.id;
 }
 
@@ -270,7 +270,7 @@ async function searchRakuten(keyword) {
   return data.Items ?? [];
 }
 
-function pickBestMatch(items, game) {
+export function pickBestMatch(items, game) {
   const target = normalize(game.title);
   const core = normalize(coreTitle(game.title));
   const declared = game.platforms ?? [];
@@ -307,7 +307,7 @@ function pickBestMatch(items, game) {
 // Progressively looser keywords: the full title, then the part before any subtitle, then the
 // title plus a declared platform name (the manual refetch-cover.mjs recipe for wrong-console
 // matches). toSearchKeyword() is applied to each because of the 1-character-token API quirk.
-function keywordCandidates(game) {
+export function keywordCandidates(game) {
   const core = coreTitle(game.title);
   const platformLabel = DECLARED_PLATFORM_PATTERNS.find((p) => (game.platforms ?? []).includes(p.id))?.label;
   const candidates = [game.title, core];
@@ -584,4 +584,9 @@ async function run() {
   console.log("反映前に必ずmatchedTitleを目視確認してください(誤マッチの可能性があります)。");
 }
 
-run();
+// 直接実行されたときだけ処理を走らせる。fetch-rakuten-links.mjs が照合ロジック
+// (pickBestMatch / keywordCandidates)を再利用するために import するため、
+// import しただけで走ってしまわないようにガードしている。
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+  run();
+}

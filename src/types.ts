@@ -76,6 +76,8 @@ export interface GameGenerated extends GameSource {
   /** Reserved for future package-art support (see CLAUDE.md「既知の未着手事項」). Always
    *  undefined for now — no cover-fetch pipeline exists yet, callers must render the placeholder. */
   coverUrl?: string;
+  /** 楽天市場の商品ページURL(scripts/fetch-rakuten-links.mjs が covers-cache に保存する)。 */
+  rakutenItemUrl?: string;
   /** Ids of similar games, best first, computed at build time by generate-manifest.mjs.
    *  Only present in generated/games.json — the copies embedded in the cross-reference lists
    *  omit it to keep those files small. */
