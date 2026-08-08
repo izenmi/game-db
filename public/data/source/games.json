@@ -28337,5 +28337,583 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "no-case-should-remain-unsolved",
+    "title": "No Case Should Remain Unsolved",
+    "titleKana": "のーけーすしゅっどりめいんあんそるゔど",
+    "developerIds": [
+      "somi"
+    ],
+    "publisherId": "somi",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2024-09-19",
+    "synopsis": "記憶と証言の断片をつなぎ合わせ、過去の失踪事件の全体像を組み立てていくミステリアドベンチャー。プレイヤーは供述の食い違いを手がかりに真相へ近づいていく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "teenage-mutant-ninja-turtles-splintered-fate",
+    "title": "ティーンエイジ・ミュータント・ニンジャ・タートルズ スプリンタード・フェイト",
+    "titleKana": "てぃーんえいじみゅーたんとにんじゃたーとるずすぷりんたーどふぇいと",
+    "developerIds": [
+      "super-evil-megacorp"
+    ],
+    "publisherId": "viacom-international",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "co-op",
+      "fighting-game"
+    ],
+    "releaseDate": "2024-07-17",
+    "synopsis": "タートルズ4人が師スプリンターを救うため、繰り返し変化するニューヨークへ挑むローグライトアクション。最大4人の協力プレイに対応する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "double-dragon-gaiden-rise-of-the-dragons",
+    "title": "ダブルドラゴン外伝 ライズオブザドラゴンズ",
+    "titleKana": "だぶるどらごんがいでんらいずおぶざどらごんず",
+    "developerIds": [
+      "secret-base"
+    ],
+    "publisherId": "modus-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "roguelike"
+    ],
+    "releaseDate": "2023-07-27",
+    "synopsis": "『ダブルドラゴン』シリーズのローグライト作品。2人のキャラクターを切り替えながら、荒廃した街をステージごとに攻略していく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "while-we-wait-here",
+    "title": "While We Wait Here",
+    "titleKana": "わぁいるうぃうぇいとひあ",
+    "developerIds": [
+      "bad-vices-games"
+    ],
+    "publisherId": "bad-vices-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "simulation"
+    ],
+    "releaseDate": "2024-10-23",
+    "synopsis": "砂嵐が迫るダイナーで、訪れる客に食事を出しながら会話を重ねる。終末を待つ夜の数時間を描くアドベンチャー。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hellboy-web-of-wyrd",
+    "title": "ヘルボーイ ウェブ・オブ・ウィルド",
+    "titleKana": "へるぼーいうぇぶおぶうぃるど",
+    "developerIds": [
+      "upstream-arcade"
+    ],
+    "publisherId": "good-shepherd",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "adventure"
+    ],
+    "releaseDate": "2023-10-18",
+    "synopsis": "ダークホースのコミック『ヘルボーイ』を原作としたアクション。異界を舞台に、格闘を軸としたローグライト構造で進行する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "this-bed-we-made",
+    "title": "This Bed We Made",
+    "titleKana": "でぃすべっどうぃめいど",
+    "developerIds": [
+      "lowbirth-games"
+    ],
+    "publisherId": "lowbirth-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure"
+    ],
+    "releaseDate": "2023-11-01",
+    "synopsis": "1958年のホテルを舞台に、客室係が宿泊客の残した痕跡から秘密を探るミステリアドベンチャー。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "a-castle-full-of-cats",
+    "title": "A Castle Full of Cats",
+    "titleKana": "あきゃっするふるおぶきゃっつ",
+    "developerIds": [
+      "devcats"
+    ],
+    "publisherId": "silesia-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2023-06-01",
+    "synopsis": "城の各部屋に隠れた猫を探し出す、探し物ゲーム。手描きの背景の中から猫や小物を見つけていく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "lollipop-chainsaw-repop",
+    "title": "ロリポップチェーンソー RePOP",
+    "titleKana": "ろりぽっぷちぇーんそーりぽっぷ",
+    "developerIds": [
+      "dragami-games"
+    ],
+    "publisherId": "clear-river-games",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "fighting-game",
+      "horror"
+    ],
+    "releaseDate": "2024-09-12",
+    "synopsis": "チアリーダーのジュリエットがチェーンソーでゾンビをなぎ倒すアクションのリメイク。演出と操作性を現代向けに調整している。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ravenswatch",
+    "title": "Ravenswatch",
+    "titleKana": "れいゔんずうぉっち",
+    "developerIds": [
+      "passtech-games"
+    ],
+    "publisherId": "nacon",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "action-rpg",
+      "co-op"
+    ],
+    "releaseDate": "2024-11-28",
+    "synopsis": "おとぎ話の英雄たちが悪夢に侵食された世界へ挑むローグライトアクション。最大4人の協力プレイに対応する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "birth",
+    "title": "Birth",
+    "titleKana": "ばーす",
+    "developerIds": [
+      "madison-karrh"
+    ],
+    "publisherId": "wings",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2024-02-15",
+    "synopsis": "孤独な街で骨や臓器を集め、生き物を組み立てていく。手描きのアートで進む静かなパズルアドベンチャー。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "otxo",
+    "title": "OTXO",
+    "titleKana": "おつこ",
+    "developerIds": [
+      "lateralis-heavy-industries"
+    ],
+    "publisherId": "super-rare-originals",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "roguelike",
+      "shooter",
+      "stealth"
+    ],
+    "releaseDate": "2024-03-28",
+    "synopsis": "モノクロの屋敷を舞台にしたトップダウンシューター。スローモーションを使い、一撃で倒され得る緊張の中を進むローグライト。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-jackbox-party-pack-9",
+    "title": "ジャックボックス パーティーパック9",
+    "titleKana": "じゃっくぼっくすぱーてぃーぱっく9",
+    "developerIds": [
+      "jackbox-games"
+    ],
+    "publisherId": "jackbox-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "party-game",
+      "puzzle"
+    ],
+    "releaseDate": "2022-10-19",
+    "synopsis": "スマートフォンをコントローラーにして大人数で遊ぶパーティーゲーム集。5種類のミニゲームを収録する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mad-father",
+    "title": "Mad Father",
+    "titleKana": "まっどふぁーざー",
+    "developerIds": [
+      "sen"
+    ],
+    "publisherId": "playism",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2020-11-05",
+    "synopsis": "フリーゲーム発のホラーアドベンチャー。父の研究室に潜む秘密を、少女アヤが探索の中で解き明かしていく。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bokura",
+    "title": "ぼくらの",
+    "titleKana": "ぼくらの",
+    "developerIds": [
+      "tokoronyori"
+    ],
+    "publisherId": "kodansha",
+    "platforms": [
+      "switch2",
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "co-op",
+      "adventure"
+    ],
+    "releaseDate": "2023-08-10",
+    "synopsis": "2人で協力して進めるアドベンチャー。プレイヤーごとに見える世界が異なり、互いの情報を伝え合わないと進めない仕掛けを持つ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ship-of-fools",
+    "title": "Ship of Fools",
+    "titleKana": "しっぷおぶふーるず",
+    "developerIds": [
+      "fika-productions"
+    ],
+    "publisherId": "team17",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "co-op",
+      "roguelike",
+      "adventure"
+    ],
+    "releaseDate": "2022-11-22",
+    "synopsis": "2人で1隻の船を操り、砲撃と修理を分担しながら荒れた海を進む協力型ローグライト。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "f1-manager-2022",
+    "title": "F1マネージャー2022",
+    "titleKana": "えふわんまねーじゃー2022",
+    "developerIds": [
+      "frontier-developments"
+    ],
+    "publisherId": "frontier-developments",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "simulation",
+      "strategy",
+      "sports"
+    ],
+    "releaseDate": "2022-08-30",
+    "synopsis": "F1チームの監督となり、戦略・人事・開発を指揮するマネジメントシミュレーション。公式ライセンスを取得している。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "the-matrix-awakens-an-unreal-engine-5-experience",
+    "title": "The Matrix Awakens: An Unreal Engine 5 Experience",
+    "titleKana": "ざまとりっくすあうぇいくんず",
+    "developerIds": [
+      "epic-games"
+    ],
+    "publisherId": "epic-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "adventure",
+      "shooter"
+    ],
+    "releaseDate": "2021-12-06",
+    "synopsis": "Unreal Engine 5の技術デモとして公開された体験型コンテンツ。映画『マトリックス』の世界を再現した都市を自由に移動できる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "crystal-of-atlan",
+    "title": "Crystal of Atlan",
+    "titleKana": "くりすたるおぶあとらん",
+    "developerIds": [
+      "nuverse-games"
+    ],
+    "publisherId": "nuverse-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2025-05-28",
+    "synopsis": "蒸気と魔法が並び立つ世界を舞台にしたアクションRPG。空中コンボを軸とした戦闘が特徴。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toree-2",
+    "title": "Toree 2",
+    "titleKana": "とれー2",
+    "developerIds": [
+      "siactro",
+      "siactro"
+    ],
+    "publisherId": "siactro",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "platformer"
+    ],
+    "releaseDate": "2021-10-04",
+    "synopsis": "3Dプラットフォーマー。短いステージを高速で駆け抜ける、レトロ調のアクション。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "powerslave-exhumed",
+    "title": "PowerSlave Exhumed",
+    "titleKana": "ぱわーすれいぶえぐジュームド",
+    "developerIds": [
+      "lobotomy-software",
+      "nightdive-studios"
+    ],
+    "publisherId": "nightdive-studios",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "shooter",
+      "adventure"
+    ],
+    "releaseDate": "2022-02-10",
+    "synopsis": "1996年のFPS『PowerSlave』の復刻版。古代エジプトを舞台に、探索要素を含むステージを進む。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "achilles-legends-untold",
+    "title": "Achilles: Legends Untold",
+    "titleKana": "あきれうすれじぇんずあんとーるど",
+    "developerIds": [
+      "dark-point-games"
+    ],
+    "publisherId": "dark-point-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "soulslike"
+    ],
+    "releaseDate": "2023-11-02",
+    "synopsis": "ギリシャ神話を題材にした見下ろし型のアクションRPG。回避と受け流しを軸にした歯応えのある戦闘を持つ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "blacktail",
+    "title": "Blacktail",
+    "titleKana": "ぶらっくている",
+    "developerIds": [
+      "the-parasight"
+    ],
+    "publisherId": "focus-entertainment",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "action-rpg",
+      "adventure"
+    ],
+    "releaseDate": "2022-12-15",
+    "synopsis": "スラヴ神話のバーバ・ヤガーの少女時代を描くアクションアドベンチャー。弓を主武器に森を探索する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "luto",
+    "title": "Luto",
+    "titleKana": "るーと",
+    "developerIds": [
+      "broken-bird-games"
+    ],
+    "publisherId": "broken-bird-games",
+    "platforms": [
+      "ps5"
+    ],
+    "genreIds": [
+      "horror",
+      "adventure"
+    ],
+    "releaseDate": "2025-07-22",
+    "synopsis": "一軒の家から出られなくなった主人公を描くサイコロジカルホラー。喪失と向き合う心理描写を軸にしている。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wrc-10",
+    "title": "WRC 10",
+    "titleKana": "だぶりゅーあーるしー10",
+    "developerIds": [
+      "kt-racing"
+    ],
+    "publisherId": "nacon",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "racing",
+      "simulation",
+      "sports"
+    ],
+    "releaseDate": "2021-09-02",
+    "synopsis": "世界ラリー選手権の公式ゲーム。実在のコースとマシンを収録し、シリーズ50周年を記念したモードを備える。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "paper-trail-2",
+    "title": "Paper Trail",
+    "titleKana": "ぺーぱーとれいる",
+    "developerIds": [
+      "newfangled-games",
+      "newfangled-games"
+    ],
+    "publisherId": "newfangled-games",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "adventure"
+    ],
+    "releaseDate": "2024-05-21",
+    "synopsis": "紙を折りたたむと地形がつながる、というアイデアを軸にしたパズルアドベンチャー。学問を志して家を出る少女の旅を描く。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
   }
 ]

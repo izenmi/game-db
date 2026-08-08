@@ -50,6 +50,14 @@
     "resolvedAt": "2026-08-07T06:20:56.242Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/gamearc/4595057030132n/"
   },
+  "a-castle-full-of-cats": {
+    "title": "A Castle Full of Cats",
+    "matchedTitle": "A Castle Full of Cats",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co56vw.jpg",
+    "itemUrl": "https://www.igdb.com/games/a-castle-full-of-cats",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:23.993Z"
+  },
   "a-hat-in-time": {
     "title": "A Hat in Time",
     "matchedTitle": "A Hat in Time",
@@ -136,6 +144,14 @@
     "itemUrl": "https://www.igdb.com/games/ace-combat-zero-the-belkan-war",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:30:25.971Z"
+  },
+  "achilles-legends-untold": {
+    "title": "Achilles: Legends Untold",
+    "matchedTitle": "Achilles: Legends Untold",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3i89.jpg",
+    "itemUrl": "https://www.igdb.com/games/achilles-legends-untold",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:49.787Z"
   },
   "advance-wars-1-2-reboot-camp": {
     "title": "アドバンスウォーズ1+2 リブートキャンプ",
@@ -998,6 +1014,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:30:05.292Z"
   },
+  "birth": {
+    "title": "Birth",
+    "matchedTitle": "Birth",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4um5.jpg",
+    "itemUrl": "https://www.igdb.com/games/birth",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:30.174Z"
+  },
   "black-desert": {
     "title": "黒い砂漠",
     "matchedTitle": "Black Desert",
@@ -1031,6 +1055,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:27:11.894Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/mujica-felice/b07stm3z77/"
+  },
+  "blacktail": {
+    "title": "Blacktail",
+    "matchedTitle": "Blacktail",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5vul.jpg",
+    "itemUrl": "https://www.igdb.com/games/blacktail",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:51.342Z"
   },
   "blair-witch": {
     "title": "Blair Witch",
@@ -1117,6 +1149,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:46:57.635Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0719-389/"
+  },
+  "bokura": {
+    "title": "ぼくらの",
+    "matchedTitle": "Kingdom's Return: Time-Eating Fruit and the Ancient Monster",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob09w.jpg",
+    "itemUrl": "https://www.igdb.com/games/kingdoms-return-time-eating-fruit-and-the-ancient-monster",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:37.898Z"
   },
   "bomb-rush-cyberfunk": {
     "title": "Bomb Rush Cyberfunk",
@@ -1812,6 +1852,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:21:57.231Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0725-9761/"
+  },
+  "crystal-of-atlan": {
+    "title": "Crystal of Atlan",
+    "matchedTitle": "Crystal of Atlan",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7h0c.jpg",
+    "itemUrl": "https://www.igdb.com/games/crystal-of-atlan",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:45.691Z"
   },
   "cult-of-the-lamb": {
     "title": "Cult of the Lamb",
@@ -2511,6 +2559,11 @@
     "resolvedAt": "2026-08-06T07:47:47.432Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/machida/4571577994680/"
   },
+  "double-dragon-gaiden-rise-of-the-dragons": {
+    "title": "ダブルドラゴン外伝 ライズオブザドラゴンズ",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T11:23:15.976Z"
+  },
   "downwell": {
     "title": "Downwell",
     "matchedTitle": "Downwell",
@@ -2947,6 +3000,11 @@
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:46:15.877Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/yuyudous/yym-37ldr3p90815m3ck/"
+  },
+  "f1-manager-2022": {
+    "title": "F1マネージャー2022",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T11:23:42.809Z"
   },
   "factorio": {
     "title": "Factorio",
@@ -3929,6 +3987,11 @@
     "itemUrl": "https://www.igdb.com/games/hellblade-ii-senuas-saga",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:21:45.316Z"
+  },
+  "hellboy-web-of-wyrd": {
+    "title": "ヘルボーイ ウェブ・オブ・ウィルド",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T11:23:21.188Z"
   },
   "helldivers-2": {
     "title": "HELLDIVERS 2",
@@ -4939,6 +5002,11 @@
     "resolvedAt": "2026-08-04T00:33:42.160Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/tspplus/sw_livealive/"
   },
+  "lollipop-chainsaw-repop": {
+    "title": "ロリポップチェーンソー RePOP",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T11:23:27.340Z"
+  },
   "loop-hero": {
     "title": "Loop Hero",
     "matchedTitle": "Loop Hero",
@@ -5027,6 +5095,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:49:47.477Z"
   },
+  "luto": {
+    "title": "Luto",
+    "matchedTitle": "Luto",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa2av.jpg",
+    "itemUrl": "https://www.igdb.com/games/luto",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:52.743Z"
+  },
   "machinarium": {
     "title": "Machinarium",
     "matchedTitle": "Machinarium",
@@ -5034,6 +5110,14 @@
     "itemUrl": "https://www.igdb.com/games/machinarium",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:18:56.806Z"
+  },
+  "mad-father": {
+    "title": "Mad Father",
+    "matchedTitle": "Mad Father",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6l6k.jpg",
+    "itemUrl": "https://www.igdb.com/games/mad-father--1",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:36.368Z"
   },
   "madison": {
     "title": "MADiSON",
@@ -6031,6 +6115,14 @@
     "resolvedAt": "2026-08-06T07:46:37.070Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10481037001/"
   },
+  "no-case-should-remain-unsolved": {
+    "title": "No Case Should Remain Unsolved",
+    "matchedTitle": "No Case Should Remain Unsolved",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co89dp.jpg",
+    "itemUrl": "https://www.igdb.com/games/no-case-should-remain-unsolved",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:08.429Z"
+  },
   "no-mans-sky": {
     "title": "No Man's Sky",
     "matchedTitle": "No Man's Sky",
@@ -6292,6 +6384,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:22:40.317Z"
   },
+  "otxo": {
+    "title": "OTXO",
+    "matchedTitle": "OTXO",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co62jl.jpg",
+    "itemUrl": "https://www.igdb.com/games/otxo",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:31.454Z"
+  },
   "outer-wilds": {
     "title": "Outer Wilds",
     "matchedTitle": "Outer Wilds",
@@ -6434,6 +6534,14 @@
     "itemUrl": "https://www.igdb.com/games/paper-trail",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:50:45.995Z"
+  },
+  "paper-trail-2": {
+    "title": "Paper Trail",
+    "matchedTitle": "Paper Trail",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coadvj.jpg",
+    "itemUrl": "https://www.igdb.com/games/paper-trail",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:55.427Z"
   },
   "paranormasight": {
     "title": "パラノマサイト FILE23 本所七不思議",
@@ -6822,6 +6930,14 @@
     "resolvedAt": "2026-08-07T06:30:02.307Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0725-9849/"
   },
+  "powerslave-exhumed": {
+    "title": "PowerSlave Exhumed",
+    "matchedTitle": "PowerSlave: Exhumed",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3klq.jpg",
+    "itemUrl": "https://www.igdb.com/games/powerslave-exhumed",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:48.451Z"
+  },
   "powerwash-simulator": {
     "title": "PowerWash Simulator",
     "matchedTitle": "PowerWash Simulator",
@@ -7012,6 +7128,14 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-03T04:03:30.316Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480047001/"
+  },
+  "ravenswatch": {
+    "title": "Ravenswatch",
+    "matchedTitle": "Ravenswatch",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8vwy.jpg",
+    "itemUrl": "https://www.igdb.com/games/ravenswatch",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:28.666Z"
   },
   "ready-or-not": {
     "title": "Ready or Not",
@@ -7707,6 +7831,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:44:00.672Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/mediaworldkaitoriworld/10480571001/"
+  },
+  "ship-of-fools": {
+    "title": "Ship of Fools",
+    "matchedTitle": "Ship of Fools",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4utq.jpg",
+    "itemUrl": "https://www.igdb.com/games/ship-of-fools",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:39.290Z"
   },
   "shiren-6": {
     "title": "不思議のダンジョン 風来のシレン6 とぐろ島探検録",
@@ -8734,6 +8866,11 @@
     "resolvedAt": "2026-08-06T07:50:42.877Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/bookoffonline/0019228661/"
   },
+  "teenage-mutant-ninja-turtles-splintered-fate": {
+    "title": "ティーンエイジ・ミュータント・ニンジャ・タートルズ スプリンタード・フェイト",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T11:23:12.249Z"
+  },
   "tekken-8": {
     "title": "鉄拳8",
     "matchedTitle": "Tekken 8",
@@ -9020,6 +9157,11 @@
     "resolvedAt": "2026-08-07T06:25:41.041Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0719-1158/"
   },
+  "the-jackbox-party-pack-9": {
+    "title": "ジャックボックス パーティーパック9",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T11:23:35.258Z"
+  },
   "the-king-of-fighters-xv": {
     "title": "THE KING OF FIGHTERS XV",
     "matchedTitle": "The King of Fighters XV",
@@ -9063,6 +9205,14 @@
     "itemUrl": "https://www.igdb.com/games/the-long-dark",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:21:19.506Z"
+  },
+  "the-matrix-awakens-an-unreal-engine-5-experience": {
+    "title": "The Matrix Awakens: An Unreal Engine 5 Experience",
+    "matchedTitle": "The Matrix: Awakens - An Unreal Engine 5 Experience",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co4abs.jpg",
+    "itemUrl": "https://www.igdb.com/games/the-matrix-awakens-an-unreal-engine-5-experience",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:44.156Z"
   },
   "the-medium": {
     "title": "The Medium",
@@ -9277,6 +9427,14 @@
     "resolvedAt": "2026-08-04T01:49:23.508Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/renet3/0013460467/"
   },
+  "this-bed-we-made": {
+    "title": "This Bed We Made",
+    "matchedTitle": "This Bed We Made",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co65u9.jpg",
+    "itemUrl": "https://www.igdb.com/games/this-bed-we-made",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:22.496Z"
+  },
   "this-is-the-police": {
     "title": "This Is the Police",
     "matchedTitle": "This Is the Police",
@@ -9428,6 +9586,14 @@
     "itemUrl": "https://www.igdb.com/games/torchlight-iii",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:28:52.001Z"
+  },
+  "toree-2": {
+    "title": "Toree 2",
+    "matchedTitle": "Toree 2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3wb3.jpg",
+    "itemUrl": "https://www.igdb.com/games/toree-2",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:47.168Z"
   },
   "tormented-souls": {
     "title": "Tormented Souls",
@@ -9996,6 +10162,14 @@
     "source": "igdb",
     "resolvedAt": "2026-08-06T07:46:34.751Z"
   },
+  "while-we-wait-here": {
+    "title": "While We Wait Here",
+    "matchedTitle": "While We Wait Here",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8aj7.jpg",
+    "itemUrl": "https://www.igdb.com/games/while-we-wait-here",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:17.519Z"
+  },
   "winning-post-10": {
     "title": "Winning Post 10",
     "matchedTitle": "Winning Post 10",
@@ -10110,6 +10284,14 @@
     "itemUrl": "https://www.igdb.com/games/worms-wmd",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:26:28.944Z"
+  },
+  "wrc-10": {
+    "title": "WRC 10",
+    "matchedTitle": "WRC 10",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2xrz.jpg",
+    "itemUrl": "https://www.igdb.com/games/wrc-10",
+    "source": "igdb",
+    "resolvedAt": "2026-08-08T11:23:54.084Z"
   },
   "wreckfest": {
     "title": "Wreckfest",
