@@ -16346,7 +16346,14 @@
     "synopsis": "写真を空中にかざすと、そこに写っている風景が実際の地形として出現するパズル。落ちている写真や自分で撮った1枚を使って足場や橋を作り、行き止まりを突破していく。絵画やスケッチも同じように使え、解法の幅が広く取られている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Sad Owl Studios・発売元Thunderfulを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2024,
+        "result": "ゲームデザイナーズ大賞"
+      }
+    ]
   },
   {
     "id": "escape-academy",
@@ -28308,6 +28315,94 @@
     "releaseDate": "2022-02-15",
     "synopsis": "巨大企業が支配するナイトシティで、傭兵Vが不死の技術をめぐる陰謀に巻き込まれる。義体化とサイバーウェアで自分の戦い方を組み立てる。",
     "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "suika-game",
+    "title": "スイカゲーム",
+    "titleKana": "すいかげーむ",
+    "developerIds": [
+      "popin",
+      "aladdin-x"
+    ],
+    "publisherId": "popin",
+    "platforms": [
+      "switch",
+      "ps5"
+    ],
+    "genreIds": [
+      "puzzle",
+      "party-game"
+    ],
+    "releaseDate": "2021-12-09",
+    "synopsis": "同じ果物どうしをぶつけると一段大きな果物に変わる落ち物パズル。箱からあふれる前にスイカを作ることを目指す。配信をきっかけに国内で大きく広まった。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2024,
+        "result": "ムーブメント賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rpg-time-the-legend-of-wright",
+    "title": "RPGタイム!〜ライトの伝説〜",
+    "titleKana": "あーるぴーじーたいむらいとのでんせつ",
+    "developerIds": [
+      "deskworks"
+    ],
+    "publisherId": "aniplex",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "rpg",
+      "adventure",
+      "puzzle"
+    ],
+    "releaseDate": "2022-08-18",
+    "synopsis": "放課後の教室で、同級生の少年が自作のノートRPGを遊ばせてくれる——ノートや文房具が次々と表現に変わる、手作り感あふれるアドベンチャー。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2023,
+        "result": "ゲームデザイナーズ大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mario-kart-live-home-circuit",
+    "title": "マリオカート ライブ ホームサーキット",
+    "titleKana": "まりおかーとらいぶほーむさーきっと",
+    "developerIds": [
+      "velan-studios",
+      "nintendo"
+    ],
+    "publisherId": "nintendo",
+    "platforms": [
+      "switch"
+    ],
+    "genreIds": [
+      "racing",
+      "party-game"
+    ],
+    "releaseDate": "2020-10-15",
+    "synopsis": "実物のラジコンカーと部屋に置いたゲートを使い、自宅をコースにして走らせるマリオカート。カメラ映像に画面上のアイテムや対戦相手が重なる。",
+    "awardResults": [
+      {
+        "awardId": "japan-game-awards",
+        "year": 2021,
+        "result": "ゲームデザイナーズ大賞"
+      }
+    ],
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
