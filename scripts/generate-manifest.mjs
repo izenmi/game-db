@@ -270,7 +270,8 @@ const awardsGenerated = awards
     );
     return { ...a, gameCount: winners.length, winners };
   })
-  .sort((a, b) => a.name.localeCompare(b.name, "ja"));
+  // 受賞作の多い賞ほど見たい情報なので件数の降順。同数は名前順で並びを安定させる。
+  .sort((a, b) => b.gameCount - a.gameCount || a.name.localeCompare(b.name, "ja"));
 
 // ---- generated/counts.json ----
 const counts = {
