@@ -3,7 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { getGame, getGames } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { GameCover, amazonSearchUrl } from "../common/GameCover";
+import { GameCover, amazonSearchUrl, rakutenBooksUrl } from "../common/GameCover";
 import { GameCard, PlatformBadges } from "../common/GameCard";
 import { BASE_PATH, DEFAULT_OG_IMAGE, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import type { GameGenerated } from "../../types";
@@ -80,6 +80,14 @@ export function GameDetailPage() {
                   {{ ps5: "PS5", switch: "Switch", switch2: "Switch2" }[platform]}版をAmazonで購入
                 </a>
               ))}
+              <a
+                className="cover-link"
+                href={rakutenBooksUrl(state.data.title)}
+                target="_blank"
+                rel="noreferrer"
+              >
+                楽天ブックスで購入
+              </a>
             </div>
             <div className="game-card__body">
               <h1>{state.data.title}</h1>
