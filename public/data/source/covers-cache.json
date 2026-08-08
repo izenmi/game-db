@@ -281,22 +281,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:23:52.702Z"
   },
-  "amnesia-a-machine-for-pigs": {
-    "title": "Amnesia: A Machine for Pigs",
-    "matchedTitle": "Amnesia: A Machine for Pigs",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1rdf.jpg",
-    "itemUrl": "https://www.igdb.com/games/amnesia-a-machine-for-pigs",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:20:22.821Z"
-  },
-  "amnesia-rebirth": {
-    "title": "Amnesia: Rebirth",
-    "matchedTitle": "Amnesia: Rebirth",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2iuo.jpg",
-    "itemUrl": "https://www.igdb.com/games/amnesia-rebirth",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:24:22.705Z"
-  },
   "amnesia-the-dark-descent": {
     "title": "Amnesia: The Dark Descent",
     "matchedTitle": "Amnesia: The Dark Descent",
@@ -776,14 +760,6 @@
     "resolvedAt": "2026-08-04T01:49:04.022Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/yamada-denki/2819974015/"
   },
-  "baldurs-gate-2-enhanced": {
-    "title": "Baldur's Gate II: Enhanced Edition",
-    "matchedTitle": "Baldur's Gate II: Enhanced Edition",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobgoi.jpg",
-    "itemUrl": "https://www.igdb.com/games/baldur-s-gate-ii-enhanced-edition",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:28:56.118Z"
-  },
   "baldurs-gate-3": {
     "title": "バルダーズ・ゲート3",
     "matchedTitle": "Baldur's Gate III",
@@ -842,22 +818,6 @@
     "itemUrl": "https://www.igdb.com/games/baten-kaitos-i-and-ii-hd-remaster",
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:25:51.447Z"
-  },
-  "batman-the-enemy-within": {
-    "title": "Batman: The Enemy Within",
-    "matchedTitle": "Batman: The Enemy Within",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co208l.jpg",
-    "itemUrl": "https://www.igdb.com/games/batman-the-enemy-within",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:21:49.448Z"
-  },
-  "batman-the-telltale-series": {
-    "title": "Batman: The Telltale Series",
-    "matchedTitle": "Batman: The Telltale Series",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1u65.jpg",
-    "itemUrl": "https://www.igdb.com/games/batman-the-telltale-series",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:19:11.399Z"
   },
   "battle-brothers": {
     "title": "Battle Brothers",
@@ -1047,15 +1007,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:29:44.096Z"
   },
-  "blacksad": {
-    "title": "Blacksad: Under the Skin",
-    "matchedTitle": "Blacksad: Under the Skin",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co61er.jpg",
-    "itemUrl": "https://www.igdb.com/games/blacksad-under-the-skin",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:27:11.894Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/mujica-felice/b07stm3z77/"
-  },
   "blacktail": {
     "title": "Blacktail",
     "matchedTitle": "Blacktail",
@@ -1210,15 +1161,6 @@
     "itemUrl": "https://www.igdb.com/games/boxes-lost-fragments",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:29:48.422Z"
-  },
-  "bpm-bullets-per-minute": {
-    "title": "BPM: Bullets Per Minute",
-    "matchedTitle": "BPM: Bullets Per Minute",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co555i.jpg",
-    "itemUrl": "https://www.igdb.com/games/bpm-bullets-per-minute",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:30:41.946Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0725-9942/"
   },
   "bramble": {
     "title": "Bramble: The Mountain King",
@@ -2049,14 +1991,6 @@
     "resolvedAt": "2026-08-07T06:22:34.076Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0719-353/"
   },
-  "darkwood": {
-    "title": "Darkwood",
-    "matchedTitle": "Darkwood",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co24nh.jpg",
-    "itemUrl": "https://www.igdb.com/games/darkwood",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:25:48.773Z"
-  },
   "dauntless": {
     "title": "Dauntless",
     "matchedTitle": "Dauntless",
@@ -2097,14 +2031,6 @@
     "itemUrl": "https://www.igdb.com/games/dayz",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:21:46.619Z"
-  },
-  "dc-universe-online": {
-    "title": "DC Universe Online",
-    "matchedTitle": "DC Universe Online",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1u18.jpg",
-    "itemUrl": "https://www.igdb.com/games/dc-universe-online",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:27:50.992Z"
   },
   "de-blob": {
     "title": "de Blob",
@@ -3816,15 +3742,6 @@
     "source": "rakuten-ichiba",
     "resolvedAt": "2026-08-06T07:44:17.308Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/book/16722349/"
-  },
-  "greedfall": {
-    "title": "GreedFall",
-    "matchedTitle": "GreedFall",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1ppo.jpg",
-    "itemUrl": "https://www.igdb.com/games/greedfall",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:21:22.129Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0719-1900/"
   },
   "green-hell": {
     "title": "Green Hell",
@@ -5650,24 +5567,6 @@
     "resolvedAt": "2026-08-07T06:22:05.744Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/mujica-felice/b07bj5prxr/"
   },
-  "mortal-kombat-1": {
-    "title": "Mortal Kombat 1",
-    "matchedTitle": "Mortal Kombat 1",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9b8f.jpg",
-    "itemUrl": "https://www.igdb.com/games/mortal-kombat-1--1",
-    "source": "igdb",
-    "resolvedAt": "2026-08-04T01:47:56.898Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/kkpli/mortal-kombat1-ps5/"
-  },
-  "mortal-kombat-11": {
-    "title": "Mortal Kombat 11",
-    "matchedTitle": "Mortal Kombat 11",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co20mh.jpg",
-    "itemUrl": "https://www.igdb.com/games/mortal-kombat-11",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:19:42.743Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/umibose/b08kxb6szh/"
-  },
   "mortal-shell": {
     "title": "Mortal Shell: Enhanced Edition",
     "matchedTitle": "Mortal Shell: Enhanced Edition",
@@ -5726,14 +5625,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:31:01.283Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/rdownload/802563404/"
-  },
-  "multiversus": {
-    "title": "MultiVersus",
-    "matchedTitle": "MultiVersus",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7yle.jpg",
-    "itemUrl": "https://www.igdb.com/games/multiversus",
-    "source": "igdb",
-    "resolvedAt": "2026-08-06T07:47:05.971Z"
   },
   "muse-dash": {
     "title": "Muse Dash",
@@ -5947,14 +5838,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-04T01:47:00.731Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/mobileshop1/4902370541281/"
-  },
-  "new-world-aeternum": {
-    "title": "New World: Aeternum",
-    "matchedTitle": "New World: Aeternum",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaoc1.jpg",
-    "itemUrl": "https://www.igdb.com/games/new-world-aeternum--1",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:24:30.781Z"
   },
   "nfs-hot-pursuit-remastered": {
     "title": "Need for Speed: Hot Pursuit Remastered",
@@ -6773,15 +6656,6 @@
     "itemUrl": "https://www.igdb.com/games/pilgrims",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:28:14.556Z"
-  },
-  "pillars-of-eternity": {
-    "title": "Pillars of Eternity",
-    "matchedTitle": "Pillars of Eternity",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8tzg.jpg",
-    "itemUrl": "https://www.igdb.com/games/pillars-of-eternity",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:19:46.396Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/skymarketplus/b07bfq25fd/"
   },
   "pillars-of-eternity-2": {
     "title": "Pillars of Eternity II: Deadfire",
@@ -8160,15 +8034,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:27:52.479Z"
   },
-  "south-park-fractured-but-whole": {
-    "title": "South Park: The Fractured But Whole",
-    "matchedTitle": "South Park: The Fractured But Whole",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1v8w.jpg",
-    "itemUrl": "https://www.igdb.com/games/south-park-the-fractured-but-whole",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:19:30.753Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/happystorefujioka/hb00zgbbuxy/"
-  },
   "speedrunners": {
     "title": "SpeedRunners",
     "matchedTitle": "SpeedRunners",
@@ -9084,14 +8949,6 @@
     "resolvedAt": "2026-08-06T07:49:06.123Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/book/17987832/"
   },
-  "the-final-station": {
-    "title": "The Final Station",
-    "matchedTitle": "The Final Station",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co27ar.jpg",
-    "itemUrl": "https://www.igdb.com/games/the-final-station",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:28:26.941Z"
-  },
   "the-finals": {
     "title": "THE FINALS",
     "coverUrl": null,
@@ -9340,22 +9197,6 @@
     "itemUrl": "https://www.igdb.com/games/the-vanishing-of-ethan-carter",
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:19:09.912Z"
-  },
-  "the-walking-dead-a-new-frontier": {
-    "title": "The Walking Dead: A New Frontier",
-    "matchedTitle": "The Walking Dead: A New Frontier",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co27bk.jpg",
-    "itemUrl": "https://www.igdb.com/games/the-walking-dead-a-new-frontier",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:19:36.207Z"
-  },
-  "the-walking-dead-final-season": {
-    "title": "The Walking Dead: The Final Season",
-    "matchedTitle": "The Walking Dead: The Final Season",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1v9y.jpg",
-    "itemUrl": "https://www.igdb.com/games/the-walking-dead-the-final-season",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:19:37.357Z"
   },
   "the-walking-dead-telltale": {
     "title": "ウォーキング・デッド",
@@ -9968,23 +9809,6 @@
     "resolvedAt": "2026-08-04T01:47:28.231Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/rdownload/803134614/"
   },
-  "vampyr": {
-    "title": "Vampyr",
-    "matchedTitle": "Vampyr",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8lrg.jpg",
-    "itemUrl": "https://www.igdb.com/games/vampyr",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:19:54.020Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/kobaco-003/sb08gm9zlfk/"
-  },
-  "van-helsing": {
-    "title": "The Incredible Adventures of Van Helsing",
-    "matchedTitle": "The Incredible Adventures of Van Helsing",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co23cq.jpg",
-    "itemUrl": "https://www.igdb.com/games/the-incredible-adventures-of-van-helsing",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:28:10.270Z"
-  },
   "viewfinder": {
     "title": "Viewfinder",
     "matchedTitle": "Viewfinder",
@@ -10258,15 +10082,6 @@
     "source": "igdb",
     "resolvedAt": "2026-08-07T06:19:41.414Z",
     "rakutenItemUrl": "https://item.rakuten.co.jp/basque/game0725-8384/"
-  },
-  "world-war-z": {
-    "title": "World War Z",
-    "matchedTitle": "World War Z",
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2i4r.jpg",
-    "itemUrl": "https://www.igdb.com/games/world-war-z",
-    "source": "igdb",
-    "resolvedAt": "2026-08-07T06:22:50.590Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/gamearc/8809459213724n/"
   },
   "worms-rumble": {
     "title": "Worms Rumble",

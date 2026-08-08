@@ -4318,38 +4318,6 @@
     "updatedAt": "2026-08-03"
   },
   {
-    "id": "mortal-kombat-1",
-    "title": "Mortal Kombat 1",
-    "titleKana": "もーたるこんばっと わん",
-    "developerIds": [
-      "netherrealm-studios"
-    ],
-    "publisherId": "warner-bros-games",
-    "platforms": [
-      "ps5",
-      "switch"
-    ],
-    "genreIds": [
-      "fighting-game",
-      "versus-action",
-      "adventure"
-    ],
-    "releaseDate": "2023-09-19",
-    "synopsis": "『MK11』のラスボス撃破後、炎の神となったリウ・カンが新たな時間軸を創造したことから始まる、シリーズの再起動的な物語。リウ・カンは新世界の戦士たちを集めて格闘トーナメントを開催するが、シャン・ツンの陰謀やタイタン・ハビックによる時間軸融合の企てに立ち向かうことになる。",
-    "awardResults": [
-      {
-        "awardId": "golden-joystick-awards",
-        "year": 2023,
-        "result": "Best Multiplayer Game"
-      }
-    ],
-    "externalLinks": {
-      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モータルコンバット1"
-    },
-    "sourceNote": "日本語版Wikipedia『モータルコンバット1』(2026-08-03閲覧)で発売日・プラットフォーム・あらすじを確認、英語版Wikipediaで開発元(PS5/Xbox版はNetherRealm Studios、Switch版はShiver Entertainment/Saber Interactive)とGolden Joystick Awards 2023受賞歴を確認。Nintendo Switch版はダウンロード版・パッケージ版とも実配信されるネイティブ移植(ブログ記事等で確認、クラウド専用ではない)のため対応機種に含めた。Switch 2では後方互換で高速化するのみで専用版は確認できなかったため、switch2は対応機種に含めていない。",
-    "updatedAt": "2026-08-03"
-  },
-  {
     "id": "guilty-gear-strive",
     "title": "GUILTY GEAR -STRIVE-",
     "titleKana": "ぎるてぃぎあすとらいぶ",
@@ -13950,27 +13918,6 @@
     "updatedAt": "2026-08-06"
   },
   {
-    "id": "multiversus",
-    "title": "MultiVersus",
-    "titleKana": "まるちばーさす",
-    "developerIds": [
-      "player-first-games"
-    ],
-    "publisherId": "warner-bros-games",
-    "platforms": [
-      "ps5"
-    ],
-    "genreIds": [
-      "fighting-game",
-      "party-game"
-    ],
-    "releaseDate": "2022-07-26",
-    "synopsis": "ワーナー作品のキャラクターが一堂に会する基本プレイ無料の対戦アクション。バットマンやトムとジェリー、スティーブン・ユニバースらが同じ舞台で戦う。相手を場外へ吹き飛ばす形式で、2対2のタッグ戦を主眼に置いた連携設計が特徴になっている。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Player First Games・発売元WB Gamesを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
-  },
-  {
     "id": "dnf-duel",
     "title": "DNF Duel",
     "titleKana": "でぃーえぬえふでゅえる",
@@ -18719,26 +18666,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "batman-the-telltale-series",
-    "title": "Batman: The Telltale Series",
-    "titleKana": "ばっとまんざてるているしりーず",
-    "developerIds": [
-      "telltale-games"
-    ],
-    "publisherId": "telltale-games",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "adventure"
-    ],
-    "releaseDate": "2017-11-14",
-    "synopsis": "ブルース・ウェインとバットマン、二つの立場を行き来しながら選択を重ねるエピソード形式のアドベンチャー。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "dont-starve",
     "title": "Don't Starve",
     "titleKana": "どんとすたーぶ",
@@ -18907,27 +18834,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "south-park-fractured-but-whole",
-    "title": "South Park: The Fractured But Whole",
-    "titleKana": "さうすぱーくざふらくちゃーどばっとほーる",
-    "developerIds": [
-      "ubisoft-san-francisco"
-    ],
-    "publisherId": "ubisoft",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "rpg",
-      "tactical-rpg"
-    ],
-    "releaseDate": "2018-04-24",
-    "synopsis": "アニメそのままの見た目で進むターン制RPG。ヒーローごっこを題材に、原作らしい笑いを詰め込んでいる。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "rogue-legacy",
     "title": "Rogue Legacy",
     "titleKana": "ろーぐれがしー",
@@ -18985,46 +18891,6 @@
     ],
     "releaseDate": "2021-11-09",
     "synopsis": "メキシコを模した広大な土地を自由に走るオープンワールドレース。季節の変化とともに路面と催しが移り変わる。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "the-walking-dead-a-new-frontier",
-    "title": "The Walking Dead: A New Frontier",
-    "titleKana": "うぉーきんぐでっどあにゅーふろんてぃあ",
-    "developerIds": [
-      "telltale-games"
-    ],
-    "publisherId": "telltale-games",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "adventure"
-    ],
-    "releaseDate": "2018-12-31",
-    "synopsis": "新たな主人公ハビエルの視点で進むシリーズ第三作。成長したクレメンタインとの関係が物語の軸になる。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "the-walking-dead-final-season",
-    "title": "The Walking Dead: The Final Season",
-    "titleKana": "うぉーきんぐでっどざふぁいなるしーずん",
-    "developerIds": [
-      "telltale-games"
-    ],
-    "publisherId": "telltale-games",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "adventure"
-    ],
-    "releaseDate": "2018-08-14",
-    "synopsis": "クレメンタインを主人公に据えた完結編。子どもたちだけの寄宿学校を舞台に、守る側になった彼女の選択を描く。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -19093,27 +18959,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "mortal-kombat-11",
-    "title": "Mortal Kombat 11",
-    "titleKana": "もーたるこんばっといれぶん",
-    "developerIds": [
-      "netherrealm-studios"
-    ],
-    "publisherId": "wb-games-montreal",
-    "platforms": [
-      "switch",
-      "ps5"
-    ],
-    "genreIds": [
-      "fighting-game"
-    ],
-    "releaseDate": "2019-04-23",
-    "synopsis": "過激な演出で知られる対戦格闘の第11作。時間を巡る物語モードと、細かく調整できるカスタマイズを備える。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "torchlight-2",
     "title": "Torchlight II",
     "titleKana": "とーちらいとつー",
@@ -19149,27 +18994,6 @@
     ],
     "releaseDate": "2023-02-02",
     "synopsis": "事件をきっかけに逃避行に出る兄弟の物語。兄の選択が弟の価値観を形づくっていく構成が特徴。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "pillars-of-eternity",
-    "title": "Pillars of Eternity",
-    "titleKana": "ぴらーずおぶえたにてぃ",
-    "developerIds": [
-      "obsidian-entertainment"
-    ],
-    "publisherId": "paradox-interactive",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "rpg",
-      "tactical-rpg"
-    ],
-    "releaseDate": "2019-08-08",
-    "synopsis": "古典的なパソコンRPGの様式を現代に蘇らせた作品。魂の輪廻を主題に、会話と一時停止つきの戦闘で進む。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -19278,27 +19102,6 @@
     ],
     "releaseDate": "2022-10-28",
     "synopsis": "異星に不時着した技術者が資源を掘り、搬送と生産を自動化して工場を広げていく。効率を突き詰める設計遊びが中心。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "vampyr",
-    "title": "Vampyr",
-    "titleKana": "う゛ぁんぱいあ",
-    "developerIds": [
-      "dont-nod"
-    ],
-    "publisherId": "focus-entertainment",
-    "platforms": [
-      "switch",
-      "ps5"
-    ],
-    "genreIds": [
-      "action-rpg"
-    ],
-    "releaseDate": "2019-10-29",
-    "synopsis": "スペイン風邪の流行するロンドンで、吸血鬼になった医師が住民を救うか糧にするかを選ぶ。選択が街の状態に跳ね返る。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -19683,27 +19486,6 @@
     ],
     "releaseDate": "2018-03-27",
     "synopsis": "アリゾナの奥地に迷い込んだ記者が、狂信的な集落から逃げる続編。カメラの暗視と音声記録を頼りに進む。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "amnesia-a-machine-for-pigs",
-    "title": "Amnesia: A Machine for Pigs",
-    "titleKana": "あむねじああましんふぉーぴっぐす",
-    "developerIds": [
-      "the-chinese-room"
-    ],
-    "publisherId": "frictional-games",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "horror",
-      "adventure"
-    ],
-    "releaseDate": "2019-09-12",
-    "synopsis": "19世紀末のロンドンで、実業家が地下の巨大機械へ降りていく。前作とは別の制作陣による物語重視の続編。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -20511,26 +20293,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "greedfall",
-    "title": "GreedFall",
-    "titleKana": "ぐりーどふぉーる",
-    "developerIds": [
-      "spiders"
-    ],
-    "publisherId": "focus-entertainment",
-    "platforms": [
-      "ps5"
-    ],
-    "genreIds": [
-      "action-rpg"
-    ],
-    "releaseDate": "2019-09-10",
-    "synopsis": "大航海時代を思わせる島を舞台に、入植者と先住民の間で立ち回るRPG。交渉と評判が展開を左右する。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "my-friend-pedro",
     "title": "My Friend Pedro",
     "titleKana": "まいふれんどぺどろ",
@@ -20881,26 +20643,6 @@
     ],
     "releaseDate": "2020-09-04",
     "synopsis": "アベンジャーズの面々を操作する協力プレイ主体のアクション。物語モードと反復任務の二本立て。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "batman-the-enemy-within",
-    "title": "Batman: The Enemy Within",
-    "titleKana": "ばっとまんじえねみーうぃずいん",
-    "developerIds": [
-      "telltale-games"
-    ],
-    "publisherId": "telltale-games",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "adventure"
-    ],
-    "releaseDate": "2018-10-02",
-    "synopsis": "前作の続編にあたるエピソード形式のアドベンチャー。ジョーカーになる前の男との関係が主題になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -21788,27 +21530,6 @@
     ],
     "releaseDate": "2018-08-10",
     "synopsis": "増え続ける駅を線でつないで地下鉄網を設計するパズル。路線図のような画面と静かな音が特徴。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "world-war-z",
-    "title": "World War Z",
-    "titleKana": "わーるどうぉーぜっと",
-    "developerIds": [
-      "saber-interactive"
-    ],
-    "publisherId": "focus-entertainment",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "shooter",
-      "co-op"
-    ],
-    "releaseDate": "2021-11-02",
-    "synopsis": "大量のゾンビが積み重なって壁を越えてくる協力シューター。四人一組で拠点を守り抜く。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -23050,28 +22771,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "amnesia-rebirth",
-    "title": "Amnesia: Rebirth",
-    "titleKana": "あむねじありばーす",
-    "developerIds": [
-      "frictional-games"
-    ],
-    "publisherId": "frictional-games",
-    "platforms": [
-      "switch2",
-      "ps5"
-    ],
-    "genreIds": [
-      "horror",
-      "adventure"
-    ],
-    "releaseDate": "2021-04-29",
-    "synopsis": "砂漠に墜落した女性が記憶をたどりながら地下へ進む一人称ホラー。恐怖と母性を重ねた物語。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "hello-neighbor",
     "title": "Hello Neighbor",
     "titleKana": "はろーねいばー",
@@ -23130,27 +22829,6 @@
     ],
     "releaseDate": "2020-06-12",
     "synopsis": "荒れた家を掃除・修繕して売るシミュレーション。壁塗りや家具の配置を細かく操作できる。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "new-world-aeternum",
-    "title": "New World: Aeternum",
-    "titleKana": "にゅーわーるどあいてるなむ",
-    "developerIds": [
-      "amazon-games"
-    ],
-    "publisherId": "amazon-games",
-    "platforms": [
-      "ps5"
-    ],
-    "genreIds": [
-      "rpg",
-      "open-world"
-    ],
-    "releaseDate": "2024-10-15",
-    "synopsis": "不死の島を舞台にしたオンラインRPG。武器ごとの技能を自由に組み合わせ、勢力争いに加わる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -24220,28 +23898,6 @@
     ],
     "releaseDate": "2019-03-14",
     "synopsis": "バーの主人として客から話を引き出し、企業の計画に介入するサイバーパンク作品。会話そのものが遊びの中心。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "darkwood",
-    "title": "Darkwood",
-    "titleKana": "だーくうっど",
-    "developerIds": [
-      "acid-wizard"
-    ],
-    "publisherId": "crunching-koalas",
-    "platforms": [
-      "switch",
-      "ps5"
-    ],
-    "genreIds": [
-      "horror",
-      "roguelike"
-    ],
-    "releaseDate": "2019-05-16",
-    "synopsis": "見下ろし視点のサバイバルホラー。昼に探索して物資を集め、夜は小屋に籠って朝を待つ。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -25359,27 +25015,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "blacksad",
-    "title": "Blacksad: Under the Skin",
-    "titleKana": "ぶらっくさっどあんだーざすきん",
-    "developerIds": [
-      "pendulo-studios"
-    ],
-    "publisherId": "microids",
-    "platforms": [
-      "switch",
-      "ps5"
-    ],
-    "genreIds": [
-      "adventure"
-    ],
-    "releaseDate": "2019-11-28",
-    "synopsis": "擬人化された動物たちの世界で、私立探偵ブラックサッドが事件を追うアドベンチャー。原作漫画の空気を再現している。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "trove",
     "title": "Trove",
     "titleKana": "とろーぶ",
@@ -25397,28 +25032,6 @@
     ],
     "releaseDate": "2021-06-23",
     "synopsis": "立方体で構成された世界を掘って建てる基本無料のオンライン作品。職業を切り替えて探索する。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "dc-universe-online",
-    "title": "DC Universe Online",
-    "titleKana": "でぃーしーゆにばーすおんらいん",
-    "developerIds": [
-      "daybreak-game-company"
-    ],
-    "publisherId": "daybreak-game-company",
-    "platforms": [
-      "switch",
-      "ps5"
-    ],
-    "genreIds": [
-      "action-rpg",
-      "co-op"
-    ],
-    "releaseDate": "2019-08-06",
-    "synopsis": "DCコミックスの世界で自作のヒーローや悪役として戦う基本無料のオンラインRPG。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -25653,26 +25266,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "van-helsing",
-    "title": "The Incredible Adventures of Van Helsing",
-    "titleKana": "う゛ぁんへるしんぐ",
-    "developerIds": [
-      "neocore-games"
-    ],
-    "publisherId": "neocore-games",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "action-rpg"
-    ],
-    "releaseDate": "2013-05-22",
-    "synopsis": "怪物退治を題材にした見下ろし型ハックアンドスラッシュ。皮肉屋の相棒との掛け合いが持ち味。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "final-fantasy-1",
     "title": "ファイナルファンタジー",
     "titleKana": "ふぁいなるふぁんたじー",
@@ -25860,27 +25453,6 @@
     ],
     "releaseDate": "2017-03-28",
     "synopsis": "蛇の体をくねらせて足場に巻き付きながら進むアクションパズル。移動そのものが課題になる。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "the-final-station",
-    "title": "The Final Station",
-    "titleKana": "ざふぁいなるすてーしょん",
-    "developerIds": [
-      "do-my-best-games"
-    ],
-    "publisherId": "tinybuild",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "shooter",
-      "adventure"
-    ],
-    "releaseDate": "2018-02-23",
-    "synopsis": "崩壊した世界で列車を運転し、駅ごとに物資と生存者を集める横スクロール作品。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -26300,26 +25872,6 @@
     ],
     "releaseDate": "2023-08-31",
     "synopsis": "異星の襲来を家族の視点から描く横スクロール寄りのアドベンチャー。台詞を用いず映像で語る。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "baldurs-gate-2-enhanced",
-    "title": "Baldur's Gate II: Enhanced Edition",
-    "titleKana": "ばるだーずげーとつーえんはんすどえでぃしょん",
-    "developerIds": [
-      "overhaul-games"
-    ],
-    "publisherId": "beamdog",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "rpg"
-    ],
-    "releaseDate": "2019-10-15",
-    "synopsis": "古典RPGの続編の改修版。仲間との関係が深く描かれ、規模も大きい。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
@@ -27639,27 +27191,6 @@
     ],
     "releaseDate": "2023-11-14",
     "synopsis": "南国の島で農場を営む生活シミュレーション。海の清掃や住民との交流も扱う。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "bpm-bullets-per-minute",
-    "title": "BPM: Bullets Per Minute",
-    "titleKana": "びーぴーえむ",
-    "developerIds": [
-      "awe-interactive"
-    ],
-    "publisherId": "awe-interactive",
-    "platforms": [
-      "switch"
-    ],
-    "genreIds": [
-      "shooter",
-      "rhythm-action"
-    ],
-    "releaseDate": "2022-09-08",
-    "synopsis": "曲の拍に合わせてしか撃てない一人称シューター。音楽と射撃が完全に同期している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"

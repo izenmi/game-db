@@ -1100,19 +1100,6 @@
     "updatedAt": "2026-08-03"
   },
   {
-    "id": "netherrealm-studios",
-    "name": "NetherRealm Studios",
-    "nameKana": "ねざーれるむすたじお",
-    "parentCompany": "ワーナー・ブラザース・ゲームズ",
-    "description": "アメリカ・シカゴを拠点とする格闘ゲーム専門スタジオ。『モータルコンバット』生みの親エド・ブーンが率い、『モータルコンバット』『インジャスティス』シリーズを開発する。",
-    "foundedYear": 2010,
-    "externalLinks": {
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/NetherRealm_Studios"
-    },
-    "sourceNote": "英語版Wikipedia『NetherRealm Studios』記事(2026-08-03閲覧)で概要・設立年・親会社を確認。",
-    "updatedAt": "2026-08-03"
-  },
-  {
     "id": "warner-bros-games",
     "name": "ワーナー・ブラザース・ゲームズ",
     "nameKana": "わーなーぶらざーすげーむず",
@@ -3942,15 +3929,6 @@
     "updatedAt": "2026-08-06"
   },
   {
-    "id": "player-first-games",
-    "name": "Player First Games",
-    "nameKana": "ぷれいやーふぁーすとげーむず",
-    "description": "米国の開発会社。ワーナー作品のキャラクターが集う対戦アクション『MultiVersus』を制作した。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-06照会)で『MultiVersus』の開発元として確認。",
-    "updatedAt": "2026-08-06"
-  },
-  {
     "id": "neople",
     "name": "Neople",
     "nameKana": "ねおぷる",
@@ -5427,15 +5405,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "tequila-works",
-    "name": "Tequila Works",
-    "nameKana": "てきーらわーくす",
-    "description": "スペインの開発会社。台詞に頼らない演出の作品を作る。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "double-fine",
     "name": "Double Fine Productions",
     "nameKana": "だぶるふぁいん",
@@ -6327,15 +6296,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "studio-zero",
-    "name": "スタジオ・ゼロ",
-    "nameKana": "すたじおぜろ",
-    "description": "アトラス内の開発スタジオ。『メタファー：リファンタジオ』を手がけた。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "dynamic-pixels",
     "name": "DYNAMIC PIXELS",
     "nameKana": "だいなみっくぴくせるず",
@@ -6543,15 +6503,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "nikita-kryukov",
-    "name": "Nikita Kryukov",
-    "nameKana": "にきーたくりゅーこふ",
-    "description": "ロシアの個人開発者。実験的な短編作品を制作する。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "neon-giant",
     "name": "Neon Giant",
     "nameKana": "ねおんじゃいあんと",
@@ -6736,24 +6687,6 @@
     "name": "Deconstructeam",
     "nameKana": "でこんすとらくてぃーむ",
     "description": "スペインの開発チーム。会話と選択を軸にした短編を作る。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "acid-wizard",
-    "name": "Acid Wizard Studio",
-    "nameKana": "あしっどうぃざーどすたじお",
-    "description": "ポーランドの開発チーム。見下ろし型のサバイバルホラー『Darkwood』を制作した。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "crunching-koalas",
-    "name": "Crunching Koalas",
-    "nameKana": "くらんちんぐこあらず",
-    "description": "ポーランドの発売会社。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
@@ -7101,28 +7034,10 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "pendulo-studios",
-    "name": "Pendulo Studios",
-    "nameKana": "ぺんどぅろすたじおず",
-    "description": "スペインの開発会社。指差し型アドベンチャーを手がける。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "trion-worlds",
     "name": "Trion Worlds",
     "nameKana": "とらいおんわーるず",
     "description": "アメリカにあった開発・運営会社。基本無料のオンライン作品を手がけた。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "daybreak-game-company",
-    "name": "Daybreak Game Company",
-    "nameKana": "でいぶれいくげーむかんぱにー",
-    "description": "アメリカの開発・運営会社。長期運営のオンライン作品を扱う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
@@ -7182,15 +7097,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "neocore-games",
-    "name": "NeocoreGames",
-    "nameKana": "ねおこあげーむす",
-    "description": "ハンガリーの開発会社。ハックアンドスラッシュを手がける。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "gamious",
     "name": "Gamious",
     "nameKana": "げいみあす",
@@ -7222,15 +7128,6 @@
     "name": "Avalanche Studios",
     "nameKana": "あばらんちすたじおず",
     "description": "スウェーデンの開発・発売会社。広い舞台のアクションを手がける。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "do-my-best-games",
-    "name": "Do My Best Games",
-    "nameKana": "どぅーまいべすとげーむす",
-    "description": "ロシアの開発チーム。列車で荒野を旅する作品を制作した。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
     "updatedAt": "2026-08-07"
@@ -7866,15 +7763,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "awe-interactive",
-    "name": "Awe Interactive",
-    "nameKana": "おーいんたらくてぃぶ",
-    "description": "イギリスの開発チーム。音楽に同期するシューターを制作した。",
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "douze-dixiemes",
     "name": "Douze Dixièmes",
     "nameKana": "どぅーずでぃずぃえむ",
@@ -8052,15 +7940,6 @@
     "description": "イギリスの個人開発スタジオ。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で開発/発売元として確認。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "valve",
-    "name": "Valve",
-    "nameKana": "ばるぶ",
-    "description": "『Half-Life』『Portal』シリーズやSteamの運営で知られるアメリカのゲーム開発・配信企業。",
-    "externalLinks": {},
-    "sourceNote": "IGDBの登録情報で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
   },
   {
