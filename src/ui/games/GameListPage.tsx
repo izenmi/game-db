@@ -6,6 +6,8 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCard, PLATFORM_LABEL } from "../common/GameCard";
 import { useSeo } from "../common/useSeo";
 import type { GamePlatform } from "../../types";
+import { GameGrid } from "../common/GameGrid";
+import { useCoverView } from "../common/useCoverView";
 
 const PLATFORM_OPTIONS: { value: GamePlatform; label: string }[] = [
   { value: "ps5", label: PLATFORM_LABEL.ps5 },
@@ -88,6 +90,7 @@ function Pager({ page, totalPages, onGoToPage }: { page: number; totalPages: num
 
 export function GameListPage() {
   const [params, setParams] = useSearchParams();
+  const { coverView, toggle } = useCoverView();
   const q = params.get("q") ?? "";
   const genreId = params.get("genre") ?? "";
   const platform = params.get("platform") ?? "";
@@ -218,6 +221,7 @@ export function GameListPage() {
             フィルターをクリア
           </button>
         )}
+        {toggle}
       </div>
 
       {gamesState.status === "loading" && <Loading />}
@@ -230,11 +234,7 @@ export function GameListPage() {
           </p>
           {filtered.length === 0 && <EmptyState />}
           {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
-          <div className="game-grid">
-            {pageItems.map((g) => (
-              <GameCard game={g} key={g.id} />
-            ))}
-          </div>
+          <GameGrid games={pageItems} coverView={coverView} />
           {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
         </>
       )}

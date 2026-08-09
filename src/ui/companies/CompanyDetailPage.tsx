@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { getCompany } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { GameCard } from "../common/GameCard";
+import { GameCard, GameCoverCard } from "../common/GameCard";
 import { useGameFilter } from "../common/useGameFilter";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 
@@ -37,7 +37,7 @@ export function CompanyDetailPage() {
   // 開発作品・発売作品の2セクションがあるので、会社が関わる全ゲームでフィルタを組み、
   // 残ったidで各セクションを絞る。フィルタUIを2つ出すとどちらに効くのか分からなくなるため。
   const allGames = company?.games.map((e) => e.game) ?? [];
-  const { sorted, controls, hasActiveFilters } = useGameFilter(allGames);
+  const { sorted, controls, hasActiveFilters, coverView, gridClassName } = useGameFilter(allGames);
   const keptIds = new Set(sorted.map((g) => g.id));
   const developerGames =
     company?.games.filter((e) => e.roles.includes("developer") && keptIds.has(e.game.id)) ?? [];
@@ -69,9 +69,9 @@ export function CompanyDetailPage() {
           {developerGames.length > 0 && (
             <>
               <h2>開発作品</h2>
-              <div className="game-grid">
+              <div className={gridClassName}>
                 {developerGames.map((e) => (
-                  <GameCard game={e.game} key={e.game.id} />
+                  coverView ? <GameCoverCard game={e.game} key={e.game.id} /> : <GameCard game={e.game} key={e.game.id} />
                 ))}
               </div>
             </>
@@ -80,9 +80,9 @@ export function CompanyDetailPage() {
           {publisherGames.length > 0 && (
             <>
               <h2>発売作品</h2>
-              <div className="game-grid">
+              <div className={gridClassName}>
                 {publisherGames.map((e) => (
-                  <GameCard game={e.game} key={e.game.id} />
+                  coverView ? <GameCoverCard game={e.game} key={e.game.id} /> : <GameCard game={e.game} key={e.game.id} />
                 ))}
               </div>
             </>

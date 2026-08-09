@@ -56,3 +56,14 @@ export function GameCard({ game }: { game: GameGenerated }) {
     </div>
   );
 }
+
+/** 表紙表示モード(`?view=covers`)のカード。書影だけを大きく並べる。カード全体がそのまま
+ *  <Link> なので GameCard のような stretched link は要らない。文字が一切出ないぶん、タイトルは
+ *  `title`(ホバーで出るツールチップ)と `aria-label`(読み上げ・キーボード操作)の両方で補う。 */
+export function GameCoverCard({ game: item }: { game: GameGenerated }) {
+  return (
+    <Link to={`/games/${item.id}`} className="game-cover-card" title={item.title} aria-label={item.title}>
+      <GameCover title={item.title} coverUrl={item.coverUrl} size="xl" />
+    </Link>
+  );
+}

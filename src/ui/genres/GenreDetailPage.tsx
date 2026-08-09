@@ -7,6 +7,8 @@ import { GameCard, PLATFORM_LABEL } from "../common/GameCard";
 import { matchesKeyword, genreOptionsOf } from "../common/useGameFilter";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import type { GamePlatform } from "../../types";
+import { GameGrid } from "../common/GameGrid";
+import { useCoverView } from "../common/useCoverView";
 
 const PLATFORM_OPTIONS: { value: GamePlatform; label: string }[] = [
   { value: "ps5", label: PLATFORM_LABEL.ps5 },
@@ -23,6 +25,7 @@ const SORT_OPTIONS: { value: string; label: string }[] = [
 export function GenreDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getGenre(id!), [id]);
+  const { coverView, toggle } = useCoverView();
   const genre = state.status === "ready" ? state.data : undefined;
 
   useSeo({
@@ -137,13 +140,10 @@ export function GenreDetailPage() {
                 フィルターをクリア
               </button>
             )}
+            {toggle}
           </div>
           {sorted.length === 0 && <EmptyState />}
-          <div className="game-grid">
-            {sorted.map((g) => (
-              <GameCard game={g} key={g.id} />
-            ))}
-          </div>
+          <GameGrid games={sorted} coverView={coverView} />
         </>
       )}
     </div>

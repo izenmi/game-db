@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
+import { useCoverView } from "./useCoverView";
 import type { GameGenerated, GamePlatform } from "../../types";
 
 /**
@@ -58,6 +59,7 @@ export function genreOptionsOf(works: GameGenerated[] | undefined, exclude?: str
 
 export function useGameFilter(games: GameGenerated[] | undefined, defaultSort = "release-desc") {
   const [params, setParams] = useSearchParams();
+  const { coverView, gridClassName, toggle } = useCoverView();
   const q = params.get("q") ?? "";
   const platform = params.get("platform") ?? "";
 
@@ -143,8 +145,9 @@ export function useGameFilter(games: GameGenerated[] | undefined, defaultSort = 
           フィルターをクリア
         </button>
       )}
+      {toggle}
     </div>
   );
 
-  return { filtered, sorted, controls, hasActiveFilters };
+  return { filtered, sorted, controls, hasActiveFilters, coverView, gridClassName };
 }

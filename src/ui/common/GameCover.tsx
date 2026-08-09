@@ -14,7 +14,15 @@ function colorFor(title: string): (typeof COVER_COLORS)[number] {
  *  covers-cache.json via scripts/fetch-covers.mjs; titles with no retail listing and no IGDB
  *  entry keep the placeholder. We don't host package art ourselves; that's copyrighted artwork,
  *  not a fact. */
-export function GameCover({ title, coverUrl, size = "sm" }: { title: string; coverUrl?: string; size?: "sm" | "lg" }) {
+export function GameCover({
+  title,
+  coverUrl,
+  size = "sm",
+}: {
+  title: string;
+  coverUrl?: string;
+  size?: "sm" | "lg" | "xl";
+}) {
   const [broken, setBroken] = useState(false);
   if (coverUrl && !broken) {
     return (

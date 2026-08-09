@@ -4,8 +4,9 @@ import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { colorForYear } from "../common/yearColor";
-import { GameCard } from "../common/GameCard";
+import { GameCard, GameCoverCard } from "../common/GameCard";
 import { useGameFilter } from "../common/useGameFilter";
+import { useCoverView } from "../common/useCoverView";
 
 export function AwardDetailPage() {
   const { id } = useParams<{ id: string }>();
@@ -38,7 +39,9 @@ export function AwardDetailPage() {
   const winnerGames = (award?.winners ?? [])
     .map((w) => byId.get(w.gameId))
     .filter((g): g is NonNullable<typeof g> => Boolean(g));
-  const { sorted, controls, hasActiveFilters } = useGameFilter(winnerGames);
+  // controls(絞り込みUI)はこのページでは描画していない。表示モードのトグルだけ独立して出す。
+  const { sorted } = useGameFilter(winnerGames);
+  const { coverView, gridClassName, toggle } = useCoverView();
   const keptIds = new Set(sorted.map((g) => g.id));
 
   const byYear = new Map<number, NonNullable<typeof award>["winners"]>();
@@ -69,6 +72,7 @@ export function AwardDetailPage() {
             </p>
           )}
           <h2>受賞作 {state.data.winners.length}件</h2>
+          <div className="filter-row">{toggle}</div>
           {state.data.winners.length === 0 && <EmptyState text="登録されている受賞作はまだありません。" />}
           {[...byYear.entries()].map(([year, winners]) => (
             <section key={year} className="award-year">
@@ -77,13 +81,13 @@ export function AwardDetailPage() {
                 <span className="award-year__count">{winners.length}件</span>
                 <span className="award-year__rule" aria-hidden="true" />
               </h3>
-              <div className="work-grid">
+              <div className={gridClassName}>
                 {winners.map((winner) => {
                   const item = byId.get(winner.gameId);
                   return item ? (
                     <div key={`${winner.gameId}-${winner.result}`} className="award-entry">
                       <p className="award-entry__result">{winner.result}</p>
-                      <GameCard game={item} />
+                      {coverView ? <GameCoverCard game={item} /> : <GameCard game={item} />}
                     </div>
                   ) : null;
                 })}
