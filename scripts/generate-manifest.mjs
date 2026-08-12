@@ -156,7 +156,9 @@ function relatedIdsFor(item) {
 const relatedById = new Map(games.map((x) => [x.id, relatedIdsFor(x)]));
 
 // ---- generated/games.json ----
-const gamesGenerated = games.map((g) => ({
+// あらすじ・出典メモ・updatedAt はここに入れない(ゲーム詳細ページでしか使わないのに
+// games.json の大きな割合を占める)。詳細ページ用は game-texts.json に分ける。
+const gamesGenerated = games.map(({ synopsis, sourceNote, updatedAt, ...g }) => ({
   relatedGameIds: relatedById.get(g.id),
   ...g,
   developerNames: g.developerIds.map((id) => companiesById.get(id).name),
@@ -173,17 +175,12 @@ const gamesGenerated = games.map((g) => ({
   rakutenItemUrl: coversCache[g.id]?.rakutenItemUrl ?? undefined,
 }));
 
-// Cross-reference lists (company/genre/award pages) embed the full denormalized game — same
-// shape as generated/games.json — so those pages can render a full GameCard.
-const gamesGeneratedById = new Map(gamesGenerated.map((g) => [g.id, g]));
-
-function fullGame(g) {
-  // Only the game detail page renders related games, and each game is embedded in several of
-  // these cross-reference lists, so keeping relatedGameIds out of the embedded copies avoids a
-  // large amount of duplicated ids across generated/.
-  const { relatedGameIds, ...rest } = gamesGeneratedById.get(g.id);
-  return rest;
-}
+// 相互参照リスト(会社・ジャンル・シリーズの各詳細ページ)はゲームを**idの配列**で持ち、
+// 表示側は games.json(取得済みキャッシュ)から引き直して GameCard を描く。
+// ゲームをフル展開して埋め込むと1本が複数のリストに重複して入り、genres.json が gzip 865KB・
+// companies.json が 700KB あった(2026-08-12に是正)。
+const idsByReleaseDate = (list) =>
+  [...list].sort((a, b) => a.releaseDate.localeCompare(b.releaseDate)).map((g) => g.id);
 
 // ---- generated/companies.json ----
 // A company can be both developer and publisher of the same game (common for first-party
@@ -205,8 +202,9 @@ function buildCompanyList(companyList, gameList) {
     .map((c) => {
       const gameMap = entriesByCompanyId.get(c.id) ?? new Map();
       const games = [...gameMap.values()]
-        .map((e) => ({ game: fullGame(e.game), roles: e.roles }))
-        .sort((a, b) => a.game.releaseDate.localeCompare(b.game.releaseDate));
+        .map((e) => ({ gameId: e.game.id, releaseDate: e.game.releaseDate, roles: e.roles }))
+        .sort((a, b) => a.releaseDate.localeCompare(b.releaseDate))
+        .map(({ gameId, roles }) => ({ gameId, roles }));
       return {
         id: c.id,
         name: c.name,
@@ -245,14 +243,13 @@ const genresGenerated = genres
     return {
       ...genre,
       gameCount: theirGames.length,
-      games: theirGames.map(fullGame).sort((a, b) => a.releaseDate.localeCompare(b.releaseDate)),
+      gameIds: idsByReleaseDate(theirGames),
     };
   })
   .sort((a, b) => b.gameCount - a.gameCount || a.name.localeCompare(b.name, "ja"));
 
 // ---- generated/series.json ----
-// 1作品は最大1シリーズなのでgroupGamesByの単数版。並びは発売日昇順(= シリーズ内の発売順)で、
-// 会社・ジャンルの詳細ページと同じくGameCardをそのまま描けるようフル展開して埋め込む。
+// 1作品は最大1シリーズなのでgroupGamesByの単数版。並びは発売日昇順(= シリーズ内の発売順)。
 const gamesBySeries = groupGamesBy((g) => (g.seriesId ? [g.seriesId] : []));
 const seriesGenerated = series
   .map((s) => {
@@ -260,11 +257,17 @@ const seriesGenerated = series
     return {
       ...s,
       gameCount: theirGames.length,
-      games: theirGames.map(fullGame).sort((a, b) => a.releaseDate.localeCompare(b.releaseDate)),
+      gameIds: idsByReleaseDate(theirGames),
     };
   })
   // 収録本数の多いシリーズほど見たい情報なので件数の降順。同数は五十音順で並びを安定させる。
   .sort((a, b) => b.gameCount - a.gameCount || a.nameKana.localeCompare(b.nameKana, "ja"));
+
+// ---- generated/game-texts.json ----
+// ゲーム詳細ページだけが読む長文(あらすじ・出典メモ)。キーはゲームid。
+const gameTexts = Object.fromEntries(
+  games.map((g) => [g.id, { synopsis: g.synopsis, sourceNote: g.sourceNote }]),
+);
 
 // ---- generated/awards.json ----
 // 受賞歴の result は「2013年版 国内編 第1位」「大賞」「第5位」のような自由文なので、
@@ -315,6 +318,7 @@ writeFileSync(path.join(outDir, "companies.json"), JSON.stringify(companiesGener
 writeFileSync(path.join(outDir, "genres.json"), JSON.stringify(genresGenerated), "utf-8");
 writeFileSync(path.join(outDir, "series.json"), JSON.stringify(seriesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "game-texts.json"), JSON.stringify(gameTexts), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
 console.log(`generate-manifest: wrote ${games.length} games, ${companies.length} companies, ${genres.length} genres, ${series.length} series, ${awards.length} awards`);

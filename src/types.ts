@@ -83,7 +83,9 @@ export interface AwardSource {
 // ---- generated data (public/data/generated/*.json, built by scripts/generate-manifest.mjs) ----
 
 /** Denormalized game: source fields plus resolved names for direct rendering. */
-export interface GameGenerated extends GameSource {
+/** あらすじ・出典メモ・updatedAt は含まない — ゲーム詳細ページでしか使わないのに games.json の
+ *  大きな割合を占めていたので game-texts.json に分けてある(GameTexts / getGameTexts)。 */
+export interface GameGenerated extends Omit<GameSource, "synopsis" | "sourceNote" | "updatedAt"> {
   developerNames: string[];
   publisherName: string;
   genreNames: string[];
@@ -106,7 +108,8 @@ export interface GameGenerated extends GameSource {
 export type CompanyRole = "developer" | "publisher";
 
 export interface CompanyGameEntry {
-  game: GameGenerated;
+  /** 実データは games.json 側。表示側で id から引き直す。 */
+  gameId: string;
   roles: CompanyRole[];
 }
 
@@ -121,13 +124,15 @@ export interface CompanyGenerated extends CompanySource {
 
 export interface GenreGenerated extends GenreSource {
   gameCount: number;
-  games: GameGenerated[];
+  /** 実データは games.json 側。表示側で id から引き直す。 */
+  gameIds: string[];
 }
 
 export interface SeriesGenerated extends SeriesSource {
   gameCount: number;
   /** 発売日の昇順(= シリーズ内の発売順)。 */
-  games: GameGenerated[];
+  /** 実データは games.json 側。表示側で id から引き直す。 */
+  gameIds: string[];
 }
 
 export interface AwardWinner {
@@ -143,6 +148,9 @@ export interface AwardGenerated extends AwardSource {
   gameCount: number;
   winners: AwardWinner[];
 }
+
+/** ゲーム詳細ページだけが読む長文(generated/game-texts.json)。キーはゲームid。 */
+export type GameTexts = Record<string, { synopsis: string; sourceNote: string }>;
 
 export interface Counts {
   games: number;

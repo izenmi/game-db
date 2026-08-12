@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getGame, getGames, getSeries } from "../../data/manifest";
+import { getGame, getGames, getSeries, getGameTexts } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCover, amazonSearchUrl, rakutenIchibaUrl } from "../common/GameCover";
@@ -8,7 +8,7 @@ import { GameCard, PlatformBadges } from "../common/GameCard";
 import { BASE_PATH, DEFAULT_OG_IMAGE, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import type { GameGenerated } from "../../types";
 
-function gameJsonLd(id: string, g: GameGenerated) {
+function gameJsonLd(id: string, g: GameGenerated, synopsis: string) {
   return [
     {
       "@context": "https://schema.org",
@@ -23,7 +23,7 @@ function gameJsonLd(id: string, g: GameGenerated) {
         partOfSeries: { "@type": "VideoGameSeries", name: g.seriesName },
       }),
       gamePlatform: g.platforms.map((p) => ({ ps5: "PlayStation 5", switch: "Nintendo Switch", switch2: "Nintendo Switch 2" })[p]),
-      description: g.synopsis,
+      description: synopsis,
       ...(g.coverUrl && { image: g.coverUrl }),
       ...(g.awardSummaries.length > 0 && {
         award: g.awardSummaries.map((a) => `${a.awardName} ${a.result}(${a.year})`),
@@ -42,6 +42,11 @@ export function GameDetailPage() {
   const state = useAsyncData(() => getGame(id!), [id]);
   const game = state.status === "ready" ? state.data : undefined;
 
+  // あらすじと出典メモは game-texts.json(このページ専用)から取る。games.json に入れていたときは
+  // 一覧やトップまでこの長文を払っていた。
+  const textsState = useAsyncData(getGameTexts, []);
+  const texts = textsState.status === "ready" && id ? textsState.data[id] : undefined;
+
   // getGames() resolves from the same cached games.json that getGame() above already pulled,
   // so this costs no extra request.
   const allGamesState = useAsyncData(getGames, []);
@@ -54,8 +59,13 @@ export function GameDetailPage() {
   );
   const seriesGames = useMemo(() => {
     if (seriesState.status !== "ready" || !seriesState.data) return [];
-    return seriesState.data.games.filter((g) => g.id !== id);
-  }, [seriesState, id]);
+    if (allGamesState.status !== "ready") return [];
+    const byId = new Map(allGamesState.data.map((x) => [x.id, x]));
+    return seriesState.data.gameIds
+      .filter((gid) => gid !== id)
+      .map((gid) => byId.get(gid))
+      .filter((g) => g !== undefined);
+  }, [seriesState, allGamesState, id]);
 
   const relatedGames = useMemo(() => {
     if (allGamesState.status !== "ready" || !game?.relatedGameIds) return [];
@@ -68,18 +78,24 @@ export function GameDetailPage() {
   useSeo({
     title: game?.title,
     description: game
-      ? `${game.title}(${game.developerNames.join("・")}/${game.publisherName})の対応機種・発売日・受賞歴・ジャンルをまとめて紹介。${game.synopsis.slice(0, 60)}…`
+      ? `${game.title}(${game.developerNames.join("・")}/${game.publisherName})の対応機種・発売日・受賞歴・ジャンルをまとめて紹介。${(texts?.synopsis ?? "").slice(0, 60)}…`
       : undefined,
     image: game?.coverUrl ?? DEFAULT_OG_IMAGE,
-    jsonLd: game ? gameJsonLd(id!, game) : undefined,
+    jsonLd: game ? gameJsonLd(id!, game, texts?.synopsis ?? "") : undefined,
   });
+
+  // あらすじが揃うまでは「読み込み中」のままにする。prerender.mjs は本文から「読み込み中」が
+  // 消えるのを待って静的HTMLを書き出すので、先に描くとあらすじ抜きのHTMLとmeta descriptionが焼き付く。
+  const loading = state.status === "loading" || textsState.status === "loading";
+  const ready = state.status === "ready" && textsState.status === "ready";
 
   return (
     <div className="page">
-      {state.status === "loading" && <Loading />}
+      {loading && <Loading />}
       {state.status === "error" && <ErrorState error={state.error} />}
-      {state.status === "ready" && !state.data && <EmptyState text="見つかりませんでした。" />}
-      {state.status === "ready" && state.data && (
+      {textsState.status === "error" && <ErrorState error={textsState.error} />}
+      {ready && !state.data && <EmptyState text="見つかりませんでした。" />}
+      {ready && state.data && (
         <>
           <div className="game-detail__hero">
             <div className="game-detail__hero-cover">
@@ -151,7 +167,7 @@ export function GameDetailPage() {
             </div>
           </div>
 
-          <p>{state.data.synopsis}</p>
+          <p>{texts?.synopsis}</p>
 
           {state.data.externalLinks.officialUrl && (
             <p>
@@ -198,7 +214,7 @@ export function GameDetailPage() {
             </div>
           )}
 
-          <p className="source-note">{state.data.sourceNote}</p>
+          <p className="source-note">{texts?.sourceNote}</p>
         </>
       )}
     </div>

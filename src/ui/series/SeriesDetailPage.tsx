@@ -1,13 +1,13 @@
 import { useParams } from "react-router-dom";
-import { getSeries } from "../../data/manifest";
+import { getSeries, getGamesByIds } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, SITE_URL, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { GameGrid } from "../common/GameGrid";
 import { useCoverView } from "../common/useCoverView";
-import type { SeriesGenerated } from "../../types";
+import type { SeriesGenerated, GameGenerated } from "../../types";
 
-function seriesJsonLd(id: string, s: SeriesGenerated) {
+function seriesJsonLd(id: string, s: SeriesGenerated, games: GameGenerated[]) {
   return [
     {
       "@context": "https://schema.org",
@@ -16,7 +16,7 @@ function seriesJsonLd(id: string, s: SeriesGenerated) {
       inLanguage: "ja",
       description: s.description,
       numberOfEpisodes: s.gameCount,
-      hasPart: s.games.map((g) => ({
+      hasPart: games.map((g) => ({
         "@type": "VideoGame",
         name: g.title,
         datePublished: g.releaseDate,
@@ -36,13 +36,19 @@ export function SeriesDetailPage() {
   const state = useAsyncData(() => getSeries(id!), [id]);
   const { coverView, toggle } = useCoverView();
   const series = state.status === "ready" ? state.data : undefined;
+  // ゲームの実データは games.json 側にある(SeriesGenerated は gameIds のみ)。
+  const gamesState = useAsyncData(
+    () => (series ? getGamesByIds(series.gameIds) : Promise.resolve([])),
+    [series],
+  );
+  const seriesGames = gamesState.status === "ready" ? gamesState.data : [];
 
   useSeo({
     title: series?.name,
     description: series
       ? `「${series.name}」シリーズのゲーム${series.gameCount}本を発売順に一覧。${series.description}`
       : undefined,
-    jsonLd: series ? seriesJsonLd(id!, series) : undefined,
+    jsonLd: series ? seriesJsonLd(id!, series, seriesGames) : undefined,
   });
 
   return (
@@ -56,8 +62,8 @@ export function SeriesDetailPage() {
           <p className="page-subtitle">{state.data.gameCount}本(発売順)</p>
           <p>{state.data.description}</p>
           <div className="filter-row">{toggle}</div>
-          {state.data.games.length === 0 && <EmptyState />}
-          <GameGrid games={state.data.games} coverView={coverView} />
+          {seriesGames.length === 0 && <EmptyState />}
+          <GameGrid games={seriesGames} coverView={coverView} />
           <p className="source-note">{state.data.sourceNote}</p>
         </>
       )}

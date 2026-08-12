@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { useParams, useSearchParams } from "react-router-dom";
-import { getGenre } from "../../data/manifest";
+import { getGenre, getGamesByIds } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCard, PLATFORM_LABEL } from "../common/GameCard";
@@ -27,6 +27,12 @@ export function GenreDetailPage() {
   const state = useAsyncData(() => getGenre(id!), [id]);
   const { coverView, toggle } = useCoverView();
   const genre = state.status === "ready" ? state.data : undefined;
+  // ゲームの実データは games.json 側にある(GenreGenerated は gameIds のみ)。
+  const gamesState = useAsyncData(
+    () => (genre ? getGamesByIds(genre.gameIds) : Promise.resolve([])),
+    [genre],
+  );
+  const genreGames = gamesState.status === "ready" ? gamesState.data : undefined;
 
   useSeo({
     title: genre?.name,
@@ -50,20 +56,20 @@ export function GenreDetailPage() {
   const sort = params.get("sort") ?? "release-desc";
 
   const options = useMemo(
-    () => genreOptionsOf(state.status === "ready" ? state.data?.games : undefined, id),
-    [state, id],
+    () => genreOptionsOf(genreGames, id),
+    [genreGames, id],
   );
 
   const filtered = useMemo(() => {
-    if (state.status !== "ready" || !state.data) return [];
+    if (!genreGames) return [];
     const keyword = q.trim().toLowerCase();
-    return state.data.games.filter((g) => {
+    return genreGames.filter((g) => {
       if (!matchesKeyword(g, keyword)) return false;
       if (other && !g.genreIds.includes(other)) return false;
       if (platform && !g.platforms.includes(platform as GamePlatform)) return false;
       return true;
     });
-  }, [state, platform, q, other]);
+  }, [genreGames, platform, q, other]);
 
   const sorted = useMemo(() => {
     if (sort === "release-asc") return [...filtered].sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));

@@ -6,6 +6,23 @@ PS5・Nintendo Switch・Nintendo Switch 2向けのゲームソフトを対応機
 - リポジトリ: `izenmi/game-db`(public予定。GitHub Pagesは無料枠だとpublicでないと使えない)
 - スタック: React 18 + TypeScript + Vite 5 + `react-router-dom`(`BrowserRouter`)。ranobe-dbと異なり最初からBrowserRouterで作っているため、旧HashRouter互換のリダイレクト処理は存在しない(manga-dbと同じ)
 
+
+### 転送量の設計(2026-08-12。**ゲームをフル展開して埋め込まない**)
+
+会社・ジャンル・シリーズの各生成ファイルはゲームを **id** で持ち(`gameIds` /
+`CompanyGameEntry.gameId`)、表示側は `getGamesByIds()`(games.json の取得済みキャッシュ)から
+引き直す。あらすじと出典メモはゲーム詳細でしか使わないので **`game-texts.json`** に分けてある。
+
+以前はゲームをフル展開して埋め込んでいたため `genres.json` が gzip 865KB・`companies.json` が
+700KB あった。現在は gzip で games 184KB / game-texts 209KB / companies 101KB / genres 17KB /
+series 18KB。トップページは 1.1MB → 184KB。
+
+- **新しい生成ファイルにゲームを埋め込みたくなったら、まずidで足りないかを疑う**
+- **ゲーム詳細ページはあらすじが揃うまで「読み込み中」を出し続ける**こと(`prerender.mjs` が
+  「読み込み中」の消滅を待って静的HTMLを書くため、先に描くとあらすじ抜きのHTMLが焼き付く)
+- **`useMemo` の依存配列に注意**。エンティティのstateだけを見ていると、後から解決するゲーム配列で
+  再計算されず一覧が空になる
+
 ## データフロー(source → generated)
 
 - `public/data/source/*.json` … 手作業で作成・**コミットする**一次データ(games/companies/genres/awards)

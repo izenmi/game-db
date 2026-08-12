@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import type { GamePlatform, SeriesGenerated } from "../../types";
+import type { GamePlatform, SeriesGenerated, GameGenerated } from "../../types";
 import { GameCover } from "../common/GameCover";
 import { PlatformBadges } from "../common/GameCard";
 
@@ -12,10 +12,9 @@ const PLATFORM_ORDER: GamePlatform[] = ["ps5", "switch", "switch2"];
  *  ゲーム一覧のカードと同じ密度になるよう、パッケージ画像・発売年の範囲・開発元・対応機種・
  *  ジャンルまで出す。
  *
- *  表示する値はすべて `series.games`(build時に発売日の昇順で入っている)から導出していて、
+ *  表示する値はすべて渡されたゲーム(発売日の昇順)から導出していて、
  *  シリーズ側に持たせた項目はない。作品を足せば画像も年も自動で更新される。 */
-export function SeriesCard({ series }: { series: SeriesGenerated }) {
-  const games = series.games;
+export function SeriesCard({ series, games }: { series: SeriesGenerated; games: GameGenerated[] }) {
   const from = games[0]?.releaseDate.slice(0, 4);
   const to = games[games.length - 1]?.releaseDate.slice(0, 4);
 

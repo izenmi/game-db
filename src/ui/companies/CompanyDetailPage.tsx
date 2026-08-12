@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { getCompany } from "../../data/manifest";
+import { getCompany, getGamesByIds } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCard, GameCoverCard } from "../common/GameCard";
@@ -36,13 +36,19 @@ export function CompanyDetailPage() {
 
   // 開発作品・発売作品の2セクションがあるので、会社が関わる全ゲームでフィルタを組み、
   // 残ったidで各セクションを絞る。フィルタUIを2つ出すとどちらに効くのか分からなくなるため。
-  const allGames = company?.games.map((e) => e.game) ?? [];
+  // ゲームの実データは games.json 側にある(CompanyGameEntry は gameId しか持たない)。
+  const gamesState = useAsyncData(
+    () => (company ? getGamesByIds(company.games.map((e) => e.gameId)) : Promise.resolve([])),
+    [company],
+  );
+  const allGames = gamesState.status === "ready" ? gamesState.data : [];
+  const gameById = new Map(allGames.map((g) => [g.id, g]));
   const { sorted, controls, hasActiveFilters, coverView, gridClassName } = useGameFilter(allGames);
   const keptIds = new Set(sorted.map((g) => g.id));
   const developerGames =
-    company?.games.filter((e) => e.roles.includes("developer") && keptIds.has(e.game.id)) ?? [];
+    company?.games.filter((e) => e.roles.includes("developer") && keptIds.has(e.gameId)) ?? [];
   const publisherGames =
-    company?.games.filter((e) => e.roles.includes("publisher") && keptIds.has(e.game.id)) ?? [];
+    company?.games.filter((e) => e.roles.includes("publisher") && keptIds.has(e.gameId)) ?? [];
 
   return (
     <div className="page">
@@ -70,9 +76,11 @@ export function CompanyDetailPage() {
             <>
               <h2>開発作品</h2>
               <div className={gridClassName}>
-                {developerGames.map((e) => (
-                  coverView ? <GameCoverCard game={e.game} key={e.game.id} /> : <GameCard game={e.game} key={e.game.id} />
-                ))}
+                {developerGames.map((e) => {
+                  const game = gameById.get(e.gameId);
+                  if (!game) return null;
+                  return coverView ? <GameCoverCard game={game} key={e.gameId} /> : <GameCard game={game} key={e.gameId} />;
+                })}
               </div>
             </>
           )}
@@ -81,9 +89,11 @@ export function CompanyDetailPage() {
             <>
               <h2>発売作品</h2>
               <div className={gridClassName}>
-                {publisherGames.map((e) => (
-                  coverView ? <GameCoverCard game={e.game} key={e.game.id} /> : <GameCard game={e.game} key={e.game.id} />
-                ))}
+                {publisherGames.map((e) => {
+                  const game = gameById.get(e.gameId);
+                  if (!game) return null;
+                  return coverView ? <GameCoverCard game={game} key={e.gameId} /> : <GameCard game={game} key={e.gameId} />;
+                })}
               </div>
             </>
           )}

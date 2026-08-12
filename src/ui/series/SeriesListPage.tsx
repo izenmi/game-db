@@ -1,4 +1,4 @@
-import { getSeriesList } from "../../data/manifest";
+import { getSeriesList, getGames } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState } from "../common/Status";
 import { useSeo } from "../common/useSeo";
@@ -6,6 +6,13 @@ import { SeriesCard } from "./SeriesCard";
 
 export function SeriesListPage() {
   const state = useAsyncData(getSeriesList, []);
+  // カードの書影・年・ジャンルは games.json 側にある(SeriesGenerated は gameIds のみ)。
+  const gamesState = useAsyncData(getGames, []);
+  const gameById = new Map(
+    (gamesState.status === "ready" ? gamesState.data : []).map((g) => [g.id, g]),
+  );
+  const gamesOf = (ids: string[]) =>
+    ids.map((gid) => gameById.get(gid)).filter((g) => g !== undefined);
 
   useSeo({
     title: "シリーズ一覧",
@@ -25,7 +32,7 @@ export function SeriesListPage() {
           <p className="page-subtitle">{state.data.length}シリーズ</p>
           <div className="series-grid">
             {state.data.map((s) => (
-              <SeriesCard series={s} key={s.id} />
+              <SeriesCard series={s} games={gamesOf(s.gameIds)} key={s.id} />
             ))}
           </div>
         </>

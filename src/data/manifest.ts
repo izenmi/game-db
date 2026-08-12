@@ -3,6 +3,7 @@ import type {
   CompanyGenerated,
   Counts,
   GameGenerated,
+  GameTexts,
   GenreGenerated,
   SeriesGenerated,
 } from "../types";
@@ -30,6 +31,7 @@ export const getCompanies = () => fetchJson<CompanyGenerated[]>("companies.json"
 export const getGenres = () => fetchJson<GenreGenerated[]>("genres.json");
 export const getSeriesList = () => fetchJson<SeriesGenerated[]>("series.json");
 export const getAwards = () => fetchJson<AwardGenerated[]>("awards.json");
+export const getGameTexts = () => fetchJson<GameTexts>("game-texts.json");
 export const getCounts = () => fetchJson<Counts>("counts.json");
 
 export async function getGame(gameId: string): Promise<GameGenerated | undefined> {
@@ -55,4 +57,12 @@ export async function getSeries(seriesId: string): Promise<SeriesGenerated | und
 export async function getAward(awardId: string): Promise<AwardGenerated | undefined> {
   const awards = await getAwards();
   return awards.find((a) => a.id === awardId);
+}
+
+/** エンティティが持つ gameIds からゲームを引く。games.json は取得済みならキャッシュから返るので、
+ *  ゲームを各エンティティに埋め込んでいた頃と違って追加の通信はほぼ発生しない。 */
+export async function getGamesByIds(ids: string[]): Promise<GameGenerated[]> {
+  const games = await getGames();
+  const byId = new Map(games.map((g) => [g.id, g]));
+  return ids.map((id) => byId.get(id)).filter((g): g is GameGenerated => g !== undefined);
 }
