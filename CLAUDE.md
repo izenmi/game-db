@@ -34,6 +34,8 @@ PS5・Nintendo Switch・Nintendo Switch 2向けのゲームソフトを対応機
 
 **初期投入は157シリーズ・459/1192本(38%)**。候補は思いつきではなく、`games.json`のタイトルとidの前方一致を機械的に数え上げて列挙し、目視で精査して確定させた(「候補はカタログから列挙する」原則)。この手順で実際に誤りを2件防いでいる: `tales-of-kenzera`(『Tales of Kenzera: ZAU』はテイルズ オブ シリーズではない)、`horizon-chase-turbo`(『Horizon Chase Turbo』はHorizonシリーズではない)。**逆にid前方一致だけでは取りこぼす**ものもある(The Elder Scrollsの`skyrim-special-edition`/`oblivion-remastered`、ファイナルファンタジーの`ff7-*`、龍が如くの`yakuza-*`)ので、タイトル側からの照合と両方を回すこと。
 
+**一覧ページは`SeriesCard`のグリッド**(2026-08-12。当初は会社・ジャンルと同じ`EntityList`(名前+件数の行)で作ったが、**名前だけではそれが何のゲームのシリーズなのか一覧から分からない**ためユーザー指示で差し替えた)。姉妹サイト(anime-db/movie-db/mystery-db/sf-db)の`series-card`と同じ構成で、**パッケージ画像4枚(発売順)・発売年の範囲・開発元・対応機種バッジ・ジャンルチップ**を出す。表示値はすべて`series.games`から導出していてシリーズ側に持たせた項目はないので、作品を足せば自動で更新される。`.series-grid`/`.series-card*`のCSSは`common.css`にあり、`game-cover--sm`の固定幅をグリッドで等分するため幅指定だけ上書きしている。
+
 **関連作品レコメンドとの関係**: 「このゲームが好きなら」からは**同一シリーズの作品を除外する**(`generate-manifest.mjs`の`relatedIdsFor()`)。詳細ページには「〇〇シリーズの他の作品」セクションが別にあるので、除外しないと同じ並びを2回見せることになり、レコメンド枠が本来の「別のゲームを見つける」役に立たなくなる。
 
 **新規タイトル追加時**: `apply_batch.py`は`newSeries`キーと`game.seriesId`の参照検証に対応済み。`seriesId`は任意なので、シリーズに属さない作品はフィールドごと省略する(空文字を入れないこと。`generate-manifest.mjs`が未知idとして扱う)。

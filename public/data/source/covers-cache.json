@@ -6440,12 +6440,9 @@
   },
   "persona-4-arena-ultimax": {
     "title": "ペルソナ4 ジ・アルティマックス ウルトラスープレックスホールド",
-    "matchedTitle": "【中古】 ペルソナ4　ジ・アルティマックス　ウルトラスープレックスホールド　リマスター版／NintendoSwitch",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1/r_noimg.gif",
-    "itemUrl": "https://item.rakuten.co.jp/bookoffonline/0019798087/",
-    "source": "rakuten-ichiba",
+    "coverUrl": null,
     "resolvedAt": "2026-08-06T07:47:23.090Z",
-    "rakutenItemUrl": "https://item.rakuten.co.jp/bookoffonline/0019798087/"
+    "note": "楽天市場の商品が r_noimg.gif(画像なしプレースホルダー)だったため除去。IGDB/楽天とも代替が見つかれば再取得する"
   },
   "persona-4-golden": {
     "title": "ペルソナ4 ザ・ゴールデン",

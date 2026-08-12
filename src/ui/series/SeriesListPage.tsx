@@ -1,8 +1,8 @@
 import { getSeriesList } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState } from "../common/Status";
-import { EntityList } from "../common/EntityList";
 import { useSeo } from "../common/useSeo";
+import { SeriesCard } from "./SeriesCard";
 
 export function SeriesListPage() {
   const state = useAsyncData(getSeriesList, []);
@@ -11,7 +11,7 @@ export function SeriesListPage() {
     title: "シリーズ一覧",
     description:
       state.status === "ready"
-        ? `ゲームシリーズ${state.data.length}件の一覧。収録本数の多い順に並んでいます。`
+        ? `ゲームシリーズ${state.data.length}件の一覧。収録本数の多い順に並んでいます。シリーズごとに作品を発売順で辿れます。`
         : undefined,
   });
 
@@ -22,8 +22,12 @@ export function SeriesListPage() {
       {state.status === "error" && <ErrorState error={state.error} />}
       {state.status === "ready" && (
         <>
-          <p className="page-subtitle">{state.data.length}件</p>
-          <EntityList items={state.data} pathPrefix="/series" />
+          <p className="page-subtitle">{state.data.length}シリーズ</p>
+          <div className="series-grid">
+            {state.data.map((s) => (
+              <SeriesCard series={s} key={s.id} />
+            ))}
+          </div>
         </>
       )}
     </div>
