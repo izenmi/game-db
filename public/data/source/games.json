@@ -28537,29 +28537,5 @@
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
     "titleKana": "だぶりゅーあーるしーてん えふあいえーせかいらりーせんしゅけん"
-  },
-  {
-    "id": "paper-trail-2",
-    "title": "ペーパートレイル",
-    "developerIds": [
-      "newfangled-games",
-      "newfangled-games"
-    ],
-    "publisherId": "newfangled-games",
-    "platforms": [
-      "switch",
-      "ps5"
-    ],
-    "genreIds": [
-      "puzzle",
-      "adventure"
-    ],
-    "releaseDate": "2024-05-21",
-    "synopsis": "紙を折りたたむと地形がつながる、というアイデアを軸にしたパズルアドベンチャー。学問を志して家を出る少女の旅を描く。",
-    "awardResults": [],
-    "externalLinks": {},
-    "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
-    "updatedAt": "2026-08-08",
-    "titleKana": "ぺーぱーとれいる"
   }
 ]
