@@ -263,6 +263,24 @@ const seriesGenerated = series
   // 収録本数の多いシリーズほど見たい情報なので件数の降順。同数は五十音順で並びを安定させる。
   .sort((a, b) => b.gameCount - a.gameCount || a.nameKana.localeCompare(b.nameKana, "ja"));
 
+// ---- generated/recommend-index.json ----
+// 「好みからおすすめ」(/recommend)専用の軽量索引。ジャンル選択チップとスコア計算に必要な分だけ。
+// genres.json / games.json を選択前に読ませないためにこれがある。
+// **読み手は /recommend だけ。ページを消すならこの生成も消すこと**(横断検索を消したとき、
+// 専用の search-index.json が読み手のいないまま残りかけた)。
+const recommendTagIds = new Set(genres.map((t) => t.id));
+const recommendIndex = {
+  tags: genresGenerated
+    .filter((t) => t.gameCount > 0 && recommendTagIds.has(t.id))
+    .map((t) => ({ id: t.id, name: t.name, count: t.gameCount }))
+    // チップは件数の多い順に並べる
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "ja")),
+  items: games.map((x) => ({
+    id: x.id,
+    tagIds: x.genreIds.filter((t) => recommendTagIds.has(t)),
+  })),
+};
+
 // ---- generated/game-texts.json ----
 // ゲーム詳細ページだけが読む長文(あらすじ・出典メモ)。キーはゲームid。
 const gameTexts = Object.fromEntries(
@@ -318,6 +336,7 @@ writeFileSync(path.join(outDir, "companies.json"), JSON.stringify(companiesGener
 writeFileSync(path.join(outDir, "genres.json"), JSON.stringify(genresGenerated), "utf-8");
 writeFileSync(path.join(outDir, "series.json"), JSON.stringify(seriesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "recommend-index.json"), JSON.stringify(recommendIndex), "utf-8");
 writeFileSync(path.join(outDir, "game-texts.json"), JSON.stringify(gameTexts), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
@@ -339,6 +358,7 @@ const sitemapEntries = [
   urlEntry("/games"),
   ...games.map((g) => urlEntry(`/games/${g.id}`, g.updatedAt?.slice(0, 10))),
   urlEntry("/genres"),
+  urlEntry("/recommend"),
   ...genres.map((genre) => urlEntry(`/genres/${genre.id}`)),
   urlEntry("/companies"),
   ...companies.map((c) => urlEntry(`/companies/${c.id}`, c.updatedAt?.slice(0, 10))),

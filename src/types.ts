@@ -152,6 +152,13 @@ export interface AwardGenerated extends AwardSource {
 /** ゲーム詳細ページだけが読む長文(generated/game-texts.json)。キーはゲームid。 */
 export type GameTexts = Record<string, { synopsis: string; sourceNote: string }>;
 
+/** 「好みからおすすめ」(/recommend)専用の軽量索引(generated/recommend-index.json)。
+ *  tags は件数の多い順、items はタグidだけを持つ全ゲーム。 */
+export interface RecommendIndex {
+  tags: { id: string; name: string; count: number }[];
+  items: { id: string; tagIds: string[] }[];
+}
+
 export interface Counts {
   games: number;
   companies: number;

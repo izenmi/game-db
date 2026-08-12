@@ -36,6 +36,7 @@ const routes = [
   "/",
   "/games",
   ...games.map((g) => `/games/${g.id}`),
+  "/recommend",
   "/genres",
   ...genres.map((genre) => `/genres/${genre.id}`),
   "/companies",

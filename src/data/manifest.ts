@@ -3,6 +3,7 @@ import type {
   CompanyGenerated,
   Counts,
   GameGenerated,
+  RecommendIndex,
   GameTexts,
   GenreGenerated,
   SeriesGenerated,
@@ -31,6 +32,7 @@ export const getCompanies = () => fetchJson<CompanyGenerated[]>("companies.json"
 export const getGenres = () => fetchJson<GenreGenerated[]>("genres.json");
 export const getSeriesList = () => fetchJson<SeriesGenerated[]>("series.json");
 export const getAwards = () => fetchJson<AwardGenerated[]>("awards.json");
+export const getRecommendIndex = () => fetchJson<RecommendIndex>("recommend-index.json");
 export const getGameTexts = () => fetchJson<GameTexts>("game-texts.json");
 export const getCounts = () => fetchJson<Counts>("counts.json");
 

@@ -4,6 +4,7 @@ import { ScrollToTop } from "./ui/common/ScrollToTop";
 import { HomePage } from "./ui/home/HomePage";
 import { GameListPage } from "./ui/games/GameListPage";
 import { GameDetailPage } from "./ui/games/GameDetailPage";
+import { RecommendPage } from "./ui/recommend/RecommendPage";
 import { GenreListPage } from "./ui/genres/GenreListPage";
 import { GenreDetailPage } from "./ui/genres/GenreDetailPage";
 import { CompanyListPage } from "./ui/companies/CompanyListPage";
@@ -25,6 +26,7 @@ export function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/games" element={<GameListPage />} />
         <Route path="/games/:id" element={<GameDetailPage />} />
+        <Route path="/recommend" element={<RecommendPage />} />
         <Route path="/genres" element={<GenreListPage />} />
         <Route path="/genres/:id" element={<GenreDetailPage />} />
         <Route path="/companies" element={<CompanyListPage />} />
