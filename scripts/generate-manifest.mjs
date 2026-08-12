@@ -16,6 +16,7 @@ function readSource(name) {
 const games = readSource("games");
 const companies = readSource("companies");
 const genres = readSource("genres");
+const series = readSource("series");
 const awards = readSource("awards");
 
 // Optional: built by `npm run fetch-covers` (scripts/fetch-covers.mjs), which resolves a
@@ -29,6 +30,7 @@ const PLATFORMS = new Set(["ps5", "switch", "switch2"]);
 
 const companiesById = new Map(companies.map((c) => [c.id, c]));
 const genresById = new Map(genres.map((g) => [g.id, g]));
+const seriesById = new Map(series.map((s) => [s.id, s]));
 const awardsById = new Map(awards.map((a) => [a.id, a]));
 
 const errors = [];
@@ -46,6 +48,7 @@ for (const g of games) {
   g.developerIds.forEach((id) => checkRef(companiesById, id, "developer(company)", g.id));
   checkRef(companiesById, g.publisherId, "publisher(company)", g.id);
   g.genreIds.forEach((id) => checkRef(genresById, id, "genre", g.id));
+  if (g.seriesId) checkRef(seriesById, g.seriesId, "series", g.id);
   (g.awardResults ?? []).forEach((r) => checkRef(awardsById, r.awardId, "award", g.id));
 }
 
@@ -57,6 +60,7 @@ for (const g of games) {
 for (const [label, list] of [
   ["company", companies],
   ["genre", genres],
+  ["series", series],
   ["award", awards],
 ]) {
   const seen = new Set();
@@ -109,6 +113,11 @@ for (const x of games) {
 }
 
 function relatedIdsFor(item) {
+  // Games from the same series are deliberately excluded: the detail page already lists the whole
+  // series in its own section, so recommending them here would just repeat that list and crowd out
+  // the genuinely different games this slot exists to surface.
+  const sameSeries = (other) => Boolean(item.seriesId) && other.seriesId === item.seriesId;
+
   // Accumulate the dot product only over games that share at least one tag, rather than
   // scanning all N games for each of N games.
   const dotProducts = new Map();
@@ -116,7 +125,7 @@ function relatedIdsFor(item) {
     const weight = tagIdf.get(t) ** 2;
     if (weight === 0) continue;
     for (const other of tagToItems.get(t)) {
-      if (other.id === item.id) continue;
+      if (other.id === item.id || sameSeries(other)) continue;
       dotProducts.set(other.id, (dotProducts.get(other.id) ?? 0) + weight);
     }
   }
@@ -125,7 +134,7 @@ function relatedIdsFor(item) {
 
   // Same-developer games are a strong recommendation even with no tag overlap, so seed them in.
   for (const other of games) {
-    if (other.id === item.id || dotProducts.has(other.id)) continue;
+    if (other.id === item.id || dotProducts.has(other.id) || sameSeries(other)) continue;
     if (other.developerIds.some((id) => ownDevelopers.has(id))) dotProducts.set(other.id, 0);
   }
 
@@ -153,6 +162,7 @@ const gamesGenerated = games.map((g) => ({
   developerNames: g.developerIds.map((id) => companiesById.get(id).name),
   publisherName: companiesById.get(g.publisherId).name,
   genreNames: g.genreIds.map((id) => genresById.get(id).name),
+  seriesName: g.seriesId ? seriesById.get(g.seriesId).name : undefined,
   awardSummaries: (g.awardResults ?? []).map((r) => ({
     awardId: r.awardId,
     awardName: awardsById.get(r.awardId).name,
@@ -240,6 +250,22 @@ const genresGenerated = genres
   })
   .sort((a, b) => b.gameCount - a.gameCount || a.name.localeCompare(b.name, "ja"));
 
+// ---- generated/series.json ----
+// 1作品は最大1シリーズなのでgroupGamesByの単数版。並びは発売日昇順(= シリーズ内の発売順)で、
+// 会社・ジャンルの詳細ページと同じくGameCardをそのまま描けるようフル展開して埋め込む。
+const gamesBySeries = groupGamesBy((g) => (g.seriesId ? [g.seriesId] : []));
+const seriesGenerated = series
+  .map((s) => {
+    const theirGames = gamesBySeries.get(s.id) ?? [];
+    return {
+      ...s,
+      gameCount: theirGames.length,
+      games: theirGames.map(fullGame).sort((a, b) => a.releaseDate.localeCompare(b.releaseDate)),
+    };
+  })
+  // 収録本数の多いシリーズほど見たい情報なので件数の降順。同数は五十音順で並びを安定させる。
+  .sort((a, b) => b.gameCount - a.gameCount || a.nameKana.localeCompare(b.nameKana, "ja"));
+
 // ---- generated/awards.json ----
 // 受賞歴の result は「2013年版 国内編 第1位」「大賞」「第5位」のような自由文なので、
 // 並べ替え用の順位をここで一度だけ取り出す。順位を持たない賞(大賞・特別賞など)は
@@ -279,6 +305,7 @@ const counts = {
   games: games.length,
   companies: companies.length,
   genres: genres.length,
+  series: series.length,
   awards: awards.length,
 };
 
@@ -286,10 +313,11 @@ mkdirSync(outDir, { recursive: true });
 writeFileSync(path.join(outDir, "games.json"), JSON.stringify(gamesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "companies.json"), JSON.stringify(companiesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "genres.json"), JSON.stringify(genresGenerated), "utf-8");
+writeFileSync(path.join(outDir, "series.json"), JSON.stringify(seriesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
-console.log(`generate-manifest: wrote ${games.length} games, ${companies.length} companies, ${genres.length} genres, ${awards.length} awards`);
+console.log(`generate-manifest: wrote ${games.length} games, ${companies.length} companies, ${genres.length} genres, ${series.length} series, ${awards.length} awards`);
 
 
 // ---- sitemap.xml ----
@@ -310,6 +338,8 @@ const sitemapEntries = [
   ...genres.map((genre) => urlEntry(`/genres/${genre.id}`)),
   urlEntry("/companies"),
   ...companies.map((c) => urlEntry(`/companies/${c.id}`, c.updatedAt?.slice(0, 10))),
+  urlEntry("/series"),
+  ...series.map((s) => urlEntry(`/series/${s.id}`, s.updatedAt?.slice(0, 10))),
   urlEntry("/awards"),
   ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
   urlEntry("/about"),

@@ -29,6 +29,7 @@ function readData(name) {
 const games = readData("games");
 const companies = readData("companies");
 const genres = readData("genres");
+const series = readData("series");
 const awards = readData("awards");
 
 const routes = [
@@ -39,6 +40,8 @@ const routes = [
   ...genres.map((genre) => `/genres/${genre.id}`),
   "/companies",
   ...companies.map((c) => `/companies/${c.id}`),
+  "/series",
+  ...series.map((s) => `/series/${s.id}`),
   "/awards",
   ...awards.map((a) => `/awards/${a.id}`),
   "/about",

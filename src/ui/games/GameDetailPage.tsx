@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getGame, getGames } from "../../data/manifest";
+import { getGame, getGames, getSeries } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCover, amazonSearchUrl, rakutenIchibaUrl } from "../common/GameCover";
@@ -19,6 +19,9 @@ function gameJsonLd(id: string, g: GameGenerated) {
       publisher: { "@type": "Organization", name: g.publisherName },
       datePublished: g.releaseDate,
       genre: g.genreNames,
+      ...(g.seriesName && {
+        partOfSeries: { "@type": "VideoGameSeries", name: g.seriesName },
+      }),
       gamePlatform: g.platforms.map((p) => ({ ps5: "PlayStation 5", switch: "Nintendo Switch", switch2: "Nintendo Switch 2" })[p]),
       description: g.synopsis,
       ...(g.coverUrl && { image: g.coverUrl }),
@@ -42,6 +45,18 @@ export function GameDetailPage() {
   // getGames() resolves from the same cached games.json that getGame() above already pulled,
   // so this costs no extra request.
   const allGamesState = useAsyncData(getGames, []);
+
+  // シリーズ作品はseries.jsonから引く(このゲーム自身は除く)。seriesIdを持たない作品では取得しない。
+  const seriesId = game?.seriesId;
+  const seriesState = useAsyncData(
+    () => (seriesId ? getSeries(seriesId) : Promise.resolve(undefined)),
+    [seriesId],
+  );
+  const seriesGames = useMemo(() => {
+    if (seriesState.status !== "ready" || !seriesState.data) return [];
+    return seriesState.data.games.filter((g) => g.id !== id);
+  }, [seriesState, id]);
+
   const relatedGames = useMemo(() => {
     if (allGamesState.status !== "ready" || !game?.relatedGameIds) return [];
     const byId = new Map(allGamesState.data.map((x) => [x.id, x]));
@@ -109,8 +124,13 @@ export function GameDetailPage() {
               <p className="page-subtitle">発売日: {state.data.releaseDate}</p>
               <PlatformBadges platforms={state.data.platforms} />
 
-              {state.data.genreNames.length > 0 && (
+              {(state.data.genreNames.length > 0 || state.data.seriesId) && (
                 <div className="chip-row">
+                  {state.data.seriesId && (
+                    <Link className="chip series-chip" to={`/series/${state.data.seriesId}`}>
+                      {state.data.seriesName}シリーズ
+                    </Link>
+                  )}
                   {state.data.genreIds.map((genreId, i) => (
                     <Link className="chip" to={`/genres/${genreId}`} key={genreId}>
                       {state.data!.genreNames[i]}
@@ -152,6 +172,19 @@ export function GameDetailPage() {
                 Wikipediaで見る
               </a>
             </p>
+          )}
+
+          {seriesGames.length > 0 && (
+            <div className="home-section">
+              <h2 className="home-section__heading font-display">
+                <Link to={`/series/${state.data.seriesId}`}>{state.data.seriesName}シリーズ</Link>の他の作品
+              </h2>
+              <div className="game-grid">
+                {seriesGames.map((sibling) => (
+                  <GameCard key={sibling.id} game={sibling} />
+                ))}
+              </div>
+            </div>
           )}
 
           {relatedGames.length > 0 && (

@@ -24,6 +24,8 @@ export interface GameSource {
   /** 対応機種。最低1件。 */
   platforms: GamePlatform[];
   genreIds: string[];
+  /** 所属シリーズ(series.json)。1作品は最大1シリーズ。シリーズに属さない作品の方が多いので任意フィールド。 */
+  seriesId?: string;
   /** 国内における初回発売日(YYYY-MM-DD)。複数機種で発売日が異なる場合は最も早い日付を採用し、
    *  機種別の発売日差はsourceNoteに書く。 */
   releaseDate: string;
@@ -54,6 +56,19 @@ export interface GenreSource {
   description?: string;
 }
 
+/** 作品シリーズ。会社と違いゲーム側からは単数の`seriesId`で参照する(1作品が2つのシリーズに
+ *  属することは実運用上ないため)。版権IPを共有するだけの作品群はシリーズとして立てない方針
+ *  (CLAUDE.md「シリーズ(series)の設計」を参照)。 */
+export interface SeriesSource {
+  id: string;
+  name: string;
+  nameKana: string;
+  description: string;
+  externalLinks: ExternalLinks;
+  sourceNote: string;
+  updatedAt: string;
+}
+
 export interface AwardSource {
   id: string;
   name: string;
@@ -72,6 +87,8 @@ export interface GameGenerated extends GameSource {
   developerNames: string[];
   publisherName: string;
   genreNames: string[];
+  /** 所属シリーズ名。seriesId を持つ作品にのみ入る。 */
+  seriesName?: string;
   awardSummaries: { awardId: string; awardName: string; year: number; result: string }[];
   /** Reserved for future package-art support (see CLAUDE.md「既知の未着手事項」). Always
    *  undefined for now — no cover-fetch pipeline exists yet, callers must render the placeholder. */
@@ -107,6 +124,12 @@ export interface GenreGenerated extends GenreSource {
   games: GameGenerated[];
 }
 
+export interface SeriesGenerated extends SeriesSource {
+  gameCount: number;
+  /** 発売日の昇順(= シリーズ内の発売順)。 */
+  games: GameGenerated[];
+}
+
 export interface AwardWinner {
   gameId: string;
   gameTitle: string;
@@ -125,5 +148,6 @@ export interface Counts {
   games: number;
   companies: number;
   genres: number;
+  series: number;
   awards: number;
 }

@@ -6,12 +6,13 @@ batch.json の形式:
 {
   "newCompanies": [...],
   "newGenres": [...],
+  "newSeries": [...],
   "newAwards": [...],
   "games": [...]
 }
 
-- 新規id(company/genre/award)は既存と重複していればスキップ
-- game は developerIds/publisherId/genreIds/awardResults[].awardId が
+- 新規id(company/genre/series/award)は既存と重複していればスキップ
+- game は developerIds/publisherId/genreIds/seriesId/awardResults[].awardId が
   (既存 + このバッチで追加される新規id) の中に存在するか検証し、
   存在しない参照があればそのgame自体を反映せずレポートする
 - developerIds が空配列、platforms が空配列または未知の値を含む場合も反映せずレポートする
@@ -43,11 +44,13 @@ def main():
 
     companies = load("companies")
     genres = load("genres")
+    series = load("series")
     awards = load("awards")
     games = load("games")
 
     company_ids = {c["id"] for c in companies}
     genre_ids = {g["id"] for g in genres}
+    series_ids = {s["id"] for s in series}
     award_ids = {a["id"] for a in awards}
     game_ids = {g["id"] for g in games}
 
@@ -67,6 +70,7 @@ def main():
 
     add_new(companies, company_ids, "newCompanies", "companies")
     add_new(genres, genre_ids, "newGenres", "genres")
+    add_new(series, series_ids, "newSeries", "series")
     add_new(awards, award_ids, "newAwards", "awards")
 
     added_games = []
@@ -94,6 +98,9 @@ def main():
         for gid in g.get("genreIds", []):
             if gid not in genre_ids:
                 missing.append(f"genreId:{gid}")
+        sid = g.get("seriesId")
+        if sid and sid not in series_ids:
+            missing.append(f"seriesId:{sid}")
         for ar in g.get("awardResults", []):
             if ar.get("awardId") not in award_ids:
                 missing.append(f"awardId:{ar.get('awardId')}")
@@ -110,6 +117,7 @@ def main():
 
     save("companies", companies)
     save("genres", genres)
+    save("series", series)
     save("awards", awards)
     save("games", games)
 

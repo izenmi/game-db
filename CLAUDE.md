@@ -21,6 +21,23 @@ PS5・Nintendo Switch・Nintendo Switch 2向けのゲームソフトを対応機
 
 **この設計判断ゆえに、scaffold時のコピー元はmanga-dbではなくranobe-dbを使った**(著者+イラストレーターの「2ロール」構造の方が、開発元+発売元の「2ロール」構造への改造がシンプルだったため。manga-dbは原作者/作画家/出版社/レーベルの4分割で、game-dbには不要な「レーベル」概念の除去が余計にかかる)。
 
+## シリーズ(series)の設計(2026-08-12実装)
+
+`public/data/source/series.json`(`SeriesSource`: `id`/`name`/`nameKana`/`description`/`externalLinks`/`sourceNote`/`updatedAt`)を、ゲーム側の**`seriesId?: string`(単数・任意)**から参照する。会社が`developerIds`(配列・必須)+`publisherId`で参照されるのと違い、**1作品は最大1シリーズ・シリーズに属さない作品の方が多い**ため単数の任意フィールドにした。`/series`(一覧)と`/series/:id`(詳細)を持ち、詳細ページはジャンル詳細と同じくゲームをフル展開して`GameCard`で描く。並びは**シリーズ内は発売日昇順(= 発売順)**、一覧は収録本数の降順→`nameKana`順。
+
+**シリーズとして立てる基準(2026-08-12に確立)**:
+
+- **同一タイトル名を継承する作品群**(続編・リメイク・スピンオフを含む)を1シリーズとする。『ゼルダの伝説』に『ゼルダ無双』を、『マリオパーティ』に『スーパー マリオパーティ』を含めるのはこの基準による
+- **版権IPを共有するだけの作品群はシリーズにしない**。Star Wars・LEGO・Marvel・Warhammer 40,000・ディズニー・テトリス・SDガンダムのような「同じ題材を別の開発元が別々に作っている」束は対象外。ただしその中でタイトルが連なるもの(`star-wars-jedi`・`kotor`・`jedi-knight`・`lego-marvel-super-heroes`)は個別のシリーズとして立てている
+- **収録2本以上**をシリーズ化の条件にする。1本しかないシリーズはページを作っても遷移先が自分自身しかなく、一覧のノイズになる
+- 名寄せは**タイトル表記から判断**する(`sourceNote`にもそう明記してある)。IGDBの`collections`/`franchises`は使っていない
+
+**初期投入は157シリーズ・459/1192本(38%)**。候補は思いつきではなく、`games.json`のタイトルとidの前方一致を機械的に数え上げて列挙し、目視で精査して確定させた(「候補はカタログから列挙する」原則)。この手順で実際に誤りを2件防いでいる: `tales-of-kenzera`(『Tales of Kenzera: ZAU』はテイルズ オブ シリーズではない)、`horizon-chase-turbo`(『Horizon Chase Turbo』はHorizonシリーズではない)。**逆にid前方一致だけでは取りこぼす**ものもある(The Elder Scrollsの`skyrim-special-edition`/`oblivion-remastered`、ファイナルファンタジーの`ff7-*`、龍が如くの`yakuza-*`)ので、タイトル側からの照合と両方を回すこと。
+
+**関連作品レコメンドとの関係**: 「このゲームが好きなら」からは**同一シリーズの作品を除外する**(`generate-manifest.mjs`の`relatedIdsFor()`)。詳細ページには「〇〇シリーズの他の作品」セクションが別にあるので、除外しないと同じ並びを2回見せることになり、レコメンド枠が本来の「別のゲームを見つける」役に立たなくなる。
+
+**新規タイトル追加時**: `apply_batch.py`は`newSeries`キーと`game.seriesId`の参照検証に対応済み。`seriesId`は任意なので、シリーズに属さない作品はフィールドごと省略する(空文字を入れないこと。`generate-manifest.mjs`が未知idとして扱う)。
+
 ## 対応機種(platforms)の方針
 
 `GamePlatform = "ps5" | "switch" | "switch2"`。テーマ/ジャンルのような別JSON参照エンティティではなく、`GameSource.platforms: GamePlatform[]`としてGame本体に直接埋め込む(1本のゲームが複数機種で出ることが普通にあるため配列)。一覧ページ・ジャンル詳細ページに対応機種でのセレクトフィルターを実装している。

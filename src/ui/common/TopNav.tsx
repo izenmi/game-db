@@ -3,6 +3,7 @@ import { NavLink } from "react-router-dom";
 const LINKS = [
   { to: "/games", label: "ゲーム一覧" },
   { to: "/genres", label: "ジャンル" },
+  { to: "/series", label: "シリーズ" },
   { to: "/companies", label: "会社" },
   { to: "/awards", label: "アワード" },
 ];

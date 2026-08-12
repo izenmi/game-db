@@ -4,6 +4,7 @@ import type {
   Counts,
   GameGenerated,
   GenreGenerated,
+  SeriesGenerated,
 } from "../types";
 
 function dataUrl(relativePath: string): string {
@@ -27,6 +28,7 @@ function fetchJson<T>(file: string): Promise<T> {
 export const getGames = () => fetchJson<GameGenerated[]>("games.json");
 export const getCompanies = () => fetchJson<CompanyGenerated[]>("companies.json");
 export const getGenres = () => fetchJson<GenreGenerated[]>("genres.json");
+export const getSeriesList = () => fetchJson<SeriesGenerated[]>("series.json");
 export const getAwards = () => fetchJson<AwardGenerated[]>("awards.json");
 export const getCounts = () => fetchJson<Counts>("counts.json");
 
@@ -43,6 +45,11 @@ export async function getCompany(companyId: string): Promise<CompanyGenerated | 
 export async function getGenre(genreId: string): Promise<GenreGenerated | undefined> {
   const genres = await getGenres();
   return genres.find((g) => g.id === genreId);
+}
+
+export async function getSeries(seriesId: string): Promise<SeriesGenerated | undefined> {
+  const list = await getSeriesList();
+  return list.find((s) => s.id === seriesId);
 }
 
 export async function getAward(awardId: string): Promise<AwardGenerated | undefined> {

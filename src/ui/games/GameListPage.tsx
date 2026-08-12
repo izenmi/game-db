@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
-import { getGenres, getGames, getCompanies } from "../../data/manifest";
+import { getGenres, getGames, getCompanies, getSeriesList } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { GameCard, PLATFORM_LABEL } from "../common/GameCard";
@@ -95,12 +95,14 @@ export function GameListPage() {
   const genreId = params.get("genre") ?? "";
   const platform = params.get("platform") ?? "";
   const companyId = params.get("company") ?? "";
+  const seriesId = params.get("series") ?? "";
   const sort = params.get("sort") ?? "release-desc";
   const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
 
   const gamesState = useAsyncData(getGames, []);
   const genresState = useAsyncData(getGenres, []);
   const companiesState = useAsyncData(getCompanies, []);
+  const seriesState = useAsyncData(getSeriesList, []);
 
   const sortedCompanies = useMemo(() => {
     if (companiesState.status !== "ready") return [];
@@ -126,9 +128,10 @@ export function GameListPage() {
       if (genreId && !g.genreIds.includes(genreId)) return false;
       if (platform && !g.platforms.includes(platform as GamePlatform)) return false;
       if (companyId && !g.developerIds.includes(companyId) && g.publisherId !== companyId) return false;
+      if (seriesId && g.seriesId !== seriesId) return false;
       return true;
     });
-  }, [gamesState, q, genreId, platform, companyId]);
+  }, [gamesState, q, genreId, platform, companyId, seriesId]);
 
   const sorted = useMemo(() => {
     if (sort === "release-asc") return [...filtered].sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));
@@ -159,13 +162,13 @@ export function GameListPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["q", "genre", "platform", "company", "page"]) {
+    for (const key of ["q", "genre", "platform", "company", "series", "page"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || genreId || platform || companyId);
+  const hasActiveFilters = Boolean(q || genreId || platform || companyId || seriesId);
 
   return (
     <div className="page">
@@ -192,6 +195,16 @@ export function GameListPage() {
             {genresState.data.map((g) => (
               <option value={g.id} key={g.id}>
                 {g.name}
+              </option>
+            ))}
+          </select>
+        )}
+        {seriesState.status === "ready" && (
+          <select value={seriesId} onChange={(e) => updateParam("series", e.target.value)}>
+            <option value="">シリーズで絞り込み</option>
+            {seriesState.data.map((s) => (
+              <option value={s.id} key={s.id}>
+                {s.name}
               </option>
             ))}
           </select>

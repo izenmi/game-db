@@ -134,6 +134,19 @@ h1 {
   color: var(--color-ink-on-accent);
 }
 
+/* シリーズチップはジャンルチップと同じ並びに置くが、所属を示す上位の情報なので
+   アクセント色で塗って先頭にあることが一目で分かるようにする。 */
+.series-chip {
+  background: var(--color-green);
+  border-color: var(--color-green-strong);
+  color: var(--color-ink-on-accent);
+  font-weight: 700;
+}
+
+.series-chip:hover {
+  background: var(--color-green-strong);
+}
+
 .award-chip {
   background: transparent !important;
   border-color: var(--color-outline) !important;

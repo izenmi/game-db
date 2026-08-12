@@ -49,7 +49,8 @@
     },
     "sourceNote": "日本語版Wikipedia『ELDEN RING』記事(2026-08-02閲覧)で開発・発売元・発売日・受賞歴を確認。国内はフロム・ソフトウェア自社パブリッシング(海外はバンダイナムコエンターテインメント)。あらすじは独自要約(コピペなし)。Switch2版「Tarnished Edition」は2026-08-28発売予定で、本サイト時点(2026-08-02)ではまだ未発売のため対応機種には含めていない。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "えるでんりんぐ"
+    "titleKana": "えるでんりんぐ",
+    "seriesId": "elden-ring"
   },
   {
     "id": "god-of-war-ragnarok",
@@ -95,7 +96,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴッド・オブ・ウォー_ラグナロク"
     },
     "sourceNote": "日本語版Wikipedia『ゴッド・オブ・ウォー ラグナロク』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。受賞歴はfamitsu.com/CESA公式サイト等で裏取り。あらすじは独自要約(コピペなし)。PS4/PS5同時発売、本サイトはPS5のみ収録。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "god-of-war"
   },
   {
     "id": "spider-man-2",
@@ -128,7 +130,8 @@
       "officialUrl": "https://www.playstation.com/ja-jp/local/campaigns/marvels-spider-man-2"
     },
     "sourceNote": "日本語版Wikipedia『Marvel's Spider-Man 2』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。あらすじは独自要約(コピペなし)。日本ゲーム大賞・ファミ通アワードでの受賞有無は確認できず未掲載。The Game Awards 2023はGOTY含む7部門ノミネートのみで受賞なし(受賞作はBaldur's Gate 3)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "spider-man"
   },
   {
     "id": "ff7-rebirth",
@@ -177,7 +180,8 @@
       "officialUrl": "https://jp.finalfantasy.com/ff7r/"
     },
     "sourceNote": "日本語版Wikipedia『ファイナルファンタジーVII リバース』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。あらすじは独自要約(コピペなし)。PS5版が2024-02-29で最速発売。Switch2版は2026-06-03発売(SQUARE ENIX公式ニュース等で確認)で対応機種に含めている。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "gran-turismo-7",
@@ -260,7 +264,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Horizon_Forbidden_West"
     },
     "sourceNote": "日本語版Wikipedia『Horizon Forbidden West』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。あらすじは独自要約(コピペなし)。The Game Awards 2022はGOTYノミネートのみで受賞なし(受賞作はELDEN RING)。PS4/PS5同時発売、本サイトはPS5のみ収録。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "horizon"
   },
   {
     "id": "resident-evil-village",
@@ -299,7 +304,8 @@
       "officialUrl": "https://www.residentevil.com/village/jp/"
     },
     "sourceNote": "日本語版Wikipedia『バイオハザード ヴィレッジ』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。あらすじは独自要約(コピペなし)。PS5版は2021-05-08発売(最速)。Switch(無印)向けは2022-10-28発売のクラウド版のみでネイティブ移植ではないため対応機種に含めていない。Switch2版(ゴールドエディション)は2026-02-27発売で対応機種に含めている。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "resident-evil"
   },
   {
     "id": "zelda-totk",
@@ -343,7 +349,8 @@
       "officialUrl": "https://www.nintendo.com/jp/zelda/totk/index.html"
     },
     "sourceNote": "日本語版Wikipedia『ゼルダの伝説 ティアーズ オブ ザ キングダム』記事(2026-08-02閲覧)で開発・発売元・発売日・受賞歴を確認。あらすじは独自要約(コピペなし)。「Nintendo Switch 2 Edition」は2025-06-05発売(Switch版所有者はアップグレードパスで対応可)で対応機種に含めている。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "zelda"
   },
   {
     "id": "zelda-botw",
@@ -392,7 +399,8 @@
       "officialUrl": "https://www.nintendo.com/jp/zelda/botw/index.html"
     },
     "sourceNote": "日本語版Wikipedia『ゼルダの伝説 ブレス オブ ザ ワイルド』記事(2026-08-02閲覧)で開発・発売元・発売日・受賞歴を確認。あらすじは独自要約(コピペなし)。Switch(2017-03-03、ローンチタイトル)、Wii U版は対象外。「Nintendo Switch 2 Edition」は2025-06-05発売で対応機種に含めている。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "zelda"
   },
   {
     "id": "splatoon-3",
@@ -428,7 +436,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スプラトゥーン3"
     },
     "sourceNote": "日本語版Wikipedia『スプラトゥーン3』記事(2026-08-02閲覧)で開発・発売元・発売日・受賞歴を確認。あらすじは独自要約(コピペなし)。Switch2向けには2025-06-12のVer.10.0.0で動作最適化(後方互換強化)のみ実施され、ゼルダ等のような専用パッケージ版は存在しないため対応機種には含めていない。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "splatoon"
   },
   {
     "id": "animal-crossing-new-horizons",
@@ -513,7 +522,8 @@
       "officialUrl": "https://www.pokemon.co.jp/ex/sv/ja/"
     },
     "sourceNote": "日本語版Wikipedia『ポケットモンスター スカーレット・バイオレット』記事(2026-08-02閲覧)で開発・発売元・発売日・受賞歴を確認。発売元は株式会社ポケモン公式ニュースの表記を優先(任天堂は販売)。あらすじは独自要約(コピペなし)。Switch2向けには2025-06-05以降、動作最適化(高解像度化・フレームレート向上)のみ実施され専用パッケージ版は存在しないため対応機種には含めていない。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "pokemon"
   },
   {
     "id": "super-mario-odyssey",
@@ -557,7 +567,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/aaaca/index.html"
     },
     "sourceNote": "日本語版Wikipedia『スーパーマリオ オデッセイ』記事(2026-08-02閲覧)で開発・発売元・発売日・受賞歴を確認。開発は任天堂企画制作本部、1-UPスタジオが開発協力。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "super-mario"
   },
   {
     "id": "super-smash-bros-ultimate",
@@ -634,7 +645,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/anvya/index.html"
     },
     "sourceNote": "日本語版Wikipedia『ファイアーエムブレム 風花雪月』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。開発はインテリジェントシステムズとコーエーテクモゲームス(シブサワ・コウ名義)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "fire-emblem"
   },
   {
     "id": "mario-kart-world",
@@ -668,7 +680,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオカート_ワールド"
     },
     "sourceNote": "日本語版Wikipedia『マリオカート ワールド』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。Switch2ローンチタイトルでSwitch版は存在しない(複数ソースで確認)。あらすじは独自要約(コピペなし)。IGN JAPAN・ファミ通アワードの部門受賞情報は一次ソース未到達のため掲載を見送った。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "mario-kart"
   },
   {
     "id": "monster-hunter-rise",
@@ -705,7 +718,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/モンスターハンターライズ"
     },
     "sourceNote": "日本語版Wikipedia『モンスターハンターライズ』記事(2026-08-02閲覧)で開発・発売元・発売日を確認。Switch版が2021-03-26で最速発売、PS4/PS5等移植版は2023-01-20。PlayStation公式ブログ・GAME Watchで移植の裏取り。あらすじは独自要約(コピペなし)。Switch2版は本サイト時点(2026-08-02)で情報なし。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "monster-hunter"
   },
   {
     "id": "persona-5-royal",
@@ -743,7 +757,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ5"
     },
     "sourceNote": "日本語版Wikipedia『ペルソナ5』記事(P5R単独記事は存在せず統合、2026-08-02閲覧)で確認。オリジナルのPS4版は2019-10-31発売だが本サイト対象外(PS5/Switch非対応のため)。本サイトが収録するPS5/Switch/Xbox/PC版(DLC40種以上同梱のリマスター)は2022-10-21発売。あらすじは独自要約(コピペなし)。受賞歴は原作『ペルソナ5』発表時点のものを含む。",
-    "updatedAt": "2026-08-02"
+    "updatedAt": "2026-08-02",
+    "seriesId": "persona"
   },
   {
     "id": "the-last-of-us-part-1",
@@ -769,7 +784,8 @@
     },
     "sourceNote": "英語版Wikipedia『The Last of Us Part I』記事(2026-08-03閲覧)で開発元(Naughty Dog)・発売元(SIE)・日本発売日(2022-09-02)を確認。あらすじは独自要約(コピペなし)。原作『The Last of Us』(2013年PS3)はBAFTA Games Awards 2014でBest Game(Game of the Year)、D.I.C.E. Awards 2014(第17回)でGame of the Yearを受賞しているが、これらは2013年オリジナル版が受賞したものであり、本エントリが対象とする2022年PS5フルリメイク版自体が新たに獲得した受賞は追跡対象の9アワード内で確認できなかったため、awardResultsには含めていない。PC版(2023年)は本サイトが対象とするGamePlatformに含まれないため対応機種は「ps5」のみ。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "らすとおぶあすぱーと"
+    "titleKana": "らすとおぶあすぱーと",
+    "seriesId": "the-last-of-us"
   },
   {
     "id": "the-last-of-us-part-2-remastered",
@@ -794,7 +810,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/The_Last_of_Us_Part_II"
     },
     "sourceNote": "日本語版Wikipedia『The Last of Us Part II』記事(2026-08-03閲覧)で開発元・発売元・日本発売日(2024-01-19)・Remastered版の新要素(ギター演奏モード、没エリア探訪、NoReturnモード等)を確認。あらすじは独自要約(コピペなし)。原作『The Last of Us Part II』(2020年PS4)はThe Game Awards 2020でGame of the Year、Golden Joystick Awards 2020でUltimate Game of the Year、D.I.C.E. Awards 2021でOutstanding Achievement in Storyを受賞しているが、これらは2020年オリジナル版が受賞したものであり、2024年のRemastered版自体が新たに獲得した受賞は確認できなかったため、awardResultsには含めていない。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "the-last-of-us"
   },
   {
     "id": "ghost-of-tsushima-directors-cut",
@@ -850,7 +867,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Ghost_of_Tsushima"
     },
     "sourceNote": "日本語版Wikipedia『Ghost of Tsushima』記事および英語版Wikipedia(2026-08-03閲覧)で開発元・発売元・あらすじ・受賞歴を確認。Director's CutはPS4/PS5同時発売(2021-08-20)、PC版は2024-05-16。あらすじは独自要約(コピペなし)。受賞歴のうちGolden Joystick Awards 2021のBest Game Expansionのみ壱岐島編(Director's Cut追加コンテンツ)自体への授賞、それ以外は無印版発表時からの通算受賞。日本ゲーム大賞2021の正式部門名(年間作品部門大賞か優秀賞か)は要再確認。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "ghost-of"
   },
   {
     "id": "death-stranding-directors-cut",
@@ -887,7 +905,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/DEATH_STRANDING"
     },
     "sourceNote": "日本語版Wikipedia『DEATH STRANDING』記事(2026-08-03閲覧)で開発元・発売元・あらすじ・受賞歴を確認。PS5版Director's Cutの日本発売日は2021-09-24。日本国内PS5/PS4版の発売元はSIE(PC版は505 Games扱い)。あらすじは独自要約(コピペなし)。awardResultsは2019年オリジナル版(PS4)が獲得したものであり、2021年Director's Cut自体が新たに獲得した主要受賞は確認できなかった。D.I.C.E. Awardsの部門名(オーディオディレクション/テクニカル部門)は原文の記載が簡略で正式カテゴリ名の再確認が必要。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "death-stranding"
   },
   {
     "id": "returnal",
@@ -1059,7 +1078,8 @@
       "officialUrl": "https://blog.ja.playstation.com/2024/09/06/20240906-astro/"
     },
     "sourceNote": "日本語版Wikipedia『アストロボット』記事および英語版Wikipedia accolades節、PlayStation Blog JP・Famitsu記事(2026-08-03閲覧)で開発元(Team Asobi)・発売元(SIE)・日本発売日(2024-09-06)・受賞歴を確認。あらすじは独自要約(コピペなし)。Famitsuクロスレビューで36/40のプラチナ殿堂入りとの報道あり(個別アワード受賞ではないため awardResults には含めず)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "astro-bot"
   },
   {
     "id": "final-fantasy-16",
@@ -1109,7 +1129,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイナルファンタジーXVI"
     },
     "sourceNote": "日本語版Wikipedia『ファイナルファンタジーXVI』記事(2026-08-03閲覧)で開発元・発売元(いずれもスクウェア・エニックス)・日本発売日(2023-06-22、PS5独占先行)・あらすじ・受賞歴を確認。あらすじは独自要約(コピペなし)。Windows版は2024-09-18、Xbox Series X/S版は2025-06-09に発売されているが、本サイトのGamePlatform対象外のため対応機種はps5のみ。日本ゲーム大賞2022のフューチャー部門は発売前(東京ゲームショウ)選出の部門であることに留意。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "stellar-blade",
@@ -1210,7 +1231,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Marvel's_Spider-Man:Miles_Morales"
     },
     "sourceNote": "日本語版Wikipedia『Marvel's Spider-Man:Miles Morales』記事(2026-08-03閲覧)で開発元・発売元・日本発売日(2020-11-12、PS4/PS5同時)・あらすじ・受賞歴を確認。あらすじは独自要約(コピペなし)。PS4版もあるが本サイトはPS5のみ収録(発売日はPS4/PS5共通のためそのまま採用)。PC版は2022年発売だが本サイト対象外。The Game Awards 2020は複数部門ノミネートのみで受賞なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "spider-man"
   },
   {
     "id": "uncharted-legacy-of-thieves-collection",
@@ -1260,7 +1282,8 @@
       "officialUrl": "https://www.playstation.com/ja-jp/games/horizon-zero-dawn-remastered/"
     },
     "sourceNote": "日本語版Wikipedia「Horizon Zero Dawn」、PlayStation.Blog公式記事(2024/9/25, 2024/11/2)、4Gamer記事で発売日(2024年10月31日、PS5/PC)・開発元(Guerrilla)・発売元(SIE)を確認。受賞歴は確認できず未記載。あらすじは既存のオリジナル版の物語に基づき独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "horizon"
   },
   {
     "id": "sifu",
@@ -1317,7 +1340,8 @@
       "officialUrl": "https://www.residentevil.com/4/jp/"
     },
     "sourceNote": "日本語版Wikipedia「バイオハザード RE:4」で開発・発売元(カプコン)・発売日(2023年3月24日、PS5/PS4/Xbox/Steam/Apple)・あらすじを確認。日本ゲーム大賞2023優秀賞受賞をawards.cesa.or.jp公式受賞ページで確認。Switch版(パッケージ・クラウド共)は複数の攻略サイト(game8, アルテマ等)で2026年8月時点でも未発売・未発表と確認したため対応機種に含めていない。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "resident-evil"
   },
   {
     "id": "resident-evil-re2",
@@ -1355,7 +1379,8 @@
       "officialUrl": "https://www.residentevil.com/2/jp/"
     },
     "sourceNote": "日本語版Wikipedia「バイオハザード RE:2」でPS4/Xbox One/PC原版発売日(2019年1月25日)、および4Gamer/PlayStation Blog記事でPS5専用版(BIOHAZARD RE:2 Z Version相当、レイトレーシング・アダプティブトリガー対応)の発売日(2022年6月14日)を確認。Switch版は2022年11月11日発売の「バイオハザード RE:2 クラウド」のみで、ネイティブ移植ではなくクラウドストリーミング専用のためサイトの判定基準により対応機種から除外。releaseDateは対応機種として採用したPS5版の発売日を採用。受賞歴はGolden Joystick Awards 2019・日本ゲーム大賞2019をWikipedia記載内容で確認(部門詳細までは未確認)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "resident-evil"
   },
   {
     "id": "street-fighter-6",
@@ -1455,7 +1480,8 @@
       "officialUrl": "https://granbluefantasy.jp/relink/"
     },
     "sourceNote": "日本語版Wikipediaで開発(大阪Cygames)・発売元(Cygames)・発売日(2024年2月1日、PS4/PS5/Windows)・あらすじ概要を確認。PlayStation Game Music大賞2024ファンタジーサウンド賞受賞の記載はあるが、本サイトの既存9アワードに該当する賞ではないためawardResultsは未記載。2026年に追加要素版『エンドレスラグナロク』が発売されているが、本エントリは無印版の情報として記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "granblue-fantasy"
   },
   {
     "id": "dragons-dogma-2",
@@ -1496,7 +1522,8 @@
       "officialUrl": "https://www.dragonsdogma.com/2/jp/"
     },
     "sourceNote": "日本語版Wikipediaで開発・発売元(カプコン)・発売日(2024年3月22日、PS5/Xbox Series/Steam)・あらすじ・受賞歴(日本ゲーム大賞2023フューチャー部門、2024年間作品部門優秀賞、PlayStation Partner Awards 2024)を確認。拡張版『ドラゴンズドグマ2: ダークアリズン』(Switch2初対応)は2026年10月9日発売予定でgamebiz/ファミ通記事により確認したが、2026年8月3日時点で未発売のため対応機種には含めていない。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "dragons-dogma"
   },
   {
     "id": "armored-core-6-fires-of-rubicon",
@@ -1554,7 +1581,8 @@
       "officialUrl": "https://www.konami.com/games/silenthill2/jp/"
     },
     "sourceNote": "日本語版Wikipediaおよび英語版Wikipedia「Silent Hill 2 (2024 video game)」で開発元(Bloober Team)・発売元(コナミ)・発売日(2024年10月8日、PS5/Windows。Xbox Series X/S版は2025年11月21日追加)を確認。The Game Awards 2024・BAFTA Games Awards 2025はいずれもノミネートに留まり受賞なし(既存9アワードの受賞条件を満たさないため)、Steam Awards等本サイト対象外の賞のみ受賞のためawardResultsは未記載とした。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "silent-hill"
   },
   {
     "id": "alan-wake-2",
@@ -1586,7 +1614,8 @@
       "officialUrl": "https://www.alanwake.com/ja/"
     },
     "sourceNote": "英語版Wikipedia「Alan Wake 2」および複数の日本語メディア(Game*Spark、4Gamer)で開発元(Remedy Entertainment)・発売元(Epic Games Publishing)・発売日(2023年10月27日、PS5/Xbox Series/PC)・日本語音声対応を確認。The Game Awards 2023でBest Narrative・Best Art Direction・Best Game Directionの3部門受賞をgamerant等の英語メディアで確認。Nintendo Switch版は存在せず(前作リマスター版とは別作品)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "alan-wake"
   },
   {
     "id": "rise-of-the-ronin",
@@ -1681,7 +1710,8 @@
       "officialUrl": "https://www.sega.jp/game/detail/ryu-ga-gotoku-eight/"
     },
     "sourceNote": "対応機種・発売日(2024-01-26、PS5/PS4/Xbox/PC、Switch版なし)をセガ公式サイト・4Gamer記事で確認。開発元はRyu Ga Gotoku Studio、パブリッシャーはSEGA。受賞歴は日本ゲーム大賞公式サイト(awards.cesa.or.jp)で年間作品部門優秀賞(2024)、PlayStation Partner Awards 2024でのユーザーズチョイス賞受賞をニュース記事で確認。The Game Awards 2024 Best RPGはノミネートのみで受賞は逃した(Metaphorが受賞)ため不採用。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "like-a-dragon"
   },
   {
     "id": "like-a-dragon-gaiden",
@@ -1707,7 +1737,8 @@
       "officialUrl": "https://ryu-ga-gotoku.com/gaiden/"
     },
     "sourceNote": "正式タイトルは「龍が如く7外伝 名を消した男」(依頼文の「龍が如く外伝」は略称と判断)。発売日(2023-11-09)・対応機種(PS5/PS4/Xbox/PC、Switch版なし)をセガ公式サイト・4Gamer記事で確認。既存9アワードの範囲内での明確な受賞情報は検索で見つからなかったためawardResultsは空とした。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "like-a-dragon"
   },
   {
     "id": "lost-judgment",
@@ -1810,7 +1841,8 @@
       "officialUrl": "https://p3re.jp/"
     },
     "sourceNote": "発売日(PS5/PS4/Xbox/PC版2024-02-02)をアトラス公式・famitsu記事で確認。Nintendo Switch2版は2025-10-23に発売済み(famitsu記事・アトラス公式サイトp3re.jp/switch2で確認)のため対応機種に含めた。無印Switch版は非対応。受賞歴は日本ゲーム大賞公式サイト(awards.cesa.or.jp/2024/year/prize/10.html)で年間作品部門優秀賞を確認。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "persona"
   },
   {
     "id": "ff7-remake-intergrade",
@@ -1844,7 +1876,8 @@
       "officialUrl": "https://www.jp.square-enix.com/ff7r/"
     },
     "sourceNote": "既存登録済みの「ff7-rebirth」(FF7リバース)とは別作品と明確に区別するため、id/titleに「インターグレード」を明記。PS5版発売日(2021-06-10)をPlayStation Blog記事で確認。Switch2/Xbox Series X|S版は2026-01-22に発売済み(GAME Watch・電撃オンライン記事で確認、30fps動作・ゲームブースト機能付きのネイティブ移植)のためswitch2を対応機種に追加。受賞歴はPlayStation Awards 2021のパートナーアワード受賞をニュース記事(i-mezzo.net)で確認。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "death-stranding-2-on-the-beach",
@@ -1871,7 +1904,8 @@
       "officialUrl": "https://www.kojimaproductions.jp/"
     },
     "sourceNote": "発売日(2025-06-26)・対応機種(PS5独占、Xbox/PC版はこの時点で未発売)を4Gamer・PlayStation Blog記事で確認。The Game Awards 2025で7部門ノミネートされたが受賞は0件だった(gamerant等の記事で確認)ため、awardResultsは空とした。PC版が2026年3月19日に発売予定との情報があるが、本サイト運用時点(2026-08-03)ではまだ未発売のためps5のみ登録。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "death-stranding"
   },
   {
     "id": "ghost-of-yotei",
@@ -1896,7 +1930,8 @@
       "officialUrl": "https://www.playstation.com/ja-jp/games/ghost-of-yotei/"
     },
     "sourceNote": "発売日(2025-10-02、PS5独占)を神ゲー攻略・ASCII記事等で確認。日本語版Wikipedia記事は検索時点で見当たらなかったためwikipediaUrlは省略。The Game Awards 2025で7部門ノミネートされたが受賞なし(gamerant記事で確認)のためawardResultsは空。「Ghost of Yōtei」は英語表記が公式タイトルで、カタカナ表記(ゴースト・オブ・ヨウテイ)は攻略サイト等の慣用表記。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "ghost-of"
   },
   {
     "id": "hogwarts-legacy",
@@ -1951,7 +1986,8 @@
       "officialUrl": "https://diablo4.blizzard.com/ja-jp/"
     },
     "sourceNote": "発売日(2023-06-06、PS5/PS4/Xbox/PC)をPlayStation Blog・famitsu記事で確認。Nintendo Switch版は存在しない(対応機種に含めない)。日本国内発売元はブリザード・エンターテイメント。The Game Awards 2023・Golden Joystick Awards 2023ではノミネートに留まり受賞なしのため、既存9アワード範囲でのawardResultsは空とした。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "diablo"
   },
   {
     "id": "cyberpunk-2077-ultimate-edition",
@@ -1979,7 +2015,8 @@
       "officialUrl": "https://www.cyberpunk.net/us/ja/"
     },
     "sourceNote": "PS5版アルティメットエディションはDL版2023-12-05、パッケージ版2024-02-15に発売(4Gamer記事で確認)、releaseDateは最速のDL版日付を採用。Nintendo Switch2版は2025-06-05にSwitch2本体と同時発売のネイティブ移植(CD PROJEKT公式・famitsu記事で確認)のため対応機種に追加。日本国内のパッケージ版はスパイク・チュンソフトが窓口を担うが、Switch2版はCD PROJEKT自身が発表しており実態が入り組むため、publisherIdは開発元と同じcd-projekt-redを暫定採用(要再確認)。拡張版Phantom Liberty単体はGolden Joystick Awards 2023でBest Game Expansion等を受賞しているが、Ultimate Edition自体への帰属が明確でないためawardResultsには含めていない。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "cyberpunk"
   },
   {
     "id": "baldurs-gate-3",
@@ -2027,7 +2064,8 @@
       "officialUrl": "https://larian.com/games/baldurs-gate-3"
     },
     "sourceNote": "日本語PS5版発売日(2023-12-21)をスパイク・チュンソフト公式・4Gamer記事で確認。Switch/Switch2版は本サイト運用時点(2026-08-03)で正式発表・発売の事実が確認できず(2025年後半に一部リーク・噂記事があるのみで公式発表なし)、対応機種には含めていない。受賞歴はThe Game Awards 2023 GOTY、BAFTA Games Awards 2024 Best Game、D.I.C.E. Awards Game of the Year、Golden Joystick Awards 2023 Ultimate Game of the Yearの4冠をそれぞれ複数の英語ニュース記事(Deadline, Forbes, PC Gamer等)で確認。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "baldurs-gate"
   },
   {
     "id": "it-takes-two",
@@ -2099,7 +2137,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%82%A4%E3%83%89_%E3%83%89%E3%83%AC%E3%83%83%E3%83%89"
     },
     "sourceNote": "日本語版Wikipedia、AUTOMATON記事で発売日(2021-10-08)・開発体制(MercurySteamと任天堂の共同開発)を確認。The Game Awards 2021のBest Action/Adventure Game受賞、Golden Joystick Awards 2021のNintendo Game of the Year受賞を英語圏記事で確認。DICE Awards・BAFTA 2022はノミネートのみで受賞なしのため未掲載。Switch2向け専用エディションは確認されず(通常のSwitch2後方互換のみと推定)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "metroid"
   },
   {
     "id": "kirby-discovery",
@@ -2132,7 +2171,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3_%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC"
     },
     "sourceNote": "日本語版Wikipedia、4Gamer記事で発売日(2022-03-25)・開発元(ハル研究所)を確認。日本ゲーム大賞2022優秀賞を公式サイト(awards.cesa.or.jp/2022/prize/year/08.html)で確認。Switch2版は「星のカービィ ディスカバリー Nintendo Switch 2 Edition + スターリーワールド」として2025-08-28に発売済みであることをNintendo公式サイト・GAME Watchで確認し、専用強化版としてplatformsにswitch2を追加。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "kirby"
   },
   {
     "id": "xenoblade-3",
@@ -2164,7 +2204,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%83%893"
     },
     "sourceNote": "日本語版Wikipediaで発売日(2022-07-29)・開発元(モノリスソフト)を確認。The Game Awards 2022でGOTY含む複数部門にノミネートされたが受賞はなし(受賞は未掲載)。日本ゲーム大賞2023の年間作品部門優秀賞を複数のゲームメディア記事で確認。「ゼノブレイド3 Nintendo Switch 2 Edition」は2026-12-03発売予定でまだ発売されていない(switchsoku.com等で確認、本稿執筆時点2026-08-03では未発売)ため、platformsにswitch2は含めていない。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "xenoblade"
   },
   {
     "id": "xenoblade-2",
@@ -2196,7 +2237,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%83%892"
     },
     "sourceNote": "日本語版Wikipediaで発売日(2017-12-01)・開発元(モノリスソフト)を確認。日本ゲーム大賞2018年間作品部門優秀賞を複数記事(togetter、heityou-game.com等)で確認。「ゼノブレイド2 Nintendo Switch 2 Edition」はダウンロード版・アップグレードパスが2026-07-30、パッケージ版が2026-10-01発売と任天堂公式サイト・ファミ通記事(2026-07-30付)で確認。本稿執筆時点(2026-08-03)でダウンロード版が既に発売済みのため、専用強化版としてplatformsにswitch2を追加した。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "xenoblade"
   },
   {
     "id": "fire-emblem-engage",
@@ -2220,7 +2262,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%A8%E3%83%A0%E3%83%96%E3%83%AC%E3%83%A0_%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%BC%E3%82%B8"
     },
     "sourceNote": "日本語版Wikipedia、任天堂公式サイトで発売日(2023-01-20)・開発元(インテリジェントシステムズ)を確認。日本ゲーム大賞・The Game Awards等での受賞は検索した範囲では確認できず、awardResultsは記載していない(未確認)。Switch2専用エディションの情報は見当たらず、通常のSwitch2後方互換のみと判断。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "fire-emblem"
   },
   {
     "id": "pikmin-4",
@@ -2253,7 +2296,8 @@
       "officialUrl": "https://www.nintendo.co.jp/switch/ampya/"
     },
     "sourceNote": "日本語版Wikipediaで発売日(2023-07-21)を確認。開発元は任天堂(社内スタジオ)として既存companies.jsonのnintendoを再利用。The Game Awards 2023のBest Sim/Strategy Game受賞をX(旧Twitter)投稿および複数ゲームメディアで確認。日本ゲーム大賞2023での優秀賞受賞は検索範囲では確認できず未掲載。犬型相棒の名称等ゲーム内の細かな固有名詞は一般的な紹介記事レベルの確認に留まる。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "pikmin"
   },
   {
     "id": "mario-party-superstars",
@@ -2278,7 +2322,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA"
     },
     "sourceNote": "日本語版Wikipedia、game8.jp記事で発売日(2021-10-29)と開発元(NDキューブ、シーエイプロダクション、ウィルの共同開発)を確認。データベース設計上、開発主体としてNDキューブのみをdeveloperIdsに採用(既存企業リストに他2社なし)。受賞歴は検索範囲では確認できず未掲載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mario-party"
   },
   {
     "id": "mario-kart-8-deluxe",
@@ -2303,7 +2348,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/aabpa/index.html"
     },
     "sourceNote": "日本語版Wikipediaで発売日(2017-04-28)を確認。開発元は任天堂として既存companies.jsonのnintendoを再利用。The Game Awardsでの受賞情報は出典が不明瞭な記述しか見つからず確度が低いため未掲載。Switch2向け専用パッケージ版は見当たらず(後発の『マリオカート ワールド』はSwitch2向け別作品のため対象外)、platformsはswitchのみとした。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mario-kart"
   },
   {
     "id": "super-mario-maker-2",
@@ -2328,7 +2374,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC2"
     },
     "sourceNote": "日本語版Wikipediaで発売日(2019-06-28)を確認。開発元は任天堂として既存companies.jsonのnintendoを再利用。受賞歴は検索範囲では確認できず未掲載。Switch2向け専用エディションの情報は見当たらず、通常のSwitch2後方互換のみと判断。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "super-mario"
   },
   {
     "id": "luigis-mansion-3",
@@ -2360,7 +2407,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/ag3ja/index.html"
     },
     "sourceNote": "日本語版Wikipediaで発売日(2019-10-31)・開発元(Next Level Games)を確認。The Game Awards 2019のBest Family Game受賞をファミ通・GameSpark記事で確認。Switch2向け専用エディションの情報は見当たらず、通常のSwitch2後方互換のみと判断。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "luigis-mansion"
   },
   {
     "id": "bayonetta-3",
@@ -2384,7 +2432,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A8%E3%83%8D%E3%83%83%E3%82%BF3"
     },
     "sourceNote": "日本語版Wikipedia、denfaminicogamer記事で発売日(2022-10-28)・開発元(プラチナゲームズ)を確認。日本ゲーム大賞・ファミ通アワード・The Game Awards等での受賞は検索範囲では確認できず未掲載。Switch2向け専用エディションの情報は見当たらず、通常のSwitch2後方互換のみと判断。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "bayonetta"
   },
   {
     "id": "splatoon-2",
@@ -2417,7 +2466,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/aab6a/index.html"
     },
     "sourceNote": "日本語版Wikipediaで発売日(2017-07-21)を確認。開発元は任天堂として既存companies.jsonのnintendoを再利用。日本ゲーム大賞2018年間作品部門優秀賞をawards.cesa.or.jp/2018/prize/year/06.html他で確認。Switch2向けの新作『スプラトゥーン レイダース』(2026-07-23発売)は本作とは別タイトルであり、スプラトゥーン2自体のSwitch2専用エディションではないためplatformsに含めていない(通常のSwitch2後方互換のみ)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "splatoon"
   },
   {
     "id": "pokemon-legends-arceus",
@@ -2449,7 +2499,8 @@
       "officialUrl": "https://www.pokemon.co.jp/ex/legends_arceus/ja/"
     },
     "sourceNote": "日本語版Wikipedia、ファミ通記事で発売日(2022-01-28)を確認。開発元・発売元は既存companies.jsonのgame-freak/pokemon-companyを再利用。日本ゲーム大賞2022年間作品部門優秀賞を確認(CEDEC AWARDS 2022の受賞情報もあったが、既存9アワードの対象外のため未掲載)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "pokemon"
   },
   {
     "id": "pokemon-sword-shield",
@@ -2482,7 +2533,8 @@
       "officialUrl": "https://www.pokemon.co.jp/ex/sword_shield/"
     },
     "sourceNote": "日本語版Wikipedia・ファミ通記事・任天堂公式サイトで発売日(2019-11-15)、開発ゲームフリーク/発売元(株)ポケモンを確認。日本ゲーム大賞2020公式サイト(awards.cesa.or.jp/2020/prize/year/08.html)を直接確認し受賞内容(優秀賞・ベストセールス賞・グローバル賞日本作品部門)を確認。Switch専用ソフトで他機種版なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "pokemon"
   },
   {
     "id": "super-mario-bros-wonder",
@@ -2515,7 +2567,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/aqmxa/index.html"
     },
     "sourceNote": "日本語版Wikipedia・任天堂公式サイト・ファミ通記事でSwitch版発売日(2023-10-20)、開発・発売元任天堂を確認。The Game Awards 2023でBest Family Game受賞をGame*Spark記事で確認。Switch2版「Nintendo Switch 2 Edition + みんなでリンリンパーク」が2026-03-26に発売済み(ファミ通・gamebiz記事で確認)のためswitch2を追加。releaseDateは初出のSwitch版日付。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "super-mario"
   },
   {
     "id": "paper-mario-origami-king",
@@ -2540,7 +2593,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/aruua/index.html"
     },
     "sourceNote": "日本語版Wikipedia・GAME Watch記事・任天堂公式サイトで発売日(2020-07-17)、開発インテリジェントシステムズ、発売元任天堂を確認。日本ゲーム大賞等での受賞情報は検索で見つからず未確認のためawardResultsは省略。Switch専用で他機種版なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "paper-mario"
   },
   {
     "id": "astral-chain",
@@ -2629,7 +2683,8 @@
       "officialUrl": "https://www.jp.square-enix.com/octopathtraveler/"
     },
     "sourceNote": "スクウェア・エニックス公式サイトでSwitch版発売日(2018-07-13)、開発アクワイア/発売元スクウェア・エニックスを確認。PS5版は2024-06-06配信を複数報道で確認。Switch2版はダウンロード版が2026-07-13/14に配信開始(4Gamer記事で確認、パッケージ版10/1は今後発売のため未算入だがDL版既発売のためswitch2を対応機種に含めた)。ファミ通アワード2018・ゴールデンジョイスティックアワード2018の受賞はWeb検索の要約情報に基づく(一次ページ未直接確認のため念のため要再確認)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "octopath-traveler"
   },
   {
     "id": "octopath-traveler-2",
@@ -2656,7 +2711,8 @@
       "officialUrl": "https://www.jp.square-enix.com/octopathtraveler2/"
     },
     "sourceNote": "gamebiz・スクウェア・エニックス公式サイトでSwitch/PS4/PS5/Steam版が2023-02-24発売(Steam版のみ2/25)であることを確認、開発アクワイア/発売元スクウェア・エニックス。Switch2版ダウンロード配信が2026-07-13/14に開始済み(4Gamer記事)のためswitch2を対応機種に含めた。releaseDateは最速のSwitch/PS5版日付。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "octopath-traveler"
   },
   {
     "id": "triangle-strategy",
@@ -2708,7 +2764,8 @@
       "officialUrl": "https://www.dragonquest.jp/"
     },
     "sourceNote": "日本語版Wikipedia・4Gamer・PlayStation Blogでスイッチ版「S」の発売日(2019-09-27)を確認。PS4版「S」は2020-12-04発売(PS5専用版ではないため対応機種に含めず)。Switch2版は2026-09-24発売予定と発表されている(4gamer・gamewith記事)が、本日時点(2026-08-03)ではまだ未発売のためplatformsから除外し、switchのみとした。無印版(2017年)が日本ゲーム大賞を受賞した記録はあるが、本エントリは「S」デフィニティブエディション単独のためawardResultsは含めていない。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "dragon-quest"
   },
   {
     "id": "monster-hunter-stories-2",
@@ -2734,7 +2791,8 @@
       "officialUrl": "https://www.monsterhunter.com/stories2/ja/"
     },
     "sourceNote": "日本語版Wikipedia・カプコン公式サイトで発売日(2021-07-09)、開発・発売元ともカプコンを確認。PC(Steam)版もあるがPS5版は存在しないためplatformsはswitchのみ。日本ゲーム大賞等の受賞情報は検索で見つからず未掲載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "monster-hunter"
   },
   {
     "id": "xenoblade-definitive-edition",
@@ -2760,7 +2818,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/aubqa/index.html"
     },
     "sourceNote": "4Gamer・ファミ通記事でSwitch版発売日(2020-05-29)、開発モノリスソフト、発売元任天堂を確認。Switch2版「Nintendo Switch 2 Edition」はダウンロード版2026-06-10、パッケージ版2026-07-30に発売済み(gamesoft-navi等の記事で確認、いずれも本日2026-08-03より前)のためswitch2を対応機種に含めた。releaseDateは初出のSwitch版日付。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "xenoblade"
   },
   {
     "id": "shin-megami-tensei-5",
@@ -2785,7 +2844,8 @@
       "officialUrl": "https://www.atlus.co.jp/smt5/"
     },
     "sourceNote": "アトラス公式サイト・ファミ通記事で発売日(2021-11-11)、開発・発売元ともアトラスを確認。Switch専用タイトルでPS5版は存在しない(2024年発売の拡張版「Vengeance」はPS5/Xbox版もあるが別作品のため今回の調査対象外)。日本ゲーム大賞2021年間作品部門の大賞は「Ghost of Tsushima」「モンスターハンターライズ」であり、本作の優秀賞受賞有無は検索で確定できず未掲載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "shin-megami-tensei"
   },
   {
     "id": "fire-emblem-warriors-three-hopes",
@@ -2811,7 +2871,8 @@
       "officialUrl": "https://www.gamecity.ne.jp/fe_fs/"
     },
     "sourceNote": "ファミ通・GAME Watch記事・コーエーテクモ公式サイトで発売日(2022-06-24)、発売元コーエーテクモゲームスを確認。開発はコーエーテクモ内スタジオ「オメガフォース」を主体に任天堂・インテリジェントシステムズが協力する3社共同開発であることをファミ通インタビュー記事で確認。「ファイアーエムブレム 風花雪月」(fire-emblem-three-houses)とは別作品として区別。無双アクションを表す既存ジャンルタグがないため新規ジャンル「musou-action」を追加。Switch専用で他機種版なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "fire-emblem"
   },
   {
     "id": "advance-wars-1-2-reboot-camp",
@@ -2896,7 +2957,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオ+ラビッツ_ギャラクシーバトル"
     },
     "sourceNote": "海外名は「Mario + Rabbids: Sparks of Hope」。日本語版Wikipedia「マリオ+ラビッツ ギャラクシーバトル」(2026-08-03閲覧)で国内正式タイトル・発売日(2022-12-02)・対応機種(Switch)・国内発売元(任天堂)を確認。開発元(ユービーアイソフト ミラノ・パリ主導)および受賞歴(The Game Awards 2022 Best Sim/Strategy Game、D.I.C.E. Awards 2023 Family Game of the Year)は英語版Wikipediaで確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mario-rabbids"
   },
   {
     "id": "hollow-knight",
@@ -2923,7 +2985,8 @@
     },
     "sourceNote": "日本語版Wikipedia「Hollow Knight」および英語版Wikipedia(2026-08-03閲覧)で開発・発売元(Team Cherry、自社パブリッシング)、国内Switch版発売日(2018-06-13)、対応機種を確認。2026年2月5日にPS5・Switch 2向けの高解像度・高フレームレート対応ネイティブ版が追加配信されたことを英語版Wikipediaで確認し対応機種に含めた(互換パッチではなく専用版)。受賞歴は英語版Wikipediaで確認した範囲ではBAFTA/D.I.C.E./Golden Joystick/The Game Awards/GDC/SXSWはいずれもノミネートどまりで受賞なしのため未記載。あらすじは独自要約。ダウンロード専売か否かの断定はできていないが、各国でパッケージ版の流通実績もあり。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ほろうないと"
+    "titleKana": "ほろうないと",
+    "seriesId": "hollow-knight"
   },
   {
     "id": "hades",
@@ -2980,7 +3043,8 @@
     },
     "sourceNote": "英語版Wikipedia「Hades (video game)」(2026-08-03閲覧、日本語版Wikipediaに単独記事は見当たらず)で世界同時正式リリース日(Switch/PC/macOS、2020-09-17)、PS5版追加日(2021-08-13)、開発・発売元(Supergiant Games自社パブリッシング)、受賞歴(BAFTA/D.I.C.E./Golden Joystick/The Game Awards/GDC/SXSWの各受賞)を確認。日本語音声・テキスト対応は2021年6月のアップデートで追加された後追いローカライズであり、初期リリース自体は日本でも発売日から購入可能だったためリリース日として採用。あらすじは独自要約。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "はです"
+    "titleKana": "はです",
+    "seriesId": "hades"
   },
   {
     "id": "cuphead",
@@ -3243,7 +3307,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/超おどる_メイド_イン_ワリオ"
     },
     "sourceNote": "海外名は「WarioWare: Move It!」。日本語版Wikipedia「超おどる メイド イン ワリオ」(2026-08-03閲覧)で国内正式タイトル・開発元(任天堂・インテリジェントシステムズ)・発売元(任天堂)・発売日(2023-11-03)・対応機種(Switch)を確認。受賞歴は本サイトの9アワード内で該当するものが確認できず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "warioware"
   },
   {
     "id": "donkey-kong-bananza",
@@ -3284,7 +3349,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドンキーコング_バナンザ"
     },
     "sourceNote": "日本語版Wikipedia「ドンキーコング バナンザ」記事(2026-08-03閲覧)で発売日(2025-07-17)・対応機種(Switch2専用)・開発元(任天堂企画制作本部)・あらすじ・受賞歴(The Game Awards 2025 Best Family Game受賞、Golden Joystick Awards 2025 Critics' Choice Award受賞、ファミ通・電撃ゲームアワード2025アクション部門受賞)を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "donkey-kong"
   },
   {
     "id": "metroid-prime-4-beyond",
@@ -3310,7 +3376,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/メトロイドプライム4"
     },
     "sourceNote": "日本語版Wikipedia「メトロイドプライム4」記事(2026-08-03閲覧)で発売日(2025-12-04)・対応機種(Switch/Switch2)・開発元(レトロスタジオ)・あらすじを確認。受賞歴は記事上で確認できず未記載(発売が2025年12月とThe Game Awards 2025開催後のため対象外の可能性が高い)。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "metroid"
   },
   {
     "id": "split-fiction",
@@ -3391,7 +3458,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼノブレイドクロス"
     },
     "sourceNote": "日本語版Wikipedia「ゼノブレイドクロス」記事(2026-08-03閲覧)で、Switch版ディフィニティブエディションの発売日(2025-03-20)、およびSwitch2向け専用パッケージ版『ゼノブレイドクロス ディフィニティブエディション Nintendo Switch 2 Edition』が2026-02-19に発売済み(本サイト時点2026-08-03より前)であることを確認したため対応機種にSwitch2を含めた(単なる最適化パッチではなく独立したパッケージ版であることを記事本文で確認)。既存の xenoblade-2/xenoblade-3/xenoblade-definitive-edition(初代リメイク)とは別作品。あらすじは独自要約。受賞歴は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "xenoblade"
   },
   {
     "id": "pokemon-brilliant-diamond",
@@ -3415,7 +3483,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポケットモンスター_ブリリアントダイヤモンド・シャイニングパール"
     },
     "sourceNote": "日本語版Wikipedia「ポケットモンスター ブリリアントダイヤモンド・シャイニングパール」記事(2026-08-03閲覧)で発売日(2021-11-19)・対応機種(Switch)・開発元(ILCA、ゲームフリークが監修)を確認。対になる『シャイニングパール』は別バージョンのため本エントリには含めていない。あらすじは独自要約。受賞歴は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "pokemon"
   },
   {
     "id": "pokemon-legends-za",
@@ -3440,7 +3509,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Pokémon_LEGENDS_Z-A"
     },
     "sourceNote": "日本語版Wikipedia「Pokémon LEGENDS Z-A」記事(2026-08-03閲覧)で発売日(2025-10-16、本サイト時点で発売済み)・対応機種(Switch/Switch2)・開発元(ゲームフリーク)を確認。あらすじは独自要約。受賞歴(The Game Awards等)は英語版Wikipediaも確認したが受賞の明記なくノミネートのみのため未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "pokemon"
   },
   {
     "id": "sonic-frontiers",
@@ -3483,7 +3553,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソニックフロンティア"
     },
     "sourceNote": "日本語版Wikipedia「ソニックフロンティア」記事(2026-08-03閲覧)で発売日(2022-11-08)・対応機種(PS5/PS4/Switch/Xbox/PC、本DBではps5とswitchのみ採用)・開発元(ソニックチーム)・発売元(セガ)・あらすじ・受賞歴(日本ゲーム大賞2022フューチャー部門選出、ファミ通・電撃ゲームアワード2022アクションアドベンチャー部門最優秀賞、日本ゲーム大賞2023年間作品部門優秀賞)を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "sonic"
   },
   {
     "id": "ghostwire-tokyo",
@@ -3583,7 +3654,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ELDEN_RING_NIGHTREIGN"
     },
     "sourceNote": "日本語版Wikipedia「ELDEN RING NIGHTREIGN」記事、および英語版Wikipedia記事(いずれも2026-08-03閲覧)で発売日(2025-05-30)・対応機種(PS4/PS5/Xbox/PC、Switch非対応を確認)・開発元(フロム・ソフトウェア)・国内発売元(フロム・ソフトウェア自社パブリッシング、海外はバンダイナムコエンターテインメント)・あらすじ・受賞歴(日本ゲーム大賞2025優秀賞受賞)を確認。The Game Awards 2025 Best Multiplayer Game等はノミネートのみで受賞に至っていないため未採用。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "elden-ring"
   },
   {
     "id": "monster-hunter-wilds",
@@ -3615,7 +3687,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/モンスターハンターワイルズ"
     },
     "sourceNote": "日本語版Wikipedia「モンスターハンターワイルズ」記事、および英語版Wikipedia記事(いずれも2026-08-03閲覧)で発売日(2025-02-28)・開発元/発売元(カプコン)・あらすじ・受賞歴(日本ゲーム大賞2025優秀賞受賞、The Game Awards 2025 Best RPGはノミネートのみで未受賞のため不採用)を確認。Nintendo Switch2版は英語版Wikipediaに「開発中(発売時期未定)」との記述があるのみで本サイト時点(2026-08-03)で発売確認が取れなかったため対応機種はps5のみとした(要再確認)。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "monster-hunter"
   },
   {
     "id": "persona-5-tactica",
@@ -3640,7 +3713,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ5_タクティカ"
     },
     "sourceNote": "日本語版Wikipedia「ペルソナ5 タクティカ」記事(2026-08-03閲覧)で発売日(2023-11-17、全対応機種同日)・対応機種(PS5/PS4/Xbox/Switch/PC、本DBではps5とswitchのみ採用)・開発元(アトラス)・あらすじを確認。発売元は国内では実質アトラスブランドのため、既存のpersona-5-royal等に倣いpublisherIdをatlusとした。既存のpersona-5-royal・persona-3-reloadとは別作品。受賞歴は確認できず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "persona"
   },
   {
     "id": "slay-the-spire",
@@ -3856,7 +3930,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/カービィのエアライダー"
     },
     "sourceNote": "日本語版Wikipediaおよび検索結果でNintendo Switch 2専用ソフトとして2025-11-20発売済みであることを確認(本サイト運用日2026-08-03時点で既発売)。開発はバンダイナムコスタジオが受託開発を担当し、桜井政博氏(ソラ)がディレクションで参加していることを複数の検索結果で確認した。依頼内で想定されていたHAL研究所の関与は検索結果に一切見当たらず、開発クレジットに含まれない可能性が高い点を明記しておく(要再確認)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "kirby"
   },
   {
     "id": "fatal-frame-mask-of-the-lunar-eclipse",
@@ -3879,7 +3954,8 @@
     "synopsis": "10年に一度執り行われる神事の最中に神隠しに遭い記憶を失った5人の少女たちが、次々と死を迎える仲間の謎を追って封印された島へ再び足を踏み入れるホラーアドベンチャー。カメラを構えて怨霊を撮影し祓う独自の戦闘システムで、じわじわと迫る恐怖を体感できる。",
     "externalLinks": {},
     "sourceNote": "検索結果(Famitsu関連記事等)でSwitch/PS5/PS4/Xbox/Steam向けリマスター版の国内発売日(2023-03-09)、発売元コーエーテクモゲームスを確認。オリジナル版は2008年Wii用としてテクモ開発・任天堂発売・須田剛一氏(グラスホッパー・マニファクチュア)がディレクター参加という体制だったことも確認したが、2023年リマスター版の具体的な開発内製/外部委託の内訳は情報源から特定できなかったため developerId は自社発売元のkoei-tecmoを暫定採用(要再確認)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "fatal-frame"
   },
   {
     "id": "nier-automata-end-of-yorha-edition",
@@ -3924,7 +4000,8 @@
     "synopsis": "地方都市で連続する猟奇事件を追う高校生が、テレビの中の異世界に現れるペルソナを駆使して戦うRPG。学校生活を送りながら仲間との絆を深めることで力を得ていく育成要素と、ダンジョン探索・戦闘を組み合わせた構成に、追加エピソードや新キャラクターを加えた完全版。",
     "externalLinks": {},
     "sourceNote": "検索結果で、2023-01-19にPS4・Nintendo Switch・Xbox One向けにダウンロード版が配信されたことを確認。PS5については、PlayStation Storeの記載が『PS4版のPS5後方互換』のみである旨を複数の検索結果で確認し、専用PS5版は存在しないと判断して対応機種から除外した(依頼内の懸念事項どおり要確認の結果、PS5移植版は非実在と判断)。オリジナルはPS Vita版(2012-06-14)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "persona"
   },
   {
     "id": "puyo-puyo-tetris-2",
@@ -3947,7 +4024,8 @@
     "synopsis": "「ぷよぷよ」と「テトリス」、二つの落ち物パズルが再びひとつの盤面で激突する対戦パズルゲーム。前作から対戦バランスやモードを一新し、ストーリーモードでは中学生りんごたちが異世界の危機に立ち向かう。ぷよ派・テトリス派どちらの操作にも対応する懐の深さが魅力。",
     "externalLinks": {},
     "sourceNote": "検索結果でPS4/Switch/Xbox One/PS5/Xbox Series X|S向けの国内発売日(2020-12-10)、開発・発売元セガを確認。セガ社内のどのスタジオ(ソニックチーム等)が直接開発を担当したかまでは情報源で特定できなかったため developerId は既存の sega を採用。Switch 2版(2025-06-05)の存在も確認したが、本エントリの platforms には既存機種のみ記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "puyo-puyo"
   },
   {
     "id": "cult-of-the-lamb",
@@ -4000,7 +4078,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アサシン_クリード_シャドウズ"
     },
     "sourceNote": "日本語版Wikipedia『アサシン クリード シャドウズ』(2026-08-03閲覧)でPS5版発売日(2025-03-20)・開発元・あらすじを確認。Nintendo Switch 2版はDuckDuckGo経由の複数報道で2025-12-02発売と確認(バンダイナムコではなくユービーアイソフト自社パブリッシング)。受賞歴は今回の調査範囲(既存9アワード)では確認できず、awardResultsは空とした。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "assassins-creed-mirage",
@@ -4025,7 +4104,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/アサシン_クリード_ミラージュ"
     },
     "sourceNote": "日本語版Wikipedia『アサシン クリード ミラージュ』(2026-08-03閲覧)で発売日・対応機種・あらすじを確認。同記事にNintendo Switch非対応の明記あり、Switch2版の情報もなし。受賞歴は既存9アワード範囲で確認できず空とした。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "star-wars-jedi-survivor",
@@ -4051,7 +4131,8 @@
     },
     "sourceNote": "英語版Wikipedia『Star Wars Jedi: Survivor』(2026-08-03閲覧)で発売日・開発元・あらすじを確認(日本語版記事は開発中スタブで情報不足のため英語版を主に採用)。PS5/Xbox Series/PC以降、2024年にPS4/Xbox One版が追加されたが、Switch/Switch2版は存在しない。グラミー賞・DICE Awards等はノミネートまたは対象外の賞のため、既存9アワード範囲でのawardResultsは空とした。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "じぇだいさばいばー"
+    "titleKana": "じぇだいさばいばー",
+    "seriesId": "star-wars-jedi"
   },
   {
     "id": "a-plague-tale-requiem",
@@ -4076,7 +4157,8 @@
     },
     "sourceNote": "PC/Xbox Series/Switch(クラウド版)は2022-10-18に世界同時発売だが、PS5版は日本国内で2023-06-29発売(オーイズミ・アミュージオ発表、DuckDuckGo経由でPlayStation Store情報・Wikipedia記述を確認)のため、当DBのreleaseDateはPS5日本版の日付を採用。Nintendo Switch版はクラウドストリーミング専用(英語版Wikipedia確認)のため対応機種に含めていない。受賞歴は既存9アワード範囲で確認できず空とした。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ぷれいぐているれくいえむ"
+    "titleKana": "ぷれいぐているれくいえむ",
+    "seriesId": "a-plague-tale"
   },
   {
     "id": "lies-of-p",
@@ -4143,7 +4225,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍が如く7_光と闇の行方"
     },
     "sourceNote": "日本語版Wikipedia『龍が如く7 光と闇の行方』(2026-08-03閲覧)で発売日(PS4版2020-01-16、PS5版2021-03-02)・開発元・あらすじを確認。当DBはPS5版としてPS5版発売日を採用。日本ゲーム大賞の受賞歴はDuckDuckGo経由で複数記事(SEGA公式発表・まとめサイト)を確認。既存game id『like-a-dragon-infinite-wealth』(龍が如く8)とは別作品。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "like-a-dragon"
   },
   {
     "id": "spider-man-remastered",
@@ -4168,7 +4251,8 @@
     },
     "sourceNote": "英語版Wikipedia『Marvel's Spider-Man Remastered』(2026-08-03閲覧、日本語版『Marvel's Spider-Man』記事でも同内容を確認)で発売日・開発元・あらすじを確認。2020-11-12にPS5本体発売と同時に『Miles Morales』アルティメット・エディション同梱の形でリリースされ、2023-05-04より単品購入が可能になった(英語版Wikipedia記載)。無印PS4版の受賞歴(Famitsuプラチナ殿堂、PlayStation Awards 2018ゴールドプライズ)はPS5リマスター版固有の受賞ではないためawardResultsには含めていない。既存game id『spider-man-miles-morales』とは別作品(無印の移植版)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "すぱいだーまんりますたー"
+    "titleKana": "すぱいだーまんりますたー",
+    "seriesId": "spider-man"
   },
   {
     "id": "kena-bridge-of-spirits",
@@ -4264,7 +4348,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/テイルズ_オブ_アライズ"
     },
     "sourceNote": "日本語版Wikipedia『テイルズ オブ アライズ』(2026-08-03閲覧)で発売日・開発元・あらすじ・The Game Awards 2021受賞歴を確認。Nintendo Switch 2版は追加シナリオ等を収録した『Beyond the Dawn Edition』として2026-05-21発売(複数のゲーム情報サイト報道、DuckDuckGo経由で確認)のため対応機種に追加。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "tales-of"
   },
   {
     "id": "dragon-ball-sparking-zero",
@@ -4291,7 +4376,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンボール_Sparking!_ZERO"
     },
     "sourceNote": "日本語版Wikipedia『ドラゴンボール Sparking! ZERO』(2026-08-03閲覧)で発売日・開発元・あらすじを確認。PS5/Xbox Series/PC版は2024-10-10、Nintendo Switch版とSwitch 2版は同日2025-11-13(国内)に発売されたことをバンダイナムコ公式発表報道(DuckDuckGo経由)で確認したため両方を対応機種に含めた。The Game Awards 2024・DICE Awards 2025等はノミネートに留まり受賞なしのためawardResultsは空。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "dragon-ball"
   },
   {
     "id": "path-of-exile-2",
@@ -4315,7 +4401,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Path_of_Exile_2"
     },
     "sourceNote": "英語版Wikipedia『Path of Exile 2』(2026-08-03閲覧)およびDuckDuckGo経由の報道でPS5版アーリーアクセス開始日(2024-12-07)を確認。本調査時点(2026-08-03)では正式版(1.0)は未リリースで、2026年後半に予定と報じられている(2026年11月のExileConで詳細発表予定)。アーリーアクセスは購入・プレイ可能な形で実配信されているため対応機種に含めたが、正式版時期は未確定である点をsourceNoteに明記。日本語版Wikipedia記事は未確認。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "path-of-exile"
   },
   {
     "id": "guilty-gear-strive",
@@ -4537,7 +4624,8 @@
       "officialUrl": "https://persona5.jp/scramble/"
     },
     "sourceNote": "日本語版Wikipedia「ペルソナ5 スクランブル ザ・ファントム・ストライカーズ」(2026-08-03閲覧、国内製品名は『ペルソナ5 スクランブル』、海外名Persona 5 Strikers)で対応機種を確認したところPS4/Switch/Windows(Steam)のみでPS5専用版は存在しないことを確認したため、対応機種はswitchのみとした。開発元(アトラス、オメガフォース〈コーエーテクモゲームス〉)・発売元(国内アトラス/海外セガ、本サイトはアトラス表記で統一)・発売日(国内2020-02-20)・あらすじを確認。受賞歴の明記は見当たらず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "persona"
   },
   {
     "id": "streets-of-rage-4",
@@ -4698,7 +4786,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼルダの伝説_スカイウォードソード_HD"
     },
     "sourceNote": "日本語版Wikipedia『ゼルダの伝説 スカイウォードソード HD』(2026-08-03閲覧)で開発元(任天堂、Tantalus Media)・発売元(任天堂)・発売日(2021-07-16)を確認。Tantalus MediaのSwitch版開発への関与は英語版Wikipedia『The Legend of Zelda: Skyward Sword HD』(co-developed by Tantalus Media)でも確認し新規company追加。Switch2版・専用パッチは2026-08-03時点で確認できず、対応機種に含めていない。受賞歴の記載(本サイト対象9アワード内)は確認できず未掲載。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "zelda"
   },
   {
     "id": "pokemon-lets-go-pikachu",
@@ -4729,7 +4818,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポケットモンスター_Let's_Go!_ピカチュウ・Let's_Go!_イーブイ"
     },
     "sourceNote": "日本語版Wikipedia『ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ』(2026-08-03閲覧)で開発元(ゲームフリーク)・発売元(株式会社ポケモン)・発売日(2018-11-16)・ファミ通アワード2019優秀賞受賞を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "pokemon"
   },
   {
     "id": "super-mario-3d-world-fury-world",
@@ -4754,7 +4844,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーマリオ_3Dワールド_+_フューリーワールド"
     },
     "sourceNote": "日本語版Wikipedia『スーパーマリオ 3Dワールド + フューリーワールド』(2026-08-03閲覧)で開発元(任天堂情報開発本部、1-UPスタジオ)・発売元(任天堂)・Switch版発売日(2021-02-12)を確認。Wii U版(2013年)当時の海外メディアGOTY選出等は本サイト対象9アワード外のため掲載を見送った。Switch2専用版・パッチは2026-08-03時点で確認できず、対応機種に含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "super-mario"
   },
   {
     "id": "mario-vs-donkey-kong-2024",
@@ -4875,7 +4966,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/おすそわける_メイド_イン_ワリオ"
     },
     "sourceNote": "日本語版Wikipedia『おすそわける メイド イン ワリオ』(2026-08-03閲覧)で海外名(WarioWare: Get It Together!)・開発元(任天堂、インテリジェントシステムズ)・発売元(任天堂)・発売日(2021-09-10)を確認。既存収録作『超おどる メイド イン ワリオ』(id: warioware-move-it、海外名Move It!、2023年)とは別作品。The Game Awards 2021『Best Family Game』・D.I.C.E. Awards『Family Game of the Year』はいずれもノミネートに留まり受賞はなし(英語版Wikipedia『WarioWare: Get It Together!』で確認)のため掲載を見送った。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "warioware"
   },
   {
     "id": "bravely-default-2",
@@ -4898,7 +4990,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブレイブリーデフォルトII"
     },
     "sourceNote": "日本語版Wikipedia『ブレイブリーデフォルトII』(2026-08-03閲覧)で開発元(クレイテックワークス)・発売元(スクウェア・エニックス)・Switch版発売日(2021-02-26)を確認。クレイテックワークスは設立年(2018年、シリコンスタジオのゲーム開発部門からの独立)をWeb検索で確認し新規company追加。受賞歴(日本ゲーム大賞・The Game Awards等)の記載はWeb検索でも確認できず未掲載。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "bravely-default"
   },
   {
     "id": "live-a-live-2022",
@@ -4950,7 +5043,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story_R"
     },
     "sourceNote": "日本語版Wikipediaに独立記事なし(2026-08-03、検索で確認)。英語版Wikipedia『Star Ocean: The Second Story R』で開発元(tri-Ace出身の北尾雄一郎氏率いるジェムドロップ)・発売元(スクウェア・エニックス)・Switch/PS4/PS5/Windows版発売日(2023-11-02)を確認。Nintendo Switch 2版が2026-07-16に追加発売されたことをSquare Enix公式サイト・ファミ通・Game Watch等の複数記事(Web検索経由)で確認し、本サイト運用時点(2026-08-03)で既発売のためplatformsにswitch2を追加。ジェムドロップの設立年(2013年5月)・代表者は公式サイト等で確認し新規company追加。受賞歴の記載は確認できず未掲載。releaseDateは収録機種内最速のSwitch/PS5版発売日を採用。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "star-ocean"
   },
   {
     "id": "sea-of-stars",
@@ -5047,7 +5141,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/聖剣伝説3"
     },
     "sourceNote": "日本語版Wikipedia「聖剣伝説3」内のリメイク版記述で開発元・発売日・概要を確認。対応プラットフォームはPS4/Switch/Steam(後にXbox/モバイル追加)で、PS5・Switch2版は確認できず(未対応と判断)。受賞歴は記事内に記載なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mana"
   },
   {
     "id": "dragon-quest-treasures",
@@ -5069,7 +5164,8 @@
     "synopsis": "『ドラゴンクエストXI』の主人公エリックとミーアの幼少期を描くスピンオフ作品。空に浮かぶ島々の世界ドラコニアを舞台に、伝説の秘宝ドラゴンストーンを求めて冒険する。仲間モンスターを引き連れた探索と拠点経営を組み合わせたゲーム性が特徴。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia記事は未発見のため英語版Wikipedia「Dragon Quest Treasures」で開発元・発売日・概要を確認。PS5・Switch2版は確認できず(Switch/PC(Steam)のみ)。受賞歴は記載なし。公式サイトURLは未確認のため省略。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "dragon-quest"
   },
   {
     "id": "rune-factory-5",
@@ -5091,7 +5187,8 @@
     "synopsis": "記憶を失った主人公が、警備組織シードの一員として町リグバースで暮らし始める物語。農業や町の人々との交流といった生活パートと、モンスターとの戦闘・ダンジョン探索を組み合わせたシリーズ最新作。主人公の性別を選択できる。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipedia「ルーンファクトリー5」で開発元・発売元・発売日・概要を確認(英語版で開発元名の英語表記Hakamaも照合)。PS5・Switch2版は存在せず(Switch/Steamのみ)。受賞歴の記載なし。発売直後の不具合報告についても言及あり。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "rune-factory"
   },
   {
     "id": "super-mario-rpg",
@@ -5117,7 +5214,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーマリオRPG"
     },
     "sourceNote": "日本語版Wikipedia「スーパーマリオRPG」で開発元(任天堂・スクウェア・エニックス・アルテピアッツァ)・発売日・概要を確認。Switch専用でPS5・Switch2版なし。2023年リメイク版自体の受賞歴の記載は確認できず(オリジナル版の評価のみ記載)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "super-mario"
   },
   {
     "id": "paper-mario-the-thousand-year-door",
@@ -5142,7 +5240,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペーパーマリオRPG"
     },
     "sourceNote": "日本語版Wikipedia「ペーパーマリオRPG」で開発元(任天堂・インテリジェントシステムズ、トーセが開発協力)・発売日・概要を確認。Switch専用でPS5・Switch2版なし。受賞歴の記載は確認できず。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "paper-mario"
   },
   {
     "id": "klonoa-phantasy-reverie-series",
@@ -5189,7 +5288,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロマンシング_サガ_-ミンストレルソング-"
     },
     "sourceNote": "日本語版Wikipedia「ロマンシング サガ -ミンストレルソング-」のリマスター版セクションで開発元・発売元・発売日・概要を確認。対応プラットフォームはPS5/PS4/Switch/iOS/Android/Steamで、当データベース対象のPS5・Switchを採用。受賞歴の記載なし。開発元バレットの詳細情報は未確認。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "romancing-saga"
   },
   {
     "id": "story-of-seasons-a-wonderful-life",
@@ -5212,7 +5312,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/牧場物語_ワンダフルライフ"
     },
     "sourceNote": "依頼書では邦題「牧場物語 わくわくアニマルマーチ」・英題「Story of Seasons: A Wonderful Life」と記載されていたが、両者は実際には別作品(わくわくアニマルマーチ=Harvest Moon: Animal Parade、Wii専用2008年作でPS5/Switch/Switch2版なし)。英題が指す実際の対応作品は2023年リメイク版『牧場物語 Welcome!ワンダフルライフ』(国際版タイトルがStory of Seasons: A Wonderful Life)と判断し、日本語版Wikipedia「牧場物語 ワンダフルライフ」で開発元・発売元・発売日(Switch 2023-01-26、PS5/XSX 2023-06-22、Steam 2023-06-28)・概要を確認してこちらを採用した。受賞歴の記載なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "story-of-seasons"
   },
   {
     "id": "harvestella",
@@ -5256,7 +5357,8 @@
     "synopsis": "ドラゴンクエストモンスターズシリーズ25周年記念作で、約22年ぶりの完全新作。『ドラゴンクエストIV』の裏側の物語として、半魔半人の王子プサロが母を失った後にモンスターマスターとなり、仲間ロザリーやベネットと共に数奇な運命に立ち向かう姿を描く。",
     "externalLinks": {},
     "sourceNote": "依頼書の副題「魔王と3つの紋章」は実在するWikipedia記事名・公式表記と一致せず、シリーズ検索の結果「ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅」(英題: The Dark Prince)が該当作と判断してこちらを採用。日本語版Wikipedia同記事で開発元(トーセ)・発売元・発売日・概要を確認。Switch専用(後にSteam/iOS/Android)でPS5・Switch2版なし。受賞歴の記載はないが2023年12月のソフト販売本数首位という言及あり。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "dragon-quest"
   },
   {
     "id": "fast-fusion",
@@ -5322,7 +5424,8 @@
     "synopsis": "前作から時を経た新たな王国を舞台に、沈黙の騎士ペニテント・ワンが「三つの後悔」を集め、呪い「奇跡」の復活を阻止するために戦う2Dメトロイドヴァニア。武器を持ち替えながら探索と戦闘を進め、選択次第で異なる結末を迎える。",
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia「Blasphemous 2」で開発元(The Game Kitchen)・発売元(Team17)・各プラットフォーム発売日・概要を確認。Switch/PS5/Xbox/PC同時発売(2023-08-24)、PS4/Xbox One版は同年11月2日追加。日本語版Wikipedia記事は未発見のため英語版を採用。受賞歴の記載なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "blasphemous"
   },
   {
     "id": "grounded",
@@ -5579,7 +5682,8 @@
     },
     "sourceNote": "英語版Wikipedia『Overcooked!』記事(2026-08-03閲覧)で開発・発売元・プラットフォーム別発売日を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。PS5/Xbox Series版は2020-11-12、Switch/PS4版は2021-03-23と発売日が異なるため、本サイトの発売日は先行するPS5版の日付を採用した。受賞歴について、記事では初代『Overcooked』(本リマスター版ではない)がBAFTA Best British Game/Best Family Gameを受賞したと記載されており、本作『All You Can Eat』自体の受賞は確認できなかったため未記載。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "おーばーくっくど おうこくのふるこーす"
+    "titleKana": "おーばーくっくど おうこくのふるこーす",
+    "seriesId": "overcooked"
   },
   {
     "id": "mario-party-jamboree",
@@ -5606,7 +5710,8 @@
       "officialUrl": "https://www.nintendo.com/jp/switch/awvpa/index.html"
     },
     "sourceNote": "日本語版Wikipedia『スーパーマリオパーティ ジャンボリー』記事(2026-08-03閲覧)で開発(ニンテンドーキューブ・ウィル・シーエイプロダクション)・Switch版発売日(2024-10-17)・Switch2版(2025-07-24、ジャンボリーTV同梱の拡張版)・ノミネート歴を確認。あらすじは独自要約(コピペなし)。The Game Awards 2024やDICE Awards 2025はノミネートのみで受賞は確認できなかったため受賞歴は未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mario-party"
   },
   {
     "id": "endless-ocean-luminous",
@@ -5654,7 +5759,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピクミン"
     },
     "sourceNote": "日本語版Wikipedia『ピクミン』『ピクミン2』記事(2026-08-03閲覧)で両作のSwitch版発売日(いずれも2023-06-22)、および単品販売と『ピクミン1+2』としてのカップリング販売が存在することを確認。ただし『ピクミン1+2』単独の独立記事は見つからず、パッケージ版の詳細(物理版の有無等)は未確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "pikmin"
   },
   {
     "id": "balatro",
@@ -5718,7 +5824,8 @@
     },
     "sourceNote": "英語版Wikipedia『Ori and the Will of the Wisps』記事(2026-08-03閲覧)で開発(Moon Studios)・Switch版発売元(iam8bit)・発売日(2020-09-18)・受賞歴を確認。日本語版記事は見つからず英語版を使用。あらすじは独自要約(コピペなし)。PS5版は記事中に記載がなく確認できなかったため対応機種に含めていない(Windows/Xbox/Switchのみ)。The Game Awards 2020は複数部門ノミネートのみで受賞は確認できなかったため未記載。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "おりあんどうぃるおぶざうぃすぷす"
+    "titleKana": "おりあんどうぃるおぶざうぃすぷす",
+    "seriesId": "ori"
   },
   {
     "id": "chrono-cross-radical-dreamers-edition",
@@ -5767,7 +5874,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ライザのアトリエ3_〜終わりの錬金術士と秘密の鍵〜"
     },
     "sourceNote": "日本語版Wikipedia『ライザのアトリエ3』記事(2026-08-03閲覧)で発売日(Switch/PS5/PS4は2023-03-23、Steamは3-24)・対応機種・開発元(ガスト)・発売元(コーエーテクモゲームス)・あらすじを確認。本サイトはPS4/Steamを対象外機種とするためswitch/ps5のみ記載。受賞歴の明記は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "atelier"
   },
   {
     "id": "dragon-quest-iii-hd-2d-remake",
@@ -5795,7 +5903,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴンクエストIII_そして伝説へ…"
     },
     "sourceNote": "日本語版Wikipedia『ドラゴンクエストIII そして伝説へ…』記事(2026-08-03閲覧)で発売日(2024-11-14)・対応機種(Switch/Switch2/PS5/Xbox Series/Steam等)・開発元(アートディンク、スクウェア・エニックス浅野チーム)・発売元・売上実績(発売1週間でSwitch版64万本超、世界累計200万本)を確認。Xbox/Steamは本サイト対象外機種のため未記載。個別の賞の受賞明記は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "dragon-quest"
   },
   {
     "id": "saga-frontier-2-remastered",
@@ -5845,7 +5954,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロマンシングサガ2"
     },
     "sourceNote": "日本語版Wikipedia『ロマンシングサガ2』記事(2026-08-03閲覧)で発売日(Switch/PS4/PS5は2024-10-24、Steamは10-25、Switch2は2025-07-31)・開発元(Xeen、日本語表記「ジーン」)・発売元(スクウェア・エニックス)を確認。Switch2版は2025-07-31に発売済み(本日2026-08-03時点)のため対応機種に含めた。英語版WikipediaでMetacriticスコア等は確認したが、既存9アワードの受賞明記は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "romancing-saga"
   },
   {
     "id": "unicorn-overlord",
@@ -5950,7 +6060,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブレイブリーデフォルト_フライングフェアリー"
     },
     "sourceNote": "日本語版Wikipedia『ブレイブリーデフォルト フライングフェアリー』記事(2026-08-03閲覧)でNintendo Switch2版の発売日(2025-06-05)・Xbox Series/Steam版(2026-03-13発売予定、本日2026-08-03時点で未発売)・発売元(スクウェア・エニックス)を確認。開発元(Cattle Call)は日本語版記事に明記がなかったため英語版Wikipedia『Cattle Call』で確認。Switch2のみ発売済みのため対応機種はswitch2のみ。既存9アワードでの受賞明記は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "bravely-default"
   },
   {
     "id": "granblue-fantasy-versus-rising",
@@ -5974,7 +6085,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/グランブルーファンタジーヴァーサス"
     },
     "sourceNote": "日本語版Wikipedia『グランブルーファンタジーヴァーサス』記事(2026-08-03閲覧)で発売日(PS5/PS4/Steamは2023-12-14)・開発元(アークシステムワークス)・発売元(Cygames)・あらすじを確認。Nintendo Switch2版は2026-09-17発売予定と記載されているが、本日(2026-08-03)時点でまだ発売されていないため、本サイトの収録基準(未発売タイトルは対応機種に含めない)に従いplatformsから除外した。PS4/Steamは本サイト対象外機種のためps5のみ記載。既存9アワードでの受賞明記は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "granblue-fantasy"
   },
   {
     "id": "the-king-of-fighters-xv",
@@ -6022,7 +6134,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス6"
     },
     "sourceNote": "日本語版Wikipedia『コール オブ デューティ ブラックオプス6』記事(2026-08-03閲覧)で発売日(2024-10-25)・開発元(Treyarch、Raven Software)・発売元(アクティビジョン)・あらすじを確認。**Switch/Switch2版は存在しないことを明記のうえ確認**(同記事・複数報道でPS4/5、Xbox One/Series、Windowsのみと確認、CoDシリーズは近年Switch非対応が続いている)。The Game Awards 2024でBest Multiplayer Game等にノミネートされたが、英語版Wikipedia『The Game Awards 2024』で受賞したのはHelldivers IIであり本作は受賞していないことを確認したため、awardResultsは記載しない。PS4/Xbox/Windowsは本サイト対象外機種のためps5のみ記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "call-of-duty"
   },
   {
     "id": "thirteen-sentinels-aegis-rim",
@@ -6096,7 +6209,8 @@
     },
     "sourceNote": "英語版Wikipedia『Little Nightmares III』記事(2026-08-03閲覧)で開発元(Supermassive Games)・発売元(バンダイナムコエンターテインメント)・対応プラットフォーム(PS5/Switch/Switch2/PS4/PC/Xbox)・発売日(2025-10-10)を確認。日本語版Wikipediaには本作単独記事がなく、シリーズ記事『LITTLE NIGHTMARES-リトルナイトメア-』内で発売日のみ言及(2026-08-03時点で単独記事はリダイレクト無し=未作成)。受賞歴の明記は見当たらず記載せず。あらすじは独自要約。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "りとるないとめあ"
+    "titleKana": "りとるないとめあ",
+    "seriesId": "little-nightmares"
   },
   {
     "id": "the-outlast-trials",
@@ -6120,7 +6234,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Outlast_Trials"
     },
     "sourceNote": "英語版Wikipedia『The Outlast Trials』記事(2026-08-03閲覧)で開発・発売元(Red Barrels自社パブリッシング)・対応プラットフォーム(PS5あり、Switch/Switch2なし)・発売日(2024-03-05正式リリース、2023-05-18アーリーアクセス開始)を確認。日本語版Wikipediaに単独記事なし。受賞歴の明記は見当たらず記載せず。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "outlast"
   },
   {
     "id": "dying-light-2-stay-human",
@@ -6145,7 +6260,8 @@
     },
     "sourceNote": "日本語版Wikipedia『ダイイングライト2』記事(2026-08-03閲覧)で発売日・あらすじを確認、開発元Techlandは自社パブリッシング(日本国内はスパイク・チュンソフトが販売)であることを英語版Wikipediaと合わせて確認。対応プラットフォームはPS5のみを収録、Switch版はクラウド版のみのため対応機種から除外。受賞歴の明記は見当たらず記載せず。あらすじは独自要約。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "だいいんぐらいとすていひゅーまん"
+    "titleKana": "だいいんぐらいとすていひゅーまん",
+    "seriesId": "dying-light"
   },
   {
     "id": "hitman-world-of-assassination",
@@ -6239,7 +6355,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ニード・フォー・スピード_アンバウンド"
     },
     "sourceNote": "日本語版Wikipedia『ニード・フォー・スピード アンバウンド』記事(2026-08-03閲覧)で開発元・発売元・対応プラットフォーム(PS5/Xbox Series/PC、Switch非対応、Switch2の言及なし)・発売日・あらすじ根拠を確認。同記事に受賞歴記載はなかったため、DICE Awardsノミネートは英語版Wikipediaで補完。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "need-for-speed"
   },
   {
     "id": "hi-fi-rush",
@@ -6357,7 +6474,8 @@
     },
     "sourceNote": "英語版Wikipedia『Civilization VII』記事(2026-08-03閲覧)で開発元(Firaxis Games)・発売元(2K)・対応プラットフォーム(PS5/PS4/Switch/PC等が2025-02-11、Nintendo Switch2版は2025-06-05に追加)・受賞歴を確認。日本語版Wikipediaに単独記事は見当たらず。releaseDateは初回発売日を採用、Switch2版追加日をsourceNoteに明記。あらすじは独自要約。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "しどまいやーずしゔぃらいぜーしょん"
+    "titleKana": "しどまいやーずしゔぃらいぜーしょん",
+    "seriesId": "civilization"
   },
   {
     "id": "neon-white",
@@ -6530,7 +6648,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/SILENT_HILL_f"
     },
     "sourceNote": "日本語版Wikipedia『SILENT HILL f』(2026-08-03閲覧)で対応プラットフォーム(PS5/Xbox Series X|S/PC、Switch言及なし)・開発元(ネオバーズ)・発売元(コナミデジタルエンタテインメント)・発売日(2025年9月25日)・あらすじ・ファミ通/電撃ゲームアワードでのGame of the Year受賞(開発チームのMVC部門受賞は作品自体の賞ではないため除外)を確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "silent-hill"
   },
   {
     "id": "fantasy-life-i",
@@ -6654,7 +6773,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Hollow_Knight:_Silksong"
     },
     "sourceNote": "日本語版Wikipedia『Hollow Knight: Silksong』(2026-08-03閲覧)で2025年9月4日発売済み・対応プラットフォーム(Switch/Switch2/PS5/Xbox/PC)・開発元/発売元(Team Cherry)を確認。指示にあった「2026-08-03時点で発売済みか」の確認は済み(発売済み)。受賞歴の明記は確認できず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "hollow-knight"
   },
   {
     "id": "sea-of-thieves",
@@ -6734,7 +6854,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonic_X_Shadow_Generations"
     },
     "sourceNote": "英語版Wikipedia『Sonic Generations』内の『Sonic X Shadow Generations』節(2026-08-03閲覧、日本語版記事の推測URLは404で取得できず)で2024年10月25日のリマスター発売・2025年6月5日のNintendo Switch 2版追加・開発元(ソニックチーム)・発売元(セガ)を確認。旧作『ソニック ジェネレーションズ』(2011年)自体の受賞歴(IGN Editor's Choice等)は本リマスター版の受賞ではないため含めていない。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "sonic"
   },
   {
     "id": "kingdom-come-deliverance-2",
@@ -6771,7 +6892,8 @@
     },
     "sourceNote": "英語版Wikipedia『Kingdom Come: Deliverance II』(2026-08-03閲覧、日本語版記事は取得できず404)で対応プラットフォーム(PS5/Windows/Xbox Series、Switch/Switch2への言及なし)、開発元(Warhorse Studios)・発売元(Deep Silver/Plaion)、発売日(2025年2月4日)、BAFTA Games Awards 2026 Narrative部門受賞、Golden Joystick Awards 2025 Ultimate Game of the Yearで2位(準グランプリ)を確認。あらすじは独自要約。",
     "updatedAt": "2026-08-08",
-    "titleKana": "きんぐだむ かむ でりばらんす つー"
+    "titleKana": "きんぐだむ かむ でりばらんす つー",
+    "seriesId": "kingdom-come"
   },
   {
     "id": "indiana-jones-and-the-great-circle",
@@ -6825,7 +6947,8 @@
     },
     "sourceNote": "日本語版Wikipedia『Astro's Playroom』(2026-08-03閲覧)でPS5専用であること・発売日(2020年11月12日)・開発元(Team Asobi/旧SIEジャパンスタジオ)・発売元(SIE)を確認。2024年発売の既存登録『アストロボット』(astro-bot)とは別作品であり、本作はPS5同梱のDualSense技術デモ(約4時間)、アストロボットは独立した本格3Dプラットフォーマーである点を確認した上で、id重複を避けるためastros-playroomとして新規登録した。受賞歴の明記は記事内に確認できず未記載。あらすじは独自要約。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "あすとろずぷれいるーむ"
+    "titleKana": "あすとろずぷれいるーむ",
+    "seriesId": "astro-bot"
   },
   {
     "id": "assassins-creed-valhalla",
@@ -6847,7 +6970,8 @@
     "synopsis": "9世紀のヴァイキング時代を舞台に、故郷ノルウェーを追われた戦士エイヴォルが一族を率いてイングランドへ移住し、新たな定住地を築こうとする物語。各地の王国と同盟や抗争を重ねながら勢力を広げる一方、古き結社と呼ばれる謎の組織の影が忍び寄り、やがて陰謀の中心に巻き込まれていく。広大な北欧世界を自由に探索できるオープンワールド作品。",
     "awardResults": [],
     "sourceNote": "日本語版Wikipedia『アサシン クリード ヴァルハラ』(2026-08-03閲覧、WebFetch)で開発元(ユービーアイソフト モントリオール主導)・ジャンル・あらすじを確認。PS5版発売日は日本で2020-11-12(PS5本体発売日、他機種版は2020-11-10)。ファミ通クロスレビューでプラチナ殿堂入りとの記載はあったが、本サイトの既存9賞のいずれにも該当しないためawardResultsは空とした。BAFTA Games Awards等での個別受賞の有無は未確認。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "devil-may-cry-5-special-edition",
@@ -6867,7 +6991,8 @@
     "synopsis": "悪魔の血を引く狩人ネロとダンテ、そして因縁の兄弟ヴァージルが入り乱れる激しい戦いを描くスタイリッシュアクション第5弾の完全版。義手デビルブレイカーを駆使するネロ、複数の戦闘スタイルを操るダンテに加え、本作からプレイアブル化されたヴァージルの三者三様のアクションを、次世代機の性能を活かした滑らかな映像で楽しめる。",
     "awardResults": [],
     "sourceNote": "Web検索(2026-08-03、ファミ通・GAME Watch記事)でPS5版がPS5本体発売日と同じ2020-11-12に発売されたこと、ヴァージルの追加操作キャラクター化・レイトレーシング対応・DualSenseのアダプティブトリガー対応等の新要素を確認。無印『デビルメイクライ5』(2019年PS4版)は本サイト既収録の225本に含まれておらず、スペシャルエディションのみを新規収録した。受賞歴は確認できず空欄。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "devil-may-cry"
   },
   {
     "id": "dead-island-2",
@@ -6999,7 +7124,8 @@
     "synopsis": "文明が崩壊した後の世界で、行方不明になった仲間を捜すため「トラベラー」と呼ばれる生存者が、異なる次元をつなぐ石を通じて複数の世界を渡り歩いていく。銃器を主体としたソウルライク風の高難度戦闘に加え、訪れるたびに地形や敵配置が変化する手続き生成マップが特徴で、最大3人までの協力プレイで探索と戦闘を楽しめる三人称シューティングRPG。",
     "awardResults": [],
     "sourceNote": "英語版Wikipedia『Remnant II』(2026-08-03閲覧、WebFetch)およびファミ通記事(2023-09-26)で開発元(Gunfire Games)・発売元(THQ Nordicブランドで展開するGearbox Publishing)・ジャンル・あらすじを確認。世界同時デジタル配信は2023-07-25、日本国内のPS5パッケージ版発売は2023-09-26のため、最速のデジタル配信日をreleaseDateに採用した。The Game Awards 2023・Golden Joystick Awards 2023・D.I.C.E. Awards 2024でノミネートされたが受賞はなし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "remnant"
   },
   {
     "id": "lords-of-the-fallen-2023",
@@ -7052,7 +7178,8 @@
       }
     ],
     "sourceNote": "日本語版Wikipedia『仁王 (ゲーム)』(2026-08-03閲覧、WebFetch)で開発元(コーエーテクモゲームス/Team NINJA)・ジャンル・あらすじ・PlayStation Awards 2017 Gold Prize/ユーザーズチョイス賞・日本ゲーム大賞2017優秀賞の受賞(いずれもオリジナルPS4版、2017-02-23発売、に対するもの)を確認。本サイトはPS5版「Remastered Complete Edition」(2021-02-04発売)のみを対応機種として収録しているためreleaseDateは同日付を採用し、受賞歴はresultにオリジナル版での受賞である旨を明記した。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "nioh"
   },
   {
     "id": "wo-long-fallen-dynasty",
@@ -7146,7 +7273,8 @@
     "synopsis": "戦争賠償金による好景気に沸くカルバード共和国を舞台に、裏社会の揉め事を非公式に解決する「よろず屋」の青年ヴァン・アークライドが主人公。ある少女から持ち込まれた依頼をきっかけに、共和国を揺るがす政治的陰謀や犯罪組織の暗躍に巻き込まれていく、軌跡シリーズ第3期(カルバード編)の幕開けとなるストーリーRPG。",
     "awardResults": [],
     "sourceNote": "Web検索・日本語版Wikipedia『英雄伝説 黎の軌跡』(2026-08-03閲覧)で開発元・発売元(いずれも日本ファルコム)・発売日(PS4: 2021-09-30、PS5/Steam: 2022-07-28、Switch: 2024-02-15)・ジャンル(ストーリーRPG)・あらすじを確認。本サイトはPS5とSwitchを対応機種として収録し、releaseDateは含めた機種の中で最速のPS5版日付を採用した。ファミ通クロスレビューでゴールド殿堂入りとの記載はあったが本サイトの既存9賞には該当せず、awardResultsは空欄とした。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "trails"
   },
   {
     "id": "judge-eyes-remastered",
@@ -7200,7 +7328,8 @@
     "synopsis": "長年「FIFA」の名を冠してきたEAのサッカーゲームシリーズが、国際サッカー連盟とのライセンス契約終了に伴い、新たに「EA SPORTS FC」として生まれ変わった記念すべき第1作。実在の選手やクラブ、リーグを多数収録し、選手の実際の動きをモーションキャプチャーで取り込む技術により、これまで以上にリアルな試合展開を再現している。",
     "awardResults": [],
     "sourceNote": "英語版Wikipedia『EA Sports FC 24』(2026-08-03閲覧、WebFetch)で開発元(EA Vancouver、EA Romaniaと共同開発)・発売元(Electronic Arts)・発売日(2023-09-29、PS5/PS4/Switch/Xbox/PC同時)・FIFAブランドからの改称経緯を確認。The Game Awards 2023・D.I.C.E. Awards 2024でノミネートされたが受賞はなし。Switch版はNintendo Switch向け専用パッケージが発売されているため対応機種に含めた。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "ea-sports-fc"
   },
   {
     "id": "kirby-star-allies",
@@ -7223,7 +7352,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/星のカービィ_スターアライズ"
     },
     "sourceNote": "日本語版Wikipedia「星のカービィ スターアライズ」(2026-08-03閲覧、WebFetch)で発売日(2018-03-16)・開発元(ハル研究所)・発売元(任天堂)を確認。ファミ通クロスレビュープラチナ殿堂入り・月間販売ランキング1位は確認できたが、本サイト対象の9アワードでの受賞歴は確認できず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "kirby"
   },
   {
     "id": "arms",
@@ -7293,7 +7423,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパー_マリオパーティ"
     },
     "sourceNote": "日本語版Wikipedia「スーパー マリオパーティ」(2026-08-03閲覧、WebFetch)で発売日(2018-10-05)・開発元(エヌディーキューブ・シーエイプロダクション・ウィル)・発売元(任天堂)を確認。ファミ通クロスレビューでのゴールド殿堂入りは確認できたが、本サイト対象のファミ通アワード等の受賞歴とは別の指標のため未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mario-party"
   },
   {
     "id": "luigis-mansion-2-hd",
@@ -7317,7 +7448,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ルイージマンション2"
     },
     "sourceNote": "4Gamer・Gamer.ne.jp・ファミ通の各記事(2026-08-03閲覧)で発売日(2024-06-27)・発売元(任天堂)を確認。開発は原作(3DS版、Next Level Games)をTantalus MediaがHDリマスターした旨を確認。日本語版Wikipediaには本作単独の記事は見当たらず「ルイージマンション2」記事内の言及を参照。受賞歴は確認できず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "luigis-mansion"
   },
   {
     "id": "miitopia-switch",
@@ -7387,7 +7519,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファイアーエムブレム無双"
     },
     "sourceNote": "日本語版Wikipedia「ファイアーエムブレム無双」(2026-08-03閲覧、WebFetch)で発売日(日本・アジア2017-09-28)・開発元(コーエーテクモゲームス内のオメガフォース、Team NINJAの混成チーム)を確認。発売元は日本国内ではコーエーテクモゲームス、海外では任天堂と地域により異なるが、既存の「ファイアーエムブレム無双 風花雪月」(fire-emblem-warriors-three-hopes)がpublisherIdにkoei-tecmoを採用している前例に倣い本作も同様とした。対応機種はNew 3DS版もあるが本サイトの対象外のためSwitch版のみ収録。ファミ通クロスレビュープラチナ殿堂入りは確認できたが、本サイト対象9アワードでの受賞歴は確認できず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "fire-emblem"
   },
   {
     "id": "captain-toad-treasure-tracker-switch",
@@ -7460,7 +7593,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピクミン3"
     },
     "sourceNote": "日本語版Wikipedia「ピクミン3」およびNintendo Life・GoNintendo等の英語メディア報道(2026-08-03閲覧、WebFetch/WebSearch)で発売日(2020-10-30)・Switch版の移植開発をエイティングが担当したことを確認。エイティングは既存companies.jsonに未収録のため新規追加(コロプラ完全子会社、対戦・アクションゲームの受託開発で知られる)。原作(Wii U版、2013年)と区別しSwitch版のみを対象とする。受賞歴は確認できず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "pikmin"
   },
   {
     "id": "mario-luigi-brothership",
@@ -7505,7 +7639,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼルダの伝説_夢をみる島"
     },
     "sourceNote": "日本語版Wikipedia「ゼルダの伝説 夢をみる島」(2026-08-03閲覧、WebFetch)でSwitch版発売日(2019-09-20)・開発元(グレッゾ)・発売元(任天堂)を確認。グレッゾは本バッチの「ミートピア」(miitopia-switch)でも新規追加。ファミ通クロスレビュー・IGN・Game Informer等の高評価は確認できたが、本サイト対象9アワードでの受賞歴は確認できず未記載。原作は1993年発売のゲームボーイ版。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "zelda"
   },
   {
     "id": "game-builder-garage",
@@ -7549,7 +7684,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Bayonetta_Origins:_Cereza_and_the_Lost_Demon"
     },
     "sourceNote": "英語版Wikipedia「Bayonetta Origins: Cereza and the Lost Demon」および電撃オンライン・ファミ通の記事(2026-08-03閲覧)で発売日(2023-03-17)・開発元(プラチナゲームズ)・発売元(任天堂)を確認。日本語版Wikipediaの単独記事URLは複数パターンを試したが到達できず、英語版を採用した。既存の「ベヨネッタ3」(bayonetta-3)とは別作品として区別。受賞歴は確認できず未記載。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "bayonetta"
   },
   {
     "id": "animal-well",
@@ -7939,7 +8075,8 @@
       "officialUrl": "https://www.dragonquest.jp/roto-trilogy/dq1and2/"
     },
     "sourceNote": "ファミ通.com記事(2025年10月30日付)・4Gamer記事(2025年10月)・スクウェア・エニックス公式サイトで発売日(2025-10-30、PC版Steamのみ10-31)・対応機種(Switch2/Switch/PS5/Xbox/PC)・開発体制(アートディンク&SQEX浅野チーム、企画制作スクウェア・エニックス)を確認。開発元は既存id「artdink」を再利用し、社内チームは「square-enix」に統合。日本ゲーム大賞等での受賞は2026-08-03時点で確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "dragon-quest"
   },
   {
     "id": "fate-samurai-remnant",
@@ -8043,7 +8180,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔界戦記ディスガイア7"
     },
     "sourceNote": "日本語版Wikipedia『魔界戦記ディスガイア7』記事(2026-08-03閲覧)で開発元・発売元(日本一ソフトウェア、欧米/Steamは NIS America)・対応機種(Switch/PS4/PS5/Steam)・発売日(2023-01-26、Steam版は9-22)・あらすじを確認。日本ゲーム大賞フューチャー部門2022年受賞作一覧に本作の記載は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "disgaea"
   },
   {
     "id": "star-ocean-the-divine-force",
@@ -8066,7 +8204,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スターオーシャン6_THE_DIVINE_FORCE"
     },
     "sourceNote": "日本語版Wikipedia『スターオーシャン6 THE DIVINE FORCE』記事(2026-08-03閲覧)で開発元(トライエース)・発売元(スクウェア・エニックス)・対応機種(PS4/PS5/Xbox/Steam、Switch版は無し)・発売日(2022-10-27)・あらすじ冒頭を確認。受賞歴は検索時点で確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "star-ocean"
   },
   {
     "id": "fantasian-neo-dimension",
@@ -8112,7 +8251,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "国内ゲームメディア記事(2026-08-03検索時点、Gamingdeputy Japan等)で開発・発売元(マーベラス)・対応機種(Nintendo Switch/PC、当初2025-05-30発売予定から2025-06-05に延期)・ジャンル・あらすじ概要を確認。有償アップグレードの「Nintendo Switch 2 Edition」も存在するが、既存ソフトの性能強化版という位置付けのため対応機種にはswitch2を含めていない(CLAUDE.mdの動作最適化パッチの扱いに準拠)。受賞歴は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "rune-factory"
   },
   {
     "id": "ys-x-nordics",
@@ -8136,7 +8276,8 @@
       "officialUrl": "https://www.falcom.co.jp/ysx/"
     },
     "sourceNote": "日本ファルコム公式サイト・電撃オンライン等の記事(2026-08-03検索時点)で開発・発売元(日本ファルコム)・対応機種(Switch/PS4/PS5)・発売日(2023-09-28)・新システム(デュアルクロス)を確認。Nintendo Switch 2向け強化版「イースX -Proud NORDICS-」(2025-07-31)が別途発売されているが、既発売のオリジナル版の対応機種のみを採用しswitch2は含めていない。受賞歴は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "ys"
   },
   {
     "id": "kuro-no-kiseki-2-crimson-sin",
@@ -8160,7 +8301,8 @@
       "officialUrl": "https://www.falcom.co.jp/games-data/kuro2"
     },
     "sourceNote": "日本ファルコム公式サイト・ファミ通/4Gamer記事(2026-08-03検索時点)で発売日(PS5/PS4版2022-09-29)・対応機種を確認。Switch版『黎の軌跡II for Nintendo Switch』は2024-07-25に別途発売されたためsourceNoteに明記した上でplatformsにswitchを含めている(releaseDateは最速のPS5/PS4版基準)。既存gameエントリ「kuro-no-kiseki」(黎の軌跡I、genreIds: rpg)と同じ命名・ジャンル方針に合わせた。受賞歴は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "trails"
   },
   {
     "id": "fuga-melodies-of-steel-2",
@@ -8206,7 +8348,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "ファミ通.com記事(2025年1月16日付)・電撃オンライン記事(2026-08-03検索時点)で発売日(2025-01-16、Steam版は1-17)・対応機種(Switch/PS5/PS4/Xbox/Steam)・原作(2010年PS3版のリマスター)を確認。開発スタジオの詳細な単独クレジットは検索時点で確認できなかったため、既存id「bandai-namco-studios」(開発)・「bandai-namco-entertainment」(発売)を踏襲。受賞歴は確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "tales-of"
   },
   {
     "id": "sand-land",
@@ -8251,7 +8394,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "ファミ通.com記事・4Gamer関連記事(2026-08-03検索時点)で開発(ガスト、既存id「gust」)・発売(コーエーテクモゲームス)・対応機種(PS5/Nintendo Switch 2/Xbox/Steam。Nintendo Switch[無印]版は無くSwitch2独占)・発売日(2025-03-21)を確認。日本ゲーム大賞フューチャー部門等での受賞は検索時点で確認できず未記載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "atelier"
   },
   {
     "id": "tokyo-mirage-sessions-fe-encore",
@@ -8420,7 +8564,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/NARUTO_X_BORUTO_ナルティメットストームコネクションズ"
     },
     "sourceNote": "日本語版Wikipedia『NARUTO X BORUTO ナルティメットストームコネクションズ』(2026-08-03閲覧)で発売日(2023-11-16)・対応機種(PS5/PS4/Switch/Xbox One/Steam)・発売元(バンダイナムコエンターテインメント)を確認。開発元(サイバーコネクトツー)は英語版Wikipedia『Naruto X Boruto: Ultimate Ninja Storm Connections』で確認。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "naruto"
   },
   {
     "id": "bleach-rebirth-of-souls",
@@ -8941,7 +9086,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/バイオハザード7_レジデント_イービル"
     },
     "sourceNote": "日本語版Wikipedia『バイオハザード7 レジデント イービル』(2026-08-03 WebFetch)で開発・発売元カプコン、受賞歴、対応プラットフォームを確認。原作は2017年にPS4/Xbox One/PC向けに発売されたが本サイトの対応機種基準では対象外のため含めていない。本サイトが対応機種として含むのはPS5/Xbox Series X|S版(国内2022-06-14発売)とNintendo Switch 2版(『ゴールドエディション グロテスクVer.』として2026-02-27発売、2026-08-03時点で発売済み)の2つで、releaseDateはこのうち最速のPS5版発売日を採用した。旧来のSwitch(無印)版はクラウド版のみのため対応機種に含めていない。受賞歴はVRモードでの受賞を含むが作品自体への表彰のため掲載した。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "resident-evil"
   },
   {
     "id": "visage",
@@ -9081,7 +9227,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソニックレーシング_クロスワールド"
     },
     "sourceNote": "日本語版Wikipedia『ソニックレーシング クロスワールド』(2026-08-03、WebFetchで確認)で開発元(ソニックチーム)・発売元(セガ)・対応機種・発売日を確認。PS5/Switch版は2025-09-25発売、Switch2版はデジタル版2025-12-04・パッケージ版2026-04-10発売とやや遅れて展開されたため、releaseDateは最速のPS5/Switch版発売日を採用。The Game Awards 2025でBest Sports/Racing Game・Best Family Gameにノミネートされたが、いずれも受賞は逃した(公式発表ページで確認)ためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "sonic"
   },
   {
     "id": "chocobo-gp",
@@ -9195,7 +9342,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia『F1 24』(2026-08-03、WebFetchで確認)で開発元(Codemasters)・発売元(EA Sports、社名としては既存id「electronic-arts」を採用)・対応機種(Switch版なし)・発売日を確認。The Game Awards 2024でBest Sports/Racing Game候補に挙がったが受賞は逃した(公式ノミネート一覧で確認)ためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "f1"
   },
   {
     "id": "rocket-league",
@@ -9278,7 +9426,8 @@
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia『Tony Hawk's Pro Skater 1 + 2』(2026-08-03、WebFetchで確認)で開発元(Vicarious Visions)・発売元(Activision、既存id「activision-blizzard」を採用)・プラットフォーム別発売日・受賞歴を確認。受賞はいずれも2020年のPS4/PC版発売時のもの。releaseDateはPS5版(2021-03-26)とSwitch版(2021-06-25)のうち早い方を採用。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "とにーほーくぷろすけーたーくろすじぇんでらっくすばんどる"
+    "titleKana": "とにーほーくぷろすけーたーくろすじぇんでらっくすばんどる",
+    "seriesId": "tony-hawk"
   },
   {
     "id": "wwe-2k24",
@@ -9300,7 +9449,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia『WWE 2K24』(2026-08-03、WebFetchで確認)で開発元(Visual Concepts)・発売元(2K、既存id「2k」を採用)・対応機種(Switch版なし)・発売日を確認。The Game Awards 2024でBest Sports/Racing Game候補に挙がったが受賞は逃した(公式ノミネート一覧で確認)ためawardResultsには含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "wwe-2k"
   },
   {
     "id": "efootball",
@@ -9346,7 +9496,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia『MLB The Show 24』(2026-08-03、WebFetchで確認)で開発元(San Diego Studio、既存の「santa-monica-studio」とは別のSIE傘下スタジオのため新規id化)・発売元(SIE)・対応機種・発売日を確認。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mlb-the-show"
   },
   {
     "id": "powerwash-simulator",
@@ -9390,7 +9541,8 @@
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia『House Flipper 2』(2026-08-03、WebFetchで確認)で開発元(Frozen District、共同開発のEmpyreanは省略)・発売元(PlayWay)・対応機種(Switch版の記載なし、PS5のみ)・発売日を確認。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "はうすふりっぱー"
+    "titleKana": "はうすふりっぱー",
+    "seriesId": "house-flipper"
   },
   {
     "id": "two-point-museum",
@@ -9413,7 +9565,8 @@
     "externalLinks": {},
     "sourceNote": "英語版Wikipedia『Two Point Museum』(2026-08-03、WebFetchで確認)で開発元(Two Point Studios)・発売元(Sega)・対応機種・発売日を確認。PS5/PC版は2025-03-04、Switch2版は2025-10-28発売とやや遅れているため、releaseDateは最速のPS5版発売日を採用。無印Switch版は存在せずSwitch2版のみのためplatformsにswitchは含めていない。あらすじは独自要約(コピペなし)。受賞歴は本サイト対象9賞の範囲では確認できず。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "つーぽいんとみゅーじあむ"
+    "titleKana": "つーぽいんとみゅーじあむ",
+    "seriesId": "two-point"
   },
   {
     "id": "farming-simulator-25",
@@ -9460,7 +9613,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリオ+ラビッツ_キングダムバトル"
     },
     "sourceNote": "日本語版Wikipedia『マリオ+ラビッツ キングダムバトル』(2026-08-03、WebFetch)で国内発売日(2018-01-18、日本・韓国・台湾・香港向け)・対応機種(Switch)・開発元(ユービーアイソフト)・発売元(東アジアは任天堂)を確認。続編『ギャラクシーバトル』が既収録のため、本作は未収録の第1作として追加。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mario-rabbids"
   },
   {
     "id": "tactics-ogre-reborn",
@@ -9508,7 +9662,8 @@
     },
     "sourceNote": "英語版Wikipedia『Front Mission 2』(2026-08-03、WebFetch)でFRONT MISSION 2: Remakeの開発元(Storm Trident)・発売元(Forever Entertainment)・対応機種・発売日を確認。Switch版はダウンロード版が2023-10-05、パッケージ版が2024-02-15、PS4/PS5パッケージ版が2024-08-29発売(releaseDateは収録機種内最速のSwitch版digital日を採用)。日本語ローカライズの有無・日本語版Wikipedia記事の存在は未確認。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ふろんとみっしょんせかんどりめいく"
+    "titleKana": "ふろんとみっしょんせかんどりめいく",
+    "seriesId": "front-mission"
   },
   {
     "id": "disgaea-6",
@@ -9532,7 +9687,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔界戦記ディスガイア6"
     },
     "sourceNote": "日本語版Wikipedia『魔界戦記ディスガイア6』(2026-08-03、WebFetch)で開発元・発売元(日本一ソフトウェア)・対応機種(Switch/PS4/PS5/Steam)・発売日(Switch/PS4版2021-01-28、PS5版2022-06-16)を確認。releaseDateは収録機種(Switch/PS5)内最速のSwitch版日付を採用。PS4は対応機種の対象外。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "disgaea"
   },
   {
     "id": "valkyria-chronicles-4",
@@ -9602,7 +9758,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Civilization_VI"
     },
     "sourceNote": "英語版Wikipedia『Civilization VI』(2026-08-03、WebFetch)で開発元(Firaxis Games)・Switch版の発売日(2018-11-16)・Switch版の移植をAspyr Mediaが担当したことを確認。publisherIdは既存の2K Games(id: 2k)を採用したが、Switch版が実際に2Kブランドで発売されたか、Aspyr独自パブリッシュだったかは一次資料で確定できず未確認(sourceNoteに明記)。日本語版Wikipediaのページ名特定に失敗したため英語版のみで裏取り。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "civilization"
   },
   {
     "id": "nobunaga-ambition-shinsei",
@@ -9765,7 +9922,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Banner_Saga"
     },
     "sourceNote": "英語版Wikipedia『The Banner Saga』(2026-08-03、WebFetch)で開発元(Stoic)・発売元(Versus Evil)・対応機種(Windows/OS X/Linux/iOS/Android/PS4/Xbox One/Switch)・発売日(PS4版2016-01-12、Switch版2018-05-17)を確認。本サイトはPS4非対応のためSwitch版のみ収録、releaseDateはSwitch版日付を採用。日本語版Wikipedia記事・日本語ローカライズの有無は未確認。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "the-banner-saga"
   },
   {
     "id": "super-robot-wars-30",
@@ -9788,7 +9946,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スーパーロボット大戦30"
     },
     "sourceNote": "日本語版Wikipedia『スーパーロボット大戦30』(2026-08-03、WebFetch)で開発元(B.B.スタジオ)・発売元(バンダイナムコエンターテインメント)・対応機種(Switch/PS4/Steam)・発売日(2021-10-28)を確認。本サイトはPS4非対応のためSwitch版のみ収録。あらすじは独自要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "super-robot-wars"
   },
   {
     "id": "black-myth-wukong",
@@ -9891,7 +10050,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼルダの伝説_知恵のかりもの"
     },
     "sourceNote": "日本語版Wikipedia『ゼルダの伝説 知恵のかりもの』記事(2026-08-03、WebFetchで確認)で開発元(グレッゾ)・発売元(任天堂)・発売日(2024-09-26、Switch)を確認。あらすじは独自要約(コピペなし)。記事内に本サイト追跡対象アワードでの受賞歴の明記は見当たらずawardResultsは未掲載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "zelda"
   },
   {
     "id": "doom-the-dark-ages",
@@ -9920,7 +10080,8 @@
         "result": "Innovation in Accessibility"
       }
     ],
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "doom"
   },
   {
     "id": "suikoden-1-2-hd-remaster",
@@ -9981,7 +10142,8 @@
       }
     ],
     "updatedAt": "2026-08-08",
-    "titleKana": "はです"
+    "titleKana": "はです",
+    "seriesId": "hades"
   },
   {
     "id": "like-a-dragon-pirate-yakuza-in-hawaii",
@@ -10011,7 +10173,8 @@
         "result": "優秀賞"
       }
     ],
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "like-a-dragon"
   },
   {
     "id": "kunitsu-gami-path-of-the-goddess",
@@ -10096,7 +10259,8 @@
         "result": "Best Sim/Strategy Game"
       }
     ],
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "dying-light-the-beast",
@@ -10121,7 +10285,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Dying_Light:_The_Beast"
     },
     "sourceNote": "英語版Wikipedia『Dying Light: The Beast』記事(2026-08-03、WebFetchで確認)で開発・発売元(Techland)・発売日(2025-09-18、PS5)を確認。日本語版Wikipedia記事は確認できず英語版を使用。Switch版は無し。あらすじは独自要約(コピペなし)。追跡対象9アワードでの受賞(勝利)は確認できなかったためawardResultsは未掲載。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "dying-light"
   },
   {
     "id": "metal-slug-tactics",
@@ -10262,7 +10427,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペルソナ3_ポータブル"
     },
     "sourceNote": "日本語版Wikipedia『ペルソナ3 ポータブル』記事(2026-08-03閲覧、WebFetch)で2023年リマスター版(Switch/PS4/Xbox/PC、2023-01-19発売)の開発元・発売元(アトラス)を確認。PS5版は記事に記載がなく確認できなかったため対応機種に含めていない。あらすじはシリーズ共通の学園×ダンジョン探索構造を基に自分の言葉で要約。受賞歴は記事に記載なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "persona"
   },
   {
     "id": "tales-of-symphonia-remastered",
@@ -10284,7 +10450,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア"
     },
     "sourceNote": "日本語版Wikipedia『テイルズ オブ シンフォニア』記事(2026-08-03閲覧、WebFetch)で2023年リマスター版(Switch/PS4/Xbox One、2023-02-16発売)の開発元(バンダイナムコスタジオ)・発売元(バンダイナムコエンターテインメント)・解像度向上等の改修内容を確認。PS5版は記事に記載がなく未確認のため対応機種に含めていない。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "tales-of"
   },
   {
     "id": "okami-hd",
@@ -10336,7 +10503,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロックマンエグゼ_アドバンスドコレクション"
     },
     "sourceNote": "日本語版Wikipedia『ロックマンエグゼ アドバンスドコレクション』記事(2026-08-03閲覧、WebFetch)でSwitch版含む対応プラットフォーム・開発元(ネオバーズ)・発売元(カプコン)・発売日(2023-04-14)・収録作品(シリーズ10作品、Vol.1/Vol.2)を確認。developerIdsは記事記載のネオバーズに加え原作元のカプコンも併記した。あらすじはシリーズ共通の設定を基に自分の言葉で要約。受賞歴は確認できず。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "mega-man"
   },
   {
     "id": "shin-megami-tensei-3-nocturne-hd-remaster",
@@ -10358,7 +10526,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/真・女神転生III_NOCTURNE"
     },
     "sourceNote": "日本語版Wikipedia『真・女神転生III NOCTURNE』記事(2026-08-03閲覧、WebFetch)でSwitch/PS4版(2020-10-29発売)の開発元(アトラス)・発売元(セガ)・ファミ通クロスレビュープラチナ殿堂入りであることを確認。本サイト対象9賞との一致する個別受賞歴の明記はなく未確認のためawardResultsは収録していない。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "shin-megami-tensei"
   },
   {
     "id": "baten-kaitos-1-2-hd-remaster",
@@ -10404,7 +10573,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/フロントミッション"
     },
     "sourceNote": "日本語版Wikipedia『フロントミッション』記事(2026-08-03閲覧、WebFetch)でSwitch版ダウンロード配信(2022-11-30)・パッケージ版(2023-06-15)・PS5版含む他機種版(2023-06-30)の発売日、開発元・発売元(Forever Entertainment、Switch版パッケージのみ国内販売元レイニーフロッグが別途関与)を確認。releaseDateは収録対応機種内で最速のSwitchダウンロード配信日を採用し、PS5版の発売日差はここに明記した。あらすじは自分の言葉で要約。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "front-mission"
   },
   {
     "id": "star-ocean-first-departure-r",
@@ -10427,7 +10597,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/スターオーシャン"
     },
     "sourceNote": "日本語版Wikipedia『スターオーシャン』記事(2026-08-03閲覧、WebFetch)でSwitch/PS4版(2019-12-05発売)の開発元(スクウェア・エニックス、トーセ)・発売元(スクウェア・エニックス)・PSP版をベースにした改修内容を確認。あらすじは自分の言葉で要約。受賞歴は確認できず。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "star-ocean"
   },
   {
     "id": "bayonetta-switch",
@@ -10449,7 +10620,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベヨネッタ"
     },
     "sourceNote": "日本語版Wikipedia『ベヨネッタ』記事(2026-08-03閲覧、WebFetch)でSwitch版(2018-02-17ダウンロード配信、2022-09-30パッケージ版)の発売元(任天堂)・改修内容(Wii U版ベース)を確認。developerIdsは原開発元のプラチナゲームズを採用(既存の『bayonetta-3』『bayonetta-origins』と同じ構成)。あらすじは自分の言葉で要約。受賞歴は原記事にオリジナルXbox 360版のファミ通クロスレビュー40点満点の言及があるが、本サイト対象9賞との一致は確認できず収録していない。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "bayonetta"
   },
   {
     "id": "onimusha-warlords",
@@ -10471,7 +10643,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Onimusha:_Warlords"
     },
     "sourceNote": "英語版Wikipedia『Onimusha: Warlords』記事(2026-08-03閲覧、WebFetch)で2019年リマスター版のSwitch版発売日(2018-12-20 日本、他地域2019-01-15)・開発元/発売元(カプコン)・PS5版が存在しないことを確認。日本語版の同名記事には到達できず英語版で代替した。あらすじは自分の言葉で要約。受賞歴は本サイト対象9賞との一致は確認できず収録していない(オリジナル版のSIGGRAPH 2000 Best of Show等は対象外)。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "onimusha"
   },
   {
     "id": "crash-bandicoot-n-sane-trilogy",
@@ -10493,7 +10666,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/クラッシュ・バンディクー"
     },
     "sourceNote": "日本語版Wikipedia『クラッシュ・バンディクー』記事(2026-08-03閲覧、WebFetch)でSwitch版ボーナスエディション(2018-10-18発売)・開発元(バイカリアス・ビジョンズ)を確認。発売元は記事内でSIE・セガゲームス・アクティビジョンの3社が列挙されるのみでSwitch版固有の発売元の明記はなく、Switch/Xbox One版の国内配給を担うことが一般に知られるセガゲームスをpublisherIdとして採用した(完全な一次ソース確認はできておらず、この点は未確認として明記する)。PS5版は存在しないためSwitch版のみ収録。あらすじは自分の言葉で要約。受賞歴は確認できず。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "crash-bandicoot"
   },
   {
     "id": "sonic-origins",
@@ -10516,7 +10690,8 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonic_Origins"
     },
     "sourceNote": "英語版Wikipedia『Sonic Origins』記事(2026-08-03閲覧、WebFetch)でPS5・Switch含む対応プラットフォーム・開発元(ソニックチーム)・発売元(セガ)・発売日(2022-06-23)・収録4作品を確認。あらすじは自分の言葉で要約。受賞歴は記事に記載なし。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "sonic"
   },
   {
     "id": "diablo-2-resurrected",
@@ -10539,7 +10714,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ディアブロII"
     },
     "sourceNote": "日本語版Wikipedia『ディアブロII』記事(2026-08-03閲覧、WebFetch)でPS5・Switch含む対応プラットフォーム・発売日(2021-09-24)・ストーリー概要を確認。開発元・発売元(ブリザード・エンターテイメント)は同社が自社IPを一貫して開発・発売していることを踏まえて採用(リマスター版専属の外部開発元記載は本文になし)。あらすじは自分の言葉で要約。受賞歴は確認できず。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03",
+    "seriesId": "diablo"
   },
   {
     "id": "resident-evil-requiem",
@@ -10561,7 +10737,8 @@
     "synopsis": "『バイオハザード』ナンバリング第9作。FBI分析官グレース・アシュクロフトを主人公に、廃墟と化したラクーンシティ跡地周辺を舞台とする。一人称視点と三人称視点を切り替えて遊べる構成が特徴で、逃走と探索を軸にシリーズ本来の恐怖表現へ回帰した。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で発売日・対応機種(PS5/Switch2)・開発元/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。受賞歴は本サイト時点で未調査。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "resident-evil"
   },
   {
     "id": "star-wars-jedi-fallen-order",
@@ -10582,7 +10759,8 @@
     "synopsis": "オーダー66を生き延びたパダワン、カル・ケスティスを操作するアクションアドベンチャー。ライトセーバーによる受け流し重視の戦闘と、フォースの能力を得て探索範囲を広げていく惑星探索が組み合わされている。帝国の追跡をかわしながらジェダイ再興の道を探る。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で開発元Respawn Entertainment・発売元Electronic Arts・PS5版の存在を確認。PS4版は2019年発売で、PS5ネイティブ版の発売日を採用した。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "star-wars-jedi"
   },
   {
     "id": "little-nightmares-2",
@@ -10605,7 +10783,8 @@
     "synopsis": "紙袋をかぶった少年モノと前作の主人公シックスが、電波塔に支配された不気味な世界から脱出を目指すホラーアドベンチャー。巨大な敵から逃げ隠れしながら、二人で協力して仕掛けを解く。断片的な演出のみで物語を語る作風は前作から引き継がれている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で開発元Tarsier Studios・発売元バンダイナムコエンターテインメント・Switch/PS5版の存在と発売日を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "little-nightmares"
   },
   {
     "id": "nioh-2-remastered",
@@ -10626,7 +10805,8 @@
     "synopsis": "戦国日本を舞台にした高難度アクションRPGの第2作をPS5向けに強化した版。プレイヤーは半妖の主人公を作成し、妖怪化して戦う「妖怪化」や妖怪技を駆使して戦場を進む。全ダウンロードコンテンツを収録し、高解像度・高フレームレートに対応している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Nioh 2 Remastered: The Complete Edition』としてPS5版の発売日・開発元Team NINJA・発売元コーエーテクモゲームスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "nioh"
   },
   {
     "id": "ghostrunner-2",
@@ -10647,7 +10827,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Ghostrunner II』としてPS5版の発売日・開発元One More Level・発売元505 Gamesを確認。国内パッケージ版の販売代理店は未確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ごーすとらんなーつー"
+    "titleKana": "ごーすとらんなーつー",
+    "seriesId": "ghostrunner"
   },
   {
     "id": "trek-to-yomi",
@@ -10690,7 +10871,8 @@
     "synopsis": "2008年の高速忍者アクション『NINJA GAIDEN II』をUnreal Engine 5で作り直した作品。主人公リュウ・ハヤブサが世界各地の邪神勢力と戦う筋書きはそのままに、四肢切断を伴う手数の多い戦闘が現行機の描画で再構成された。追加キャラクターも操作できる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Ninja Gaiden II Black』としてPS5版の発売日・開発元Team NINJA/コーエーテクモ・発売元コーエーテクモを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ninja-gaiden"
   },
   {
     "id": "ninja-gaiden-4",
@@ -10711,7 +10893,8 @@
     "synopsis": "シリーズ本編としては十数年ぶりとなる新作。黒蜘蛛一族の忍ヤクモを新主人公に据え、暗黒竜の呪いに覆われた東京を舞台とする。Team NINJAとプラチナゲームズの共同開発で、高速な立ち回りと血の力を使った攻撃が組み合わされている。リュウ・ハヤブサも登場する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Team NINJA/PlatinumGamesを確認。IGDB上の発売元はXbox Game Studios表記だが、国内発売元はコーエーテクモゲームスとして登録した(国内流通の詳細は未確認)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ninja-gaiden"
   },
   {
     "id": "ender-lilies",
@@ -10777,7 +10960,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元ArtPlay・発売元505 Gamesを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ぶらっどすていんどりちゅあるおぶざないと"
+    "titleKana": "ぶらっどすていんどりちゅあるおぶざないと",
+    "seriesId": "bloodstained"
   },
   {
     "id": "blasphemous",
@@ -10798,7 +10982,8 @@
     "synopsis": "スペインの宗教美術と苦行のイメージを下敷きにした2D探索アクション。「奇跡」と呼ばれる呪いに蝕まれた地で、兜をかぶった無言の巡礼者「悔悟者」が剣メア・クルパを手に旅をする。ドット絵で描かれる凄惨な処刑演出と重い手触りの戦闘が持ち味。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元The Game Kitchen・発売元Team17を確認。続編『ブラスフェマス2』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "blasphemous"
   },
   {
     "id": "outer-wilds",
@@ -10873,7 +11058,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch/PS5版の発売日・開発元Hopoo Games・発売元Gearbox Publishingを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "りすくおぶれいん"
+    "titleKana": "りすくおぶれいん",
+    "seriesId": "risk-of-rain"
   },
   {
     "id": "hyrule-warriors-age-of-calamity",
@@ -10895,7 +11081,8 @@
     "synopsis": "『ゼルダの伝説 ブレス オブ ザ ワイルド』の百年前、大厄災に立ち向かうハイラル王国を描く一騎当千アクション。リンクやゼルダに加え四英傑も操作でき、シーカーストーンの力やガーディアンを使って大群を薙ぎ払う。原作で語られなかった戦いの顛末が本編として展開する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の存在・開発元Omega Force・発売元任天堂を確認。発売日は国内発売日(2020年11月20日)を採用した。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "zelda"
   },
   {
     "id": "hyrule-warriors-age-of-imprisonment",
@@ -10917,7 +11104,8 @@
     "synopsis": "『ゼルダの伝説 ティアーズ オブ ザ キングダム』でゼルダが飛ばされた「封印戦争」の時代を描く無双アクション。初代ハイラル王ラウルらとともに、魔王ガノンドロフの軍勢と戦う。Nintendo Switch 2専用ソフトとして大量の敵表示と広い戦場を実現している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch 2版の発売日・発売元任天堂を確認。IGDB上の開発元表記はAAA Games Studioだが、本サイトでは無双シリーズの開発体制に合わせωフォース/コーエーテクモを開発元として登録した(共同開発の詳細は未確認)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "zelda"
   },
   {
     "id": "super-mario-3d-all-stars",
@@ -10938,7 +11126,8 @@
     "synopsis": "『スーパーマリオ64』『スーパーマリオサンシャイン』『スーパーマリオギャラクシー』の3作を高解像度化して1本にまとめた作品。各作のサウンドトラックを聴けるミュージックプレイヤーも収録する。マリオ35周年記念として期間限定で販売された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元が任天堂であることを確認(合集扱いのため型判定は緩めて照会した)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "super-mario"
   },
   {
     "id": "metroid-prime-remastered",
@@ -10960,7 +11149,8 @@
     "synopsis": "ゲームキューブ用一人称アクションアドベンチャーの全面リマスター。バウンティハンターのサムス・アランが惑星ターロンIVを調査し、スキャンによる情報収集とビームの切り替えで謎を解きながら探索範囲を広げていく。モデル・テクスチャ・操作系が現行機向けに刷新された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の存在・開発元Retro Studios/任天堂・発売元任天堂を確認。発売日は国内ダウンロード版配信日(2023年2月9日)を採用した。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "metroid"
   },
   {
     "id": "princess-peach-showtime",
@@ -11002,7 +11192,8 @@
     "synopsis": "1988年のディスクシステム用アドベンチャーを全面リメイクした作品。記憶を失った少年探偵が、旧家・綾城家に伝わる呪いと連続する死の真相を追う。フルボイスとアニメーションで描き直され、コマンド選択式の推理進行は原作の構成を踏襲している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元MAGES./任天堂・発売元任天堂を確認。同時発売の姉妹作『うしろに立つ少女』は別タイトルのため本エントリには含めていない。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "famicom-detective-club"
   },
   {
     "id": "emio-the-smiling-man",
@@ -11043,7 +11234,8 @@
     "synopsis": "魔女ベヨネッタを操作するスタイリッシュアクションの第2作。相棒ジャンヌの魂を取り戻すため煉獄の山インフェルノへ向かう。回避成功時のウィッチタイムに加え、魔獣を直接操って攻撃する「魔獣喚起」が加わり、より派手な連携が可能になった。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元プラチナゲームズ・発売元任天堂を確認。原典はWii U版(2014年)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "bayonetta"
   },
   {
     "id": "snipperclips",
@@ -11127,7 +11319,8 @@
     "synopsis": "Wii用横スクロールアクションの高解像度リマスター。催眠術で島の動物たちを操るティキ族からバナナを取り返すため、ドンキーコングとディディーコングが島を巡る。3DS版で追加された低難度のモダンモードと追加ステージも収録している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で発売日・開発元Forever Entertainment・発売元任天堂を確認。IGDBにはSwitch 2の記載もあるが、Switch 2向けの専用パッケージ版は確認できないため対応機種はSwitchのみとした。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "donkey-kong"
   },
   {
     "id": "nintendo-switch-2-welcome-tour",
@@ -11190,7 +11383,8 @@
     "synopsis": "カービィのコピー能力ごとに戦い方が変わる対戦アクション。最大4人で殴り合うバトルのほか、相棒と協力して塔を登る「デデデでもドン!」モードを収録する。能力の組み合わせや相性を試しながら勝ち上がる構成で、オンライン対戦にも対応している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元HAL研究所・発売元任天堂を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "kirby"
   },
   {
     "id": "crisis-core-ff7-reunion",
@@ -11234,7 +11428,8 @@
     "synopsis": "完全新作としては十数年ぶりとなる『聖剣伝説』シリーズのアクションRPG。マナの樹に生贄を捧げる風習を持つ世界で、魂の守り人ヴァルとその幼馴染ヒナが聖地への旅に出る。精霊の器を切り替えて戦い方を変える「エレメンタルベッセル」が戦闘の軸になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の存在・発売日・発売元スクウェア・エニックスを確認。IGDB上の開発元はOuka Studio表記だが、本サイトではスクウェア・エニックスを開発元として登録した。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "mana"
   },
   {
     "id": "legend-of-mana",
@@ -11256,7 +11451,8 @@
     "synopsis": "1999年のPS用作品をHD化した移植版。プレイヤーが地図上に土地を配置して世界そのものを作っていく「ランドメイクシステム」が最大の特徴で、置き方によって発生するイベントや訪れる住人が変わる。手描き背景の美しさと自由度の高い進行が支持された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発にエムツーが関与していること・発売元スクウェア・エニックスを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "mana"
   },
   {
     "id": "valkyrie-elysium",
@@ -11300,7 +11496,8 @@
     "synopsis": "ブロックを積んで町を作るビルドとRPGの冒険を組み合わせた作品の第2作。破壊神の教団に囚われたビルダーの主人公が、記憶のない少年シドーとともに荒れ果てた島々を復興していく。住人が自発的に生活し畑を耕すなど、作った町が動く仕掛けが強化された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・共同開発元ωフォース・発売元スクウェア・エニックスを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "dragon-quest"
   },
   {
     "id": "ni-no-kuni-2",
@@ -11321,7 +11518,8 @@
     "synopsis": "クーデターで王位を追われた少年王エバンが、異世界から来た青年ロウランとともに新しい国を興していくRPG。アクション主体の戦闘に加え、住民を勧誘して施設を建てる王国作りと、軍勢を率いる戦略パートが並行して進む。スタジオジブリ出身の作画陣が手がけた。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元レベルファイブ・発売元バンダイナムコエンターテインメントを確認。原典はPS4版(2018年)。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ni-no-kuni"
   },
   {
     "id": "ni-no-kuni-remastered",
@@ -11342,7 +11540,8 @@
     "synopsis": "母を亡くした少年オリバーが、もう一つの世界「二ノ国」へ渡って母の魂を取り戻そうとするRPGのリマスター版。イマージェンと呼ばれる使い魔を育てて戦わせる仕組みが特徴で、スタジオジブリが手がけたアニメーションと久石譲の音楽が世界観を支えている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元レベルファイブ・発売元バンダイナムコエンターテインメントを確認。原典はPS3版(2011年)。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ni-no-kuni"
   },
   {
     "id": "tales-of-vesperia-definitive",
@@ -11363,7 +11562,8 @@
     "synopsis": "2008年の作品を高解像度化し、後年の追加要素も収録したリマスター版。元騎士の青年ユーリ・ローウェルが、盗まれた魔導器を追ううちに世界を巡る陰謀に踏み込んでいく。秘奥義を狙う爽快な戦闘と、正義のあり方を問う筋書きがシリーズ内でも高く評価されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元バンダイナムコスタジオ・発売元バンダイナムコエンターテインメントを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "tales-of"
   },
   {
     "id": "atelier-ryza-dx",
@@ -11387,7 +11587,8 @@
     "synopsis": "島の田舎で退屈していた少女ライザが、錬金術と出会ってひと夏の冒険に踏み出すRPGのDX版。素材の性質をつなげてアイテムを作る調合が中核で、作った道具が探索と戦闘の両方を広げていく。追加コンテンツを収録し、現行機向けに画質と操作性が改善されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Atelier Ryza: Ever Darkness & the Secret Hideout DX』としてSwitch 2/Switch/PS5版の発売日・開発元ガスト・発売元コーエーテクモを確認。原典は2019年のPS4/Switch版。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "atelier"
   },
   {
     "id": "ys-9-monstrum-nox",
@@ -11409,7 +11610,8 @@
     "synopsis": "冒険家アドル・クリスティンが監獄都市バルドゥークに囚われ、怪人「Monstrum」の力を得て街の異界化に立ち向かうアクションRPG。壁を駆け上がる、遠くへ飛ぶといった怪人ごとの能力で立体的に街を探索でき、仲間と切り替えながら高速の戦闘を行う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本ファルコムであることを確認。発売日はIGDBの登録値で、原典はPS4版(2019年)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ys"
   },
   {
     "id": "ys-8-lacrimosa-of-dana",
@@ -11431,7 +11633,8 @@
     "synopsis": "航海中に難破し、絶海の孤島セイレン島に流れ着いたアドルの冒険を描くアクションRPG。漂流者を集めて拠点を築きながら島を開拓し、並行して青髪の少女ダーナの夢を通じて島の過去が語られる。二つの時代の物語が交差する構成と探索の密度 が評価された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本ファルコムであることを確認。発売日はIGDBの登録値で、原典はPS Vita版(2016年)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-08"
+    "updatedAt": "2026-08-08",
+    "seriesId": "ys"
   },
   {
     "id": "trails-into-reverie",
@@ -11453,7 +11656,8 @@
     "synopsis": "『閃の軌跡』と『空の軌跡』『零・碧の軌跡』の登場人物が集う軌跡シリーズの節目となる作品。リィン、ロイド、そして仮面の男Cという3つのルートを任意に切り替えて進行し、それぞれの視点から同じ動乱を追う。総勢50人規模のキャラクターが操作可能になっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元が日本ファルコムであることを確認。発売日はIGDBの登録値で、原典はPS4版(2020年)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "trails"
   },
   {
     "id": "shiren-6",
@@ -11495,7 +11699,8 @@
     "synopsis": "荒廃した東京「ダアト」を舞台にしたRPGの拡張版。従来の筋書きに加え、女神リリスら「ヨコハマ」勢力を軸にした新ルート「復讐の女神編」が収録された。悪魔を仲間にし合体させて育てるシリーズの根幹はそのままに、シナリオ量と戦闘バランスが大きく増補されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元アトラスを確認(IGDB上の発売元はセガ表記)。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "shin-megami-tensei"
   },
   {
     "id": "raidou-remastered",
@@ -11539,7 +11744,8 @@
     "synopsis": "1999年の『バイオハザード3 LAST ESCAPE』を現行機向けに作り直した作品。壊滅寸前のラクーンシティで、ジル・バレンタインが執拗に追ってくる追跡者ネメシスから逃れつつ脱出路を探す。緊急回避を軸にした機動力の高い操作と、市街の逃走劇が中心になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の存在・発売日・開発/発売元がカプコンであることを確認。原典のリメイク版はPS4版(2020年)で、日付はPS5版の登録値。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "resident-evil"
   },
   {
     "id": "exoprimal",
@@ -11581,7 +11787,8 @@
     "synopsis": "8年ぶりのナンバリング新作となる横スクロールアクション。ボスを倒して特殊武器を得る基本構造はそのままに、攻撃力を上げる「パワーギア」と時間を遅くする「スピードギア」を使い分ける新システムが加わった。ドット絵から手描き調の3Dへ表現が刷新されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "mega-man"
   },
   {
     "id": "phoenix-wright-trilogy",
@@ -11602,7 +11809,8 @@
     "synopsis": "新米弁護士・成歩堂龍一を主人公とする法廷アドベンチャー3部作をまとめた移植版。現場での証拠集めと、法廷で証言の矛盾を「異議あり!」と突く尋問パートを繰り返して無実を証明する。原作の携帯機3作を高解像度で収録し、日本語と英語を切り替えて遊べる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ace-attorney"
   },
   {
     "id": "apollo-justice-trilogy",
@@ -11623,7 +11831,8 @@
     "synopsis": "王泥喜法介が主役を務めるシリーズ第4作から第6作を1本にまとめた移植版。証言者の癖を見抜く「みぬく」、法廷に霊媒を持ち込む王国の裁判など、作品ごとに異なる推理システムをそのまま収録する。高解像度化に加えオーケストラ音源やギャラリーも追加された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ace-attorney"
   },
   {
     "id": "great-ace-attorney-chronicles",
@@ -11728,7 +11937,8 @@
     "synopsis": "2002年のPS2用作品を現行機向けに移植したアクションアドベンチャー。織田信長が率いる幻魔の軍勢に村を焼かれた柳生十兵衛が、復讐のため各地を巡る。一閃による一撃必殺と、仲間に贈り物をして関係を変える「絆システム」が戦いの展開を左右する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "onimusha"
   },
   {
     "id": "monster-hunter-stories",
@@ -11748,7 +11958,8 @@
     "synopsis": "モンスターを狩るのではなく育てて共に戦うライダーを主人公にしたRPGの移植版。卵から孵したオトモンを連れ、力・速度・技の三すくみで読み合うターン制の戦闘に挑む。遺伝子を組み替えてオトモンの能力を継承させる育成が長期的な軸になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がカプコンであることを確認。原典はニンテンドー3DS版(2016年)で、続編『2 破滅の翼』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "monster-hunter"
   },
   {
     "id": "yu-gi-oh-master-duel",
@@ -11837,7 +12048,8 @@
     "synopsis": "日本地図の上をサイコロで進み、各地の物件を買い集めて総資産を競うすごろく。約10年ぶりの新作となる本作は最大4人での対戦に対応し、貧乏神やボンビラス星といったお馴染みの妨害要素も健在。全国の地名と名産を覚えられる作りが長く支持されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "momotaro-dentetsu"
   },
   {
     "id": "call-of-duty-modern-warfare-2-2022",
@@ -11858,7 +12070,8 @@
     "synopsis": "2019年の『Modern Warfare』の続編にあたるミリタリーFPS。タスクフォース141が中東の武装勢力とカルテルの結び付きを追う戦役を描く。水中戦や車両の乗り移りといった新しい状況が加わり、協力プレイの特殊作戦と大規模対戦モードも収録する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Infinity Ward・発売元Activisionを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "call-of-duty"
   },
   {
     "id": "call-of-duty-modern-warfare-3-2023",
@@ -11879,7 +12092,8 @@
     "synopsis": "リブート版『Modern Warfare』三部作の完結編。宿敵ウラジミール・マカロフの計画を止めるため、タスクフォース141が各地を転戦する。目的地までの経路を自分で決められる開放型のミッションが導入され、ゾンビモードは大規模な野外マップで展開する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Sledgehammer Games・発売元Activisionを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "call-of-duty"
   },
   {
     "id": "battlefield-2042",
@@ -11900,7 +12114,8 @@
     "synopsis": "気候変動で国家が崩壊した近未来を舞台にした大規模FPS。最大128人が同時に戦う広大なマップで、竜巻や砂嵐といった動的な天候が戦況を変える。従来の兵科に代えて固有装備を持つ「スペシャリスト」を選ぶ方式が採用された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元EA DICE・発売元Electronic Artsを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "battlefield"
   },
   {
     "id": "battlefield-6",
@@ -11921,7 +12136,8 @@
     "synopsis": "近未来の世界的な武力衝突を舞台にしたシリーズ最新作。建物が戦闘によって崩れていく破壊表現を軸に据え、兵科制と分隊行動を重視した設計へ回帰した。歩兵・車両・航空機が入り交じる大規模戦に加え、シングルプレイの戦役も収録する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元EA DICE・発売元Electronic Artsを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "battlefield"
   },
   {
     "id": "apex-legends",
@@ -11987,7 +12203,8 @@
     "synopsis": "カリブ海の架空の島国ヤーラを舞台にしたオープンワールドFPS。独裁者アントン・カスティロの圧政に対し、ゲリラ「リベルタ」に加わった主人公ダニーが島全土で反攻を進める。手製の火器や背負い式兵器を使い、拠点制圧と破壊工作を重ねていく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Toronto・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "far-cry"
   },
   {
     "id": "watch-dogs-legion",
@@ -12075,7 +12292,8 @@
     "synopsis": "犯罪組織の抗争を描くオープンワールドシリーズの再始動作。南西部の架空都市サント・イレソを舞台に、借金と行き場のなさを抱えた若者4人が自ら「セインツ」を旗揚げする。派手な銃撃戦と車両アクションに、拠点経営の要素が加わっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Volition・発売元Deep Silverを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "saints-row"
   },
   {
     "id": "gotham-knights",
@@ -12118,7 +12336,8 @@
     "synopsis": "地獄の軍勢に侵略された地球で、ドゥームスレイヤーが悪魔を殲滅していく高速FPS。弾薬・体力・装甲を敵から奪う「チェーンソー」「グローリーキル」「火炎放射」の使い分けが必須で、常に攻め続けることを強いる設計になっている。移動アクションも大幅に増えた。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元id Software・発売元Bethesda Softworksを確認。発売日はIGDBの登録値(PS5版)で、原典は2020年3月のPS4/Switch等。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "doom"
   },
   {
     "id": "oblivion-remastered",
@@ -12140,7 +12359,8 @@
     "synopsis": "2006年の名作オープンワールドRPGをUnreal Engine 5で描き直したリマスター。皇帝暗殺をきっかけに、異界オブリビオンから溢れ出す軍勢を止める旅が始まる。地形や造形は原作を保ったまま、光の表現・操作感・レベル上昇の仕組みが現代的に調整された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Virtuos・発売元Bethesda Softworksを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "the-elder-scrolls"
   },
   {
     "id": "momotaro-dentetsu-world",
@@ -12161,7 +12381,8 @@
     "synopsis": "日本地図ではなく世界地図を舞台にしたシリーズ作。各国の都市を巡って物件を買い集め、総資産で競う基本は変わらないが、大陸をまたぐ移動や現地の名産にちなんだカードが加わった。世界情勢を学べる仕掛けも多く、最大4人での対戦に対応する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "momotaro-dentetsu"
   },
   {
     "id": "sonic-superstars",
@@ -12183,7 +12404,8 @@
     "synopsis": "初期作の横スクロール形式に立ち返ったソニックの新作。北極諸島を舞台に、ソニック・テイルス・ナックルズ・エミーの4人がドクター・エッグマンとフェンジンの計画を追う。カオスエメラルドで得る特殊能力と、最大4人の同時プレイが新要素になっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元ソニックチーム/アーゼスト・発売元セガを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "sonic"
   },
   {
     "id": "sonic-colors-ultimate",
@@ -12204,7 +12426,8 @@
     "synopsis": "2010年のWii用作品を高解像度化したリマスター。エッグマンが宇宙に築いた遊園地を舞台に、囚われた宇宙生命体「ウィスプ」を救いながら疾走する。ウィスプの色ごとに変身して地形を突破する仕掛けが多く、追加のウィスプやカスタマイズ要素も収録された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Blind Squirrel Entertainment・発売元セガを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "sonic"
   },
   {
     "id": "two-point-campus",
@@ -12226,7 +12449,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Two Point Studios・発売元セガを確認。同シリーズの『Two Point Museum』は本サイトに登録済み。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "つーぽいんときゃんぱす"
+    "titleKana": "つーぽいんときゃんぱす",
+    "seriesId": "two-point"
   },
   {
     "id": "samba-de-amigo-party-central",
@@ -12269,7 +12493,8 @@
     "synopsis": "『ドラゴンボールZ』の物語を孫悟空の視点で追体験するアクションRPG。サイヤ人編から魔人ブウ編までの主要な戦いを再現しつつ、原作の合間の日常—釣りや食事、修行や仲間との交流—も遊べる。空を飛んで世界を巡り、Zパートナーと連携して戦う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元サイバーコネクトツー・発売元バンダイナムコエンターテインメントを確認。原典は2020年のPS4版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "dragon-ball"
   },
   {
     "id": "one-piece-odyssey",
@@ -12291,7 +12516,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元ILCA・発売元バンダイナムコエンターテインメントを確認。発売日はIGDBの登録値。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "おでっせい"
+    "titleKana": "おでっせい",
+    "seriesId": "one-piece"
   },
   {
     "id": "one-piece-pirate-warriors-4",
@@ -12314,7 +12540,8 @@
     "synopsis": "『ONE PIECE』を題材にした一騎当千アクションの第4作。原作の頂上戦争編からホールケーキアイランド編、ワノ国編までを追いながら大群を薙ぎ倒す。巨大化した敵をそのまま操作できる「巨大キャラクター」や空中戦の強化が加わり、4人での協力プレイに対応する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元コーエーテクモ(ωフォース)・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "one-piece"
   },
   {
     "id": "sd-gundam-battle-alliance",
@@ -12336,7 +12563,8 @@
     "synopsis": "SD体型のモビルスーツを操作するアクションRPG。歴史が歪められた「偽史」の世界で、各作品の名場面が本来と異なる形で再現されており、それを正すために3機編成で出撃する。機体は開発・強化でき、歴代シリーズを横断した組み合わせが楽しめる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元アートディンク・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "sd-gundam"
   },
   {
     "id": "gundam-breaker-4",
@@ -12421,7 +12649,8 @@
     "synopsis": "キャンプ中に異世界へ飛ばされた中学生たちが、デジモンとともに生き延びる道を探すアドベンチャー。選択肢と会話で仲間との関係と主人公の気質が変わり、その積み重ねで進化先や結末が分岐する。戦闘はマス目上のシミュレーションRPG形式で行われる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Hyde,Inc.・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "digimon"
   },
   {
     "id": "digimon-story-time-stranger",
@@ -12444,7 +12673,8 @@
     "synopsis": "『デジモンストーリー』シリーズの完全新作RPG。現実世界とデジタルワールドを行き来しながら、時空の歪みが引き起こす事件を追う。450種以上のデジモンを育成・進化させ、系統樹を辿って好みの姿へ導く育成が中核にある。ターン制の戦闘は編成の相性が重要になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元メディア・ビジョン・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "digimon"
   },
   {
     "id": "god-eater-3",
@@ -12489,7 +12719,8 @@
     "synopsis": "バブル期の神室町と蒼天堀を舞台にしたシリーズ前日譚の拡張版。若き日の桐生一馬と真島吾朗が、空き地の権利をめぐる抗争に巻き込まれていく。追加シナリオと日本語音声の新規収録に加え、オンラインの対戦モードが新たに用意された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元龍が如くスタジオ・発売元セガを確認。原典は2015年のPS3/PS4版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "like-a-dragon"
   },
   {
     "id": "undertale",
@@ -12821,7 +13052,8 @@
     "synopsis": "幕末の京都を舞台にした外伝作のリメイク。坂本龍馬が師の仇を討つため名を偽り新選組に入隊する筋書きで、刀・拳・短銃・二刀を切り替える四つの型が戦闘の軸になる。歓楽街での遊びや畑作りといった寄り道要素もシリーズ同様に豊富に用意されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元龍が如くスタジオ・発売元セガを確認。原典は2014年のPS3/PS4版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "like-a-dragon"
   },
   {
     "id": "layers-of-fear-2023",
@@ -12843,7 +13075,8 @@
     "synopsis": "画家と俳優、それぞれの狂気を描いた過去2作を、新しい枠物語で束ね直した作品。Unreal Engine 5で全面的に作り直され、屋敷の壁や絵画が振り返るたびに姿を変える演出が強化された。戦闘はなく、逃げ場のない空間を歩き回って断片を集める形式をとる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Bloober Team/Anshar Studios・発売元Bloober Teamを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "layers-of-fear"
   },
   {
     "id": "the-medium",
@@ -13044,7 +13277,8 @@
     "synopsis": "自殺の名所として知られる日上山を舞台にした和風ホラーのリマスター。霊を写して祓う「射影機」を構え、水にまつわる怪異と失踪事件の真相を追う。濡れるほど霊に狙われやすくなる「濡れ」の仕組みが緊張感を生む。原典はWii U版。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元がコーエーテクモゲームスであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "fatal-frame"
   },
   {
     "id": "dark-pictures-house-of-ashes",
@@ -13065,7 +13299,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Supermassive Games・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "はうすおぶあっしゅ"
+    "titleKana": "はうすおぶあっしゅ",
+    "seriesId": "dark-pictures"
   },
   {
     "id": "dark-pictures-man-of-medan",
@@ -13087,7 +13322,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Supermassive Games・発売元バンダイナムコエンターテインメントを確認。発売日はIGDBの登録値で、原典は2019年のPS4版。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "まんおぶめだん"
+    "titleKana": "まんおぶめだん",
+    "seriesId": "dark-pictures"
   },
   {
     "id": "martha-is-dead",
@@ -13174,7 +13410,8 @@
     "synopsis": "FIFAとの提携終了後に始まったサッカーシリーズの2作目。5対5の小規模な試合形式「ラッシュ」が全モードに導入され、選手の役割を細かく指定できる戦術設定が刷新された。世界各国のリーグとライセンス選手を収録し、育成モードも継続している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元EA Vancouver・発売元EA SPORTSを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ea-sports-fc"
   },
   {
     "id": "nba-2k25",
@@ -13196,7 +13433,8 @@
     "synopsis": "NBAを題材にしたバスケットボールシミュレーションの年次最新作。実選手の動作を細かく取り込んだドリブルとシュートの操作系が改良され、自作選手で街を歩き回る「MyCAREER」やチーム経営モードを収録する。実在の選手・チームを公式ライセンスで再現している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Visual Concepts・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "nba-2k"
   },
   {
     "id": "mlb-the-show-25",
@@ -13218,7 +13456,8 @@
     "synopsis": "メジャーリーグ公式の野球シミュレーション。投打の駆け引きを細かく再現し、選手を一から育てる「Road to the Show」や球団運営、カード収集型の「Diamond Dynasty」を収録する。実在球場と選手の動作を丁寧に写し取った描写が売りになっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元SIE San Diego Studio・発売元ソニー・インタラクティブエンタテインメントを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "mlb-the-show"
   },
   {
     "id": "wwe-2k25",
@@ -13240,7 +13479,8 @@
     "synopsis": "プロレス団体WWEを題材にした対戦アクション。実在レスラーの技と入場演出を再現し、自作レスラーやオリジナル団体を作る編集機能を備える。本作ではブラッドライン一族を軸にしたストーリーモードと、屋外を含む新しい試合形式が追加された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元Visual Concepts・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "wwe-2k"
   },
   {
     "id": "f1-25",
@@ -13262,7 +13502,8 @@
     "synopsis": "F1公式のレーシングシミュレーション。実在のドライバー・チーム・サーキットを収録し、シーズンを通して戦うキャリアモードを備える。本作ではレーザースキャンで作り直したコースと、映画と連動したストーリーモードが目玉になっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Codemasters・発売元Electronic Artsを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "f1"
   },
   {
     "id": "ea-sports-wrc",
@@ -13371,7 +13612,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元Ivory Tower・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ざくるーもーたーふぇすと"
+    "titleKana": "ざくるーもーたーふぇすと",
+    "seriesId": "the-crew"
   },
   {
     "id": "test-drive-unlimited-solar-crown",
@@ -13587,7 +13829,8 @@
     "synopsis": "戦国の日本を舞台にした高難度アクションRPGの第3作。侍としての構え主体の立ち回りと、忍として素早く動く型を戦闘中に切り替えられる仕組みが導入された。広い区域を自由に巡って妖怪と戦い、装備を集めて鍛える構造は前作までを踏襲している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Team NINJA・発売元コーエーテクモゲームスを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "nioh"
   },
   {
     "id": "pragmata",
@@ -13655,7 +13898,8 @@
     "synopsis": "2000年のPS用作品『ドラゴンクエストVII エデンの戦士たち』を全面的に作り直した版。世界に島がひとつしかない世界で、石版を集めて過去へ渡り、封じられた土地を取り戻していく。膨大な分量の本編を、現代的な進行と描画で再構成している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発元ヘキサドライブ/スクウェア・エニックス・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "dragon-quest"
   },
   {
     "id": "monster-hunter-stories-3",
@@ -13677,7 +13921,8 @@
     "synopsis": "モンスターを狩らずに絆を結ぶライダーの物語、その第3作。卵から孵したオトモンを連れて旅をし、三すくみの読み合いで進むターン制の戦闘に挑む。育てたオトモンの遺伝子を受け継がせて次の世代を強くする育成が、引き続き長期的な軸になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発/発売元がカプコンであることを確認。IGDB上の英語表記は『Monster Hunter Stories 3: Twisted Reflection』で、国内版の副題は未確認のため本サイトでは省いた。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "monster-hunter"
   },
   {
     "id": "pokemon-pokopia",
@@ -13699,7 +13944,8 @@
     "synopsis": "ポケモンのメタモンになったプレイヤーが、荒れた島を手入れして暮らしやすくしていく生活シミュレーション。地形を整え植物を育て、集まってきたポケモンたちの力を借りて開拓を進める。それぞれのポケモンが持つ特性が作業の役に立つ仕組みになっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch 2版の発売日・開発元ωフォース/ゲームフリーク・発売元任天堂およびポケモンを確認。あらすじは独自要約(コピペなし)。細部の仕様は未確認。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
-    "updatedAt": "2026-08-08"
+    "updatedAt": "2026-08-08",
+    "seriesId": "pokemon"
   },
   {
     "id": "marathon",
@@ -13741,7 +13987,8 @@
     "synopsis": "2001年と2002年のスケートボード作品2本を、現行機向けに作り直した合本。制限時間内に課題をこなす原作の進行に、コンボを途切れさせないリバートの操作が加わる。実在プロスケーターと当時の楽曲を収録し、コース編集機能も備える。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Iron Galaxy Studios・発売元Activisionを確認(照会時にヒットしたのはDigital Deluxe Edition)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "tony-hawk"
   },
   {
     "id": "ninja-gaiden-ragebound",
@@ -13763,7 +14010,8 @@
     "synopsis": "ファミコン版『忍者龍剣伝』の路線に立ち返った2Dアクション。リュウ・ハヤブサが不在の隼の里を守る若き忍・神谷賢が主人公で、壁を蹴り上がって進む高速の足さばきと、飛燕の魔物の力を借りた攻撃を組み合わせて戦う。開発は『ブラスフェマス』のスタジオ。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元The Game Kitchen・発売元DotEmuを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ninja-gaiden"
   },
   {
     "id": "blue-prince",
@@ -13827,7 +14075,8 @@
     "synopsis": "アークシステムワークスが開発した3対3のチーム制対戦格闘。原作アニメの絵柄をそのまま動かしたような描画が最大の特徴で、簡単な操作で連続技がつながる設計になっている。交代や援護攻撃を絡めた組み立てが競技シーンでも支持された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日を確認(IGDB側に開発/発売元の登録がなかったため、本サイトではアークシステムワークス開発・バンダイナムコ発売として登録した)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "dragon-ball"
   },
   {
     "id": "jojo-all-star-battle-r",
@@ -13870,7 +14119,8 @@
     "synopsis": "『鬼滅の刃』を題材にした対戦アクション。竈門炭治郎が家族を殺した鬼を追う物語を追体験する一人用の章と、2対2で戦う対戦モードで構成される。呼吸の型ごとに異なる大技が用意され、アニメの原画に近い演出でそのまま再現されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元サイバーコネクトツー・発売元アニプレックス/セガを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "demon-slayer"
   },
   {
     "id": "demon-slayer-hinokami-chronicles-2",
@@ -13892,7 +14142,8 @@
     "synopsis": "前作の続きにあたる対戦アクション。刀鍛冶の里編から柱稽古編までの物語を収録し、操作キャラクターは40人以上に増えた。対戦は引き続き2対2で、上弦の鬼との戦いを再現した演出重視のバトルが多数用意されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元サイバーコネクトツー・発売元セガ/アニプレックスを確認。あらすじは独自要約(コピペなし)。収録範囲の詳細は未確認。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "demon-slayer"
   },
   {
     "id": "dnf-duel",
@@ -13959,7 +14210,8 @@
     "synopsis": "『くにおくん』シリーズの流れを汲むベルトスクロールアクションの続編。ミサコとキョウコに加え、くにお・りき・プロヴィーらも操作でき、最大4人での協力プレイに対応する。街を歩き回って店で装備を買い、経験値で技を覚えるRPG的な要素を備える。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元WayForward・発売元アークシステムワークスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "river-city-girls"
   },
   {
     "id": "samurai-shodown-2019",
@@ -14021,7 +14273,8 @@
     "synopsis": "『僕のヒーローアカデミア』を題材にした3D対戦アクションの第2作。個性ごとに攻撃範囲や移動が大きく異なるキャラクターを操作し、広い舞台を立体的に動き回って戦う。原作の雄英体育祭編以降の展開を追うストーリーモードを収録する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元バイキング・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "my-hero-academia"
   },
   {
     "id": "jujutsu-kaisen-cursed-clash",
@@ -14088,7 +14341,8 @@
     "synopsis": "『ペルソナ4』の登場人物が戦う2D対戦格闘の移植版。ペルソナを呼び出して攻撃する二段構えの操作が特徴で、格闘ゲームに不慣れでも技を出しやすい補助操作を備える。『ペルソナ3』勢も参戦し、長編のストーリーモードを収録している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元アークシステムワークス/アトラス・発売元セガ/アトラスを確認。原典は2013年のアーケード/PS3版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "persona"
   },
   {
     "id": "cities-skylines-2",
@@ -14132,7 +14386,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Two Point Studios・発売元セガを確認。シリーズの『Two Point Campus』『Two Point Museum』は本サイトに登録済み。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "つーぽいんとほすぴたる"
+    "titleKana": "つーぽいんとほすぴたる",
+    "seriesId": "two-point"
   },
   {
     "id": "frostpunk-2",
@@ -14326,7 +14581,8 @@
     "synopsis": "複数のロボットアニメが共演するシミュレーションRPGの最新作。マス目上の戦場でユニットを動かし、精神コマンドと合体攻撃を絡めて敵を殲滅する基本は変わらず、参戦作品の垣根を越えた掛け合いが見どころになっている。育成と改造で機体を鍛えられる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・発売元バンダイナムコエンターテインメントを確認。開発は本サイトではシリーズを手がけるB.B.スタジオとして登録した(IGDB上の表記はBandai Namco Forge Digitals)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "super-robot-wars"
   },
   {
     "id": "phantom-brave-the-lost-hero",
@@ -14391,7 +14647,8 @@
     "synopsis": "桁違いの数値インフレで知られるシミュレーションRPGの第5作。復讐に燃える魔王キリアが、超魔王ヴォイド・ダークに支配された魔界を渡り歩く。味方を持ち上げて投げる、敵の技を奪うといった独自の戦術に加え、育成の上限が極端に高い作りが持ち味。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Disgaea 5 Complete』としてSwitch版の発売日・開発/発売元が日本一ソフトウェアであることを確認。原典は2015年のPS4版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "disgaea"
   },
   {
     "id": "my-time-at-sandrock",
@@ -14414,7 +14671,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Pathea Games・発売元PM Studiosを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "きみのまちさんどろっく"
+    "titleKana": "きみのまちさんどろっく",
+    "seriesId": "my-time-at"
   },
   {
     "id": "doraemon-story-of-seasons-2",
@@ -14458,7 +14716,8 @@
     "synopsis": "祖父が遺した荒れ果てた牧場を受け継ぎ、開拓して立て直す生活シミュレーション。木を切り岩を砕いて土地を広げ、作物と家畜を育てながら町の住人と交流していく。素材を加工する「メーカー」で加工品を作り、町の発展に貢献する仕組みが加わった。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Three Rings/マーベラス・発売元マーベラスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "story-of-seasons"
   },
   {
     "id": "rune-factory-4-special",
@@ -14480,7 +14739,8 @@
     "synopsis": "農業と剣戟を組み合わせたシリーズの代表作を高解像度化した移植版。記憶を失った主人公が街セルフィアの領主代理となり、畑を耕しながらダンジョンの魔物と戦う。住民との交流や結婚も可能で、追加シナリオ「ニューラブテーマ」を収録している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元HAKAMA/マーベラス・発売元マーベラスを確認。原典は2012年のニンテンドー3DS版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "rune-factory"
   },
   {
     "id": "sakuna-of-rice-and-ruin",
@@ -14549,7 +14809,8 @@
     "synopsis": "立方体のブロックでできた世界を掘り、集めた資源で道具と建物を作るサンドボックス。目的が定められていない「クリエイティブ」と、空腹や敵に備える「サバイバル」を選べる。世界は無限に生成され、複数人での建築や冒険にも対応する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/Switch/PS5)・発売日・開発/発売元Mojang Studiosを確認。発売日はIGDBの登録値(Switch版の統合版配信)。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "minecraft"
   },
   {
     "id": "minecraft-legends",
@@ -14572,7 +14833,8 @@
     "synopsis": "『Minecraft』の世界観を用いたアクションストラテジー。ネザーから侵攻してきたピグリンから村を守るため、村人やゴーレムを率いて拠点を築き反撃する。自分も戦場を走り回りながら味方に指示を出す形式で、協力・対戦の多人数モードも備える。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Blackbird Interactive/Mojang Studios・発売元Xbox Game Studiosを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "minecraft"
   },
   {
     "id": "fall-guys",
@@ -14684,7 +14946,8 @@
     "synopsis": "怪物退治を生業とするウィッチャーのゲラルトが、義理の娘シリを探して大陸を旅するオープンワールドRPG。剣と魔法印と錬金術を組み合わせた戦闘に加え、選択が国と人々の運命を左右する重厚な筋書きが評価された。2つの大型拡張を収録する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の存在・開発元CD PROJEKT REDを確認。照会でヒットしたのは10周年記念版(2025-10-10)で、それ以前のPS5版配信日は未確認のためIGDBの登録値をそのまま採用した。原典は2015年のPS4版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "witcher"
   },
   {
     "id": "divinity-original-sin-2",
@@ -14730,7 +14993,8 @@
     "synopsis": "膨大な種類の銃を集めて撃ちまくるルーターシューターの最新作。新たな惑星カイロスを舞台に、4人の新しいヴォルトハンターが「タイムキーパー」の支配に抗う。区切りのない広い地形を移動する仕組みが導入され、4人での協力プレイに対応する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種(Switch 2/PS5)・発売日・開発元Gearbox Software・発売元2Kを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "borderlands"
   },
   {
     "id": "no-more-heroes-3",
@@ -14751,7 +15015,8 @@
     "synopsis": "オタクの暗殺者トラヴィス・タッチダウンが主人公のアクションの第3作。地球侵略に来た宇宙人ヤンパオロと、その配下である「銀河スーパーヒーロー」たちのランキングを駆け上がる。ビームカタナによる戦闘と、須田剛一らしい悪趣味な演出が全編を貫く。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元グラスホッパー・マニファクチュア・発売元マーベラスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "no-more-heroes"
   },
   {
     "id": "ai-the-somnium-files",
@@ -14772,7 +15037,8 @@
     "synopsis": "左目に人工知能を宿した捜査官・伊達鍵が、猟奇的な連続殺人「サイコブロック事件」を追うアドベンチャー。現実の捜査に加え、容疑者の夢へ潜って6分間で手がかりを探す「ソムニウム」パートが特徴で、そこでの選択が結末を大きく分岐させる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元スパイク・チュンソフトを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ai-somnium"
   },
   {
     "id": "ai-the-somnium-files-nirvana-initiative",
@@ -14793,7 +15059,8 @@
     "synopsis": "半身だけの遺体が6年の間隔をおいて発見される「半屍(ハーフボディ)連続殺人事件」を追う続編。新人捜査官の龍木と、前作の伊達の二人の視点を並行して進め、6年の時間差を挟んだ二つの捜査が終盤で噛み合う構成をとっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元スパイク・チュンソフトを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ai-somnium"
   },
   {
     "id": "danganronpa-decadence",
@@ -14814,7 +15081,8 @@
     "synopsis": "『ダンガンロンパ』本編3作と新作ボードゲーム『超高校級の南国絶望ジャンボリー』をまとめた合本。閉鎖空間で起きる殺人を、証言の矛盾を弾丸に見立てて撃ち抜く「学級裁判」で暴く。犯人を当てられなければ全員が処刑されるという緊張が全編を支配する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元スパイク・チュンソフトを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "danganronpa"
   },
   {
     "id": "chaos-head-noah",
@@ -14962,7 +15230,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Deck Nine・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "らいふいずすとれんじとぅるーからーず"
+    "titleKana": "らいふいずすとれんじとぅるーからーず",
+    "seriesId": "life-is-strange"
   },
   {
     "id": "life-is-strange-double-exposure",
@@ -14983,7 +15252,8 @@
     "synopsis": "第1作の主人公マックス・コールフィールドが再登場する続編。親友が殺された後、彼女が生きているもう一つの世界線を行き来できるようになり、二つの現実を突き合わせて犯人を探す。時間ではなく並行世界を移動する形に能力が変化している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Deck Nine・発売元スクウェア・エニックスを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "life-is-strange"
   },
   {
     "id": "slay-the-princess",
@@ -15048,7 +15318,8 @@
     "synopsis": "21歳のシャーロック・ホームズが、母の死の真相を追って地中海の島コルドナへ戻る推理アドベンチャー。証拠を集めて仮説を組み立て、結論を自分で選ぶ形式をとり、誤った推理のまま話を進めることもできる。島を自由に歩き回れる構成になっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Frogwaresを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "sherlock-holmes"
   },
   {
     "id": "famicom-detective-club-girl-who-stands-behind",
@@ -15069,7 +15340,8 @@
     "synopsis": "1989年のディスクシステム用作品を全面リメイクしたアドベンチャー。前作より前の時系列を描き、主人公が探偵事務所に入る前後の事件を扱う。高校で語り継がれる「うしろに立つ少女」の噂と、15年前の未解決事件が結び付いていく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元任天堂/MAGES.・発売元任天堂を確認。同時発売の『消えた後継者』は本サイトに別途登録済み。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "famicom-detective-club"
   },
   {
     "id": "ori-and-the-blind-forest",
@@ -15091,7 +15363,8 @@
     "synopsis": "光の精霊オリが、枯れゆく森ニブルを蘇らせるために旅する探索型2Dアクション。手描き調の背景と管弦楽の劇伴で情感を押し出しつつ、精密な操作を要求する高難度の跳躍が待ち受ける。追加区域と難度設定を収録した完全版として移植された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Moon Studios・発売元Xbox Game Studiosを確認。続編『Ori and the Will of the Wisps』は本サイトに登録済み。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "ori"
   },
   {
     "id": "guacamelee-2",
@@ -15113,7 +15386,8 @@
     "synopsis": "メキシコのルチャリブレとメソアメリカ神話を混ぜ合わせた探索型アクションの続編。覆面レスラーのフアンが、崩壊しつつあるメキシバースを救うために戦う。生者と死者の世界を切り替えて足場を出現させる仕組みと、投げ技を絡めた戦闘が特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元DrinkBox Studiosを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "guacamelee"
   },
   {
     "id": "axiom-verge-2",
@@ -15135,7 +15409,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Thomas Happ Gamesを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "あくしおむばーじ"
+    "titleKana": "あくしおむばーじ",
+    "seriesId": "axiom-verge"
   },
   {
     "id": "the-messenger",
@@ -15178,7 +15453,8 @@
     "synopsis": "『Bloodstained』の支援者向け特典として作られた、ファミコン風の8bit調2Dアクション。悪魔狩人ジーベルを主人公に、道中で仲間になる3人を切り替えながら悪魔の城を攻略する。当時の『悪魔城ドラキュラ』の手触りを意図的に再現している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元インティ・クリエイツを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "bloodstained"
   },
   {
     "id": "bloodstained-curse-of-the-moon-2",
@@ -15199,7 +15475,8 @@
     "synopsis": "8bit調2Dアクションの続編。ジーベルに加え、剣を持つ神父ドミニクや犬型の兵器ハチといった新しい仲間が登場し、4人を切り替えて攻略する。前作より演出の幅が広がり、複数の周回を通して物語の全体像が明らかになる構成をとる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元インティ・クリエイツを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "bloodstained"
   },
   {
     "id": "momodora-moonlit-farewell",
@@ -15264,7 +15541,8 @@
     "synopsis": "ゲームボーイアドバンス用『Circle of the Moon』『白夜の協奏曲』『暁月の円舞曲』に、スーパーファミコン用『XX』を加えた合本。巻き戻し機能や画面設定、資料閲覧といった補助機能を備え、探索型としての完成度が高い3作をまとめて遊べる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "castlevania"
   },
   {
     "id": "castlevania-dominus-collection",
@@ -15286,7 +15564,8 @@
     "synopsis": "ニンテンドーDS用の『蒼月の十字架』『ギャラリー オブ ラビリンス』『奪われた刻印』3作に、アーケード版『Haunted Castle』とその新規リメイクを加えた合本。二画面構成だったDS作品を1画面向けに再構成し、補助機能を追加している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元がコナミであることを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "castlevania"
   },
   {
     "id": "contra-operation-galuga",
@@ -15331,7 +15610,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元WayForwardを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "しゃんてぃとななにんのせいれーん"
+    "titleKana": "しゃんてぃとななにんのせいれーん",
+    "seriesId": "shantae"
   },
   {
     "id": "predator-hunting-grounds",
@@ -15510,7 +15790,8 @@
     "synopsis": "『幻想水滸伝』の制作陣が集って作ったRPG。100人以上の仲間を集めて拠点を育て、帝国の侵攻に抗う。1対1の決闘や軍勢同士の戦いといった複数の戦闘形式を持ち、誰を仲間にしたかが物語と拠点の姿に反映される作りになっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Rabbit & Bear Studios・発売元505 Gamesを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "eiyuden-chronicle"
   },
   {
     "id": "eiyuden-chronicle-rising",
@@ -15532,7 +15813,8 @@
     "synopsis": "『百英雄伝』の前日譚にあたる横スクロールのアクションRPG。レンズを求めて辺境の町ニューネヴァエへ来た冒険者CJが、町の復興を手伝いながら遺跡へ潜る。3人のキャラクターを瞬時に切り替えて連携する戦闘と、町づくりの要素が組み合わさっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Rabbit & Bear Studios・発売元505 Gamesを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "eiyuden-chronicle"
   },
   {
     "id": "neo-the-world-ends-with-you",
@@ -15684,7 +15966,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Toge Productionsを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "こーひーとーく"
+    "titleKana": "こーひーとーく",
+    "seriesId": "coffee-talk"
   },
   {
     "id": "wandersong",
@@ -15836,7 +16119,8 @@
     "synopsis": "第二次世界大戦を舞台にした狙撃シューターの第5作。1944年のフランスで、狙撃手カール・フェアバーンがナチスの秘密計画を阻止する。風と重力を計算して撃つ弾道再現と、命中の瞬間を体内まで映す演出がシリーズの看板になっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Rebellion Developmentsを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "sniper-elite"
   },
   {
     "id": "sniper-elite-resistance",
@@ -15858,7 +16142,8 @@
     "synopsis": "『Sniper Elite 5』と同時期のフランスを、別の主人公ハリー・ホーキンスの視点から描く作品。レジスタンスと連携しながらドイツ軍の兵器開発を妨害する。長距離狙撃と潜入の組み合わせは変わらず、広い地形を自分の判断で攻略していく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発/発売元Rebellion Developmentsを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "sniper-elite"
   },
   {
     "id": "rainbow-six-extraction",
@@ -15880,7 +16165,8 @@
     "synopsis": "『レインボーシックス シージ』の世界観を用いた3人協力型シューター。寄生体アーキアンに侵された封鎖区域へ潜入し、目標を達成して脱出する。隊員が倒れると救出するまで使えなくなる仕組みがあり、慎重な進行を促す設計になっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Montreal・発売元Ubisoftを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "rainbow-six"
   },
   {
     "id": "rainbow-six-siege",
@@ -15902,7 +16188,8 @@
     "synopsis": "5対5で攻防に分かれる対戦FPS。壁や床を破壊して射線と侵入路を作れる点が核で、固有の装備を持つ「オペレーター」の選択が試合の組み立てを決める。被弾に弱く復活もないため、音の情報と隊内の連携が勝敗を大きく左右する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Ubisoft Montreal・発売元Ubisoftを確認。原典は2015年のPS4版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "rainbow-six"
   },
   {
     "id": "payday-3",
@@ -15924,7 +16211,8 @@
     "synopsis": "強盗団となって銀行や美術館を襲う4人協力型シューターの第3作。舞台をニューヨークに移し、監視カメラや電子錠を回避して静かに進める潜入と、露見後の激しい銃撃戦を選べる。装備の準備と役割分担が計画の成否を決める。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Starbreeze Studiosを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "payday"
   },
   {
     "id": "ready-or-not",
@@ -16143,7 +16431,8 @@
     "synopsis": "人類滅亡後の世界で、人間を模した機械たちが自らの存在意義を問う一人称パズル。レーザーの経路をつなぎ、装置を配置して扉を開く仕掛けを解きながら、意識や創造をめぐる哲学的な対話が並行して進む。前作より広い野外の舞台を歩き回れる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Croteam・発売元Devolver Digitalを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "talos-principle"
   },
   {
     "id": "superliminal",
@@ -16301,7 +16590,8 @@
     "synopsis": "対戦に特化した『ぷよぷよ』。ストーリーモードや演出を削ぎ落とし、通常ルールと「ぷよぷよ通」ルールでの対戦だけに絞った構成をとる。安価に競技目的で遊べる作りで、オンラインのレーティング対戦とリーグ機能を備えている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で『Puyo Puyo Champions』としてSwitch版の発売日・開発元ソニックチーム・発売元セガを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "puyo-puyo"
   },
   {
     "id": "melatonin",
@@ -16494,7 +16784,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Ska Studiosを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "そるとあんどさくりふぁいす"
+    "titleKana": "そるとあんどさくりふぁいす",
+    "seriesId": "salt-and"
   },
   {
     "id": "flintlock-the-siege-of-dawn",
@@ -16624,7 +16915,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Gunfire Games・発売元Perfect World Entertainmentを確認。続編『Remnant II』は本サイトに登録済み。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "れむなんとふろむじあっしゅ"
+    "titleKana": "れむなんとふろむじあっしゅ",
+    "seriesId": "remnant"
   },
   {
     "id": "dark-souls-remastered",
@@ -16646,7 +16938,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元QLOC/フロム・ソフトウェア・発売元バンダイナムコエンターテインメントを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "だーくそうるりますたーど"
+    "titleKana": "だーくそうるりますたーど",
+    "seriesId": "dark-souls"
   },
   {
     "id": "stray-blade",
@@ -16822,7 +17115,8 @@
     "synopsis": "オリジナル三部作の正統な続編にあたる横スクロール主体のアクション。時空に穴を開けたネオ・コルテックスを追い、クラッシュとココが複数の世界を渡り歩く。時間を遅くする、重力を反転させるといった仮面の能力が新たな仕掛けになっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発元Toys for Bob・発売元Activisionを確認。原典は2020年のPS4版。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "crash-bandicoot"
   },
   {
     "id": "crash-team-rumble",
@@ -16844,7 +17138,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でPS5版の発売日・開発元Toys for Bob・発売元Activisionを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "くらっしゅちーむらんぶる"
+    "titleKana": "くらっしゅちーむらんぶる",
+    "seriesId": "crash-bandicoot"
   },
   {
     "id": "disney-speedstorm",
@@ -16911,7 +17206,8 @@
     "synopsis": "マーベル作品のヒーローがレゴになって戦うアクションアドベンチャーの第2作。時空を支配するカーンが各時代の都市を継ぎ合わせた「クロノポリス」が舞台で、200体以上のキャラクターを切り替えて謎を解く。2人での協力プレイに対応する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Traveller's Tales・発売元WB Gamesを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "lego-marvel-super-heroes"
   },
   {
     "id": "nickelodeon-kart-racers-3",
@@ -16954,7 +17250,8 @@
     "synopsis": "1999年の初代PS用カートレース『クラッシュ・バンディクー レーシング』を全面的に作り直した作品。ドリフト中に3回加速を重ねる独特の操作系を忠実に再現しつつ、後続作のコースやキャラクターも収録した。オンライン対戦にも対応する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Beenox・発売元Activisionを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "crash-bandicoot"
   },
   {
     "id": "sonic-mania",
@@ -16974,7 +17271,8 @@
     "synopsis": "メガドライブ期の作風を徹底して再現した2Dソニック。ファンとして長年ソニックを研究してきた制作陣が手がけ、往年のステージの再構成と完全新規のステージを織り交ぜている。ドット絵と当時の挙動を復元しつつ、新しい技も追加された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)でSwitch版の発売日・開発元Headcannon等・発売元セガを確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-06",
+    "seriesId": "sonic"
   },
   {
     "id": "delta-force-2025",
@@ -17041,7 +17339,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-06照会)で対応機種・発売日・開発/発売元Toge Productionsを確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "こーひーとーくえぴそーどはいびすかすばたふらい"
+    "titleKana": "こーひーとーくえぴそーどはいびすかすばたふらい",
+    "seriesId": "coffee-talk"
   },
   {
     "id": "1000xresist",
@@ -17327,7 +17626,8 @@
     "synopsis": "北欧神話の世界 を舞台に、クレイトスが息子アトレウスと旅をする。斧を投げて手元に戻す戦闘と、カメラを切らずに進む演出が特徴の再出発作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "god-of-war"
   },
   {
     "id": "assassins-creed-4-black-flag",
@@ -17348,7 +17648,8 @@
     "synopsis": "18世紀のカリブ海を舞台に、海賊エドワード・ケンウェイが船を駆って財宝と陰謀を追う。船同士の砲撃戦と島々の探索が中心のシリーズ作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "assassins-creed-odyssey",
@@ -17369,7 +17670,8 @@
     "synopsis": "古代ギリシャのペロポネソス戦争を背景に、傭兵となった主人公が一族の秘密を追う。会話の選択肢と装備の育成を備えたRPG色の強いシリーズ作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "assassins-creed-origins",
@@ -17390,7 +17692,8 @@
     "synopsis": "プトレマイオス朝エジプトを舞台に、メジャイのバエクが組織の起源へと近づいていく。装備と技能を育てる方式に切り替わった転換作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "assassins-creed-syndicate",
@@ -17412,7 +17715,8 @@
     "synopsis": "産業革命期のロンドンで、双子のアサシンが暗黒街の勢力図を塗り替えていく。鉤縄を使った移動で高所を素早く行き来できる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "assassins-creed-unity",
@@ -17434,7 +17738,8 @@
     "synopsis": "フランス革命下のパリを舞台に、アルノが恋人と革命の渦の中で己の道を探す。群衆表現と建物内部の作り込みが特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "assassins-creed-rogue",
@@ -17455,7 +17760,8 @@
     "synopsis": "アサシンからテンプル騎士団側へ転じた男を主人公にした異色作。北大西洋を舞台に、追われる側の視点で組織の対立を描く。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "fallout-4",
@@ -17477,7 +17783,8 @@
     "synopsis": "核戦争後のボストン周辺を歩き回り、失われた家族を探すオープンワールドRPG。拠点の建設や派閥選択で展開が変わる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "fallout"
   },
   {
     "id": "the-walking-dead-telltale",
@@ -17561,7 +17868,8 @@
     "synopsis": "アメリカ・モンタナ州の架空の郡を支配するカルト教団に、保安官助手が立ち向かう。仲間や動物を連れて自由な順序で拠点を解放していく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "far-cry"
   },
   {
     "id": "far-cry-4",
@@ -17582,7 +17890,8 @@
     "synopsis": "ヒマラヤの架空の王国キラットを舞台に、独裁者と反政府勢力の争いに巻き込まれる。象に乗って拠点を襲撃するなど自由度が高い。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "far-cry"
   },
   {
     "id": "far-cry-primal",
@@ -17603,7 +17912,8 @@
     "synopsis": "石器時代を舞台にしたシリーズ異色作。銃器のない世界で、獣を手なずけ弓と棍棒で部族の生存を賭けて戦う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "far-cry"
   },
   {
     "id": "super-meat-boy",
@@ -17643,7 +17953,8 @@
     "synopsis": "映画本編のはるか昔を舞台にしたRPG。仲間を集めて銀河を巡り、フォースの善悪どちらの道を選ぶかで結末が変わる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "kotor"
   },
   {
     "id": "kotor-2",
@@ -17663,7 +17974,8 @@
     "synopsis": "前作の数年後、追放されたジェダイが自らの過去と向き合う続編。善悪の単純な二分法を問い直す重い語り口で知られる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "kotor"
   },
   {
     "id": "a-plague-tale-innocence",
@@ -17684,7 +17996,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ぷれいぐているいのせんす"
+    "titleKana": "ぷれいぐているいのせんす",
+    "seriesId": "a-plague-tale"
   },
   {
     "id": "brothers-a-tale-of-two-sons",
@@ -17768,7 +18081,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "りとるないとめあ"
+    "titleKana": "りとるないとめあ",
+    "seriesId": "little-nightmares"
   },
   {
     "id": "saints-row-the-third",
@@ -17789,7 +18103,8 @@
     "synopsis": "ギャング団セインツが街の支配を巡って暴れ回るオープンワールド。誇張の効いた武器と演出で、抗争劇を徹底して娯楽に振り切っている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "saints-row"
   },
   {
     "id": "outlast",
@@ -17810,7 +18125,8 @@
     "synopsis": "廃精神病院に潜入した記者が、ビデオカメラの暗視機能だけを頼りに逃げ惑う一人称ホラー。戦う手段を持たない点が徹底されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "outlast"
   },
   {
     "id": "shadow-of-the-tomb-raider",
@@ -17853,7 +18169,8 @@
     "synopsis": "核戦争後のロシアで、地下鉄を出た一団が装甲列車に乗って東を目指す。季節ごとに姿を変える広い舞台を進む一人称シューター。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "metro"
   },
   {
     "id": "soma",
@@ -17958,7 +18275,8 @@
     "synopsis": "ナチスが勝利した架空の1960年代アメリカで、抵抗組織が蜂起する一人称シューター。過激な演出と濃い物語が同居する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "wolfenstein"
   },
   {
     "id": "pubg-battlegrounds",
@@ -18022,7 +18340,8 @@
     "synopsis": "王子ノクティスと三人の仲間が車で大陸を旅する。キャンプや釣りなど道中の生活描写と、切り替えの速いアクション戦闘が特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "borderlands-3",
@@ -18044,7 +18363,8 @@
     "synopsis": "膨大な種類の銃を集めて戦う協力プレイ主体のシューター。誇張したアメコミ調の演出と、四人の個性的な主人公が持ち味。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "borderlands"
   },
   {
     "id": "gone-home",
@@ -18150,7 +18470,8 @@
     "synopsis": "四人組の強盗団を操り、銀行や宝石店を襲う協力プレイ主体のシューター。静かに済ませるか力ずくで押し通るかを選べる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "payday"
   },
   {
     "id": "abzu",
@@ -18190,7 +18511,8 @@
     "synopsis": "流刑地ラクリアを舞台にした基本無料のハックアンドスラッシュ。巨大な技能盤とジェムの組み合わせで自分だけの構成を練る。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "path-of-exile"
   },
   {
     "id": "stalker-shadow-of-chernobyl",
@@ -18211,7 +18533,8 @@
     "synopsis": "チェルノブイリ周辺の立入禁止区域を、探索者として渡り歩く一人称シューター。放射線と異常現象、突然の銃撃が絶えない緊張感が持ち味。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "stalker"
   },
   {
     "id": "the-talos-principle",
@@ -18232,7 +18555,8 @@
     "synopsis": "古代遺跡を模した空間で、機械の身体を持つ主人公が装置を組み合わせて謎を解く。人工知能と意識をめぐる問いが並走する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "talos-principle"
   },
   {
     "id": "kingdom-come-deliverance",
@@ -18254,7 +18578,8 @@
     "synopsis": "15世紀ボヘミアを史実に沿って再現したRPG。魔法のない世界で、鍛冶屋の息子が読み書きや剣術を一から身につけていく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "kingdom-come"
   },
   {
     "id": "to-the-moon",
@@ -18298,7 +18623,8 @@
     "synopsis": "1989年のマイアミを舞台に、動物の仮面をかぶった男が指示に従って襲撃を繰り返す見下ろし型アクション。一撃で死ぬ緊張と電子音楽が特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "hotline-miami"
   },
   {
     "id": "hotline-miami-2",
@@ -18320,7 +18646,8 @@
     "synopsis": "前作の前後の時系列を複数の視点から描く続編。登場人物ごとに戦い方が変わり、事件の全体像が少しずつ像を結ぶ。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "hotline-miami"
   },
   {
     "id": "fez",
@@ -18361,7 +18688,8 @@
     "synopsis": "現代戦を題材にしたシリーズの再出発作。特殊部隊と反政府勢力の視点を行き来する物語と、対戦モードの刷新が話題になった。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "call-of-duty"
   },
   {
     "id": "darkest-dungeon",
@@ -18382,7 +18710,8 @@
     "synopsis": "荒れ果てた領地の地下へ探索隊を送り込むターン制ローグライク。傷だけでなく精神の摩耗を管理する仕組みが最大の特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "darkest-dungeon"
   },
   {
     "id": "valiant-hearts",
@@ -18425,7 +18754,8 @@
     "synopsis": "竜の帰還に揺れる北方の地スカイリムを自由に旅するRPG。職業や進路の縛りがなく、山を越えて気ままに寄り道できる作りが支持された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "the-elder-scrolls"
   },
   {
     "id": "machinarium",
@@ -18488,7 +18818,8 @@
     "synopsis": "伝染病で機能停止したニューヨークを舞台に、休眠状態の工作員が秩序回復に動く。装備を集めて強化する協力プレイ主体のシューター。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "the-division"
   },
   {
     "id": "the-division-2",
@@ -18510,7 +18841,8 @@
     "synopsis": "舞台をワシントンD.C.に移した続編。荒廃した首都で各派閥と争いながら拠点を取り返していく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "the-division"
   },
   {
     "id": "borderlands-the-pre-sequel",
@@ -18532,7 +18864,8 @@
     "synopsis": "前作の登場人物ハンサム・ジャックの過去を描く外伝。低重力の月面が舞台で、跳躍と酸素の管理が加わる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "borderlands"
   },
   {
     "id": "overwatch-2",
@@ -18576,7 +18909,8 @@
     "synopsis": "核シェルターの管理人となり、住人を配置して電力と食料を確保しながら地下施設を広げる経営シミュレーション。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "fallout"
   },
   {
     "id": "the-vanishing-of-ethan-carter",
@@ -18638,7 +18972,8 @@
     "synopsis": "若きダンテと兄バージルの因縁を描くシリーズの前日譚。武器と型を切り替えて連撃をつなぐ戦闘がシリーズの基礎を固めた。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "devil-may-cry"
   },
   {
     "id": "broforce",
@@ -18680,7 +19015,8 @@
     "synopsis": "『エルダースクロールズ』の世界を舞台にしたオンラインRPG。職業と種族の縛りが緩く、好きな地域から始められる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "the-elder-scrolls"
   },
   {
     "id": "metro-2033-redux",
@@ -18701,7 +19037,8 @@
     "synopsis": "核戦争後のモスクワの地下鉄で暮らす人々を描くシリーズ第一作の改修版。弾薬が通貨を兼ねる緊張感が持ち味。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "metro"
   },
   {
     "id": "metro-last-light-redux",
@@ -18722,7 +19059,8 @@
     "synopsis": "前作の続きを描く第二作の改修版。潜入と戦闘のどちらでも進められる作りが強化されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "metro"
   },
   {
     "id": "overcooked",
@@ -18743,7 +19081,8 @@
     "synopsis": "動き続ける厨房で仲間と手分けして注文をさばく協力アクション。声を掛け合わないと成立しない設計が笑いを生む。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "overcooked"
   },
   {
     "id": "overcooked-2",
@@ -18765,7 +19104,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "おーばーくっく"
+    "titleKana": "おーばーくっく",
+    "seriesId": "overcooked"
   },
   {
     "id": "rogue-legacy",
@@ -18910,7 +19250,8 @@
     "synopsis": "装備を集めて敵の群れをなぎ倒す見下ろし型アクションRPG。ペットに買い物を任せられる仕組みが特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "torchlight"
   },
   {
     "id": "life-is-strange-2",
@@ -18930,7 +19271,8 @@
     "synopsis": "事件をきっかけに逃避行に出る兄弟の物語。兄の選択が弟の価値観を形づくっていく構成が特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "life-is-strange"
   },
   {
     "id": "syberia",
@@ -18951,7 +19293,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "しべりあ"
+    "titleKana": "しべりあ",
+    "seriesId": "syberia"
   },
   {
     "id": "jedi-outcast",
@@ -18972,7 +19315,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "すたーうぉーずじぇだいないとじぇだいあうときゃすと"
+    "titleKana": "すたーうぉーずじぇだいないとじぇだいあうときゃすと",
+    "seriesId": "jedi-knight"
   },
   {
     "id": "jedi-academy",
@@ -18994,7 +19338,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "すたーうぉーずじぇだいないとじぇだいあかでみー"
+    "titleKana": "すたーうぉーずじぇだいないとじぇだいあかでみー",
+    "seriesId": "jedi-knight"
   },
   {
     "id": "night-in-the-woods",
@@ -19060,7 +19405,8 @@
     "synopsis": "核戦争後のウェストバージニアを他のプレイヤーと共有するオンライン作品。拠点を建てながら荒野を復興していく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "fallout"
   },
   {
     "id": "yakuza-kiwami",
@@ -19083,7 +19429,8 @@
     "synopsis": "シリーズ第一作を作り直した作品。刑務所から戻った桐生一馬が、失われた大金と幼馴染の行方を追う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "like-a-dragon"
   },
   {
     "id": "the-finals",
@@ -19209,7 +19556,8 @@
     "synopsis": "立入禁止区域の奥、廃墟の街プリピャチを目指すシリーズ第三作。三つの広い地域を自由な順で調べていく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "stalker"
   },
   {
     "id": "dispatch",
@@ -19252,7 +19600,8 @@
     "synopsis": "南の島に閉じ込められた高校生たちが、殺人と裁判を繰り返す推理アドベンチャー。学級裁判での言葉の応酬が見どころ。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "danganronpa"
   },
   {
     "id": "ark-survival-evolved",
@@ -19274,7 +19623,8 @@
     "synopsis": "恐竜の生息する島で拠点を築き、生物を手なずけて生き延びるサバイバル。建築と繁殖の要素が深い。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "ark-survival"
   },
   {
     "id": "lego-marvel-super-heroes",
@@ -19295,7 +19645,8 @@
     "synopsis": "レゴで再現されたマーベル世界を、多数のヒーローで冒険する。仕掛けを壊して集める気軽な協力アクション。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "lego-marvel-super-heroes"
   },
   {
     "id": "arc-raiders",
@@ -19358,7 +19709,8 @@
     "synopsis": "『ファークライ5』の十七年後を描く続編。核の後に再生し始めた土地で、双子の姉妹が率いる集団と争う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "far-cry"
   },
   {
     "id": "bioshock-remastered",
@@ -19379,7 +19731,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ばいおしょっくりますたー"
+    "titleKana": "ばいおしょっくりますたー",
+    "seriesId": "bioshock"
   },
   {
     "id": "outlast-2",
@@ -19400,7 +19753,8 @@
     "synopsis": "アリゾナの奥地に迷い込んだ記者が、狂信的な集落から逃げる続編。カメラの暗視と音声記録を頼りに進む。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "outlast"
   },
   {
     "id": "a-hat-in-time",
@@ -19464,7 +19818,8 @@
     "synopsis": "孤島の収容施設に囚われたクレアとモイラを描く連続形式の作品。二人一組で切り替えながら進む。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "resident-evil"
   },
   {
     "id": "sonic-generations",
@@ -19487,7 +19842,8 @@
     "synopsis": "歴代の名場面を2Dと3Dの両方で作り直した記念作。クラシックソニックとモダンソニックを操作する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "sonic"
   },
   {
     "id": "final-fantasy-14",
@@ -19509,7 +19865,8 @@
     "synopsis": "エオルゼアを舞台にしたオンラインRPG。一人のキャラクターで全ての職業を担え、拡張のたびに物語が続いていく。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "grim-fandango-remastered",
@@ -19594,7 +19951,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "すちーむわーるどでぃぐ"
+    "titleKana": "すちーむわーるどでぃぐ",
+    "seriesId": "steamworld"
   },
   {
     "id": "steamworld-dig-2",
@@ -19615,7 +19973,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "すちーむわーるどでぃぐ"
+    "titleKana": "すちーむわーるどでぃぐ",
+    "seriesId": "steamworld"
   },
   {
     "id": "the-room",
@@ -19635,7 +19994,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ざるーむ"
+    "titleKana": "ざるーむ",
+    "seriesId": "the-room"
   },
   {
     "id": "stalker-clear-sky",
@@ -19656,7 +20016,8 @@
     "synopsis": "第一作の前日譚。派閥同士の勢力争いが動的に進む仕組みを加えたシリーズ第二作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "stalker"
   },
   {
     "id": "resident-evil-0",
@@ -19676,7 +20037,8 @@
     "synopsis": "一作目の前夜を描く作品。レベッカとビリーの二人を切り替えて操作し、アイテムを預ける箱がない設計で緊張を高めている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "resident-evil"
   },
   {
     "id": "ghostrunner",
@@ -19698,7 +20060,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ごーすとらんなー"
+    "titleKana": "ごーすとらんなー",
+    "seriesId": "ghostrunner"
   },
   {
     "id": "donut-county",
@@ -19760,7 +20123,8 @@
     "synopsis": "だまし絵のような建築物を回転させて道をつなぐパズル。静かな音楽と幾何学的な美しさで広く知られる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "monument-valley"
   },
   {
     "id": "resident-evil-revelations",
@@ -19781,7 +20145,8 @@
     "synopsis": "豪華客船を舞台にした連続形式の作品。閉ざされた船内の探索と、生物走査装置を使った捜索が特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "resident-evil"
   },
   {
     "id": "danganronpa-v3",
@@ -19801,7 +20166,8 @@
     "synopsis": "超高校級の才能を持つ生徒たちが閉鎖空間で殺し合いを強いられるシリーズ第三作。裁判での議論がさらに複雑化している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "danganronpa"
   },
   {
     "id": "cod-black-ops-cold-war",
@@ -19821,7 +20187,8 @@
     "synopsis": "1980年代の冷戦を舞台にしたシリーズ作。実在の出来事を下敷きにした物語と、対戦・ゾンビの各モードを備える。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "call-of-duty"
   },
   {
     "id": "7-days-to-die",
@@ -19887,7 +20254,8 @@
     "synopsis": "第二次大戦下のイタリアを舞台にした狙撃シューター。弾道と風を計算する狙撃と、広い地形での潜入が組み合わさる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "sniper-elite"
   },
   {
     "id": "sniper-elite-3",
@@ -19908,7 +20276,8 @@
     "synopsis": "北アフリカ戦線を舞台にしたシリーズ作。身を隠す場所と射線を選ぶ立ち回りが中心になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "sniper-elite"
   },
   {
     "id": "furi",
@@ -20076,7 +20445,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "りとるほーぷ"
+    "titleKana": "りとるほーぷ",
+    "seriesId": "dark-pictures"
   },
   {
     "id": "syberia-2",
@@ -20097,7 +20467,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "しべりあ"
+    "titleKana": "しべりあ",
+    "seriesId": "syberia"
   },
   {
     "id": "star-wars-episode-1-racer",
@@ -20284,7 +20655,8 @@
     "synopsis": "原作の個性を再現した24人対戦のバトルロイヤル。三人一組で協力して最後の一組を目指す。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "my-hero-academia"
   },
   {
     "id": "broken-age",
@@ -20411,7 +20783,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "しゃーろっくほーむず つみとばつ"
+    "titleKana": "しゃーろっくほーむず つみとばつ",
+    "seriesId": "sherlock-holmes"
   },
   {
     "id": "vvvvvv",
@@ -20473,7 +20846,8 @@
     "synopsis": "心臓を奪われた主人公が竜を追うアクションRPG。仲間となるポーンを育てて他のプレイヤーと貸し借りできる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "dragons-dogma"
   },
   {
     "id": "thomas-was-alone",
@@ -20578,7 +20952,8 @@
     "synopsis": "B.J.の双子の娘が父を探す協力プレイ対応の外伝。1980年代のパリを舞台にしている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "wolfenstein"
   },
   {
     "id": "yakuza-kiwami-2",
@@ -20600,7 +20975,8 @@
     "synopsis": "シリーズ第二作を作り直した作品。関西の組織との抗争に巻き込まれる桐生一馬を描く。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "like-a-dragon"
   },
   {
     "id": "unturned",
@@ -20711,7 +21087,8 @@
     "synopsis": "時間が経つほど敵が強くなる横スクロール型ローグライト。装備を重ね掛けして一気に強くなる爽快さが持ち味。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "risk-of-rain"
   },
   {
     "id": "tomb-raider-definitive-edition",
@@ -20794,7 +21171,8 @@
     "synopsis": "事故で異世界に飛ばされた科学者が探索する横スクロールアクション。バグを利用する道具で壁を抜ける仕掛けが独特。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "axiom-verge"
   },
   {
     "id": "moonlighter",
@@ -20877,7 +21255,8 @@
     "synopsis": "『Minecraft』の世界を舞台にした見下ろし型アクション。装備を集めて最大四人で挑む。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "minecraft"
   },
   {
     "id": "little-inferno",
@@ -21001,7 +21380,8 @@
     "synopsis": "初代カントー地方を作り直した作品のイーブイ版。捕獲の操作を簡略化し、相棒との触れ合いを前面に出している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "pokemon"
   },
   {
     "id": "bioshock-2-remastered",
@@ -21022,7 +21402,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ばいおしょっくりますたー"
+    "titleKana": "ばいおしょっくりますたー",
+    "seriesId": "bioshock"
   },
   {
     "id": "the-forgotten-city",
@@ -21108,7 +21489,8 @@
     "synopsis": "離れた部屋にいる二人が無線だけで情報を伝え合い、城の仕掛けを解く協力パズル。説明する力が試される。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "we-were-here"
   },
   {
     "id": "call-of-cthulhu",
@@ -21170,7 +21552,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "だーくさいだーず"
+    "titleKana": "だーくさいだーず",
+    "seriesId": "darksiders"
   },
   {
     "id": "darksiders-warmastered",
@@ -21191,7 +21574,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "だーくさいだーずうぉーますたーえでぃしょん"
+    "titleKana": "だーくさいだーずうぉーますたーえでぃしょん",
+    "seriesId": "darksiders"
   },
   {
     "id": "alan-wake-remastered",
@@ -21213,7 +21597,8 @@
     "synopsis": "小説家が妻の失踪を追ううちに、自作の物語が現実になる。光を武器にして闇に侵された敵と戦う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "alan-wake"
   },
   {
     "id": "steep",
@@ -21276,7 +21661,8 @@
     "synopsis": "立入禁止区域を大規模に描き直したシリーズ最新作。生態系と派閥が自律的に動く広大な舞台を歩く。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "stalker"
   },
   {
     "id": "orwell",
@@ -21317,7 +21703,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ざるーむ"
+    "titleKana": "ざるーむ",
+    "seriesId": "the-room"
   },
   {
     "id": "thimbleweed-park",
@@ -21359,7 +21746,8 @@
     "synopsis": "自作のキャラクターで原作の歴史の改変を正す対戦アクション。長期の更新で参戦キャラクターが増え続けた。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "dragon-ball"
   },
   {
     "id": "owlboy",
@@ -21548,7 +21936,8 @@
     "synopsis": "メキシコのプロレスを題材にした探索アクション。生者と死者の世界を切り替えて進む仕掛けが核になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "guacamelee"
   },
   {
     "id": "ruiner",
@@ -21611,7 +22000,8 @@
     "synopsis": "『Minecraft』の世界を舞台にしたエピソード形式の物語作品。選択によって仲間との関係が変わる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "minecraft"
   },
   {
     "id": "lara-croft-temple-of-osiris",
@@ -21632,7 +22022,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ららくろふとあんどてんぷるおぶおしりす"
+    "titleKana": "ららくろふとあんどてんぷるおぶおしりす",
+    "seriesId": "lara-croft"
   },
   {
     "id": "lara-croft-guardian-of-light",
@@ -21653,7 +22044,8 @@
     "synopsis": "見下ろし視点の外伝第一作。二人で協力して仕掛けを解く設計が高く評価された。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "lara-croft"
   },
   {
     "id": "no-more-heroes",
@@ -21673,7 +22065,8 @@
     "synopsis": "暗殺者の順位表を駆け上がるアクション。ビームカタナでの戦いと、下品で自己言及的な語り口が特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "no-more-heroes"
   },
   {
     "id": "fifa-21",
@@ -21693,7 +22086,8 @@
     "synopsis": "実在の選手とクラブで戦うサッカー。選手育成モードとオンライン対戦を備えたシリーズ作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "ea-sports-fc"
   },
   {
     "id": "astroneer",
@@ -21777,7 +22171,8 @@
     "synopsis": "北欧神話を思わせる世界で隊列を率いる続編。行軍中の判断と戦術戦闘が交互に進む。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "the-banner-saga"
   },
   {
     "id": "florence",
@@ -21840,7 +22235,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ざくるー"
+    "titleKana": "ざくるー",
+    "seriesId": "the-crew"
   },
   {
     "id": "stick-fight",
@@ -21904,7 +22300,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "そるとあんどさんくちゅあり"
+    "titleKana": "そるとあんどさんくちゅあり",
+    "seriesId": "salt-and"
   },
   {
     "id": "brotato",
@@ -22051,7 +22448,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "きみのまちぽるてぃあ"
+    "titleKana": "きみのまちぽるてぃあ",
+    "seriesId": "my-time-at"
   },
   {
     "id": "planet-of-lana",
@@ -22200,7 +22598,8 @@
     "synopsis": "帝国に支配された世界を舞台に、モダン・クラシック・自作の三者を切り替えて進むシリーズ作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "sonic"
   },
   {
     "id": "hue",
@@ -22242,7 +22641,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "しゃーろっくほーむず あくまのむすめ"
+    "titleKana": "しゃーろっくほーむず あくまのむすめ",
+    "seriesId": "sherlock-holmes"
   },
   {
     "id": "speedrunners",
@@ -22327,7 +22727,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "すちーむわーるどはいすと"
+    "titleKana": "すちーむわーるどはいすと",
+    "seriesId": "steamworld"
   },
   {
     "id": "american-truck-simulator",
@@ -22368,7 +22769,8 @@
     "synopsis": "第二次大戦を舞台にしたシリーズ作。各戦線の兵士を主人公にした群像劇と対戦モードを備える。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "call-of-duty"
   },
   {
     "id": "ape-out",
@@ -22452,7 +22854,8 @@
     "synopsis": "騎士・盗賊・魔法使いを切り替えて仕掛けを解くシリーズ第三作。奥行きのある3D空間に舞台を移している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "trine"
   },
   {
     "id": "kingdom-rush",
@@ -22472,7 +22875,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "きんぐだむらっしゅ"
+    "titleKana": "きんぐだむらっしゅ",
+    "seriesId": "kingdom-rush"
   },
   {
     "id": "assassins-creed-3-remastered",
@@ -22493,7 +22897,8 @@
     "synopsis": "アメリカ独立戦争を舞台にしたシリーズ作の改修版。森林の移動と海戦が加わっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "dusk",
@@ -22554,7 +22959,8 @@
     "synopsis": "原作の疾風伝編を再現した対戦アクション。派手な忍術の演出と原作再現の物語モードが特徴。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "naruto"
   },
   {
     "id": "naruto-storm-1",
@@ -22574,7 +22980,8 @@
     "synopsis": "原作前半を題材にしたシリーズ第一作。三次元の広い舞台を動き回って戦う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "naruto"
   },
   {
     "id": "chaos-on-deponia",
@@ -22721,7 +23128,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "はうすふりっぱー"
+    "titleKana": "はうすふりっぱー",
+    "seriesId": "house-flipper"
   },
   {
     "id": "shantae-pirates-curse",
@@ -22743,7 +23151,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "しゃんてぃ かいぞくののろい"
+    "titleKana": "しゃんてぃ かいぞくののろい",
+    "seriesId": "shantae"
   },
   {
     "id": "final-fantasy-12-zodiac-age",
@@ -22764,7 +23173,8 @@
     "synopsis": "戦争に揺れるイヴァリースを舞台にしたRPGの改修版。行動を自動化する仕組みで大人数の戦闘を捌く。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "fifa-22",
@@ -22784,7 +23194,8 @@
     "synopsis": "選手の動きの計算を刷新したシリーズ作。クラブ経営とオンライン対戦を備える。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "ea-sports-fc"
   },
   {
     "id": "fifa-23",
@@ -22804,7 +23215,8 @@
     "synopsis": "シリーズ名を冠した最後の作品。男女のクラブサッカーを同じ本編に収録している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "ea-sports-fc"
   },
   {
     "id": "clustertruck",
@@ -23034,7 +23446,8 @@
     "synopsis": "騎士デスを主人公にした第二作の改修版。探索と装備収集の要素が強い。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "darksiders"
   },
   {
     "id": "cookie-clicker",
@@ -23097,7 +23510,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "ぽけもんゆないと"
+    "titleKana": "ぽけもんゆないと",
+    "seriesId": "pokemon"
   },
   {
     "id": "scarlet-nexus",
@@ -23138,7 +23552,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "だーくさいだーずじぇねしす"
+    "titleKana": "だーくさいだーずじぇねしす",
+    "seriesId": "darksiders"
   },
   {
     "id": "forager",
@@ -23265,7 +23680,8 @@
     "synopsis": "母と子の旅を描く続編。二人を同時に導く仕掛けが加わっている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "monument-valley"
   },
   {
     "id": "cat-quest",
@@ -23389,7 +23805,8 @@
     "synopsis": "卓上RPGの規則を用いた古典RPGの改修版。仲間を集めて広大な地域を旅する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "baldurs-gate"
   },
   {
     "id": "return-to-monkey-island",
@@ -23497,7 +23914,8 @@
     "synopsis": "殺人ホテルを模した館に招かれた撮影班の生存を描くシリーズ第四作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "dark-pictures"
   },
   {
     "id": "xdefiant",
@@ -23665,7 +24083,8 @@
     "synopsis": "見下ろし視点で敵をなぎ倒す外伝的アクションRPG。二人協力に対応している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "baldurs-gate"
   },
   {
     "id": "the-invincible",
@@ -23896,7 +24315,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "とらいんざないとめあぷりんす"
+    "titleKana": "とらいんざないとめあぷりんす",
+    "seriesId": "trine"
   },
   {
     "id": "sword-and-sworcery",
@@ -23979,7 +24399,8 @@
     "synopsis": "手持ちの端末で参加する五種のパーティー遊びを収録。大人数で言葉遊びや投票を楽しむ。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "jackbox"
   },
   {
     "id": "the-alters",
@@ -24083,7 +24504,8 @@
     "synopsis": "工場から仲間を逃がす横スクロールアクションの作り直し。仲間に指示を出して連れ出す。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "oddworld"
   },
   {
     "id": "muse-dash",
@@ -24255,7 +24677,8 @@
     "synopsis": "ミミズの部隊が交互に攻撃するターン制対戦。風と地形を読んで撃つ砲撃戦が続く。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "worms"
   },
   {
     "id": "supermarket-simulator",
@@ -24377,7 +24800,8 @@
     "synopsis": "前作の続編。順位表を駆け上がる構造はそのままに、演出と小遊戯が拡張されている。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "no-more-heroes"
   },
   {
     "id": "nobody-wants-to-die",
@@ -24607,7 +25031,8 @@
     "synopsis": "シリーズの原点となるRPGの移植版。竜王にさらわれた姫を救うため、一人で旅立つ。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "dragon-quest"
   },
   {
     "id": "nfs-hot-pursuit-remastered",
@@ -24628,7 +25053,8 @@
     "synopsis": "走り屋と警察に分かれて追走するレースの改修版。妨害装置を使った攻防が中心。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "need-for-speed"
   },
   {
     "id": "aer-memories-of-old",
@@ -24689,7 +25115,8 @@
     "synopsis": "近未来を舞台にしたシリーズ作。協力対応の物語モードと対戦・ゾンビを収録する。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "call-of-duty"
   },
   {
     "id": "evil-west",
@@ -24754,7 +25181,8 @@
     "synopsis": "踊りで変身する半魔人シャンティの横スクロールアクション。手描き調の絵が一新された作品。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "shantae"
   },
   {
     "id": "nobody-saves-the-world",
@@ -24838,7 +25266,8 @@
     "synopsis": "実在の選手とチームで戦うバスケットボール。選手育成と経営モードを備える。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "nba-2k"
   },
   {
     "id": "nba-2k19",
@@ -24858,7 +25287,8 @@
     "synopsis": "シリーズ20周年の作品。物語仕立ての選手育成モードを収録している。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "nba-2k"
   },
   {
     "id": "layers-of-fear-2",
@@ -24879,7 +25309,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "れいやーずおぶふぃあつー きょうふのくるーず"
+    "titleKana": "れいやーずおぶふぃあつー きょうふのくるーず",
+    "seriesId": "layers-of-fear"
   },
   {
     "id": "figment",
@@ -24964,7 +25395,8 @@
     "synopsis": "『くにおくん』の世界を下敷きにしたベルトスクロールアクション。二人の女子高生が街を暴れ回る。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "river-city-girls"
   },
   {
     "id": "supraland",
@@ -25046,7 +25478,8 @@
     "synopsis": "シリーズの原点となるRPGの移植版。四人の光の戦士がクリスタルの輝きを取り戻す旅に出る。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "lake",
@@ -25176,7 +25609,8 @@
     "synopsis": "無線で協力して城の仕掛けを解くシリーズ第二作。互いに見えているものが違う設計が肝になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "we-were-here"
   },
   {
     "id": "thehunter-call-of-the-wild",
@@ -25344,7 +25778,8 @@
     "synopsis": "一人称で戦う小規模なシリーズ作。町を再建しながら短い探索を繰り返す。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "the-elder-scrolls"
   },
   {
     "id": "the-banner-saga-3",
@@ -25364,7 +25799,8 @@
     "synopsis": "三部作の完結編。二つの隊の視点を切り替えながら世界の終わりに向かう。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "the-banner-saga"
   },
   {
     "id": "digimon-story-cyber-sleuth",
@@ -25384,7 +25820,8 @@
     "synopsis": "電脳空間の事件を追うRPG。デジモンを育てて進化させ、探偵として依頼をこなす。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "digimon"
   },
   {
     "id": "battle-chasers-nightwar",
@@ -25552,7 +25989,8 @@
     "synopsis": "三部作の作り直しに収録された第三作。時代ごとに趣向の異なる面を進む。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "crash-bandicoot"
   },
   {
     "id": "rogue-company",
@@ -25594,7 +26032,8 @@
     "synopsis": "シリーズ第三作。拠点作りの要素を加え、職業ごとの機構を組み替えて戦う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "torchlight"
   },
   {
     "id": "spelunky-2",
@@ -25659,7 +26098,8 @@
     "synopsis": "馬車で旅を続ける続編。隊列の位置取りと人間関係の悪化を管理しながら進む。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "darkest-dungeon"
   },
   {
     "id": "green-hell",
@@ -25745,7 +26185,8 @@
     "synopsis": "恐竜サバイバルの作り直し。描画を一新し、建築と繁殖の要素はそのまま引き継いでいる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "ark-survival"
   },
   {
     "id": "assassins-creed-2",
@@ -25767,7 +26208,8 @@
     "synopsis": "ルネサンス期のイタリアを舞台に、エツィオが一族の復讐を果たすシリーズ第二作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "assassins-creed-revelations",
@@ -25789,7 +26231,8 @@
     "synopsis": "老いたエツィオがコンスタンティノープルで先人の足跡をたどる。三部作の完結編。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "assassins-creed-liberation",
@@ -25810,7 +26253,8 @@
     "synopsis": "18世紀のニューオーリンズを舞台に、女性アサシンが三つの身分を使い分けて動く外伝の改修版。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "assassins-creed"
   },
   {
     "id": "lost-in-play",
@@ -25896,7 +26340,8 @@
     "synopsis": "端末で参加する五種のパーティー遊びを収録した第七作。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "jackbox"
   },
   {
     "id": "kingdoms-of-amalur",
@@ -26003,7 +26448,8 @@
     "synopsis": "ガンダム作品を横断して部隊を編成するシミュレーションRPG。機体の開発と生産が中心になる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "sd-gundam"
   },
   {
     "id": "assetto-corsa-competizione",
@@ -26211,7 +26657,8 @@
     "synopsis": "暗黒騎士セシルの贖罪を描くシリーズ作の移植版。時間の流れる戦闘が導入された作品としても知られる。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "final-fantasy-3",
@@ -26231,7 +26678,8 @@
     "synopsis": "ジョブを切り替えて戦うシリーズ作の移植版。四人の光の戦士がクリスタルの導きで旅立つ。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "final-fantasy"
   },
   {
     "id": "necromunda-hired-gun",
@@ -26295,7 +26743,8 @@
     "synopsis": "ターン制をやめて実時間の撃ち合いにしたシリーズ作。多人数で入り乱れて戦う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "worms"
   },
   {
     "id": "peglin",
@@ -26551,7 +27000,8 @@
     "synopsis": "原作の個性を再現した対戦アクション第一作。三次元の広い舞台で戦う。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "my-hero-academia"
   },
   {
     "id": "wizard101",
@@ -26677,7 +27127,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "おっどわーるどそうるすとーむ"
+    "titleKana": "おっどわーるどそうるすとーむ",
+    "seriesId": "oddworld"
   },
   {
     "id": "dropsy",
@@ -26975,7 +27426,8 @@
     "synopsis": "悪側の視点で進めるシリーズ作。敵を通さない配置を練るタワーディフェンス。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "kingdom-rush"
   },
   {
     "id": "beyond-blue",
@@ -27224,7 +27676,8 @@
     "synopsis": "コービー・ブライアントを表紙に据えたシリーズ作。オンラインの街と経営モードを備える。",
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・開発/発売元を確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "nba-2k"
   },
   {
     "id": "crypt-custodian",
@@ -27339,7 +27792,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "witcher"
   },
   {
     "id": "horizon-zero-dawn",
@@ -27361,7 +27815,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "horizon"
   },
   {
     "id": "the-last-of-us-part-ii",
@@ -27389,7 +27844,8 @@
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。 日本語版タイトルはIGDBの日本向けローカライズ名(game_localizations)で確認(2026-08-08照会)。",
     "updatedAt": "2026-08-08",
-    "titleKana": "らすとおぶあすぱーと"
+    "titleKana": "らすとおぶあすぱーと",
+    "seriesId": "the-last-of-us"
   },
   {
     "id": "dark-souls",
@@ -27411,7 +27867,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "dark-souls"
   },
   {
     "id": "cyberpunk-2077",
@@ -27435,7 +27892,8 @@
     "awardResults": [],
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "cyberpunk"
   },
   {
     "id": "suika-game",
@@ -27523,7 +27981,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "IGDB(2026-08-07照会)で対応機種・発売日・開発/発売元を確認。受賞歴はWikipedia日本語版の各賞の受賞作一覧で確認。あらすじは独自要約(コピペなし)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "seriesId": "mario-kart"
   },
   {
     "id": "no-case-should-remain-unsolved",

@@ -8,6 +8,8 @@ import { GenreListPage } from "./ui/genres/GenreListPage";
 import { GenreDetailPage } from "./ui/genres/GenreDetailPage";
 import { CompanyListPage } from "./ui/companies/CompanyListPage";
 import { CompanyDetailPage } from "./ui/companies/CompanyDetailPage";
+import { SeriesListPage } from "./ui/series/SeriesListPage";
+import { SeriesDetailPage } from "./ui/series/SeriesDetailPage";
 import { AwardListPage } from "./ui/awards/AwardListPage";
 import { AwardDetailPage } from "./ui/awards/AwardDetailPage";
 import { AboutPage } from "./ui/about/AboutPage";
@@ -27,6 +29,8 @@ export function App() {
         <Route path="/genres/:id" element={<GenreDetailPage />} />
         <Route path="/companies" element={<CompanyListPage />} />
         <Route path="/companies/:id" element={<CompanyDetailPage />} />
+        <Route path="/series" element={<SeriesListPage />} />
+        <Route path="/series/:id" element={<SeriesDetailPage />} />
         <Route path="/awards" element={<AwardListPage />} />
         <Route path="/awards/:id" element={<AwardDetailPage />} />
         <Route path="/about" element={<AboutPage />} />

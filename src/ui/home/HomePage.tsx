@@ -11,6 +11,7 @@ import { SITE_NAME, SITE_URL, useSeo } from "../common/useSeo";
 const BADGES: { key: keyof Awaited<ReturnType<typeof getCounts>>; label: string; to: string; color: string }[] = [
   { key: "games", label: "ゲーム", to: "/games", color: "blue" },
   { key: "genres", label: "ジャンル", to: "/genres", color: "mint" },
+  { key: "series", label: "シリーズ", to: "/series", color: "purple" },
   { key: "companies", label: "会社", to: "/companies", color: "pink" },
   { key: "awards", label: "アワード", to: "/awards", color: "peach" },
 ];

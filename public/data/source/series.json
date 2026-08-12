@@ -1,0 +1,1415 @@
+[
+  {
+    "id": "assassins-creed",
+    "name": "アサシン クリード",
+    "nameKana": "あさしんくりーど",
+    "description": "ユービーアイソフトのステルスアクション。史実の時代を舞台に、暗殺者の一族と秘密結社の長い抗争を描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "resident-evil",
+    "name": "バイオハザード",
+    "nameKana": "ばいおはざーど",
+    "description": "カプコンのサバイバルホラー。生物兵器がもたらす惨劇と、限られた資源で切り抜ける緊張感が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "sonic",
+    "name": "ソニック・ザ・ヘッジホッグ",
+    "nameKana": "そにっくざへっじほっぐ",
+    "description": "セガの看板アクション。青いハリネズミが超スピードでステージを駆け抜ける。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "final-fantasy",
+    "name": "ファイナルファンタジー",
+    "nameKana": "ふぁいなるふぁんたじー",
+    "description": "スクウェア・エニックスを代表するRPG。作品ごとに世界と物語を一新しながら、クリスタルや召喚獣などの意匠を受け継ぐ。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "dragon-quest",
+    "name": "ドラゴンクエスト",
+    "nameKana": "どらごんくえすと",
+    "description": "国民的RPG。鳥山明のキャラクターデザインとすぎやまこういちの楽曲で知られ、リメイクや派生作も多い。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "pokemon",
+    "name": "ポケットモンスター",
+    "nameKana": "ぽけっともんすたー",
+    "description": "不思議な生き物ポケモンを捕まえ育てる世界的シリーズ。本編RPGのほか対戦・探索系の派生作も多い。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "like-a-dragon",
+    "name": "龍が如く",
+    "nameKana": "りゅうがごとく",
+    "description": "セガの繁華街ドラマ。極道社会の人間模様と、街遊び満載のサイドコンテンツが同居する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "call-of-duty",
+    "name": "コール オブ デューティ",
+    "nameKana": "こーるおぶでゅーてぃ",
+    "description": "毎年新作が出るミリタリーFPS。映画的なキャンペーンと対戦モードを軸にする。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "zelda",
+    "name": "ゼルダの伝説",
+    "nameKana": "ぜるだのでんせつ",
+    "description": "任天堂のアクションアドベンチャー。剣と道具で謎を解き、姫と王国の危機に立ち向かう。無双系の派生作も含む。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "persona",
+    "name": "ペルソナ",
+    "nameKana": "ぺるそな",
+    "description": "アトラスの学園RPG。日常生活のシミュレーションと、内面の力ペルソナを使った戦闘を組み合わせる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "super-mario",
+    "name": "スーパーマリオ",
+    "nameKana": "すーぱーまりお",
+    "description": "任天堂の看板アクション。ジャンプを基本にした3D/2Dの冒険で、RPGや制作ツール系の派生もある。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "star-wars-jedi",
+    "name": "Star Wars ジェダイ",
+    "nameKana": "すたーうぉーずじぇだい",
+    "description": "帝国の時代を生きる若きジェダイを主人公にしたアクションアドベンチャー。ライトセーバー戦と探索が軸。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "far-cry",
+    "name": "ファークライ",
+    "nameKana": "ふぁーくらい",
+    "description": "ユービーアイソフトのオープンワールドFPS。無法地帯を舞台に、拠点制圧と強烈な悪役描写が定番。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "monster-hunter",
+    "name": "モンスターハンター",
+    "nameKana": "もんすたーはんたー",
+    "description": "カプコンの狩猟アクション。巨大モンスターを討伐し素材で装備を強化する。RPG寄りのストーリーズ系も含む。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "crash-bandicoot",
+    "name": "クラッシュ・バンディクー",
+    "nameKana": "くらっしゅばんでぃくー",
+    "description": "コミカルな3Dアクション。奥・手前に走るステージ構成が特徴で、レースや対戦の派生作もある。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ea-sports-fc",
+    "name": "EA SPORTS FC / FIFA",
+    "nameKana": "いーえーすぽーつえふしー",
+    "description": "エレクトロニック・アーツのサッカーゲーム。FIFA名義から2023年にEA SPORTS FCへ改称した。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "kirby",
+    "name": "星のカービィ",
+    "nameKana": "ほしのかーびぃ",
+    "description": "吸い込んだ敵の能力をコピーして戦う任天堂のアクション。対戦・レース系の派生作もある。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "fire-emblem",
+    "name": "ファイアーエムブレム",
+    "nameKana": "ふぁいあーえむぶれむ",
+    "description": "任天堂の戦術RPG。ユニットの育成と関係構築が戦況を左右する。無双系の派生作も含む。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "xenoblade",
+    "name": "ゼノブレイド",
+    "nameKana": "ぜのぶれいど",
+    "description": "モノリスソフトの大規模RPG。広大な地形の探索と、群像劇的な物語が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "bayonetta",
+    "name": "ベヨネッタ",
+    "nameKana": "べよねった",
+    "description": "プラチナゲームズのスタイリッシュアクション。魔女ベヨネッタが華麗なコンボで天使と戦う。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "darksiders",
+    "name": "ダークサイダーズ",
+    "nameKana": "だーくさいだーず",
+    "description": "黙示録の四騎士を主人公にしたアクションアドベンチャー。探索と謎解きを織り交ぜる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "dragon-ball",
+    "name": "ドラゴンボール",
+    "nameKana": "どらごんぼーる",
+    "description": "鳥山明の漫画を原作としたゲーム群。原作の戦いを再現する対戦アクションやRPGが中心。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "dark-pictures",
+    "name": "The Dark Pictures Anthology",
+    "nameKana": "だーくぴくちゃーずあんそろじー",
+    "description": "Supermassive Gamesのホラーアンソロジー。選択で登場人物の生死が変わる一話完結型。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "sniper-elite",
+    "name": "Sniper Elite",
+    "nameKana": "すないぱーえりーと",
+    "description": "第二次大戦を舞台にした狙撃アクション。弾道計算と、命中を演出するキルカメラが名物。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "stalker",
+    "name": "S.T.A.L.K.E.R.",
+    "nameKana": "すとーかー",
+    "description": "チョルノービリ周辺の異常地帯を探索するサバイバルFPS。物資管理と放射線への対処が要る。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "the-elder-scrolls",
+    "name": "The Elder Scrolls",
+    "nameKana": "えるだーすくろーるず",
+    "description": "ベセスダのオープンワールドRPG。広大な大陸を自由に旅し、好きな生き方を選べる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "nameKana": "まいんくらふと",
+    "description": "ブロックで世界を作り変えるサンドボックス。ダンジョン探索やストラテジーの派生作もある。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "nba-2k",
+    "name": "NBA 2K",
+    "nameKana": "えぬびーえーつーけー",
+    "description": "2K Sportsのバスケットボールゲーム。実在選手を再現し毎年新作が出る。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "horizon",
+    "name": "Horizon",
+    "nameKana": "ほらいずん",
+    "description": "機械獣が跋扈する遠未来の地球を舞台にしたアクションRPG。狩人アーロイの旅を描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "metroid",
+    "name": "メトロイド",
+    "nameKana": "めとろいど",
+    "description": "バウンティハンター・サムスの探索アクション。能力の獲得で行けなかった場所が開ける。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "the-last-of-us",
+    "name": "The Last of Us",
+    "nameKana": "らすとおぶあす",
+    "description": "感染症で荒廃した世界を描くノーティードッグのアクションアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "spider-man",
+    "name": "Marvel's Spider-Man",
+    "nameKana": "すぱいだーまん",
+    "description": "Insomniac Gamesによるスパイダーマンのアクション。ニューヨークを飛び回る移動が魅力。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "shin-megami-tensei",
+    "name": "真・女神転生",
+    "nameKana": "しんめがみてんせい",
+    "description": "アトラスの悪魔合体RPG。荒廃した世界で悪魔と交渉し、思想の選択が結末を分ける。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "tales-of",
+    "name": "テイルズ オブ",
+    "nameKana": "ているずおぶ",
+    "description": "バンダイナムコのRPG。アクション性の高い戦闘と、仲間との会話劇が特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ys",
+    "name": "イース",
+    "nameKana": "いーす",
+    "description": "日本ファルコムのアクションRPG。赤毛の冒険者アドルが各地の秘境を旅する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "trails",
+    "name": "英雄伝説 軌跡",
+    "nameKana": "えいゆうでんせつきせき",
+    "description": "日本ファルコムのRPG。ゼムリア大陸の各国を舞台に、作品をまたいで物語が連なる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "mana",
+    "name": "聖剣伝説",
+    "nameKana": "せいけんでんせつ",
+    "description": "スクウェア・エニックスのアクションRPG。マナの樹をめぐる世界観を共有する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "star-ocean",
+    "name": "スターオーシャン",
+    "nameKana": "すたーおーしゃん",
+    "description": "宇宙を舞台にしたトライエースのRPG。SF設定とアクション寄りの戦闘が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "atelier",
+    "name": "アトリエ",
+    "nameKana": "あとりえ",
+    "description": "コーエーテクモの錬金術RPG。素材採取と調合で道具を作り、穏やかな日常を描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "disgaea",
+    "name": "魔界戦記ディスガイア",
+    "nameKana": "まかいせんきでぃすがいあ",
+    "description": "日本一ソフトウェアの戦術RPG。桁外れのやり込みとコミカルな魔界の物語が特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "danganronpa",
+    "name": "ダンガンロンパ",
+    "nameKana": "だんがんろんぱ",
+    "description": "スパイク・チュンソフトの推理アドベンチャー。閉鎖環境のコロシアイと学級裁判を描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "digimon",
+    "name": "デジモン",
+    "nameKana": "でじもん",
+    "description": "デジタルモンスターを題材にしたゲーム群。育成と進化を軸にしたRPGが中心。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "nioh",
+    "name": "仁王",
+    "nameKana": "におう",
+    "description": "コーエーテクモの戦国死にゲー。妖怪との高難度アクションと構えの使い分けが肝。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "pikmin",
+    "name": "ピクミン",
+    "nameKana": "ぴくみん",
+    "description": "小さな生き物ピクミンを率いて探索する任天堂のアクションストラテジー。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "rune-factory",
+    "name": "ルーンファクトリー",
+    "nameKana": "るーんふぁくとりー",
+    "description": "farming と RPG を融合させたマーベラスのシリーズ。農業・生活・ダンジョン探索を並行して進める。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ninja-gaiden",
+    "name": "NINJA GAIDEN",
+    "nameKana": "にんじゃがいでん",
+    "description": "高難度で知られる忍者アクション。手数の多い連携と厳しい敵配置が特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "no-more-heroes",
+    "name": "NO MORE HEROES",
+    "nameKana": "のーもあひーろーず",
+    "description": "須田剛一が手がける殺し屋アクション。B級映画的な演出とビームカタナの戦闘が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "my-hero-academia",
+    "name": "僕のヒーローアカデミア",
+    "nameKana": "ぼくのひーろーあかでみあ",
+    "description": "同名漫画を原作とする対戦アクション。個性を駆使したヒーロー同士の戦いを再現する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "naruto",
+    "name": "NARUTO ナルティメット",
+    "nameKana": "なるとなるてぃめっと",
+    "description": "『NARUTO』を原作とする対戦アクション。原作の名場面を再現した演出が見どころ。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "life-is-strange",
+    "name": "Life is Strange",
+    "nameKana": "らいふいずすとれんじ",
+    "description": "選択が物語を分岐させるアドベンチャー。少年少女の心情と超常的な力を絡めて描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "little-nightmares",
+    "name": "リトルナイトメア",
+    "nameKana": "りとるないとめあ",
+    "description": "小さな主人公が巨大で不気味な世界から逃れるホラーアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "outlast",
+    "name": "Outlast",
+    "nameKana": "あうとらすと",
+    "description": "戦う手段を持たず逃げ隠れするサバイバルホラーFPS。カメラの暗視機能が命綱。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "metro",
+    "name": "メトロ",
+    "nameKana": "めとろ",
+    "description": "核戦争後のモスクワ地下鉄を舞台にしたサバイバルFPS。物資の乏しさと重い空気が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "borderlands",
+    "name": "ボーダーランズ",
+    "nameKana": "ぼーだーらんず",
+    "description": "膨大な銃を集めるルーターシューター。トゥーンシェードの絵作りと悪ふざけの利いた語り口が特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "fallout",
+    "name": "Fallout",
+    "nameKana": "ふぉーるあうと",
+    "description": "核戦争後のアメリカを描くRPG。レトロフューチャーな意匠と自由度の高い探索が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "bloodstained",
+    "name": "Bloodstained",
+    "nameKana": "ぶらっどすていんど",
+    "description": "五十嵐孝司による探索型アクション。悪魔城系の系譜を継ぐ2D探索とドット絵の派生作を持つ。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "shantae",
+    "name": "シャンティ",
+    "nameKana": "しゃんてぃ",
+    "description": "半人半精霊のシャンティが髪を振り回して戦う2D探索アクション。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "steamworld",
+    "name": "SteamWorld",
+    "nameKana": "すちーむわーるど",
+    "description": "蒸気仕掛けのロボットが暮らす世界を共有するインディー作品群。掘削・戦術・探索など作品ごとに趣が異なる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "baldurs-gate",
+    "name": "Baldur's Gate",
+    "nameKana": "ばるだーずげーと",
+    "description": "『ダンジョンズ&ドラゴンズ』を土台にしたRPG。会話と判定で物語が大きく変わる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "sherlock-holmes",
+    "name": "シャーロック・ホームズ",
+    "nameKana": "しゃーろっくほーむず",
+    "description": "Frogwaresによる推理アドベンチャー。証拠を集めて推論を組み立て、結論は自分で決める。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "two-point",
+    "name": "Two Point",
+    "nameKana": "つーぽいんと",
+    "description": "施設を経営するコミカルなシミュレーション。病院・大学・博物館と題材を変えて展開する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "overcooked",
+    "name": "Overcooked",
+    "nameKana": "おーばーくっく",
+    "description": "無茶な厨房で協力して料理を仕上げるパーティゲーム。意思疎通の難しさが笑いを生む。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "the-banner-saga",
+    "name": "The Banner Saga",
+    "nameKana": "ばなーさーが",
+    "description": "北欧神話風の世界を旅する戦術RPG。手描きアニメ調の画面と、犠牲を伴う選択が特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "mario-kart",
+    "name": "マリオカート",
+    "nameKana": "まりおかーと",
+    "description": "任天堂のレース。アイテムによる逆転劇と、シリーズ定番のコース設計が魅力。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "mario-party",
+    "name": "マリオパーティ",
+    "nameKana": "まりおぱーてぃ",
+    "description": "すごろくとミニゲームを組み合わせた任天堂のパーティゲーム。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "paper-mario",
+    "name": "ペーパーマリオ",
+    "nameKana": "ぺーぱーまりお",
+    "description": "紙の質感で表現されたマリオのRPG。会話劇の軽妙さと独自の戦闘システムが持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "luigis-mansion",
+    "name": "ルイージマンション",
+    "nameKana": "るいーじまんしょん",
+    "description": "ルイージが掃除機でオバケを吸い込む探索アクション。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "mario-rabbids",
+    "name": "マリオ+ラビッツ",
+    "nameKana": "まりおぷらすらびっつ",
+    "description": "マリオとラビッツが共演する戦術シミュレーション。カバーを使った turn 制の戦闘が中核。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "donkey-kong",
+    "name": "ドンキーコング",
+    "nameKana": "どんきーこんぐ",
+    "description": "任天堂のアクション。パワフルな挙動とテンポの良いステージ構成が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "warioware",
+    "name": "メイド イン ワリオ",
+    "nameKana": "めいどいんわりお",
+    "description": "数秒で終わる「プチゲーム」を次々こなす任天堂のミニゲーム集。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "splatoon",
+    "name": "スプラトゥーン",
+    "nameKana": "すぷらとぅーん",
+    "description": "インクを塗って陣地を奪い合う任天堂の対戦シューター。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "famicom-detective-club",
+    "name": "ファミコン探偵倶楽部",
+    "nameKana": "ふぁみこんたんていくらぶ",
+    "description": "任天堂のミステリーアドベンチャー。聞き込みを重ねて事件の真相に迫る。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "god-of-war",
+    "name": "ゴッド・オブ・ウォー",
+    "nameKana": "ごっどおぶうぉー",
+    "description": "神々に挑む戦神クレイトスのアクション。北欧神話編では息子との関係が主題になる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ghost-of",
+    "name": "Ghost of",
+    "nameKana": "ごーすとおぶ",
+    "description": "Sucker Punchの時代劇アクション。日本を舞台に、武士の在り方を問う物語を描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "death-stranding",
+    "name": "DEATH STRANDING",
+    "nameKana": "ですすとらんでぃんぐ",
+    "description": "小島秀夫による配達アクション。分断された世界を歩いて繋ぎ直す。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "elden-ring",
+    "name": "ELDEN RING",
+    "nameKana": "えるでんりんぐ",
+    "description": "フロム・ソフトウェアのオープンワールド死にゲー。広大な狭間の地を自由に踏破する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "dark-souls",
+    "name": "ダークソウル",
+    "nameKana": "だーくそうる",
+    "description": "フロム・ソフトウェアのアクションRPG。高難度の戦闘と、断片的に語られる世界観で知られる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "dragons-dogma",
+    "name": "ドラゴンズドグマ",
+    "nameKana": "どらごんずどぐま",
+    "description": "カプコンのオープンワールドアクション。ポーンと呼ばれる仲間を連れて竜に挑む。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "devil-may-cry",
+    "name": "デビル メイ クライ",
+    "nameKana": "でびるめいくらい",
+    "description": "カプコンのスタイリッシュアクション。連携の見栄えがスコアに直結する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "onimusha",
+    "name": "鬼武者",
+    "nameKana": "おにむしゃ",
+    "description": "カプコンの戦国アクション。一閃の駆け引きと、鬼の力を使った戦闘が特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "mega-man",
+    "name": "ロックマン",
+    "nameKana": "ろっくまん",
+    "description": "カプコンのアクション。倒したボスの武器を得て攻略順を組み立てる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ace-attorney",
+    "name": "逆転裁判",
+    "nameKana": "ぎゃくてんさいばん",
+    "description": "カプコンの法廷アドベンチャー。証言の矛盾を突いて逆転を狙う。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "castlevania",
+    "name": "悪魔城ドラキュラ",
+    "nameKana": "あくまじょうどらきゅら",
+    "description": "コナミのアクション。ドラキュラ城を舞台に、鞭を手にした一族の戦いを描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "silent-hill",
+    "name": "サイレントヒル",
+    "nameKana": "さいれんとひる",
+    "description": "コナミの心理ホラー。霧の町で主人公の内面を映した怪異と向き合う。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "momotaro-dentetsu",
+    "name": "桃太郎電鉄",
+    "nameKana": "ももたろうでんてつ",
+    "description": "日本各地を巡り物件を買い集めるボードゲーム。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "puyo-puyo",
+    "name": "ぷよぷよ",
+    "nameKana": "ぷよぷよ",
+    "description": "同色のぷよを繋げて消す落ち物パズル。連鎖で相手を攻撃する対戦が中心。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "story-of-seasons",
+    "name": "牧場物語",
+    "nameKana": "ぼくじょうものがたり",
+    "description": "農場を営みながら住民と交流するスローライフシミュレーション。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "my-time-at",
+    "name": "きみのまち",
+    "nameKana": "きみのまち",
+    "description": "荒廃した土地で工房を営む生活シミュレーション。素材集めと町の再建を進める。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "front-mission",
+    "name": "フロントミッション",
+    "nameKana": "ふろんとみっしょん",
+    "description": "ヴァンツァーと呼ばれる兵器で戦う戦術シミュレーション。パーツ換装の自由度が高い。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "super-robot-wars",
+    "name": "スーパーロボット大戦",
+    "nameKana": "すーぱーろぼっとたいせん",
+    "description": "複数のロボットアニメが共演する戦術シミュレーション。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "sd-gundam",
+    "name": "SDガンダム",
+    "nameKana": "えすでぃーがんだむ",
+    "description": "ガンダムのSDキャラクターを用いたゲーム群。シミュレーションやアクションで展開する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "one-piece",
+    "name": "ONE PIECE",
+    "nameKana": "わんぴーす",
+    "description": "同名漫画を原作とするゲーム群。原作の航海を辿るアクションやRPGが中心。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "demon-slayer",
+    "name": "鬼滅の刃 ヒノカミ血風譚",
+    "nameKana": "きめつのやいばひのかみけっぷうたん",
+    "description": "『鬼滅の刃』を原作とする対戦アクション。原作の戦いを追体験できる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "granblue-fantasy",
+    "name": "グランブルーファンタジー",
+    "nameKana": "ぐらんぶるーふぁんたじー",
+    "description": "同名ソーシャルゲームを原作とする家庭用作品。対戦格闘とアクションRPGで展開する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ni-no-kuni",
+    "name": "二ノ国",
+    "nameKana": "にのくに",
+    "description": "レベルファイブのRPG。絵本のような世界と、もう一つの世界を行き来する物語を描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "octopath-traveler",
+    "name": "オクトパストラベラー",
+    "nameKana": "おくとぱすとらべらー",
+    "description": "HD-2Dで描かれるスクウェア・エニックスのRPG。複数の主人公の旅を並行して追う。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "bravely-default",
+    "name": "ブレイブリーデフォルト",
+    "nameKana": "ぶれいぶりーでふぉると",
+    "description": "ジョブとコマンドの駆け引きが軸のRPG。ターンを溜めて一気に叩くブレイブが特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "romancing-saga",
+    "name": "ロマンシング サガ",
+    "nameKana": "ろまんしんぐさが",
+    "description": "スクウェア・エニックスの自由度重視のRPG。行動順や閃きが戦闘を左右する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "eiyuden-chronicle",
+    "name": "百英雄伝",
+    "nameKana": "ひゃくえいゆうでん",
+    "description": "多数の仲間を集める群像劇RPG。『幻想水滸伝』の系譜を汲むスタッフが手がけた。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "fatal-frame",
+    "name": "零",
+    "nameKana": "ぜろ",
+    "description": "コーエーテクモの和風ホラー。カメラで霊を撮影して祓う。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ai-somnium",
+    "name": "AI: ソムニウムファイル",
+    "nameKana": "えーあいそむにうむふぁいる",
+    "description": "スパイク・チュンソフトの推理アドベンチャー。夢の世界の探索と現実の捜査を往復する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "river-city-girls",
+    "name": "リバーシティガールズ",
+    "nameKana": "りばーしてぃがーるず",
+    "description": "『くにおくん』の系譜を汲むベルトスクロールアクション。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "witcher",
+    "name": "ウィッチャー",
+    "nameKana": "うぃっちゃー",
+    "description": "アンドレイ・サプコフスキの小説を原作とするRPG。怪物退治屋ゲラルトの旅を描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "cyberpunk",
+    "name": "サイバーパンク2077",
+    "nameKana": "さいばーぱんくにーぜろなななな",
+    "description": "CD PROJEKT REDのオープンワールドRPG。改造技術が行き渡った近未来都市が舞台。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "diablo",
+    "name": "ディアブロ",
+    "nameKana": "でぃあぶろ",
+    "description": "見下ろし視点のハック&スラッシュ。装備収集と反復プレイが中心。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "doom",
+    "name": "DOOM",
+    "nameKana": "どぅーむ",
+    "description": "id Softwareの高速FPS。攻めるほど有利になる戦闘設計が持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "wolfenstein",
+    "name": "Wolfenstein",
+    "nameKana": "うるふぇんしゅたいん",
+    "description": "架空の歴史を舞台にしたFPS。ナチス支配に抗うレジスタンスを描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "bioshock",
+    "name": "バイオショック",
+    "nameKana": "ばいおしょっく",
+    "description": "思想を背景に築かれた閉鎖都市を探索するFPS。プラスミドと呼ばれる特殊能力を使う。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "battlefield",
+    "name": "Battlefield",
+    "nameKana": "ばとるふぃーるど",
+    "description": "大人数で戦うミリタリーFPS。乗り物と地形破壊を絡めた大規模戦闘が特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "rainbow-six",
+    "name": "レインボーシックス",
+    "nameKana": "れいんぼーしっくす",
+    "description": "少人数の特殊部隊が戦うタクティカルシューター。準備と索敵が勝敗を分ける。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "the-division",
+    "name": "ディビジョン",
+    "nameKana": "でぃびじょん",
+    "description": "崩壊した都市を舞台にするオンラインシューターRPG。装備を集めて地区を奪還する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "payday",
+    "name": "PAYDAY",
+    "nameKana": "ぺいでい",
+    "description": "4人で強盗を成功させる協力型シューター。潜入と強行突破を選べる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "need-for-speed",
+    "name": "Need for Speed",
+    "nameKana": "にーどふぉーすぴーど",
+    "description": "公道レースを題材にしたレーシング。車のカスタマイズと警察との追走が定番。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "the-crew",
+    "name": "ザ クルー",
+    "nameKana": "ざくるー",
+    "description": "広大なオープンワールドを走るレーシング。陸海空の乗り物を乗り換えられる作品もある。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "f1",
+    "name": "F1",
+    "nameKana": "えふわん",
+    "description": "Codemastersが手がけるF1公式レーシング。実在のチームとドライバーで戦う。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "mlb-the-show",
+    "name": "MLB The Show",
+    "nameKana": "えむえるびーざしょー",
+    "description": "MLB公式の野球ゲーム。実在選手を再現し毎年新作が出る。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "wwe-2k",
+    "name": "WWE 2K",
+    "nameKana": "だぶりゅーだぶりゅーいーつーけー",
+    "description": "WWE公式のプロレスゲーム。実在レスラーの技と演出を再現する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "tony-hawk",
+    "name": "Tony Hawk's Pro Skater",
+    "nameKana": "とにーほーくぷろすけーたー",
+    "description": "スケートボードのトリックを繋いでスコアを稼ぐアクション。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "civilization",
+    "name": "シヴィライゼーション",
+    "nameKana": "しづぃらいぜーしょん",
+    "description": "文明を導く turn 制ストラテジー。研究・外交・戦争を選びながら歴史を築く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "path-of-exile",
+    "name": "Path of Exile",
+    "nameKana": "ぱすおぶえぐざいる",
+    "description": "深いビルド構築が特徴のハック&スラッシュ。無料で遊べる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "torchlight",
+    "name": "Torchlight",
+    "nameKana": "とーちらいと",
+    "description": "ペットを連れて潜るハック&スラッシュ。明るい色調が特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "darkest-dungeon",
+    "name": "Darkest Dungeon",
+    "nameKana": "だーけすとだんじょん",
+    "description": "精神的な消耗を扱うローグライク。ストレス管理が攻略の要になる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "risk-of-rain",
+    "name": "Risk of Rain",
+    "nameKana": "りすくおぶれいん",
+    "description": "時間経過で難度が上がるローグライトアクション。アイテムの重ね掛けが要。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "remnant",
+    "name": "レムナント",
+    "nameKana": "れむなんと",
+    "description": "銃で戦うソウルライク。自動生成される世界を協力で攻略する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "hades",
+    "name": "ハデス",
+    "nameKana": "はです",
+    "description": "冥界からの脱出を繰り返すローグライト。会話と関係の積み重ねが進行に絡む。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "blasphemous",
+    "name": "ブラスフェマス",
+    "nameKana": "ぶらすふぇます",
+    "description": "宗教画のような世界を旅する2D探索アクション。ドット絵の演出が濃い。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "salt-and",
+    "name": "ソルト",
+    "nameKana": "そると",
+    "description": "2Dのソウルライク。重い手触りの戦闘と入り組んだマップが特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "hollow-knight",
+    "name": "Hollow Knight",
+    "nameKana": "ほろうないと",
+    "description": "虫の王国を探索する2Dアクション。手描きの背景と静かな語りが持ち味。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ori",
+    "name": "Ori",
+    "nameKana": "おり",
+    "description": "森の精霊オリの2D探索アクション。美しい背景と滑らかな操作性で知られる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "guacamelee",
+    "name": "Guacamelee!",
+    "nameKana": "わかめれ",
+    "description": "ルチャドールが戦うメトロイドヴァニア。生者と死者の世界を切り替えて進む。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "axiom-verge",
+    "name": "Axiom Verge",
+    "nameKana": "あくしおむばーじ",
+    "description": "グリッチを武器にする探索型アクション。レトロな見た目と実験的な仕掛けが特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ghostrunner",
+    "name": "ゴーストランナー",
+    "nameKana": "ごーすとらんなー",
+    "description": "一撃死の高速アクション。壁走りと刀で駆け抜ける。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "a-plague-tale",
+    "name": "プレイグ テイル",
+    "nameKana": "ぷれいぐているる",
+    "description": "中世フランスを舞台にした姉弟の逃避行。鼠の群れが脅威として立ちはだかる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "alan-wake",
+    "name": "Alan Wake",
+    "nameKana": "あらんうぇいく",
+    "description": "作家アラン・ウェイクを主人公にしたホラー。光を武器に闇と戦う。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "layers-of-fear",
+    "name": "Layers of Fear",
+    "nameKana": "れいやーずおぶふぃあー",
+    "description": "芸術家の狂気を描く一人称ホラー。振り向くたびに変化する屋敷が舞台。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "dying-light",
+    "name": "ダイイングライト",
+    "nameKana": "だいいんぐらいと",
+    "description": "パルクールでゾンビの街を駆けるアクション。昼夜で危険度が大きく変わる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "kingdom-come",
+    "name": "Kingdom Come: Deliverance",
+    "nameKana": "きんぐだむかむでりばらんす",
+    "description": "中世ボヘミアを再現した硬派なRPG。魔法のない現実的な世界を描く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "kingdom-rush",
+    "name": "Kingdom Rush",
+    "nameKana": "きんぐだむらっしゅ",
+    "description": "定番のタワーディフェンス。塔の配置と英雄の運用で敵の波をさばく。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "ark-survival",
+    "name": "ARK: Survival",
+    "nameKana": "あーくさばいばる",
+    "description": "恐竜のいる島で暮らすサバイバル。テイムと拠点作りが中心。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "house-flipper",
+    "name": "ハウスフリッパー",
+    "nameKana": "はうすふりっぱー",
+    "description": "傷んだ家を修繕して売るシミュレーション。掃除と内装づくりが淡々と楽しい。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "saints-row",
+    "name": "セインツロウ",
+    "nameKana": "せいんつろう",
+    "description": "ギャング組織の成り上がりを描くオープンワールドアクション。悪ふざけの利いた作風。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "lara-croft",
+    "name": "ララ・クロフト",
+    "nameKana": "ららくろふと",
+    "description": "『トゥームレイダー』の主人公を据えた見下ろし型アクション。協力プレイに対応する。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "oddworld",
+    "name": "オッドワールド",
+    "nameKana": "おっどわーるど",
+    "description": "搾取される種族の脱出劇を描くアクション。仲間を導く仕掛けが特徴。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "hotline-miami",
+    "name": "Hotline Miami",
+    "nameKana": "ほっとらいんまいあみ",
+    "description": "見下ろし視点の高速アクション。一撃死の緊張と音楽の中毒性で知られる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "trine",
+    "name": "トライン",
+    "nameKana": "とらいん",
+    "description": "3人の職業を切り替えて解く協力パズルアクション。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "worms",
+    "name": "Worms",
+    "nameKana": "うぉーむず",
+    "description": "ミミズの軍団が奇天烈な武器で撃ち合う turn 制ストラテジー。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "jackbox",
+    "name": "The Jackbox Party Pack",
+    "nameKana": "じゃっくぼっくすぱーてぃぱっく",
+    "description": "スマートフォンをコントローラーにする大人数向けパーティゲーム集。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "we-were-here",
+    "name": "We Were Here",
+    "nameKana": "うぃーうぇあひあ",
+    "description": "2人が無線で情報を伝え合って脱出する協力パズル。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "monument-valley",
+    "name": "Monument Valley",
+    "nameKana": "もにゅめんとばれー",
+    "description": "だまし絵のような建築を操作して道を作るパズル。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "the-room",
+    "name": "ザ・ルーム",
+    "nameKana": "ざるーむ",
+    "description": "精巧な箱の仕掛けを解いていくパズルアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "talos-principle",
+    "name": "The Talos Principle",
+    "nameKana": "たろすぷりんしぷる",
+    "description": "哲学的な問いを織り込んだ一人称パズル。装置を組み合わせて道を開く。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "syberia",
+    "name": "シベリア",
+    "nameKana": "しべりあ",
+    "description": "自動人形の技師を追う旅を描くポイント&クリックアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "coffee-talk",
+    "name": "コーヒートーク",
+    "nameKana": "こーひーとーく",
+    "description": "夜のカフェで客の話を聞き、飲み物を出すアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "kotor",
+    "name": "Star Wars: Knights of the Old Republic",
+    "nameKana": "ないつおぶじじオールドりぱぶりっく",
+    "description": "旧共和国時代を舞台にしたRPG。選択によってフォースの明暗が変わる。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "jedi-knight",
+    "name": "スター・ウォーズ ジェダイナイト",
+    "nameKana": "すたーうぉーずじぇだいないと",
+    "description": "ライトセーバーとフォースで戦う一人称/三人称アクション。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "lego-marvel-super-heroes",
+    "name": "LEGO マーベル スーパー・ヒーローズ",
+    "nameKana": "れごまーべるすーぱーひーろーず",
+    "description": "レゴで再現されたマーベル世界を旅するアクションアドベンチャー。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "id": "astro-bot",
+    "name": "アストロボット",
+    "nameKana": "あすとろぼっと",
+    "description": "PlayStationのマスコットが主役の3Dアクション。コントローラーの機能を活かした仕掛けが多い。",
+    "externalLinks": {},
+    "sourceNote": "当サイト収録作品のタイトル系統をもとにした管理人の整理。所属作品は各ゲームのタイトル表記から判断しており、版権IPを共有するだけの作品群(Star Wars・LEGO・Marvel等)はシリーズとしてまとめていない。",
+    "updatedAt": "2026-08-12"
+  }
+]
