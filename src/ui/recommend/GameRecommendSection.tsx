@@ -24,8 +24,8 @@ function visibleThemes(g: GameGenerated): string[] {
  *  (別の式を新造しない — 同じサイトで「似ている」の定義が2つあると詳細ページの並びと
  *  食い違う)。シードが1件のとき、作品詳細の「この作品が好きなら」と同じ順位になるのはこのため。
  *
- *  テーマベクトルを合算してから1回でコサインを取る方式にしないのは、著者ボーナスの意味が
- *  崩れる(どのシードと同著者なのかが混ざる)のと、1件時にビルド側と食い違うため。
+ *  ジャンルベクトルを合算してから1回でコサインを取る方式にしないのは、開発元ボーナスの意味が
+ *  崩れる(どのシードと同開発元なのかが混ざる)のと、1件時にビルド側と食い違うため。
  *  N と df を games.json 全件から数えるとビルド側・テーマ起点と完全に同じIDFになる。 */
 function scoreBySeeds(games: GameGenerated[], seeds: GameGenerated[]) {
   const n = games.length;
@@ -42,11 +42,15 @@ function scoreBySeeds(games: GameGenerated[], seeds: GameGenerated[]) {
     developers: new Set(s.developerIds),
   }));
   const seedIds = new Set(seeds.map((s) => s.id));
+  // ビルド側 relatedIdsFor と同じく、**シードと同じシリーズのゲームは除外する**。
+  // ゲーム詳細にはシリーズ節が別にあるので、ここで続編・リメイクを並べても同じ一覧の
+  // 繰り返しになり、この枠の目的である「毛色の違うゲーム」が押し出される。
+  const seedSeries = new Set(seeds.map((s) => s.seriesId).filter(Boolean));
 
   const scored: { work: GameGenerated; score: number }[] = [];
   for (const w of games) {
-    // 除外はシード自身だけ。同じ開発元の別のゲームが上位に来るのは詳細ページと同じ望ましい挙動。
     if (seedIds.has(w.id)) continue;
+    if (w.seriesId && seedSeries.has(w.seriesId)) continue;
     const workNorm = normOf(w);
     let total = 0;
     for (const sd of seedData) {
@@ -65,10 +69,10 @@ function scoreBySeeds(games: GameGenerated[], seeds: GameGenerated[]) {
 /** ゲーム起点のおすすめ(`?games=<id>,<id>,<id>`)。
  *
  *  データは games.json だけを使う。専用索引(recommend-index.json)は読まないし拡張もしない —
- *  タイトル・読み・著者idまで足すと索引が数倍に膨れる一方、主要導線(作品詳細の
+ *  タイトル・読み・開発元idまで足すと索引が数倍に膨れる一方、主要導線(作品詳細の
  *  「この作品が好きなら」からの遷移)では games.json が取得済みキャッシュから返り追加転送ゼロ。
  *  このモードはタブ操作か共有URLでしか開かれないので、プリレンダーが見る素の /recommend
- *  (テーマ起点)には works.json のフェッチも「読み込み中」も発生しない。 */
+ *  (ジャンル起点)には games.json のフェッチも「読み込み中」も発生しない。 */
 export function GameRecommendSection() {
   const [params, setParams] = useSearchParams();
   const { coverView, toggle } = useCoverView();
