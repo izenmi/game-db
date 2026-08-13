@@ -211,6 +211,9 @@ export function GameDetailPage() {
                   <GameCard key={related.id} game={related} />
                 ))}
               </div>
+              <Link className="home-section__more" to={`/recommend?games=${state.data.id}`}>
+                このゲームからもっと探す →
+              </Link>
             </div>
           )}
 

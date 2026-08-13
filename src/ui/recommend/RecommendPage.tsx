@@ -7,9 +7,10 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { GameCard, GameCoverCard } from "../common/GameCard";
 import { gridClassNameFor, useCoverView } from "../common/useCoverView";
+import { GameRecommendSection } from "./GameRecommendSection";
 
 const MAX_TAGS = 3;
-const RECOMMEND_COUNT = 20;
+export const RECOMMEND_COUNT = 20;
 
 /** 選んだジャンルとの一致度。
  *
@@ -61,11 +62,97 @@ function scoreItems(index: RecommendIndex, selected: string[]) {
  *  id昇順だけに落とすとスラッグのアルファベット順という無意味な並びで20枠が決まってしまうので、
  *  ジャンルが情報を持たなくなった時点で既存データにある知名度の代理指標に判断を移す。
  *  最後は必ずid昇順で締めて、同じURLが常に同じ並びになるようにする。 */
-function tieBreakKey(item: GameGenerated): number {
+export function tieBreakKey(item: GameGenerated): number {
   return item.platforms.length;
 }
 
+/** 一致度%ラベルつきの結果グリッド。テーマ起点・作品起点の両モードで共用する。
+ *  アワード詳細と同じ「カードには手を入れず、上にラベルを添える」`.award-entry` 方式。
+ *  作品起点は制作者の加点でスコアが1.0を超えうるので、%は100で頭打ちにする。 */
+export function RecommendGrid({
+  entries,
+  coverView,
+}: {
+  entries: { work: GameGenerated; score: number; matchedNames: string[] }[];
+  coverView: boolean;
+}) {
+  return (
+    <div className={gridClassNameFor(coverView)}>
+      {entries.map((e) => (
+        <div className="award-entry" key={e.work.id}>
+          <p className="award-entry__result">
+            <span className="match-score">{Math.min(100, Math.round(e.score * 100))}%</span>
+            {e.matchedNames.join("・")}
+          </p>
+          {coverView ? <GameCoverCard game={e.work} /> : <GameCard game={e.work} />}
+        </div>
+      ))}
+    </div>
+  );
+}
+
 export function RecommendPage() {
+  const [params, setParams] = useSearchParams();
+  // `?games=` があれば作品起点(tags= と同居した壊れたURLでも作品側が優先で一意に決まる)。
+  // `?mode=games` は「作品起点タブでまだ何も選んでいない」状態をタブ切替のために保持するもの。
+  const isItemMode = params.has("games") || params.get("mode") === "games";
+
+  useSeo({
+    title: "好みからおすすめ",
+    description:
+      "好きなジャンルやゲームを3つまで選ぶと、傾向の近いゲームを一致度つきで20本おすすめします。",
+    jsonLd: breadcrumbJsonLd([
+      { name: "ゲームDB", path: BASE_PATH },
+      { name: "好みからおすすめ", path: `${BASE_PATH}recommend` },
+    ]),
+  });
+
+  function switchMode(item: boolean) {
+    const p = new URLSearchParams(params);
+    if (item) {
+      p.delete("tags");
+      p.set("mode", "games");
+    } else {
+      p.delete("games");
+      p.delete("mode");
+    }
+    setParams(p, { replace: true });
+  }
+
+  return (
+    <div className="page">
+      <h1>好みからおすすめ</h1>
+      <p className="page-subtitle">
+        {isItemMode
+          ? `好きなゲームを${MAX_TAGS}つまで選ぶと、傾向の近いゲームを一致度つきで${RECOMMEND_COUNT}本おすすめします。`
+          : `好きなジャンルを${MAX_TAGS}つまで選ぶと、傾向の近いゲームを一致度つきで${RECOMMEND_COUNT}本おすすめします。`}
+      </p>
+
+      <div className="view-toggle view-toggle--standalone" role="group" aria-label="おすすめの起点">
+        <button
+          type="button"
+          className={isItemMode ? "view-toggle__btn" : "view-toggle__btn view-toggle__btn--active"}
+          aria-pressed={!isItemMode}
+          onClick={() => switchMode(false)}
+        >
+          ジャンルから
+        </button>
+        <button
+          type="button"
+          className={isItemMode ? "view-toggle__btn view-toggle__btn--active" : "view-toggle__btn"}
+          aria-pressed={isItemMode}
+          onClick={() => switchMode(true)}
+        >
+          ゲームから
+        </button>
+      </div>
+
+      {isItemMode ? <GameRecommendSection /> : <ThemeRecommendSection />}
+    </div>
+  );
+}
+
+function ThemeRecommendSection() {
   const [params, setParams] = useSearchParams();
   const { coverView, toggle } = useCoverView();
   const [q, setQ] = useState("");
@@ -87,16 +174,6 @@ export function RecommendPage() {
     () => (hasSelection ? getGames() : Promise.resolve([] as GameGenerated[])),
     [hasSelection],
   );
-
-  useSeo({
-    title: "好みからおすすめ",
-    description:
-      "好きなジャンルを3つまで選ぶと、ジャンルの重なりが近いゲームを一致度つきで20本おすすめします。",
-    jsonLd: breadcrumbJsonLd([
-      { name: "ゲームDB", path: BASE_PATH },
-      { name: "好みからおすすめ", path: `${BASE_PATH}recommend` },
-    ]),
-  });
 
   function setSelected(next: string[]) {
     const p = new URLSearchParams(params);
@@ -135,12 +212,7 @@ export function RecommendPage() {
   const atLimit = selected.length >= MAX_TAGS;
 
   return (
-    <div className="page">
-      <h1>好みからおすすめ</h1>
-      <p className="page-subtitle">
-        好きなジャンルを{MAX_TAGS}つまで選ぶと、傾向の近いゲームを一致度つきで{RECOMMEND_COUNT}本おすすめします。
-      </p>
-
+    <>
       {indexState.status === "loading" && <Loading />}
       {indexState.status === "error" && <ErrorState error={indexState.error} />}
       {index && (
@@ -221,18 +293,14 @@ export function RecommendPage() {
                     {toggle}
                   </div>
                   {results.length === 0 && <EmptyState />}
-                  <div className={gridClassNameFor(coverView)}>
-                    {results.slice(0, RECOMMEND_COUNT).map((r) => (
-                      // アワード詳細と同じ「カードには手を入れず、上にラベルを添える」形
-                      <div className="award-entry" key={r.id}>
-                        <p className="award-entry__result">
-                          <span className="match-score">{Math.round(r.score * 100)}%</span>
-                          {r.matched.map((t) => nameById.get(t)).join("・")}
-                        </p>
-                        {coverView ? <GameCoverCard game={r.item} /> : <GameCard game={r.item} />}
-                      </div>
-                    ))}
-                  </div>
+                  <RecommendGrid
+                    entries={results.slice(0, RECOMMEND_COUNT).map((r) => ({
+                      work: r.item,
+                      score: r.score,
+                      matchedNames: r.matched.map((t) => nameById.get(t) ?? t),
+                    }))}
+                    coverView={coverView}
+                  />
                   {results.length > 0 && (
                     <p className="page-subtitle">
                       一致度は、選んだジャンルとゲームのジャンルの重なり具合(珍しいジャンルほど重く数えます)です。
@@ -245,6 +313,6 @@ export function RecommendPage() {
           )}
         </>
       )}
-    </div>
+    </>
   );
 }
