@@ -279,7 +279,8 @@ export function pickBestMatch(items, game) {
     const name = it.itemName ?? "";
     if (EXCLUDE_KEYWORDS.some((kw) => name.includes(kw))) return false;
     const img = it.mediumImageUrls?.[0] ?? "";
-    if (!img || img.includes("noimage")) return false;
+    // 店舗ごとに綴りが違う。楽天ブックスは noimage_01.gif、ブックオフ系は r_noimg.gif。
+    if (!img || /no[-_]?im(?:age|g)|now[-_]?printing/i.test(img)) return false;
     // A release for a console this site doesn't list is the wrong package art even when the
     // title matches perfectly.
     if (FOREIGN_PLATFORM_PATTERNS.some((p) => p.re.test(name))) return false;
