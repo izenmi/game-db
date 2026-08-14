@@ -547,6 +547,25 @@ async function resolveGame(game) {
   return (await tryIgdb(game)) ?? (await tryRakuten(game));
 }
 
+
+/**
+ * 解決できなかったときのキャッシュ更新。
+ *
+ * 前のエントリがあるなら、分かっていること(ISBN・購入リンク・手書き注記・すでに持っている
+ * 表紙)はそのまま残し、「いつ試したか」だけを更新する。今回分かったのは「見つからなかった」
+ * ことだけで、前に分かっていたことが嘘になったわけではない。
+ * 全部を null の雛形で上書きすると、手で直した判断が再取得のたびに消える。
+ */
+function keepWhatWeKnew(previous, fallback) {
+  if (!previous) return fallback;
+  return { ...previous, resolvedAt: new Date().toISOString() };
+}
+
+/** 自動取得が成功したときも、手書きの注記だけは引き継ぐ。 */
+function withNote(previous, entry) {
+  return previous?.note && !entry.note ? { ...entry, note: previous.note } : entry;
+}
+
 async function run() {
   const targets = games.filter((g) => (ONLY ? ONLY.includes(g.id) : true));
   let updated = 0;
@@ -561,7 +580,7 @@ async function run() {
     try {
       const entry = await resolveGame(game);
       if (entry) {
-        cache[game.id] = entry;
+        cache[game.id] = withNote(cache[game.id], entry);
         updated++;
       } else if (cache[game.id]?.coverUrl) {
         // A failed re-resolve must never throw away a cover we already had. This is what made
@@ -570,7 +589,7 @@ async function run() {
         console.log(`[keep] ${game.title}: 今回は解決できなかったため既存の表紙を維持します`);
         kept++;
       } else {
-        cache[game.id] = { title: game.title, coverUrl: null, resolvedAt: new Date().toISOString() };
+        cache[game.id] = keepWhatWeKnew(cache[game.id], { title: game.title, coverUrl: null, resolvedAt: new Date().toISOString() });
         console.log(`[miss] ${game.title}: IGDB・楽天市場のいずれにも該当が見つかりませんでした`);
       }
     } catch (err) {
